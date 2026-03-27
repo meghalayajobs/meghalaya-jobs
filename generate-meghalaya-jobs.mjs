@@ -15,6 +15,7 @@ const USER_AGENT =
 const categoryOrder = ["recruitment", "admit_card", "result", "other_notice"];
 const displayCategoryOrder = ["recruitment", "result", "admit_card"];
 const recentWindowDays = 15;
+const resultPageWindowDays = 30;
 const categoryLabels = {
   recruitment: "Recruitment",
   admit_card: "Admit Card",
@@ -1311,11 +1312,11 @@ function buildStyles() {
   `.trim();
 }
 
-function renderTableRows(items) {
+function renderTableRows(items, dayWindow = recentWindowDays) {
   if (!items.length) {
     return `
       <tr>
-        <td colspan="4" class="mjg-empty">No updates found in the last ${recentWindowDays} days.</td>
+        <td colspan="4" class="mjg-empty">No updates found in the last ${dayWindow} days.</td>
       </tr>
     `;
   }
@@ -1385,12 +1386,12 @@ function renderTabbedSections(grouped) {
   `;
 }
 
-function renderCategorySection(category, items) {
+function renderCategorySection(category, items, dayWindow = recentWindowDays) {
   return `
     <section class="mjg-section">
       <div class="mjg-section-head">
         <h3>${categoryLabels[category]}</h3>
-        <span class="mjg-count">${items.length} in last ${recentWindowDays} days</span>
+        <span class="mjg-count">${items.length} in last ${dayWindow} days</span>
       </div>
       <div class="mjg-table-wrap">
         <table class="mjg-table">
@@ -1403,7 +1404,7 @@ function renderCategorySection(category, items) {
             </tr>
           </thead>
           <tbody>
-            ${renderTableRows(items)}
+            ${renderTableRows(items, dayWindow)}
           </tbody>
         </table>
       </div>
@@ -1514,7 +1515,8 @@ function renderSingleCategoryAppMarkup({
   generatedAt,
   siteConfig,
   pageTitle,
-  description
+  description,
+  dayWindow = recentWindowDays
 }) {
   const generatedLabel = formatGeneratedLabel(generatedAt);
 
@@ -1528,7 +1530,7 @@ function renderSingleCategoryAppMarkup({
       <span class="mjg-chip">Last refreshed: ${escapeHtml(generatedLabel)}</span>
       <span class="mjg-chip">Official links only</span>
       <span class="mjg-chip">${escapeHtml(categoryLabels[category])} only</span>
-      <span class="mjg-chip">Showing last ${recentWindowDays} days</span>
+      <span class="mjg-chip">Showing last ${dayWindow} days</span>
       <span class="mjg-chip">Auto updates every hour</span>
     </div>
   </section>
@@ -1536,11 +1538,11 @@ function renderSingleCategoryAppMarkup({
   <div class="mjg-stack">
     ${renderFailedSources(failedSources)}
 
-    ${renderCategorySection(category, items)}
+    ${renderCategorySection(category, items, dayWindow)}
 
     <p class="mjg-foot">
       Generated automatically from official Meghalaya source pages. This page shows only
-      ${escapeHtml(categoryLabels[category].toLowerCase())} notices from the latest ${recentWindowDays} days.
+      ${escapeHtml(categoryLabels[category].toLowerCase())} notices from the latest ${dayWindow} days.
     </p>
   </div>
 </div>
@@ -1782,12 +1784,16 @@ async function main() {
   const pagesIndex = renderPagesIndex(siteConfig, staticSnippet);
   const resultPayload = {
     category: "result",
-    items: displayGrouped.result,
+    items: filterRecentItems(grouped.result ?? [], generatedAt, resultPageWindowDays).slice(
+      0,
+      siteConfig.maxItemsPerCategory
+    ),
     failedSources,
     generatedAt,
     siteConfig,
     pageTitle: "Meghalaya Results 2026",
-    description: `Latest Meghalaya result notices from official government websites. This page shows only result updates from the last ${recentWindowDays} days in a mobile-friendly layout.`
+    description: `Latest Meghalaya result notices from official government websites. This page shows only result updates from the last ${resultPageWindowDays} days in a mobile-friendly layout.`,
+    dayWindow: resultPageWindowDays
   };
   const resultStaticSnippet = renderSingleCategoryStaticSnippet(resultPayload);
   const resultBloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig, resultStaticSnippet, {

@@ -156,6 +156,12 @@
       "url": "https://neigrihms.gov.in/adsresults.html",
       "limit": 8,
       "enabled": true
+    },
+    {
+      "department": "MPSC notice",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm",
+      "limit": 8,
+      "enabled": true
     }
   ]
 }
