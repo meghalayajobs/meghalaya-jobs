@@ -1,0 +1,149 @@
+{
+  "siteName": "Meghalaya Jobs 2026",
+  "latestJobsUrl": "https://www.meghalayajobs.in",
+  "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
+  "maxItemsPerCategory": 24,
+  "requestTimeoutMs": 40000,
+  "quickLinks": [
+    {
+      "title": "Latest Meghalaya Jobs",
+      "description": "Daily state job updates and official links.",
+      "url": "https://www.meghalayajobs.in",
+      "enabled": true
+    },
+    {
+      "title": "MPSC Advertisements",
+      "description": "Official Meghalaya Public Service Commission notices.",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "enabled": true
+    },
+    {
+      "title": "Recruitment Portal",
+      "description": "Online application portal for government recruitment.",
+      "url": "https://megrecruitment.nic.in/",
+      "enabled": true
+    },
+    {
+      "title": "Admit Card Portal",
+      "description": "Exam login and admit card related access point.",
+      "url": "https://rpa.meghalaya.gov.in/rpaonline/",
+      "enabled": true
+    },
+    {
+      "title": "Meghalaya Govt Recruitment",
+      "description": "Central recruitment updates from the state portal.",
+      "url": "https://www.meghalaya.gov.in/recruitment",
+      "enabled": true
+    },
+    {
+      "title": "Meghalaya Police Recruitment",
+      "description": "Police recruitment notices and select lists.",
+      "url": "https://megpolice.gov.in/recruitment",
+      "enabled": true
+    }
+  ],
+  "sources": [
+    {
+      "department": "MPSC",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "limit": 10,
+      "enabled": true
+    },
+    {
+      "department": "Meghalaya Govt",
+      "url": "https://www.meghalaya.gov.in/recruitment",
+      "limit": 12,
+      "enabled": true
+    },
+    {
+      "department": "MBDA",
+      "url": "https://mbda.gov.in/recruitment",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "Information Tech.",
+      "url": "https://ditmeghalaya.gov.in/index.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "DERT",
+      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "DHET",
+      "url": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "Education Dept",
+      "url": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "MERB",
+      "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "Health Dept",
+      "url": "https://meghealth.gov.in/index.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "Meghalaya Police",
+      "url": "https://megpolice.gov.in/recruitment",
+      "limit": 10,
+      "enabled": true
+    },
+    {
+      "department": "MSRLS",
+      "url": "https://msrls.nic.in/recruitments",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "MeGSRES",
+      "url": "https://megsres.nic.in/recruitment",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "East Khasi Hills",
+      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "West Garo Hills",
+      "url": "https://westgarohills.gov.in/documents/",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "limit": 8,
+      "enabled": true
+    }
+  ]
+}

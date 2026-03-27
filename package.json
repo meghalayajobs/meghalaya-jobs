@@ -1,0 +1,9 @@
+{
+  "name": "meghalaya-jobs-blogger-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-meghalaya-jobs.mjs",
+    "admin": "node admin-server.mjs"
+  }
+}
