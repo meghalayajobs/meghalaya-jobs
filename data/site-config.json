@@ -144,6 +144,18 @@
       "url": "https://northgarohills.gov.in/notice_category/announcements/",
       "limit": 8,
       "enabled": true
+    },
+    {
+      "department": "NEIGRIHMS",
+      "url": "https://neigrihms.gov.in/adsnotification.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "NEIGRIHMS Result",
+      "url": "https://neigrihms.gov.in/adsresults.html",
+      "limit": 8,
+      "enabled": true
     }
   ]
 }

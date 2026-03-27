@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-27T15:11:13.901Z",
-  "generatedAtLabel": "27 March 2026 at 08:41 pm",
+  "generatedAt": "2026-03-27T16:51:04.215Z",
+  "generatedAtLabel": "27 March 2026 at 10:21 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,13 +11,25 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 16,
-    "result": 13,
+    "recruitment": 21,
+    "result": 15,
     "admit_card": 0
   },
-  "sourceCount": 17,
+  "sourceCount": 19,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(3rd%20Cut%20off%20Date).pdf",
+        "title": "Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "recruitment",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 40,
+        "context": "27-03-2026"
+      },
       {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
@@ -29,6 +41,18 @@
         "sortValue": 1774569600000,
         "score": 40,
         "context": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools 27/03/2026 10/04/2026 View (526 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/JRD-%20APPLICATION%20FORM-%20ANNEXURE-%20I.pdf",
+        "title": "JRD- APPLICATION FORM- ANNEXURE- I",
+        "category": "recruitment",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // <a href=\"Latest News/estt-2/2026/APPLICATION FORM (SRD) - ANNEXURE-"
       },
       {
         "department": "East Garo Hills",
@@ -53,6 +77,30 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "SRES DID under DRDA is inviting all the eligible applicants to apply for the post of Programme Assistant. 26/03/2026 15/04/2026 View (472 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisment%20for%20the%20post%20of%20SRD%20(three%20years%20tenure).pdf",
+        "title": "Advertisement for the post of Senior Resident Doctors // Application Form // EWS Certificate Format",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26-03-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/APPLICATION%20FORM%20(SRD)%20-%20ANNEXURE-%20I%20(1).pdf",
+        "title": "Application Form",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 11,
+        "context": "XURE- I.pdf\" target=\"_blank\">JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // // EWS Certificate Format 26-03-2026 Vacancy Circular for the post of Director (Level 15) on deputation basis a"
       },
       {
         "department": "MBDA",
@@ -175,6 +223,18 @@
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ 17-03-2026 -"
       },
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/vacancy%20Circular%20for%20the%20post%20of%20Director%20at%20LGB%20Regional%20Institute%20of%20Mental%20Health,%20Assam.pdf",
+        "title": "Vacancy Circular for the post of Director (Level 15) on deputation basis at LGB Regional Institute of Mental Health, Sonitpur, Tezpur,Assam",
+        "category": "recruitment",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
+        "publishedLabel": "16 Mar 2026",
+        "sortValue": 1773619200000,
+        "score": 40,
+        "context": "16-03-2026"
+      },
+      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026b.pdf",
@@ -245,66 +305,6 @@
         "sortValue": 1773187200000,
         "score": 40,
         "context": "NOTICE FOR ENROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION 11/03/2026 30/04/2026 View (2 MB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50302",
-        "title": "Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "publishedLabel": "11 Mar 2026",
-        "sortValue": 1773187200000,
-        "score": 7,
-        "context": "class=\"views-field views-field-title\"> Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College Date: 12 Mar 2026 Date: 11 Mar 2026 Notice inviting application - Selection for engagement against various positions for IICA Shillong Project on purely contract basis in IICA, Ministry of Corporate Affairs <div class=\"views-fi"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50320",
-        "title": "Notice inviting application - Selection for engagement against various positions for IICA Shillong Project on purely contract basis in IICA, Ministry of Corporate Affairs",
-        "category": "recruitment",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "publishedLabel": "11 Mar 2026",
-        "sortValue": 1773187200000,
-        "score": 7,
-        "context": "class=\"views-field views-field-title\"> Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College Date: 11 Mar 2026 Date: 11 Mar 2026 List of qualified candidates for written test for the post of Procurement Associate under MMDSL <span class=\"views-label views-label-fiel"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-personal-interview-post-cluster-coordinator-general",
-        "title": "NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General",
-        "category": "recruitment",
-        "publishedAt": "2026-03-06T00:00:00.000Z",
-        "publishedLabel": "06 Mar 2026",
-        "sortValue": 1772755200000,
-        "score": 7,
-        "context": "ement-personal-interview-post-cluster-coordinator-general-batch-iiiv-vi\">Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI 12/03/2026 06/03/2026 Notification - Personal Interview for the Absorption of staffs for the post of Distric"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50249",
-        "title": "List of qualified candidates for written test for the post of Procurement Associate under MMDSL",
-        "category": "recruitment",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "publishedLabel": "05 Mar 2026",
-        "sortValue": 1772668800000,
-        "score": 7,
-        "context": "itle\"> Notice inviting application - Selection for engagement against various positions for IICA Shillong Project on purely contract basis in IICA, Ministry of Corporate Affairs Date: 11 Mar 2026 Date: 05 Mar 2026 Advertisement for appointment to the post of President of the Meghalaya State Consumer Disputes Redressal Commission, (State Commission) of Meghalaya <div class=\"views-field views-field-field"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/corrigendum-submission-applications-post-accounts-assistant-pmayg-and-programme-officer-ic-iec",
-        "title": "Corrigendum- Submission of Applications for the post of Accounts Assistant, PMAY(G) and Programme Officer i/c IEC , MGNREGA",
-        "category": "recruitment",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "publishedLabel": "05 Mar 2026",
-        "sortValue": 1772668800000,
-        "score": 7,
-        "context": "dex=\"0\"> 05/03/2026 Advertisement for post of Accounts Assistant under PMAY(G) at State Rural Employment Society &n"
       }
     ],
     "admit_card": [
@@ -357,6 +357,18 @@
         "sortValue": 1774310400000,
         "score": 40,
         "context": "Result of the Knowledge of Local Language Paper for the Post of Peon(2025) conducted by the District Selection Committee, East Khasi Hills District, Shillong. List of Successful candidates as recommened by the Committee in order of merit. 24/03/2026 30/04/2026 View (641 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
+        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "24.03.2026"
       },
       {
         "department": "North Garo Hills",
@@ -503,6 +515,66 @@
         "context": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT) Date: 17 Mar 2026 Date: 16 Mar 2026 Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
       },
       {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20of%20the%20interview%20for%20the%20posts%20of%20SRD%20held%20on%2013.03.2026.pdf",
+        "title": "Result of the interview for the posts of SRD held on 13.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-13T00:00:00.000Z",
+        "publishedLabel": "13 Mar 2026",
+        "sortValue": 1773360000000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/walk-in%20interview%20for%20the%20posts%20of%20Assistant%20Professor%20Adhoc%20basis%2012.03.2026%20.pdf",
+        "title": "Result of the walk-in interview for the posts of Assistant Professor on Adhoc basis held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "17.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2012.3.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2012.03.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20waitlisted%20candidates%20for%20the%20post%20of%20Associate%20Professor,%20College%20of%20Nursing%20on%20Direct%20Recruitment%20in%20the%20interviews%20held%20on%2015th%20%2016th%20October%202025.pdf",
+        "title": "Result of waitlisted candidates for the post of Associate Professor, College of Nursing on Direct Recruitment in the interviews held on 15th 16th October 2025",
+        "category": "result",
+        "publishedAt": "2026-03-09T00:00:00.000Z",
+        "publishedLabel": "09 Mar 2026",
+        "sortValue": 1773014400000,
+        "score": 40,
+        "context": "09.03.2026"
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates",
@@ -513,6 +585,18 @@
         "sortValue": 1773014400000,
         "score": 7,
         "context": "alt=\"new item\"> 2026-03-18 2026-03-09 <a href=\"/imp"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20interview%20-%20Dept%20Cardiology.pdf",
+        "title": "Results for selection of candidate for ICMR project entitle \"Colchicine in Heart Failure (COLHEF) a randomized controlled study\" - Department of Cardiology",
+        "category": "result",
+        "publishedAt": "2026-03-06T00:00:00.000Z",
+        "publishedLabel": "06 Mar 2026",
+        "sortValue": 1772755200000,
+        "score": 40,
+        "context": "06.03.2026"
       },
       {
         "department": "East Khasi Hills",
@@ -549,93 +633,21 @@
         "sortValue": 1772323200000,
         "score": 7,
         "context": "02.03.2026 2026-03-02 2026-03-01 <a href=\"/pre"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17721749644426.pdf",
-        "title": "Result of the Personal interview for the post of Stenographer – III conducted by the District Selection Committee, East Khasi Hills District, Shillong",
-        "category": "result",
-        "publishedAt": "2026-02-27T00:00:00.000Z",
-        "publishedLabel": "27 Feb 2026",
-        "sortValue": 1772150400000,
-        "score": 40,
-        "context": "List of the successful candidates for the post of Stenographer Grade- III recommended by the Committee. 27/02/2026 31/03/2026 View (329 KB)"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-constable-abbn-constable-fireman",
-        "title": "Recruitment Update: Select list of candidates in order of merit for the post of UB Constable, AB/BN Constable, Fireman, Driver Fireman, Fireman Mechanic/ Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
-        "category": "result",
-        "publishedAt": "2026-02-25T00:00:00.000Z",
-        "publishedLabel": "25 Feb 2026",
-        "sortValue": 1771977600000,
-        "score": 7,
-        "context": "25.02.2026 2026-02-25 2026-02-25 <a href=\"/pre"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17719261004197.pdf",
-        "title": "Result of the Knowledge of Local Language Paper Written Examination for the Post of Stenographer Grade III held on 20th February, 2026",
-        "category": "result",
-        "publishedAt": "2026-02-24T00:00:00.000Z",
-        "publishedLabel": "24 Feb 2026",
-        "sortValue": 1771891200000,
-        "score": 40,
-        "context": "Eligible Candidates are to appear for the Personal Interview which will be held on the 27th February, 2026. All eligible candidates are requested to report for the verification of documents and must bring along their original documents along with one set of the photo copies. Verification of documents will be on the 26th February, 2026 from 10:00 AM to 12:30 PM at the O/o The Deputy Commissioner, East Khasi Hills District, Shillong, Atrium area, top Floor. 24/02/2026 31/03/2026 View (309 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710477601408.pdf",
-        "title": "Written examination result for the post of LDA",
-        "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (696 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf",
-        "title": "Written examination result for the post of Semen Carrier and Tracer",
-        "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (556 KB)"
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025",
-        "category": "result",
-        "publishedAt": "2025-12-15T00:00:00.000Z",
-        "publishedLabel": "15 Dec 2025",
-        "sortValue": 1765756800000,
-        "score": 12,
-        "context": "opens in a new window\">Notification regarding eligibility of applicants with Concern/Relevant/Allied Subjects for recruitment to the Post of Assistant Professor/Lecturer for various subjects in Government Colleges in Meghalaya vide MERB advertisement No. CE/GC/MERB/5/2024/7, Dated Shillong, the 18th February 2025 RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025<img src=\"../../assets/images/new.gif\" alt=\"New Icon\" width=\"35\" height=\"17\""
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-sub-inspector",
-        "title": "Recruitment Update: Select list of candidates in order of merit for the post of UB Sub-Inspector",
-        "category": "result",
-        "publishedAt": "2025-12-08T00:00:00.000Z",
-        "publishedLabel": "08 Dec 2025",
-        "sortValue": 1765152000000,
-        "score": 7,
-        "context": "ct Basis 2026-01-19 2025-12-08 <a href=\"/pre"
       }
     ],
     "other_notice": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/EWS%20CERTIFICATE%20FORMAT%20-%20Annexure%20II.pdf",
+        "title": "EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "other_notice",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 12,
+        "context": "of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // JRD- APPLICATION FORM- ANNEXURE- I // 27-03-2026 Advertisement for the post of Senior Resident Doctors // Application Form // <a href=\"Latest News/estt-2/2026/EWS CERTIFICATE FORMAT - Annexure II (1).pdf\" target=\"_b"
+      },
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
@@ -646,7 +658,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/advertisement-internship-program-farm-"
       },
       {
         "department": "North Garo Hills",
@@ -661,16 +673,16 @@
         "context": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal 26/03/2026 31/07/2026 View (618 KB) SMART-PDS-AddMember (2 MB) SMART-PDS-DeleteMember (2 MB) SMART-PDS-FreshRC (2 MB) SMART-PDS-SurrenderRC (2 MB) SMART-PDS-TransferRC (2 MB) SMART-PDS-RCModificationNew (4 MB)"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
-        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/EWS%20CERTIFICATE%20FORMAT%20-%20Annexure%20II%20(1).pdf",
+        "title": "EWS Certificate Format",
         "category": "other_notice",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "publishedLabel": "25 Mar 2026",
-        "sortValue": 1774396800000,
-        "score": 7,
-        "context": "ge Management under MegARISE Notice of Award 27/03/2026 25/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 12,
+        "context": "FICATE FORMAT - Annexure II.pdf\" target=\"_blank\">EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // Application Form // 26-03-2026 Vacancy Circular for the post of Director (Level 15) on deputation basis at LGB Regional Institute of Mental Health, Sonitpur, Tezpur,Assam 16-03-2026"
       },
       {
         "department": "MBDA",
@@ -682,7 +694,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 <a href=\"/request-bids-rfb-procurement-office-equipmentfurniture"
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 A"
       },
       {
         "department": "MSRLS",
@@ -694,7 +706,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the p"
+        "context": "t-bpm-svep-khasi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement"
       },
       {
         "department": "Information Tech.",
@@ -718,7 +730,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
+        "context": "t of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 19/03/2026 <div class=\""
       },
       {
         "department": "Education Dept",
@@ -769,6 +781,18 @@
         "context": "Time\" content=\"2026-03-18T00:00:00+05:30\">18/03/2026 17/03/2026 Response to Pre-Bid Querie"
       },
       {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/response-pre-bid-queries-and-addendum-request-bids-rfb-titled-procurement-office-furniture-fixtures",
+        "title": "Response to Pre-Bid Queries and Addendum for the Request for Bids (RFB) titled: Procurement of Office Furniture, Fixtures, IT and other equipment for establishment of CM Connect Centres at Blocks in Meghalaya",
+        "category": "other_notice",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
+        "publishedLabel": "16 Mar 2026",
+        "sortValue": 1773619200000,
+        "score": 7,
+        "context": "-office-digital-other-equipment-under-megsure\">Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE 17/03/2026 16/03/2026 <div class=\""
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
@@ -779,6 +803,18 @@
         "sortValue": 1773360000000,
         "score": 40,
         "context": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC 13/03/2026 31/10/2026 View (873 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20JRD%20interview%20on%2012.03.2026%20with%20lists%20of%20Eligible%20%20In-Eligibe%20candidates%2005-03-2026.pdf",
+        "title": "Notice for JRD interview to be held on 12.03.2026 with lists of Eligible & In-Eligible candidates",
+        "category": "other_notice",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "05-03-2026"
       },
       {
         "department": "MSRLS",
@@ -887,47 +923,23 @@
         "sortValue": 1759708800000,
         "score": 12,
         "context": "rade, supply, installation, commissioning and maintenance of MSWAN Feb 27 2026 [NEW] Results of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Oct 06 2025 [NEW] Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 22 2025 [NEW] <a"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Date%20Extension%20for%20Short%20Notice%20Inviting%20quotation%20for%20Supply%20of%203%20numbers%20of%20Split%20AC%20at%20MITS.pdf",
-        "title": "Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS)",
-        "category": "other_notice",
-        "publishedAt": "2025-09-22T00:00:00.000Z",
-        "publishedLabel": "22 Sept 2025",
-        "sortValue": 1758499200000,
-        "score": 12,
-        "context": "sults of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Sep 22 2025 [NEW] Short Notice Inviting quotation for Supply, Installation and Commissioning of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 02 2025 [NEW] <a href=\"pdf/Res"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
-        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf",
-        "title": "Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(3rd%20Cut%20off%20Date).pdf",
+        "title": "Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "recruitment",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 40,
+        "context": "27-03-2026"
+      },
       {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
@@ -939,6 +951,18 @@
         "sortValue": 1774569600000,
         "score": 40,
         "context": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools 27/03/2026 10/04/2026 View (526 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/JRD-%20APPLICATION%20FORM-%20ANNEXURE-%20I.pdf",
+        "title": "JRD- APPLICATION FORM- ANNEXURE- I",
+        "category": "recruitment",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // <a href=\"Latest News/estt-2/2026/APPLICATION FORM (SRD) - ANNEXURE-"
       },
       {
         "department": "East Garo Hills",
@@ -963,6 +987,30 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "SRES DID under DRDA is inviting all the eligible applicants to apply for the post of Programme Assistant. 26/03/2026 15/04/2026 View (472 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisment%20for%20the%20post%20of%20SRD%20(three%20years%20tenure).pdf",
+        "title": "Advertisement for the post of Senior Resident Doctors // Application Form // EWS Certificate Format",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26-03-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/APPLICATION%20FORM%20(SRD)%20-%20ANNEXURE-%20I%20(1).pdf",
+        "title": "Application Form",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 11,
+        "context": "XURE- I.pdf\" target=\"_blank\">JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // // EWS Certificate Format 26-03-2026 Vacancy Circular for the post of Director (Level 15) on deputation basis a"
       },
       {
         "department": "MBDA",
@@ -1085,6 +1133,18 @@
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ 17-03-2026 -"
       },
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/vacancy%20Circular%20for%20the%20post%20of%20Director%20at%20LGB%20Regional%20Institute%20of%20Mental%20Health,%20Assam.pdf",
+        "title": "Vacancy Circular for the post of Director (Level 15) on deputation basis at LGB Regional Institute of Mental Health, Sonitpur, Tezpur,Assam",
+        "category": "recruitment",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
+        "publishedLabel": "16 Mar 2026",
+        "sortValue": 1773619200000,
+        "score": 40,
+        "context": "16-03-2026"
+      },
+      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026b.pdf",
@@ -1133,6 +1193,18 @@
         "sortValue": 1774310400000,
         "score": 40,
         "context": "Result of the Knowledge of Local Language Paper for the Post of Peon(2025) conducted by the District Selection Committee, East Khasi Hills District, Shillong. List of Successful candidates as recommened by the Committee in order of merit. 24/03/2026 30/04/2026 View (641 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
+        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "24.03.2026"
       },
       {
         "department": "North Garo Hills",
@@ -1277,6 +1349,18 @@
         "sortValue": 1773619200000,
         "score": 7,
         "context": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT) Date: 17 Mar 2026 Date: 16 Mar 2026 Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20of%20the%20interview%20for%20the%20posts%20of%20SRD%20held%20on%2013.03.2026.pdf",
+        "title": "Result of the interview for the posts of SRD held on 13.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-13T00:00:00.000Z",
+        "publishedLabel": "13 Mar 2026",
+        "sortValue": 1773360000000,
+        "score": 40,
+        "context": "18.03.2026"
       }
     ],
     "admit_card": []
@@ -1382,6 +1466,18 @@
     {
       "department": "North Garo Hills",
       "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "NEIGRIHMS",
+      "url": "https://neigrihms.gov.in/adsnotification.html",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "NEIGRIHMS Result",
+      "url": "https://neigrihms.gov.in/adsresults.html",
       "limit": 8,
       "enabled": true
     }
