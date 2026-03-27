@@ -13,6 +13,8 @@ const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 const categoryOrder = ["recruitment", "admit_card", "result", "other_notice"];
+const displayCategoryOrder = ["recruitment", "result", "admit_card"];
+const recentWindowDays = 15;
 const categoryLabels = {
   recruitment: "Recruitment",
   admit_card: "Admit Card",
@@ -228,6 +230,56 @@ function extractAnchors(html, pageUrl) {
   }
 
   return anchors;
+}
+
+function extractTableRowNotices(html, source) {
+  const rows = html.match(/<tr\b[\s\S]*?<\/tr>/gi) ?? [];
+  const notices = [];
+
+  for (const rowHtml of rows) {
+    const cells = Array.from(rowHtml.matchAll(/<t[dh]\b[^>]*>([\s\S]*?)<\/t[dh]>/gi)).map(
+      (match) => stripTags(match[1] ?? "")
+    );
+
+    if (cells.length < 2) {
+      continue;
+    }
+
+    const anchors = extractAnchors(rowHtml, source.url).filter((anchor) =>
+      /\.(pdf|doc|docx|xls|xlsx|zip)(?:$|[?#])/i.test(anchor.url)
+    );
+
+    if (!anchors.length) {
+      continue;
+    }
+
+    const title = normalizeSpace(cells[0]);
+    const description = normalizeSpace(cells[1]);
+    if (!title || isGenericTitle(title) || noisePatterns.some((pattern) => pattern.test(title))) {
+      continue;
+    }
+
+    const published =
+      detectDate(cells.slice(2).join(" ")) ??
+      detectDate(`${title} ${description}`) ??
+      detectDate(stripTags(rowHtml));
+
+    const link = anchors[0];
+    notices.push({
+      department: source.department,
+      sourceUrl: source.url,
+      url: cleanUrl(link.url),
+      title,
+      category: categorizeNotice(`${title} ${description}`),
+      publishedAt: published?.iso ?? null,
+      publishedLabel: published?.label ?? "Latest",
+      sortValue: published?.sortValue ?? 0,
+      score: 40,
+      context: normalizeSpace(`${description} ${cells.slice(2).join(" ")}`)
+    });
+  }
+
+  return notices;
 }
 
 function buildUtcDate(year, month, day) {
@@ -529,11 +581,7 @@ function dedupeNotices(items) {
   const seen = new Map();
 
   for (const item of items) {
-    const key = [
-      item.department.toLowerCase(),
-      item.title.toLowerCase(),
-      item.publishedAt ?? ""
-    ].join("|");
+    const key = [item.department.toLowerCase(), item.url.toLowerCase()].join("|");
     const existing = seen.get(key);
     if (!existing || (item.score ?? 0) > (existing.score ?? 0)) {
       seen.set(key, item);
@@ -570,8 +618,9 @@ async function fetchSource(source, siteConfig) {
 }
 
 function extractNoticesFromHtml(source, html) {
+  const rowNotices = extractTableRowNotices(html, source);
   const anchors = extractAnchors(html, source.url);
-  const notices = [];
+  const notices = [...rowNotices];
 
   for (const anchor of anchors) {
     const score = scoreAnchor(anchor, source);
@@ -664,6 +713,20 @@ async function collectNotices(siteConfig) {
   };
 }
 
+function filterRecentItems(items, generatedAt, dayWindow = recentWindowDays) {
+  const threshold = generatedAt.getTime() - dayWindow * 24 * 60 * 60 * 1000;
+  return items.filter((item) => item.sortValue && item.sortValue >= threshold);
+}
+
+function buildDisplayGrouped(grouped, generatedAt, siteConfig) {
+  return Object.fromEntries(
+    displayCategoryOrder.map((category) => [
+      category,
+      filterRecentItems(grouped[category] ?? [], generatedAt).slice(0, siteConfig.maxItemsPerCategory)
+    ])
+  );
+}
+
 function buildStyles() {
   return `
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap');
@@ -685,6 +748,7 @@ function buildStyles() {
   --mjg-warm: #fff7ea;
   --mjg-shadow: 0 18px 42px rgba(16, 35, 59, 0.1);
   margin: 0 auto;
+  width: 100%;
   max-width: 1180px;
   padding: 18px 12px 34px;
   color: var(--mjg-ink);
@@ -796,54 +860,121 @@ function buildStyles() {
   font-size: 22px;
 }
 
-.mjg-summary-grid,
-.mjg-quick-grid {
-  display: grid;
-  gap: 14px;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+.mjg-quick-grid,
+.mjg-tab-nav {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scroll-behavior: smooth;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  touch-action: pan-x;
+  padding: 2px 2px 6px;
+  margin: 0 -2px;
 }
 
-.mjg-summary-card,
-.mjg-quick-card {
-  border-radius: 18px;
+.mjg-quick-grid::-webkit-scrollbar,
+.mjg-tab-nav::-webkit-scrollbar {
+  height: 6px;
+}
+
+.mjg-quick-grid::-webkit-scrollbar-thumb,
+.mjg-tab-nav::-webkit-scrollbar-thumb {
+  background: rgba(13, 94, 168, 0.22);
+  border-radius: 999px;
+}
+
+.mjg-quick-card,
+.mjg-tab-btn {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  border-radius: 999px;
   border: 1px solid var(--mjg-line);
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(247, 251, 255, 1) 100%);
-  padding: 16px;
+  background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+  padding: 10px 14px;
   text-decoration: none;
-  color: inherit;
-}
-
-.mjg-summary-label,
-.mjg-quick-title {
-  display: block;
-  font-size: 13px;
-}
-
-.mjg-summary-label {
-  color: var(--mjg-muted);
-}
-
-.mjg-summary-value {
-  display: block;
-  margin-top: 8px;
-  font-size: 30px;
-  line-height: 1;
   color: var(--mjg-accent-dark);
+  font-size: 13px;
+  font-weight: 700;
+  white-space: nowrap;
+  scroll-snap-align: start;
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease,
+    background 0.18s ease;
+}
+
+.mjg-quick-card:hover,
+.mjg-tab-btn:hover {
+  border-color: rgba(13, 94, 168, 0.28);
+  box-shadow: 0 10px 18px rgba(13, 94, 168, 0.08);
+  transform: translateY(-1px);
 }
 
 .mjg-quick-title {
-  font-family: "Space Grotesk", "Segoe UI", sans-serif;
-  font-size: 18px;
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  font-size: 13px;
   color: var(--mjg-accent-dark);
 }
 
 .mjg-quick-text {
+  display: none;
+}
+
+.mjg-tabs {
+  display: grid;
+  gap: 14px;
+}
+
+.mjg-tab-toggle {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.mjg-tab-btn {
+  cursor: pointer;
+}
+
+.mjg-tab-badge {
+  margin-left: 8px;
+  min-width: 22px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #eaf4ff;
+  color: var(--mjg-accent);
+  font-size: 12px;
+}
+
+.mjg-tab-panel {
+  display: none;
+}
+
+#mjg-tab-recruitment:checked ~ .mjg-tab-nav label[for="mjg-tab-recruitment"],
+#mjg-tab-result:checked ~ .mjg-tab-nav label[for="mjg-tab-result"],
+#mjg-tab-admit_card:checked ~ .mjg-tab-nav label[for="mjg-tab-admit_card"] {
+  background: linear-gradient(135deg, #083b6d 0%, #0d5ea8 100%);
+  border-color: transparent;
+  color: #ffffff;
+}
+
+#mjg-tab-recruitment:checked ~ .mjg-tab-nav label[for="mjg-tab-recruitment"] .mjg-tab-badge,
+#mjg-tab-result:checked ~ .mjg-tab-nav label[for="mjg-tab-result"] .mjg-tab-badge,
+#mjg-tab-admit_card:checked ~ .mjg-tab-nav label[for="mjg-tab-admit_card"] .mjg-tab-badge {
+  background: rgba(255, 255, 255, 0.16);
+  color: #ffffff;
+}
+
+#mjg-tab-recruitment:checked ~ .mjg-tab-panels .mjg-panel-recruitment,
+#mjg-tab-result:checked ~ .mjg-tab-panels .mjg-panel-result,
+#mjg-tab-admit_card:checked ~ .mjg-tab-panels .mjg-panel-admit_card {
   display: block;
-  margin-top: 8px;
-  font-size: 14px;
-  line-height: 1.6;
-  color: var(--mjg-muted);
 }
 
 .mjg-alert {
@@ -869,7 +1000,7 @@ function buildStyles() {
 }
 
 .mjg-section-head h3 {
-  font-size: 23px;
+  font-size: 21px;
 }
 
 .mjg-count {
@@ -900,11 +1031,48 @@ function buildStyles() {
 }
 
 .mjg-table td {
-  padding: 13px 12px;
-  font-size: 14px;
-  line-height: 1.6;
+  padding: 11px 12px;
+  font-size: 13px;
+  line-height: 1.5;
   border-bottom: 1px solid #edf2f7;
   vertical-align: top;
+}
+
+.mjg-cell-department {
+  width: 180px;
+}
+
+.mjg-department-tag {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 5px 10px;
+  background: #eef6ff;
+  color: var(--mjg-accent-dark);
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.mjg-cell-notice .mjg-link {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.mjg-cell-date {
+  width: 110px;
+}
+
+.mjg-date {
+  color: var(--mjg-accent-dark);
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.mjg-cell-action {
+  width: 88px;
 }
 
 .mjg-table tbody tr:hover {
@@ -926,13 +1094,13 @@ function buildStyles() {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 74px;
-  padding: 8px 13px;
+  min-width: 62px;
+  padding: 7px 11px;
   border-radius: 999px;
   background: var(--mjg-success);
   color: #ffffff !important;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 600;
 }
 
@@ -950,13 +1118,28 @@ function buildStyles() {
 
 @media (max-width: 820px) {
   .mjg-shell {
-    padding: 12px 8px 24px;
-    border-radius: 18px;
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding: 0 0 18px;
+    border-radius: 0;
+    background: transparent;
   }
 
   .mjg-hero {
-    padding: 20px 16px;
-    border-radius: 18px;
+    padding: 18px 14px 16px;
+    border-radius: 0 0 18px 18px;
+  }
+
+  .mjg-hero h2 {
+    font-size: clamp(24px, 8vw, 34px);
+    line-height: 1.02;
+  }
+
+  .mjg-hero p {
+    font-size: 13px;
+    line-height: 1.55;
   }
 
   .mjg-card,
@@ -969,8 +1152,61 @@ function buildStyles() {
     flex-direction: column;
   }
 
-  .mjg-table-wrap {
+  .mjg-meta {
+    gap: 8px;
+  }
+
+  .mjg-chip {
+    padding: 7px 10px;
+    font-size: 12px;
+  }
+
+  .mjg-stack {
+    gap: 12px;
+    margin-top: 12px;
+    padding: 0 8px;
+  }
+
+  .mjg-card {
     padding: 12px;
+  }
+
+  .mjg-quick-card,
+  .mjg-tab-btn {
+    min-height: 36px;
+    padding: 8px 11px;
+    font-size: 12px;
+  }
+
+  .mjg-tab-badge {
+    margin-left: 6px;
+    padding: 2px 6px;
+    font-size: 11px;
+  }
+
+  .mjg-quick-grid,
+  .mjg-tab-nav {
+    gap: 8px;
+    padding: 0 2px 2px;
+    margin: 0;
+    scroll-padding-inline: 10px;
+  }
+
+  .mjg-section-head {
+    padding: 14px 14px 0;
+    gap: 6px;
+  }
+
+  .mjg-section-head h3 {
+    font-size: 18px;
+  }
+
+  .mjg-count {
+    font-size: 12px;
+  }
+
+  .mjg-table-wrap {
+    padding: 8px;
   }
 
   .mjg-table,
@@ -988,84 +1224,98 @@ function buildStyles() {
 
   .mjg-table tbody {
     display: grid;
-    gap: 12px;
+    gap: 8px;
   }
 
   .mjg-table tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "department date"
+      "notice notice"
+      "action action";
+    gap: 6px 10px;
     border: 1px solid var(--mjg-line);
     border-radius: 16px;
     background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
-    padding: 10px 12px;
-    box-shadow: 0 10px 22px rgba(16, 35, 59, 0.06);
+    padding: 10px;
+    box-shadow: 0 8px 18px rgba(16, 35, 59, 0.05);
   }
 
   .mjg-table td {
     border: 0;
-    padding: 8px 0;
+    padding: 0;
   }
 
   .mjg-table td::before {
     content: attr(data-label);
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     color: var(--mjg-muted);
-    font-size: 12px;
-    font-weight: 600;
+    font-size: 11px;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
   }
 
+  .mjg-cell::before {
+    display: none;
+  }
+
+  .mjg-cell-department {
+    grid-area: department;
+    width: auto;
+  }
+
+  .mjg-cell-notice {
+    grid-area: notice;
+  }
+
+  .mjg-cell-notice .mjg-link {
+    font-size: 13px;
+  }
+
+  .mjg-cell-date {
+    grid-area: date;
+    width: auto;
+    text-align: right;
+  }
+
+  .mjg-date {
+    font-size: 11px;
+  }
+
+  .mjg-cell-action {
+    grid-area: action;
+    width: auto;
+    padding-top: 2px;
+  }
+
+  .mjg-department-tag {
+    padding: 4px 9px;
+    font-size: 10px;
+  }
+
   .mjg-btn {
-    width: 100%;
+    width: auto;
+    min-width: 52px;
+    padding: 7px 10px;
+    font-size: 11px;
+  }
+
+  .mjg-foot {
+    padding: 0 10px;
+    font-size: 12px;
   }
 }
   `.trim();
-}
-
-function renderQuickLinks(siteConfig) {
-  const quickLinks = siteConfig.quickLinks.filter((item) => item.enabled !== false);
-  return `
-    <div class="mjg-quick-grid">
-      ${quickLinks
-        .map(
-          (link) => `
-            <a class="mjg-quick-card" href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">
-              <span class="mjg-quick-title">${escapeHtml(link.title)}</span>
-              <span class="mjg-quick-text">${escapeHtml(link.description)}</span>
-            </a>
-          `
-        )
-        .join("")}
-    </div>
-  `;
-}
-
-function renderSummaryCards(grouped, sourceCount) {
-  return `
-    <div class="mjg-summary-grid">
-      ${categoryOrder
-        .map(
-          (category) => `
-            <div class="mjg-summary-card">
-              <span class="mjg-summary-label">${categoryLabels[category]}</span>
-              <strong class="mjg-summary-value">${grouped[category].length}</strong>
-            </div>
-          `
-        )
-        .join("")}
-      <div class="mjg-summary-card">
-        <span class="mjg-summary-label">Official Sites Tracked</span>
-        <strong class="mjg-summary-value">${sourceCount}</strong>
-      </div>
-    </div>
-  `;
 }
 
 function renderTableRows(items) {
   if (!items.length) {
     return `
       <tr>
-        <td colspan="4" class="mjg-empty">No notices were detected during this refresh.</td>
+        <td colspan="4" class="mjg-empty">No updates found in the last ${recentWindowDays} days.</td>
       </tr>
     `;
   }
@@ -1074,14 +1324,18 @@ function renderTableRows(items) {
     .map(
       (item) => `
         <tr>
-          <td data-label="Department">${escapeHtml(item.department)}</td>
-          <td data-label="Notice">
+          <td class="mjg-cell mjg-cell-department" data-label="Department">
+            <span class="mjg-department-tag">${escapeHtml(item.department)}</span>
+          </td>
+          <td class="mjg-cell mjg-cell-notice" data-label="Notice">
             <a class="mjg-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
               ${escapeHtml(item.title)}
             </a>
           </td>
-          <td data-label="Published">${escapeHtml(item.publishedLabel)}</td>
-          <td data-label="Action">
+          <td class="mjg-cell mjg-cell-date" data-label="Published">
+            <span class="mjg-date">${escapeHtml(item.publishedLabel)}</span>
+          </td>
+          <td class="mjg-cell mjg-cell-action" data-label="Action">
             <a class="mjg-btn" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">View</a>
           </td>
         </tr>
@@ -1090,12 +1344,53 @@ function renderTableRows(items) {
     .join("");
 }
 
+function renderTabbedSections(grouped) {
+  return `
+    <div class="mjg-tabs">
+      ${displayCategoryOrder
+        .map(
+          (category, index) => `
+            <input class="mjg-tab-toggle" type="radio" name="mjg-tabset" id="mjg-tab-${category}" ${
+              index === 0 ? "checked" : ""
+            } />
+          `
+        )
+        .join("")}
+
+      <div class="mjg-tab-nav" role="tablist" aria-label="Latest job updates">
+        ${displayCategoryOrder
+          .map(
+            (category) => `
+              <label class="mjg-tab-btn" for="mjg-tab-${category}">
+                ${categoryLabels[category]}
+                <span class="mjg-tab-badge">${grouped[category].length}</span>
+              </label>
+            `
+          )
+          .join("")}
+      </div>
+
+      <div class="mjg-tab-panels">
+        ${displayCategoryOrder
+          .map(
+            (category) => `
+              <div class="mjg-tab-panel mjg-panel-${category}">
+                ${renderCategorySection(category, grouped[category])}
+              </div>
+            `
+          )
+          .join("")}
+      </div>
+    </div>
+  `;
+}
+
 function renderCategorySection(category, items) {
   return `
     <section class="mjg-section">
       <div class="mjg-section-head">
         <h3>${categoryLabels[category]}</h3>
-        <span class="mjg-count">${items.length} updates</span>
+        <span class="mjg-count">${items.length} in last ${recentWindowDays} days</span>
       </div>
       <div class="mjg-table-wrap">
         <table class="mjg-table">
@@ -1116,6 +1411,36 @@ function renderCategorySection(category, items) {
   `;
 }
 
+function renderAutoRefreshLoader(scriptUrl) {
+  return `
+<script>
+  (function () {
+    var src = ${JSON.stringify(scriptUrl)};
+    function reloadWidget() {
+      var target = document.querySelector('[data-meghalaya-jobs-widget]');
+      if (target) {
+        target.dataset.mjgMounted = 'false';
+      }
+
+      var oldScript = document.getElementById('mjg-remote-script');
+      if (oldScript) {
+        oldScript.remove();
+      }
+
+      var script = document.createElement('script');
+      script.id = 'mjg-remote-script';
+      script.defer = true;
+      script.src = src + (src.indexOf('?') === -1 ? '?' : '&') + 'v=' + Date.now();
+      document.body.appendChild(script);
+    }
+
+    reloadWidget();
+    window.setInterval(reloadWidget, 900000);
+  })();
+</script>
+  `.trim();
+}
+
 function renderFailedSources(failedSources) {
   if (!failedSources.length) {
     return "";
@@ -1129,7 +1454,7 @@ function renderFailedSources(failedSources) {
   `;
 }
 
-function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig, sourceCount }) {
+function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig }) {
   const generatedLabel = new Intl.DateTimeFormat("en-IN", {
     day: "2-digit",
     month: "long",
@@ -1145,35 +1470,21 @@ function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig, sour
     <div class="mjg-kicker">Official Meghalaya Job Watch</div>
     <h2>${escapeHtml(siteConfig.siteName)}</h2>
     <p>
-      This page collects notice links from official Meghalaya government and department websites,
-      then arranges them into Recruitment, Admit Card, Result, and Other Notice.
-      Every link opens the official source, so candidates can verify dates, eligibility, and instructions directly.
+      Latest Meghalaya job updates from official government websites.
+      Recruitment, Result, and Admit Card tabs below show only the last ${recentWindowDays} days in a mobile-friendly live layout.
     </p>
     <div class="mjg-meta">
       <span class="mjg-chip">Last refreshed: ${escapeHtml(generatedLabel)}</span>
       <span class="mjg-chip">Official links only</span>
-      <span class="mjg-chip">
-        <a href="${escapeHtml(siteConfig.latestJobsUrl)}" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;">
-          Visit MeghalayaJobs.in
-        </a>
-      </span>
+      <span class="mjg-chip">Showing last ${recentWindowDays} days</span>
+      <span class="mjg-chip">Auto updates every hour</span>
     </div>
   </section>
 
   <div class="mjg-stack">
-    <section class="mjg-card">
-      <h3>Quick Links</h3>
-      ${renderQuickLinks(siteConfig)}
-    </section>
-
-    <section class="mjg-card">
-      <h3>Live Summary</h3>
-      ${renderSummaryCards(grouped, sourceCount)}
-    </section>
-
     ${renderFailedSources(failedSources)}
 
-    ${categoryOrder.map((category) => renderCategorySection(category, grouped[category])).join("")}
+    ${renderTabbedSections(grouped)}
 
     <p class="mjg-foot">
       Generated automatically from official Meghalaya source pages. If a department changes its website layout,
@@ -1239,7 +1550,7 @@ function renderBloggerLiveSnippet(siteConfig, staticSnippet) {
 <div data-meghalaya-jobs-widget>
 ${staticSnippet}
 </div>
-<script defer src="${escapeHtml(siteConfig.publicBaseUrl)}/meghalaya-jobs-widget.js"></script>
+${renderAutoRefreshLoader(`${siteConfig.publicBaseUrl}/meghalaya-jobs-widget.js`)}
 <noscript>
   <p>
     Meghalaya jobs widget requires JavaScript. Open
@@ -1276,7 +1587,7 @@ function renderPagesIndex(siteConfig, staticSnippet) {
   </head>
   <body style="margin:0;padding:24px;background:#e8f0f7;">
     <div data-meghalaya-jobs-widget>${staticSnippet}</div>
-    <script defer src="./meghalaya-jobs-widget.js"></script>
+    ${renderAutoRefreshLoader("./meghalaya-jobs-widget.js")}
   </body>
 </html>
   `.trim();
@@ -1362,13 +1673,13 @@ async function main() {
   const siteConfig = await loadSiteConfig();
   const generatedAt = new Date();
   const { grouped, failedSources, activeSources } = await collectNotices(siteConfig);
+  const displayGrouped = buildDisplayGrouped(grouped, generatedAt, siteConfig);
 
   const payload = {
-    grouped,
+    grouped: displayGrouped,
     failedSources,
     generatedAt,
-    siteConfig,
-    sourceCount: activeSources.length
+    siteConfig
   };
 
   const staticSnippet = renderStaticSnippet(payload);
@@ -1398,8 +1709,12 @@ async function main() {
       counts: Object.fromEntries(
         categoryOrder.map((category) => [category, grouped[category].length])
       ),
+      displayCounts: Object.fromEntries(
+        displayCategoryOrder.map((category) => [category, displayGrouped[category].length])
+      ),
       sourceCount: activeSources.length,
       grouped,
+      displayGrouped,
       failedSources,
       sources: activeSources
     },
@@ -1418,6 +1733,14 @@ async function main() {
     "index.html": pagesIndex,
     ".nojekyll": ""
   });
+
+  // Keep a guaranteed local copy for Blogger paste workflows even if sync tooling
+  // skips the live snippet in dist for any reason.
+  await writeFile(
+    path.join(__dirname, "dist", "meghalaya-jobs-blogger-live.html"),
+    bloggerLiveSnippet,
+    "utf8"
+  );
 
   console.log("\nGenerated files in dist/ and docs/:");
   console.log("- meghalaya-jobs-blogger.html");
