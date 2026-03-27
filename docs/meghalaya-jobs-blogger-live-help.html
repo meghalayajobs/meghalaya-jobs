@@ -46,13 +46,13 @@
   </head>
   <body>
     <div class="box">
-      <h1>Blogger Live Snippet</h1>
+      <h1>Meghalaya Jobs 2026 Blogger Live Snippet</h1>
       <p>
         This file is a Blogger embed snippet, not a standalone preview page.
         Paste the code below into Blogger HTML view.
       </p>
       <div class="note">
-        For local preview use <strong>dist/meghalaya-jobs-live-local-preview.html</strong> or <strong>docs/index.html</strong>.
+        For local preview use <strong>dist/meghalaya-jobs-live-local-preview.html or docs/index.html</strong>.
         For the live Blogger widget to work, GitHub Pages must be deployed at
         <strong>https://meghalayajobs.github.io/meghalaya-jobs</strong>.
       </div>
@@ -647,7 +647,7 @@
       Recruitment, Result, and Admit Card tabs below show only the last 15 days in a mobile-friendly live layout.
     &lt;/p&gt;
     &lt;div class=&quot;mjg-meta&quot;&gt;
-      &lt;span class=&quot;mjg-chip&quot;&gt;Last refreshed: 27 March 2026 at 10:21 pm&lt;/span&gt;
+      &lt;span class=&quot;mjg-chip&quot;&gt;Last refreshed: 27 March 2026 at 10:33 pm&lt;/span&gt;
       &lt;span class=&quot;mjg-chip&quot;&gt;Official links only&lt;/span&gt;
       &lt;span class=&quot;mjg-chip&quot;&gt;Showing last 15 days&lt;/span&gt;
       &lt;span class=&quot;mjg-chip&quot;&gt;Auto updates every hour&lt;/span&gt;
@@ -1396,19 +1396,21 @@
 &lt;script&gt;
   (function () {
     var src = &quot;https://meghalayajobs.github.io/meghalaya-jobs/meghalaya-jobs-widget.js&quot;;
+    var widgetSelector = &quot;[data-meghalaya-jobs-widget]&quot;;
+    var scriptId = &quot;mjg-remote-script&quot;;
     function reloadWidget() {
-      var target = document.querySelector('[data-meghalaya-jobs-widget]');
+      var target = document.querySelector(widgetSelector);
       if (target) {
         target.dataset.mjgMounted = 'false';
       }
 
-      var oldScript = document.getElementById('mjg-remote-script');
+      var oldScript = document.getElementById(scriptId);
       if (oldScript) {
         oldScript.remove();
       }
 
       var script = document.createElement('script');
-      script.id = 'mjg-remote-script';
+      script.id = scriptId;
       script.defer = true;
       script.src = src + (src.indexOf('?') === -1 ? '?' : '&amp;') + 'v=' + Date.now();
       document.body.appendChild(script);

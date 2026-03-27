@@ -1411,24 +1411,32 @@ function renderCategorySection(category, items) {
   `;
 }
 
-function renderAutoRefreshLoader(scriptUrl) {
+function renderAutoRefreshLoader(
+  scriptUrl,
+  {
+    widgetAttribute = "data-meghalaya-jobs-widget",
+    scriptId = "mjg-remote-script"
+  } = {}
+) {
   return `
 <script>
   (function () {
     var src = ${JSON.stringify(scriptUrl)};
+    var widgetSelector = ${JSON.stringify(`[${widgetAttribute}]`)};
+    var scriptId = ${JSON.stringify(scriptId)};
     function reloadWidget() {
-      var target = document.querySelector('[data-meghalaya-jobs-widget]');
+      var target = document.querySelector(widgetSelector);
       if (target) {
         target.dataset.mjgMounted = 'false';
       }
 
-      var oldScript = document.getElementById('mjg-remote-script');
+      var oldScript = document.getElementById(scriptId);
       if (oldScript) {
         oldScript.remove();
       }
 
       var script = document.createElement('script');
-      script.id = 'mjg-remote-script';
+      script.id = scriptId;
       script.defer = true;
       script.src = src + (src.indexOf('?') === -1 ? '?' : '&') + 'v=' + Date.now();
       document.body.appendChild(script);
@@ -1454,8 +1462,8 @@ function renderFailedSources(failedSources) {
   `;
 }
 
-function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig }) {
-  const generatedLabel = new Intl.DateTimeFormat("en-IN", {
+function formatGeneratedLabel(generatedAt) {
+  return new Intl.DateTimeFormat("en-IN", {
     day: "2-digit",
     month: "long",
     year: "numeric",
@@ -1463,6 +1471,10 @@ function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig }) {
     minute: "2-digit",
     timeZone: "Asia/Kolkata"
   }).format(generatedAt);
+}
+
+function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig }) {
+  const generatedLabel = formatGeneratedLabel(generatedAt);
 
   return `
 <div class="mjg-shell">
@@ -1495,6 +1507,46 @@ function renderAppMarkup({ grouped, failedSources, generatedAt, siteConfig }) {
   `.trim();
 }
 
+function renderSingleCategoryAppMarkup({
+  category,
+  items,
+  failedSources,
+  generatedAt,
+  siteConfig,
+  pageTitle,
+  description
+}) {
+  const generatedLabel = formatGeneratedLabel(generatedAt);
+
+  return `
+<div class="mjg-shell">
+  <section class="mjg-hero">
+    <div class="mjg-kicker">Official Meghalaya ${escapeHtml(categoryLabels[category])} Watch</div>
+    <h2>${escapeHtml(pageTitle)}</h2>
+    <p>${escapeHtml(description)}</p>
+    <div class="mjg-meta">
+      <span class="mjg-chip">Last refreshed: ${escapeHtml(generatedLabel)}</span>
+      <span class="mjg-chip">Official links only</span>
+      <span class="mjg-chip">${escapeHtml(categoryLabels[category])} only</span>
+      <span class="mjg-chip">Showing last ${recentWindowDays} days</span>
+      <span class="mjg-chip">Auto updates every hour</span>
+    </div>
+  </section>
+
+  <div class="mjg-stack">
+    ${renderFailedSources(failedSources)}
+
+    ${renderCategorySection(category, items)}
+
+    <p class="mjg-foot">
+      Generated automatically from official Meghalaya source pages. This page shows only
+      ${escapeHtml(categoryLabels[category].toLowerCase())} notices from the latest ${recentWindowDays} days.
+    </p>
+  </div>
+</div>
+  `.trim();
+}
+
 function renderStaticSnippet(payload) {
   return `
 <style>
@@ -1504,10 +1556,20 @@ ${renderAppMarkup(payload)}
   `.trim();
 }
 
-function buildWidgetScript(staticSnippet) {
+function renderSingleCategoryStaticSnippet(payload) {
+  return `
+<style>
+${buildStyles()}
+</style>
+${renderSingleCategoryAppMarkup(payload)}
+  `.trim();
+}
+
+function buildWidgetScript(staticSnippet, widgetAttribute = "data-meghalaya-jobs-widget") {
   return `
 (() => {
   const html = ${JSON.stringify(staticSnippet)};
+  const selector = "[${widgetAttribute}]";
 
   function mount(target) {
     if (!target || target.dataset.mjgMounted === "true") {
@@ -1519,7 +1581,7 @@ function buildWidgetScript(staticSnippet) {
   }
 
   function bootstrap() {
-    const targets = document.querySelectorAll("[data-meghalaya-jobs-widget]");
+    const targets = document.querySelectorAll(selector);
     if (targets.length) {
       targets.forEach(mount);
       return;
@@ -1531,7 +1593,7 @@ function buildWidgetScript(staticSnippet) {
     }
 
     const fallbackTarget = document.createElement("div");
-    fallbackTarget.setAttribute("data-meghalaya-jobs-widget", "");
+    fallbackTarget.setAttribute(${JSON.stringify(widgetAttribute)}, "");
     script.parentNode.insertBefore(fallbackTarget, script);
     mount(fallbackTarget);
   }
@@ -1545,16 +1607,25 @@ function buildWidgetScript(staticSnippet) {
   `.trim();
 }
 
-function renderBloggerLiveSnippet(siteConfig, staticSnippet) {
+function renderBloggerLiveSnippet(
+  siteConfig,
+  staticSnippet,
+  {
+    widgetAttribute = "data-meghalaya-jobs-widget",
+    widgetScriptUrl = `${siteConfig.publicBaseUrl}/meghalaya-jobs-widget.js`,
+    livePageUrl = siteConfig.publicBaseUrl,
+    scriptId = "mjg-remote-script"
+  } = {}
+) {
   return `
-<div data-meghalaya-jobs-widget>
+<div ${widgetAttribute}>
 ${staticSnippet}
 </div>
-${renderAutoRefreshLoader(`${siteConfig.publicBaseUrl}/meghalaya-jobs-widget.js`)}
+${renderAutoRefreshLoader(widgetScriptUrl, { widgetAttribute, scriptId })}
 <noscript>
   <p>
     Meghalaya jobs widget requires JavaScript. Open
-    <a href="${escapeHtml(siteConfig.publicBaseUrl)}" target="_blank" rel="noopener noreferrer">the live jobs page</a>.
+    <a href="${escapeHtml(livePageUrl)}" target="_blank" rel="noopener noreferrer">the live jobs page</a>.
   </p>
 </noscript>
   `.trim();
@@ -1576,31 +1647,48 @@ function renderPreviewDocument(title, body, background = "#e8f0f7") {
   `.trim();
 }
 
-function renderPagesIndex(siteConfig, staticSnippet) {
+function renderPagesIndex(
+  siteConfig,
+  staticSnippet,
+  {
+    pageTitle = `${siteConfig.siteName} Live Widget`,
+    widgetAttribute = "data-meghalaya-jobs-widget",
+    widgetScriptUrl = "./meghalaya-jobs-widget.js",
+    scriptId = "mjg-remote-script"
+  } = {}
+) {
   return `
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>${escapeHtml(siteConfig.siteName)} Live Widget</title>
+    <title>${escapeHtml(pageTitle)}</title>
   </head>
   <body style="margin:0;padding:24px;background:#e8f0f7;">
-    <div data-meghalaya-jobs-widget>${staticSnippet}</div>
-    ${renderAutoRefreshLoader("./meghalaya-jobs-widget.js")}
+    <div ${widgetAttribute}>${staticSnippet}</div>
+    ${renderAutoRefreshLoader(widgetScriptUrl, { widgetAttribute, scriptId })}
   </body>
 </html>
   `.trim();
 }
 
-function renderSnippetHelpDocument(siteConfig, snippet) {
+function renderSnippetHelpDocument(
+  siteConfig,
+  snippet,
+  {
+    title = `${siteConfig.siteName} Blogger Live Snippet`,
+    previewPaths = "dist/meghalaya-jobs-live-local-preview.html or docs/index.html",
+    livePageUrl = siteConfig.publicBaseUrl
+  } = {}
+) {
   return `
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>${escapeHtml(siteConfig.siteName)} Blogger Live Snippet</title>
+    <title>${escapeHtml(title)}</title>
     <style>
       body {
         margin: 0;
@@ -1643,15 +1731,15 @@ function renderSnippetHelpDocument(siteConfig, snippet) {
   </head>
   <body>
     <div class="box">
-      <h1>Blogger Live Snippet</h1>
+      <h1>${escapeHtml(title)}</h1>
       <p>
         This file is a Blogger embed snippet, not a standalone preview page.
         Paste the code below into Blogger HTML view.
       </p>
       <div class="note">
-        For local preview use <strong>dist/meghalaya-jobs-live-local-preview.html</strong> or <strong>docs/index.html</strong>.
+        For local preview use <strong>${escapeHtml(previewPaths)}</strong>.
         For the live Blogger widget to work, GitHub Pages must be deployed at
-        <strong>${escapeHtml(siteConfig.publicBaseUrl)}</strong>.
+        <strong>${escapeHtml(livePageUrl)}</strong>.
       </div>
       <pre>${escapeHtml(snippet)}</pre>
     </div>
@@ -1692,6 +1780,45 @@ async function main() {
   );
   const bloggerLiveHelp = renderSnippetHelpDocument(siteConfig, bloggerLiveSnippet);
   const pagesIndex = renderPagesIndex(siteConfig, staticSnippet);
+  const resultPayload = {
+    category: "result",
+    items: displayGrouped.result,
+    failedSources,
+    generatedAt,
+    siteConfig,
+    pageTitle: "Meghalaya Results 2026",
+    description: `Latest Meghalaya result notices from official government websites. This page shows only result updates from the last ${recentWindowDays} days in a mobile-friendly layout.`
+  };
+  const resultStaticSnippet = renderSingleCategoryStaticSnippet(resultPayload);
+  const resultBloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig, resultStaticSnippet, {
+    widgetAttribute: "data-meghalaya-results-widget",
+    widgetScriptUrl: `${siteConfig.publicBaseUrl}/meghalaya-results-widget.js`,
+    livePageUrl: `${siteConfig.publicBaseUrl}/results.html`,
+    scriptId: "mjg-results-remote-script"
+  });
+  const resultWidgetScript = buildWidgetScript(
+    resultStaticSnippet,
+    "data-meghalaya-results-widget"
+  );
+  const resultPreview = renderPreviewDocument(
+    "Meghalaya Results Preview",
+    resultStaticSnippet
+  );
+  const resultLocalLivePreview = renderPreviewDocument(
+    "Meghalaya Results Live Local Preview",
+    `<div data-meghalaya-results-widget></div><script defer src="./meghalaya-results-widget.js"></script>`
+  );
+  const resultBloggerLiveHelp = renderSnippetHelpDocument(siteConfig, resultBloggerLiveSnippet, {
+    title: "Meghalaya Results Blogger Live Snippet",
+    previewPaths: "dist/meghalaya-results-live-local-preview.html or docs/results.html",
+    livePageUrl: `${siteConfig.publicBaseUrl}/results.html`
+  });
+  const resultsPage = renderPagesIndex(siteConfig, resultStaticSnippet, {
+    pageTitle: "Meghalaya Results 2026",
+    widgetAttribute: "data-meghalaya-results-widget",
+    widgetScriptUrl: "./meghalaya-results-widget.js",
+    scriptId: "mjg-results-remote-script"
+  });
   const dataJson = `${JSON.stringify(
     {
       generatedAt: generatedAt.toISOString(),
@@ -1729,8 +1856,16 @@ async function main() {
     "meghalaya-jobs-live-local-preview.html": localLivePreview,
     "meghalaya-jobs-preview.html": preview,
     "meghalaya-jobs-widget.js": `${widgetScript}\n`,
+    "meghalaya-results-blogger.html": resultStaticSnippet,
+    "meghalaya-results-blogger-live.html": resultBloggerLiveSnippet,
+    "meghalaya-results-blogger-live-help.html": resultBloggerLiveHelp,
+    "meghalaya-results-live-local-preview.html": resultLocalLivePreview,
+    "meghalaya-results-preview.html": resultPreview,
+    "meghalaya-results-widget.js": `${resultWidgetScript}\n`,
     "meghalaya-jobs-data.json": dataJson,
     "index.html": pagesIndex,
+    "result.html": resultsPage,
+    "results.html": resultsPage,
     ".nojekyll": ""
   });
 
@@ -1741,6 +1876,11 @@ async function main() {
     bloggerLiveSnippet,
     "utf8"
   );
+  await writeFile(
+    path.join(__dirname, "dist", "meghalaya-results-blogger-live.html"),
+    resultBloggerLiveSnippet,
+    "utf8"
+  );
 
   console.log("\nGenerated files in dist/ and docs/:");
   console.log("- meghalaya-jobs-blogger.html");
@@ -1749,8 +1889,16 @@ async function main() {
   console.log("- meghalaya-jobs-live-local-preview.html");
   console.log("- meghalaya-jobs-preview.html");
   console.log("- meghalaya-jobs-widget.js");
+  console.log("- meghalaya-results-blogger.html");
+  console.log("- meghalaya-results-blogger-live.html");
+  console.log("- meghalaya-results-blogger-live-help.html");
+  console.log("- meghalaya-results-live-local-preview.html");
+  console.log("- meghalaya-results-preview.html");
+  console.log("- meghalaya-results-widget.js");
   console.log("- meghalaya-jobs-data.json");
   console.log("- index.html");
+  console.log("- result.html");
+  console.log("- results.html");
 }
 
 main().catch((error) => {

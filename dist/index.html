@@ -596,7 +596,7 @@
       Recruitment, Result, and Admit Card tabs below show only the last 15 days in a mobile-friendly live layout.
     </p>
     <div class="mjg-meta">
-      <span class="mjg-chip">Last refreshed: 27 March 2026 at 10:21 pm</span>
+      <span class="mjg-chip">Last refreshed: 27 March 2026 at 10:33 pm</span>
       <span class="mjg-chip">Official links only</span>
       <span class="mjg-chip">Showing last 15 days</span>
       <span class="mjg-chip">Auto updates every hour</span>
@@ -1344,19 +1344,21 @@
     <script>
   (function () {
     var src = "./meghalaya-jobs-widget.js";
+    var widgetSelector = "[data-meghalaya-jobs-widget]";
+    var scriptId = "mjg-remote-script";
     function reloadWidget() {
-      var target = document.querySelector('[data-meghalaya-jobs-widget]');
+      var target = document.querySelector(widgetSelector);
       if (target) {
         target.dataset.mjgMounted = 'false';
       }
 
-      var oldScript = document.getElementById('mjg-remote-script');
+      var oldScript = document.getElementById(scriptId);
       if (oldScript) {
         oldScript.remove();
       }
 
       var script = document.createElement('script');
-      script.id = 'mjg-remote-script';
+      script.id = scriptId;
       script.defer = true;
       script.src = src + (src.indexOf('?') === -1 ? '?' : '&') + 'v=' + Date.now();
       document.body.appendChild(script);
