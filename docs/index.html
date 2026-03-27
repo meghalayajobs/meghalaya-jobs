@@ -6,7 +6,1501 @@
     <title>Meghalaya Jobs 2026 Live Widget</title>
   </head>
   <body style="margin:0;padding:24px;background:#e8f0f7;">
-    <div data-meghalaya-jobs-widget></div>
+    <div data-meghalaya-jobs-widget><style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap');
+
+.mjg-shell,
+.mjg-shell * {
+  box-sizing: border-box;
+}
+
+.mjg-shell {
+  --mjg-ink: #10233b;
+  --mjg-muted: #5d6c80;
+  --mjg-accent: #0d5ea8;
+  --mjg-accent-dark: #083b6d;
+  --mjg-success: #15803d;
+  --mjg-paper: #ffffff;
+  --mjg-line: #d7e3ef;
+  --mjg-soft: #eef6ff;
+  --mjg-warm: #fff7ea;
+  --mjg-shadow: 0 18px 42px rgba(16, 35, 59, 0.1);
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 18px 12px 34px;
+  color: var(--mjg-ink);
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(13, 94, 168, 0.14), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(21, 128, 61, 0.12), transparent 26%),
+    linear-gradient(180deg, #f7fbff 0%, #edf4fb 100%);
+  border-radius: 28px;
+}
+
+.mjg-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 24px;
+  padding: 28px 22px;
+  background:
+    radial-gradient(circle at 16% 12%, rgba(255, 255, 255, 0.14), transparent 16%),
+    linear-gradient(135deg, #083b6d 0%, #0d5ea8 54%, #1577c7 100%);
+  color: #f8fbff;
+  box-shadow: 0 24px 56px rgba(16, 35, 59, 0.16);
+}
+
+.mjg-hero::after {
+  content: "";
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  right: -90px;
+  bottom: -96px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.mjg-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  padding: 7px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mjg-hero h2 {
+  margin: 0;
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  font-size: clamp(28px, 5vw, 46px);
+  line-height: 1;
+}
+
+.mjg-hero p {
+  margin: 14px 0 0;
+  max-width: 780px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: rgba(248, 251, 255, 0.9);
+}
+
+.mjg-meta {
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.mjg-chip {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  color: #f8fbff;
+  font-size: 13px;
+}
+
+.mjg-stack {
+  display: grid;
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.mjg-card,
+.mjg-section {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--mjg-line);
+  border-radius: 22px;
+  box-shadow: var(--mjg-shadow);
+}
+
+.mjg-card {
+  padding: 18px;
+}
+
+.mjg-card h3,
+.mjg-section-head h3 {
+  margin: 0;
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  color: var(--mjg-accent-dark);
+}
+
+.mjg-card h3 {
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+
+.mjg-summary-grid,
+.mjg-quick-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.mjg-summary-card,
+.mjg-quick-card {
+  border-radius: 18px;
+  border: 1px solid var(--mjg-line);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(247, 251, 255, 1) 100%);
+  padding: 16px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.mjg-summary-label,
+.mjg-quick-title {
+  display: block;
+  font-size: 13px;
+}
+
+.mjg-summary-label {
+  color: var(--mjg-muted);
+}
+
+.mjg-summary-value {
+  display: block;
+  margin-top: 8px;
+  font-size: 30px;
+  line-height: 1;
+  color: var(--mjg-accent-dark);
+}
+
+.mjg-quick-title {
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  font-size: 18px;
+  color: var(--mjg-accent-dark);
+}
+
+.mjg-quick-text {
+  display: block;
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--mjg-muted);
+}
+
+.mjg-alert {
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1px solid #f1cf8a;
+  background: var(--mjg-warm);
+  color: #7a4d00;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.mjg-section {
+  overflow: hidden;
+}
+
+.mjg-section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 18px 0;
+}
+
+.mjg-section-head h3 {
+  font-size: 23px;
+}
+
+.mjg-count {
+  color: var(--mjg-muted);
+  font-size: 13px;
+}
+
+.mjg-table-wrap {
+  overflow-x: auto;
+  padding: 16px 18px 18px;
+}
+
+.mjg-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+.mjg-table th {
+  padding: 13px 12px;
+  background: #eaf4ff;
+  color: var(--mjg-accent-dark);
+  text-align: left;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--mjg-line);
+}
+
+.mjg-table td {
+  padding: 13px 12px;
+  font-size: 14px;
+  line-height: 1.6;
+  border-bottom: 1px solid #edf2f7;
+  vertical-align: top;
+}
+
+.mjg-table tbody tr:hover {
+  background: #f7fbff;
+}
+
+.mjg-link {
+  color: var(--mjg-accent);
+  font-weight: 600;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.mjg-link:hover {
+  text-decoration: underline;
+}
+
+.mjg-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 74px;
+  padding: 8px 13px;
+  border-radius: 999px;
+  background: var(--mjg-success);
+  color: #ffffff !important;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.mjg-empty {
+  text-align: center;
+  color: var(--mjg-muted);
+}
+
+.mjg-foot {
+  margin: 0;
+  color: var(--mjg-muted);
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+@media (max-width: 820px) {
+  .mjg-shell {
+    padding: 12px 8px 24px;
+    border-radius: 18px;
+  }
+
+  .mjg-hero {
+    padding: 20px 16px;
+    border-radius: 18px;
+  }
+
+  .mjg-card,
+  .mjg-section {
+    border-radius: 18px;
+  }
+
+  .mjg-section-head {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .mjg-table-wrap {
+    padding: 12px;
+  }
+
+  .mjg-table,
+  .mjg-table thead,
+  .mjg-table tbody,
+  .mjg-table tr,
+  .mjg-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .mjg-table thead {
+    display: none;
+  }
+
+  .mjg-table tbody {
+    display: grid;
+    gap: 12px;
+  }
+
+  .mjg-table tr {
+    border: 1px solid var(--mjg-line);
+    border-radius: 16px;
+    background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+    padding: 10px 12px;
+    box-shadow: 0 10px 22px rgba(16, 35, 59, 0.06);
+  }
+
+  .mjg-table td {
+    border: 0;
+    padding: 8px 0;
+  }
+
+  .mjg-table td::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 5px;
+    color: var(--mjg-muted);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .mjg-btn {
+    width: 100%;
+  }
+}
+</style>
+<div class="mjg-shell">
+  <section class="mjg-hero">
+    <div class="mjg-kicker">Official Meghalaya Job Watch</div>
+    <h2>Meghalaya Jobs 2026</h2>
+    <p>
+      This page collects notice links from official Meghalaya government and department websites,
+      then arranges them into Recruitment, Admit Card, Result, and Other Notice.
+      Every link opens the official source, so candidates can verify dates, eligibility, and instructions directly.
+    </p>
+    <div class="mjg-meta">
+      <span class="mjg-chip">Last refreshed: 27 March 2026 at 03:52 pm</span>
+      <span class="mjg-chip">Official links only</span>
+      <span class="mjg-chip">
+        <a href="https://www.meghalayajobs.in" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;">
+          Visit MeghalayaJobs.in
+        </a>
+      </span>
+    </div>
+  </section>
+
+  <div class="mjg-stack">
+    <section class="mjg-card">
+      <h3>Quick Links</h3>
+      
+    <div class="mjg-quick-grid">
+      
+            <a class="mjg-quick-card" href="https://www.meghalayajobs.in" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">Latest Meghalaya Jobs</span>
+              <span class="mjg-quick-text">Daily state job updates and official links.</span>
+            </a>
+          
+            <a class="mjg-quick-card" href="https://mpsc.meghalaya.gov.in/advertisements.html" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">MPSC Advertisements</span>
+              <span class="mjg-quick-text">Official Meghalaya Public Service Commission notices.</span>
+            </a>
+          
+            <a class="mjg-quick-card" href="https://megrecruitment.nic.in/" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">Recruitment Portal</span>
+              <span class="mjg-quick-text">Online application portal for government recruitment.</span>
+            </a>
+          
+            <a class="mjg-quick-card" href="https://rpa.meghalaya.gov.in/rpaonline/" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">Admit Card Portal</span>
+              <span class="mjg-quick-text">Exam login and admit card related access point.</span>
+            </a>
+          
+            <a class="mjg-quick-card" href="https://www.meghalaya.gov.in/recruitment" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">Meghalaya Govt Recruitment</span>
+              <span class="mjg-quick-text">Central recruitment updates from the state portal.</span>
+            </a>
+          
+            <a class="mjg-quick-card" href="https://megpolice.gov.in/recruitment" target="_blank" rel="noopener noreferrer">
+              <span class="mjg-quick-title">Meghalaya Police Recruitment</span>
+              <span class="mjg-quick-text">Police recruitment notices and select lists.</span>
+            </a>
+          
+    </div>
+  
+    </section>
+
+    <section class="mjg-card">
+      <h3>Live Summary</h3>
+      
+    <div class="mjg-summary-grid">
+      
+            <div class="mjg-summary-card">
+              <span class="mjg-summary-label">Recruitment</span>
+              <strong class="mjg-summary-value">24</strong>
+            </div>
+          
+            <div class="mjg-summary-card">
+              <span class="mjg-summary-label">Admit Card</span>
+              <strong class="mjg-summary-value">1</strong>
+            </div>
+          
+            <div class="mjg-summary-card">
+              <span class="mjg-summary-label">Result</span>
+              <strong class="mjg-summary-value">24</strong>
+            </div>
+          
+            <div class="mjg-summary-card">
+              <span class="mjg-summary-label">Other Notice</span>
+              <strong class="mjg-summary-value">24</strong>
+            </div>
+          
+      <div class="mjg-summary-card">
+        <span class="mjg-summary-label">Official Sites Tracked</span>
+        <strong class="mjg-summary-value">17</strong>
+      </div>
+    </div>
+  
+    </section>
+
+    
+
+    
+    <section class="mjg-section">
+      <div class="mjg-section-head">
+        <h3>Recruitment</h3>
+        <span class="mjg-count">24 updates</span>
+      </div>
+      <div class="mjg-table-wrap">
+        <table class="mjg-table">
+          <thead>
+            <tr>
+              <th>Department</th>
+              <th>Notice</th>
+              <th>Published</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+        <tr>
+          <td data-label="Department">South Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17746010398432.pdf" target="_blank" rel="noopener noreferrer">
+              Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School
+            </a>
+          </td>
+          <td data-label="Published">27 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17746010398432.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">East Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17745236821796.pdf" target="_blank" rel="noopener noreferrer">
+              IT Professional Recruitment Applications are invited to apply for the post of IT professional
+            </a>
+          </td>
+          <td data-label="Published">26 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17745236821796.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/advertisement-internship-program-farm-managers-agro-based-cooperative-societies" target="_blank" rel="noopener noreferrer">
+              Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies
+            </a>
+          </td>
+          <td data-label="Published">25 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/advertisement-internship-program-farm-managers-agro-based-cooperative-societies" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/notice-central-recruitment-board-dated-24032026" target="_blank" rel="noopener noreferrer">
+              Notice by Central Recruitment Board dated 24.03.2026
+            </a>
+          </td>
+          <td data-label="Published">24 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/notice-central-recruitment-board-dated-24032026" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">South Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17743394774791.pdf" target="_blank" rel="noopener noreferrer">
+              Advertisement for the post of ISA coordinator in PHE Baghmara
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17743394774791.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Information Tech.</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://ditmeghalaya.gov.in/pdf/Details%20Advertisement%20for%20AI%20Trainer%20and%20Lab%20Assistant%20in%20Meghalaya.pdf" target="_blank" rel="noopener noreferrer">
+              Details Advertisement for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya
+            </a>
+          </td>
+          <td data-label="Published">19 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://ditmeghalaya.gov.in/pdf/Details%20Advertisement%20for%20AI%20Trainer%20and%20Lab%20Assistant%20in%20Meghalaya.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50368" target="_blank" rel="noopener noreferrer">
+              Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong
+            </a>
+          </td>
+          <td data-label="Published">19 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50368" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Information Tech.</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://ditmeghalaya.gov.in/pdf/Advertisement%20for%20AI%20Trainer%20and%20Lab%20Assistant%20in%20Meghalaya.pdf" target="_blank" rel="noopener noreferrer">
+              Advertisement for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya
+            </a>
+          </td>
+          <td data-label="Published">18 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://ditmeghalaya.gov.in/pdf/Advertisement%20for%20AI%20Trainer%20and%20Lab%20Assistant%20in%20Meghalaya.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MPSC</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mpsc.meghalaya.gov.in/notify/Notice17Mar2026b.pdf" target="_blank" rel="noopener noreferrer">
+              CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­
+            </a>
+          </td>
+          <td data-label="Published">17 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mpsc.meghalaya.gov.in/notify/Notice17Mar2026b.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MPSC</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf" target="_blank" rel="noopener noreferrer">
+              On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment &amp; Craftsmen Training, Department of Labour Employment &amp; Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture &amp; Department of Textile Investigator in the Directorate of Housing.
+            </a>
+          </td>
+          <td data-label="Published">17 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MPSC</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026b.pdf" target="_blank" rel="noopener noreferrer">
+              CORRIGENDUM This is for general information of all candidates and general public that as per Letter No.PER(AR) 144/2022/147, dated 24.07.2025 received from the Deputy Secretary to the Govt. of Meghalaya, Personnel &amp; Admv.Reforms (B) Department for the post of Junior Engineer (Electrical) under the Public Works (Building) Department which was advertised earlier by the Commission.
+            </a>
+          </td>
+          <td data-label="Published">14 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026b.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MPSC</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026c.pdf" target="_blank" rel="noopener noreferrer">
+              CORRIGENDUM This is for general information of all candidates and general public that as per Letter No.PER(AR) 64/2022/41, dated Shillong, the 4th November, 2025 received from the Deputy Secretary to the Govt. of Meghalaya, Personnel &amp; Admv.Reforms (B) Department for the post of Assistant Engineer under Urban Affairs Department which was advertised earlier by the Commission.
+            </a>
+          </td>
+          <td data-label="Published">14 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mpsc.meghalaya.gov.in/notify/Notice14Mar2026c.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MPSC</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://rpa.meghalaya.gov.in/rpaonline" target="_blank" rel="noopener noreferrer">
+              Online Application
+            </a>
+          </td>
+          <td data-label="Published">14 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://rpa.meghalaya.gov.in/rpaonline" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">North Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf" target="_blank" rel="noopener noreferrer">
+              NOTICE FOR ENROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION
+            </a>
+          </td>
+          <td data-label="Published">13 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50303" target="_blank" rel="noopener noreferrer">
+              Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College
+            </a>
+          </td>
+          <td data-label="Published">12 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50303" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notification-postponement-personal-interview-post-cluster-coordinator-general-batch-iiiv-vi" target="_blank" rel="noopener noreferrer">
+              Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &amp;VI
+            </a>
+          </td>
+          <td data-label="Published">12 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notification-postponement-personal-interview-post-cluster-coordinator-general-batch-iiiv-vi" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">North Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17732263557451.pdf" target="_blank" rel="noopener noreferrer">
+              ROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION NOTICE FOR ENROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION
+            </a>
+          </td>
+          <td data-label="Published">11 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17732263557451.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50302" target="_blank" rel="noopener noreferrer">
+              Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College
+            </a>
+          </td>
+          <td data-label="Published">11 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50302" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50320" target="_blank" rel="noopener noreferrer">
+              Notice inviting application - Selection for engagement against various positions for IICA Shillong Project on purely contract basis in IICA, Ministry of Corporate Affairs
+            </a>
+          </td>
+          <td data-label="Published">11 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50320" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notification-personal-interview-post-cluster-coordinator-general" target="_blank" rel="noopener noreferrer">
+              NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General
+            </a>
+          </td>
+          <td data-label="Published">06 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notification-personal-interview-post-cluster-coordinator-general" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50249" target="_blank" rel="noopener noreferrer">
+              List of qualified candidates for written test for the post of Procurement Associate under MMDSL
+            </a>
+          </td>
+          <td data-label="Published">05 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50249" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MeGSRES</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megsres.nic.in/corrigendum-submission-applications-post-accounts-assistant-pmayg-and-programme-officer-ic-iec" target="_blank" rel="noopener noreferrer">
+              Corrigendum- Submission of Applications for the po...
+            </a>
+          </td>
+          <td data-label="Published">05 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megsres.nic.in/corrigendum-submission-applications-post-accounts-assistant-pmayg-and-programme-officer-ic-iec" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MeGSRES</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megsres.nic.in/corrigendum-submission-applications-post-accounts-assistant-pmayg-and-programme-officer-ic-iec" target="_blank" rel="noopener noreferrer">
+              Corrigendum- Submission of Applications for the post of Accounts Assistant, PMAY(G) and Programme Officer i/c IEC , MGNREGA
+            </a>
+          </td>
+          <td data-label="Published">05 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megsres.nic.in/corrigendum-submission-applications-post-accounts-assistant-pmayg-and-programme-officer-ic-iec" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50250" target="_blank" rel="noopener noreferrer">
+              Advertisement for appointment to the post of President of the Meghalaya State Consumer Disputes Redressal Commission, (State Commission) of Meghalaya
+            </a>
+          </td>
+          <td data-label="Published">03 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50250" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+          </tbody>
+        </table>
+      </div>
+    </section>
+  
+    <section class="mjg-section">
+      <div class="mjg-section-head">
+        <h3>Admit Card</h3>
+        <span class="mjg-count">1 updates</span>
+      </div>
+      <div class="mjg-table-wrap">
+        <table class="mjg-table">
+          <thead>
+            <tr>
+              <th>Department</th>
+              <th>Notice</th>
+              <th>Published</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://rpa.meghalaya.gov.in/rpaonline/login" target="_blank" rel="noopener noreferrer">
+              Admit card can be downloaded from https://rpa.meghalaya.gov.in/rpaonline
+            </a>
+          </td>
+          <td data-label="Published">12 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://rpa.meghalaya.gov.in/rpaonline/login" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+          </tbody>
+        </table>
+      </div>
+    </section>
+  
+    <section class="mjg-section">
+      <div class="mjg-section-head">
+        <h3>Result</h3>
+        <span class="mjg-count">24 updates</span>
+      </div>
+      <div class="mjg-table-wrap">
+        <table class="mjg-table">
+          <thead>
+            <tr>
+              <th>Department</th>
+              <th>Notice</th>
+              <th>Published</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17743541327699.pdf" target="_blank" rel="noopener noreferrer">
+              Result of the Written Examination for the Post of Peon (2025) held on 07th March, 2026. The Knowledge of Local Language paper will be held on the 18th March, 2026. All eligible candidates must mandatorily report for the verification of documents on the 14th March, 2026 at
+            </a>
+          </td>
+          <td data-label="Published">24 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17743541327699.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/declaration-results-walk-ln-lnterview-position-senior-proiect-fellow" target="_blank" rel="noopener noreferrer">
+              Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow
+            </a>
+          </td>
+          <td data-label="Published">24 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/declaration-results-walk-ln-lnterview-position-senior-proiect-fellow" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notification-result-personal-interview-post-bpm-svep-khasi-garo-region" target="_blank" rel="noopener noreferrer">
+              NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi &amp; Garo Region).
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notification-result-personal-interview-post-bpm-svep-khasi-garo-region" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notification-result-personal-interview-post-district-accountant" target="_blank" rel="noopener noreferrer">
+              NOTIFICATION-Result of the Personal Interview for the post of District Accountant.
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notification-result-personal-interview-post-district-accountant" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50381" target="_blank" rel="noopener noreferrer">
+              Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi
+            </a>
+          </td>
+          <td data-label="Published">19 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50381" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya" target="_blank" rel="noopener noreferrer">
+              Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya
+            </a>
+          </td>
+          <td data-label="Published">18 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50347" target="_blank" rel="noopener noreferrer">
+              Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit &amp; Transparency (MSSAT)
+            </a>
+          </td>
+          <td data-label="Published">17 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50347" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50354" target="_blank" rel="noopener noreferrer">
+              Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL
+            </a>
+          </td>
+          <td data-label="Published">16 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50354" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17733384687593.pdf" target="_blank" rel="noopener noreferrer">
+              Result for the post of Sweeper &amp; Cleaner conducted by the District Selection Committee, East Khasi Hills District, Shillong. List of the successful candidates for the post of Sweeper &amp; Cleaner recommended by the Committee. &lt;t
+            </a>
+          </td>
+          <td data-label="Published">12 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17733384687593.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates" target="_blank" rel="noopener noreferrer">
+              Recruitment Notice: Final extension for reporting / joining of selected candidates
+            </a>
+          </td>
+          <td data-label="Published">09 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Govt</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://www.meghalaya.gov.in/recruitment/content/50248" target="_blank" rel="noopener noreferrer">
+              List of Successful Candidates, recommended by the respective District Selection Committee, DM&amp;HO office, to the post of Medical Officers (AYUSH)
+            </a>
+          </td>
+          <td data-label="Published">02 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://www.meghalaya.gov.in/recruitment/content/50248" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn" target="_blank" rel="noopener noreferrer">
+              Recruitment Update: Posting of successful candidates to District / Unit / Organization for the post of UB Constable, AB/BN Constable, Driver Fireman, Fire Mechanic / Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable
+            </a>
+          </td>
+          <td data-label="Published">01 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17721758954029.pdf" target="_blank" rel="noopener noreferrer">
+              Result of the Personal interview for the post of Stenographer – III conducted by the District Selection Committee, East Khasi Hills District, Shillong List of the successful candidates for the post of Stenographer Grade- III recommended by the Committee
+            </a>
+          </td>
+          <td data-label="Published">27 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17721758954029.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MERB</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/publications/2026/Extension%20of%20Deadline%20for%20Submission%20of%20Claims%20on%20Shortlisting%20Scores%20for%20Provisionally%20Eligible%20Candidates%20(1).pdf" target="_blank" rel="noopener noreferrer">
+              Extension of Deadline for Submission of Claims on Shortlisting Scores for Provisionally Eligible Candidates.
+            </a>
+          </td>
+          <td data-label="Published">26 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/publications/2026/Extension%20of%20Deadline%20for%20Submission%20of%20Claims%20on%20Shortlisting%20Scores%20for%20Provisionally%20Eligible%20Candidates%20(1).pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-constable-abbn-constable-fireman" target="_blank" rel="noopener noreferrer">
+              Recruitment Update: Select list of candidates in order of merit for the post of UB Constable, AB/BN Constable, Fireman, Driver Fireman, Fireman Mechanic/ Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable
+            </a>
+          </td>
+          <td data-label="Published">25 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-constable-abbn-constable-fireman" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17719292749645.pdf" target="_blank" rel="noopener noreferrer">
+              Result of the Knowledge of Local Language Paper Written Examination for the Post of Stenographer Grade III held on 20th February, 2026 Eligible Candidates are to appear for the Personal Interview which will be held on the 27th February, 2026. All eligible candidates are re
+            </a>
+          </td>
+          <td data-label="Published">24 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17719292749645.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">East Khasi Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17719261004197.pdf" target="_blank" rel="noopener noreferrer">
+              Result of the Written Examination for the Post of Sweeper and Cleaner held on 14th February, 2026. Candidates who have qualified the Written Examination for the post of Sweeper and Cleaner are to mandatorily appear for the qualifying paper on Knowledge of Local Language (Khasi La
+            </a>
+          </td>
+          <td data-label="Published">24 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17719261004197.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">South Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17731222503928.pdf" target="_blank" rel="noopener noreferrer">
+              Provisionally selected candidates for the post of CT(GD) ST Category through Special Recruitment Rally Drive -2025
+            </a>
+          </td>
+          <td data-label="Published">20 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17731222503928.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">West Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf" target="_blank" rel="noopener noreferrer">
+              Written examination result for the post of LDA
+            </a>
+          </td>
+          <td data-label="Published">06 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">DHET</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf" target="_blank" rel="noopener noreferrer">
+              RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th &amp; 10th DECEMBER 2025
+            </a>
+          </td>
+          <td data-label="Published">15 Dec 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Meghalaya Police</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-sub-inspector" target="_blank" rel="noopener noreferrer">
+              Recruitment Update: Select list of candidates in order of merit for the post of UB Sub-Inspector
+            </a>
+          </td>
+          <td data-label="Published">08 Dec 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-sub-inspector" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">DHET</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CSE.pdf" target="_blank" rel="noopener noreferrer">
+              RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE &amp; ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th &amp; 15th DECEMBER 2025
+            </a>
+          </td>
+          <td data-label="Published">21 Nov 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CSE.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">DHET</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Notification%20result%20in%20History.pdf" target="_blank" rel="noopener noreferrer">
+              RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025
+            </a>
+          </td>
+          <td data-label="Published">21 Nov 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/dhte/notices_and_circulars/2025/Notification%20result%20in%20History.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Information Tech.</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://ditmeghalaya.gov.in/pdf/IT%20website%20RFP%20final%20result.pdf" target="_blank" rel="noopener noreferrer">
+              Results of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology &amp; Communication Department, Govt. of Meghalaya”
+            </a>
+          </td>
+          <td data-label="Published">20 Nov 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://ditmeghalaya.gov.in/pdf/IT%20website%20RFP%20final%20result.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+          </tbody>
+        </table>
+      </div>
+    </section>
+  
+    <section class="mjg-section">
+      <div class="mjg-section-head">
+        <h3>Other Notice</h3>
+        <span class="mjg-count">24 updates</span>
+      </div>
+      <div class="mjg-table-wrap">
+        <table class="mjg-table">
+          <thead>
+            <tr>
+              <th>Department</th>
+              <th>Notice</th>
+              <th>Published</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+        <tr>
+          <td data-label="Department">North Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17746044831757.pdf" target="_blank" rel="noopener noreferrer">
+              ART-PDS portal NOTICE: Instructions issued by the Directorate of Food Civil Supplies &amp; Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal
+            </a>
+          </td>
+          <td data-label="Published">26 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17746044831757.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto" target="_blank" rel="noopener noreferrer">
+              Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)
+            </a>
+          </td>
+          <td data-label="Published">25 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya" target="_blank" rel="noopener noreferrer">
+              Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya
+            </a>
+          </td>
+          <td data-label="Published">24 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/rfb-procurement-office-furniture-appliances-and-itelectronic-equipment-prime-hub-jowai" target="_blank" rel="noopener noreferrer">
+              RFB for Procurement of Office Furniture, appliances, and IT/Electronic equipment at PRIME Hub, Jowai
+            </a>
+          </td>
+          <td data-label="Published">24 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/rfb-procurement-office-furniture-appliances-and-itelectronic-equipment-prime-hub-jowai" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">North Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742668615838.pdf" target="_blank" rel="noopener noreferrer">
+              PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742668615838.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under" target="_blank" rel="noopener noreferrer">
+              Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notice-opening-financial-bid" target="_blank" rel="noopener noreferrer">
+              Notice -Opening of Financial Bid
+            </a>
+          </td>
+          <td data-label="Published">23 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notice-opening-financial-bid" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/addendum-2-rfp-biofertilizer-biopesticide-under-cdp" target="_blank" rel="noopener noreferrer">
+              Addendum 2 - RFP for Biofertilizer &amp; Biopesticide - under CDP
+            </a>
+          </td>
+          <td data-label="Published">19 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/addendum-2-rfp-biofertilizer-biopesticide-under-cdp" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MBDA</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://mbda.gov.in/request-bids-rfb-procurement-office-equipmentfurniturefixtures-under-scep-mbda" target="_blank" rel="noopener noreferrer">
+              Request for Bids (RFB) for Procurement of Office Equipment/Furniture/Fixtures under SCEP (MBDA)
+            </a>
+          </td>
+          <td data-label="Published">19 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://mbda.gov.in/request-bids-rfb-procurement-office-equipmentfurniturefixtures-under-scep-mbda" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">North Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf" target="_blank" rel="noopener noreferrer">
+              YC is mandatory with effect from 17th March, 2026 PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026
+            </a>
+          </td>
+          <td data-label="Published">13 Mar 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MSRLS</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://msrls.nic.in/notice-rfp-procurement-agency-data-analytics-postponement" target="_blank" rel="noopener noreferrer">
+              Notice - RFP for Procurement of Agency for Data Analytics -Postponement
+            </a>
+          </td>
+          <td data-label="Published">27 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://msrls.nic.in/notice-rfp-procurement-agency-data-analytics-postponement" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Education Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026.pdf" target="_blank" rel="noopener noreferrer">
+              Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026)
+            </a>
+          </td>
+          <td data-label="Published">12 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">MeGSRES</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megsres.nic.in/list-candidate-recommended-screening-committee-appointment-post-state-finance-manager-state-human" target="_blank" rel="noopener noreferrer">
+              List of candidate recommended by Screening Committ...
+            </a>
+          </td>
+          <td data-label="Published">02 Feb 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megsres.nic.in/list-candidate-recommended-screening-committee-appointment-post-state-finance-manager-state-human" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Education Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/education%20website.pdf" target="_blank" rel="noopener noreferrer">
+              Notification regarding the Introduction of Structured Pay Framework for Fixed-Pay Teachers under the Education Department (12.02.2026)
+            </a>
+          </td>
+          <td data-label="Published">30 Jan 2026</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/education%20website.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">DERT</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf" target="_blank" rel="noopener noreferrer">
+              Meghalaya Syllabus Pre-School I-III 2025
+            </a>
+          </td>
+          <td data-label="Published">19 Dec 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">West Garo Hills</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710477601408.pdf" target="_blank" rel="noopener noreferrer">
+              Written Examination notice for Grade-IV
+            </a>
+          </td>
+          <td data-label="Published">01 Dec 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710477601408.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Education Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/Notification_MTET_2026.pdf" target="_blank" rel="noopener noreferrer">
+              Notification to conduct of the Meghalaya Teacher Eligibility Test (MTET), 2026 (29.01.2026)
+            </a>
+          </td>
+          <td data-label="Published">14 Nov 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/Notification_MTET_2026.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Education Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/shawp.pdf" target="_blank" rel="noopener noreferrer">
+              Notification for Internal Complaint Committee for Sexual Harashment of Women at Workplace (14.11.2025)
+            </a>
+          </td>
+          <td data-label="Published">29 Oct 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/shawp.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Education Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%202.pdf" target="_blank" rel="noopener noreferrer">
+              Reconstitution of the composition of the Meghalaya State Higher Education Council (29.10.2025)
+            </a>
+          </td>
+          <td data-label="Published">29 Oct 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%202.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Information Tech.</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://ditmeghalaya.gov.in/pdf/ADDENDUM%20IT%20AWARDS%202025.pdf" target="_blank" rel="noopener noreferrer">
+              Addendum to the List of eligible Meritorious Students for IT Awards 2025
+            </a>
+          </td>
+          <td data-label="Published">06 Oct 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://ditmeghalaya.gov.in/pdf/ADDENDUM%20IT%20AWARDS%202025.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Information Tech.</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://ditmeghalaya.gov.in/pdf/Date%20Extension%20for%20Short%20Notice%20Inviting%20quotation%20for%20Supply%20of%203%20numbers%20of%20Split%20AC%20at%20MITS.pdf" target="_blank" rel="noopener noreferrer">
+              Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS)
+            </a>
+          </td>
+          <td data-label="Published">22 Sept 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://ditmeghalaya.gov.in/pdf/Date%20Extension%20for%20Short%20Notice%20Inviting%20quotation%20for%20Supply%20of%203%20numbers%20of%20Split%20AC%20at%20MITS.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Health Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf" target="_blank" rel="noopener noreferrer">
+              Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College
+            </a>
+          </td>
+          <td data-label="Published">19 Sept 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Health Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf" target="_blank" rel="noopener noreferrer">
+              Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College
+            </a>
+          </td>
+          <td data-label="Published">19 Sept 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+        <tr>
+          <td data-label="Department">Health Dept</td>
+          <td data-label="Notice">
+            <a class="mjg-link" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf" target="_blank" rel="noopener noreferrer">
+              List of Candidates
+            </a>
+          </td>
+          <td data-label="Published">19 Sept 2025</td>
+          <td data-label="Action">
+            <a class="mjg-btn" href="https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf" target="_blank" rel="noopener noreferrer">View</a>
+          </td>
+        </tr>
+      
+          </tbody>
+        </table>
+      </div>
+    </section>
+  
+
+    <p class="mjg-foot">
+      Generated automatically from official Meghalaya source pages. If a department changes its website layout,
+      that source may need a small rule update in the admin panel or config file.
+    </p>
+  </div>
+</div></div>
     <script defer src="./meghalaya-jobs-widget.js"></script>
   </body>
 </html>

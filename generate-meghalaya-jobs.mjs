@@ -1234,9 +1234,11 @@ function buildWidgetScript(staticSnippet) {
   `.trim();
 }
 
-function renderBloggerLiveSnippet(siteConfig) {
+function renderBloggerLiveSnippet(siteConfig, staticSnippet) {
   return `
-<div data-meghalaya-jobs-widget></div>
+<div data-meghalaya-jobs-widget>
+${staticSnippet}
+</div>
 <script defer src="${escapeHtml(siteConfig.publicBaseUrl)}/meghalaya-jobs-widget.js"></script>
 <noscript>
   <p>
@@ -1263,7 +1265,7 @@ function renderPreviewDocument(title, body, background = "#e8f0f7") {
   `.trim();
 }
 
-function renderPagesIndex(siteConfig) {
+function renderPagesIndex(siteConfig, staticSnippet) {
   return `
 <!DOCTYPE html>
 <html lang="en">
@@ -1273,8 +1275,75 @@ function renderPagesIndex(siteConfig) {
     <title>${escapeHtml(siteConfig.siteName)} Live Widget</title>
   </head>
   <body style="margin:0;padding:24px;background:#e8f0f7;">
-    <div data-meghalaya-jobs-widget></div>
+    <div data-meghalaya-jobs-widget>${staticSnippet}</div>
     <script defer src="./meghalaya-jobs-widget.js"></script>
+  </body>
+</html>
+  `.trim();
+}
+
+function renderSnippetHelpDocument(siteConfig, snippet) {
+  return `
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>${escapeHtml(siteConfig.siteName)} Blogger Live Snippet</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 24px;
+        font-family: "Segoe UI", sans-serif;
+        background: #eef5fb;
+        color: #10233b;
+      }
+
+      .box {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 22px;
+        border-radius: 20px;
+        background: #fff;
+        box-shadow: 0 18px 42px rgba(16, 35, 59, 0.1);
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      pre {
+        overflow: auto;
+        padding: 16px;
+        border-radius: 14px;
+        background: #0f172a;
+        color: #dbeafe;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
+      .note {
+        padding: 14px 16px;
+        border-radius: 14px;
+        background: #fff7ea;
+        color: #7a4d00;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <h1>Blogger Live Snippet</h1>
+      <p>
+        This file is a Blogger embed snippet, not a standalone preview page.
+        Paste the code below into Blogger HTML view.
+      </p>
+      <div class="note">
+        For local preview use <strong>dist/meghalaya-jobs-live-local-preview.html</strong> or <strong>docs/index.html</strong>.
+        For the live Blogger widget to work, GitHub Pages must be deployed at
+        <strong>${escapeHtml(siteConfig.publicBaseUrl)}</strong>.
+      </div>
+      <pre>${escapeHtml(snippet)}</pre>
+    </div>
   </body>
 </html>
   `.trim();
@@ -1303,10 +1372,15 @@ async function main() {
   };
 
   const staticSnippet = renderStaticSnippet(payload);
-  const bloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig);
+  const bloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig, staticSnippet);
   const widgetScript = buildWidgetScript(staticSnippet);
   const preview = renderPreviewDocument("Meghalaya Jobs Preview", staticSnippet);
-  const pagesIndex = renderPagesIndex(siteConfig);
+  const localLivePreview = renderPreviewDocument(
+    "Meghalaya Jobs Live Local Preview",
+    `<div data-meghalaya-jobs-widget></div><script defer src="./meghalaya-jobs-widget.js"></script>`
+  );
+  const bloggerLiveHelp = renderSnippetHelpDocument(siteConfig, bloggerLiveSnippet);
+  const pagesIndex = renderPagesIndex(siteConfig, staticSnippet);
   const dataJson = `${JSON.stringify(
     {
       generatedAt: generatedAt.toISOString(),
@@ -1336,6 +1410,8 @@ async function main() {
   await writeOutputs({
     "meghalaya-jobs-blogger.html": staticSnippet,
     "meghalaya-jobs-blogger-live.html": bloggerLiveSnippet,
+    "meghalaya-jobs-blogger-live-help.html": bloggerLiveHelp,
+    "meghalaya-jobs-live-local-preview.html": localLivePreview,
     "meghalaya-jobs-preview.html": preview,
     "meghalaya-jobs-widget.js": `${widgetScript}\n`,
     "meghalaya-jobs-data.json": dataJson,
@@ -1346,6 +1422,8 @@ async function main() {
   console.log("\nGenerated files in dist/ and docs/:");
   console.log("- meghalaya-jobs-blogger.html");
   console.log("- meghalaya-jobs-blogger-live.html");
+  console.log("- meghalaya-jobs-blogger-live-help.html");
+  console.log("- meghalaya-jobs-live-local-preview.html");
   console.log("- meghalaya-jobs-preview.html");
   console.log("- meghalaya-jobs-widget.js");
   console.log("- meghalaya-jobs-data.json");
