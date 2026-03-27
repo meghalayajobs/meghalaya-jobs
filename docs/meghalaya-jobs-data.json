@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-27T17:09:56.709Z",
-  "generatedAtLabel": "27 March 2026 at 10:39 pm",
+  "generatedAt": "2026-03-27T17:44:26.511Z",
+  "generatedAtLabel": "27 March 2026 at 11:14 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,11 +11,11 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 22,
+    "recruitment": 23,
     "result": 15,
     "admit_card": 0
   },
-  "sourceCount": 20,
+  "sourceCount": 21,
   "grouped": {
     "recruitment": [
       {
@@ -271,6 +271,18 @@
         "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
       },
       {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
+        "title": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing.",
+        "category": "recruitment",
+        "publishedAt": "2026-03-14T00:00:00.000Z",
+        "publishedLabel": "14 Mar 2026",
+        "sortValue": 1773446400000,
+        "score": 12,
+        "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
+      },
+      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://rpa.meghalaya.gov.in/rpaonline",
@@ -293,18 +305,6 @@
         "sortValue": 1773273600000,
         "score": 7,
         "context": "Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL Date: 16 Mar 2026 Date: 12 Mar 2026 Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-postponement-personal-interview-post-cluster-coordinator-general-batch-iiiv-vi",
-        "title": "Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI",
-        "category": "recruitment",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
-        "score": 7,
-        "context": "erview-post-district-accountant\">NOTIFICATION-Result of the Personal Interview for the post of District Accountant. 23/03/2026 12/03/2026 NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General <span class=\"date-disp"
       }
     ],
     "admit_card": [
@@ -865,8 +865,32 @@
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
       },
       {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice27Jan2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates regarding viewing of marks for the Post(s) of Lower Division Assistant under the Meghalaya (C) Secretariat [May 2025]",
+        "category": "other_notice",
+        "publishedAt": "2026-01-22T00:00:00.000Z",
+        "publishedLabel": "22 Jan 2026",
+        "sortValue": 1769040000000,
+        "score": 12,
+        "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
+      },
+      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
+        "category": "other_notice",
+        "publishedAt": "2026-01-22T00:00:00.000Z",
+        "publishedLabel": "22 Jan 2026",
+        "sortValue": 1769040000000,
+        "score": 10,
+        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
         "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
         "category": "other_notice",
@@ -899,30 +923,6 @@
         "sortValue": 1764547200000,
         "score": 40,
         "context": "01/12/2025 View (213 KB)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/shawp.pdf",
-        "title": "No. EDN.51/2015/22 Dated 14-11-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-11-14T00:00:00.000Z",
-        "publishedLabel": "14 Nov 2025",
-        "sortValue": 1763078400000,
-        "score": 40,
-        "context": "Notification for Internal Complaint Committee for Sexual Harashment of Women at Workplace (14.11.2025) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%202.pdf",
-        "title": "No. EDN.272/2015/116 Dated 29-10-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2025",
-        "sortValue": 1761696000000,
-        "score": 40,
-        "context": "Reconstitution of the composition of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
       }
     ]
   },
@@ -1171,6 +1171,18 @@
       {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
+        "title": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing.",
+        "category": "recruitment",
+        "publishedAt": "2026-03-14T00:00:00.000Z",
+        "publishedLabel": "14 Mar 2026",
+        "sortValue": 1773446400000,
+        "score": 12,
+        "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
         "title": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing.",
         "category": "recruitment",
@@ -1496,6 +1508,12 @@
     {
       "department": "MPSC notice",
       "url": "https://mpsc.meghalaya.gov.in/index.htm",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "MPSC result",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
       "limit": 8,
       "enabled": true
     }

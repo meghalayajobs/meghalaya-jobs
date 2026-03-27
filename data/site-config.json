@@ -162,6 +162,12 @@
       "url": "https://mpsc.meghalaya.gov.in/index.htm",
       "limit": 8,
       "enabled": true
+    },
+    {
+      "department": "MPSC result",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+      "limit": 8,
+      "enabled": true
     }
   ]
 }
