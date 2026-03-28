@@ -1516,22 +1516,28 @@ function renderSingleCategoryAppMarkup({
   siteConfig,
   pageTitle,
   description,
-  dayWindow = recentWindowDays
+  dayWindow = recentWindowDays,
+  kickerText = `Official Meghalaya ${categoryLabels[category]} Watch`,
+  lastUpdateLabel = "Last refreshed",
+  sourceChipLabel = "Official links only",
+  categoryChipLabel = `${categoryLabels[category]} only`,
+  dayWindowChipLabel = `Showing last ${dayWindow} days`,
+  liveChipLabel = "Auto updates every hour"
 }) {
   const generatedLabel = formatGeneratedLabel(generatedAt);
 
   return `
 <div class="mjg-shell">
   <section class="mjg-hero">
-    <div class="mjg-kicker">Official Meghalaya ${escapeHtml(categoryLabels[category])} Watch</div>
+    <div class="mjg-kicker">${escapeHtml(kickerText)}</div>
     <h2>${escapeHtml(pageTitle)}</h2>
     <p>${escapeHtml(description)}</p>
     <div class="mjg-meta">
-      <span class="mjg-chip">Last refreshed: ${escapeHtml(generatedLabel)}</span>
-      <span class="mjg-chip">Official links only</span>
-      <span class="mjg-chip">${escapeHtml(categoryLabels[category])} only</span>
-      <span class="mjg-chip">Showing last ${dayWindow} days</span>
-      <span class="mjg-chip">Auto updates every hour</span>
+      <span class="mjg-chip">${escapeHtml(lastUpdateLabel)}: ${escapeHtml(generatedLabel)}</span>
+      <span class="mjg-chip">${escapeHtml(sourceChipLabel)}</span>
+      <span class="mjg-chip">${escapeHtml(categoryChipLabel)}</span>
+      <span class="mjg-chip">${escapeHtml(dayWindowChipLabel)}</span>
+      <span class="mjg-chip">${escapeHtml(liveChipLabel)}</span>
     </div>
   </section>
 
@@ -1792,8 +1798,15 @@ async function main() {
     generatedAt,
     siteConfig,
     pageTitle: "Meghalaya Results 2026",
-    description: `Latest Meghalaya result notices from official government websites. This page shows only result updates from the last ${resultPageWindowDays} days in a mobile-friendly layout.`,
-    dayWindow: resultPageWindowDays
+    description:
+      "Check all latest Meghalaya results from official government websites in one place. MeghalayaJobs.in provides fast and verified result updates without any confusion..",
+    dayWindow: resultPageWindowDays,
+    kickerText: "Official Meghalaya Government Results",
+    lastUpdateLabel: "Last Update",
+    sourceChipLabel: "Official Sources Only",
+    categoryChipLabel: "Results Only",
+    dayWindowChipLabel: `Last ${resultPageWindowDays} Days Updates`,
+    liveChipLabel: "Live Update"
   };
   const resultStaticSnippet = renderSingleCategoryStaticSnippet(resultPayload);
   const resultBloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig, resultStaticSnippet, {
