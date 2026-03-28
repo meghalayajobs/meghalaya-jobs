@@ -168,6 +168,12 @@
       "url": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
       "limit": 8,
       "enabled": true
+    },
+    {
+      "department": "West Khasi Hills",
+      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
+      "limit": 8,
+      "enabled": true
     }
   ]
 }

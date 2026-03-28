@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-28T16:20:58.630Z",
-  "generatedAtLabel": "28 March 2026 at 09:50 pm",
+  "generatedAt": "2026-03-28T16:30:04.968Z",
+  "generatedAtLabel": "28 March 2026 at 10:00 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,11 +11,11 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 23,
-    "result": 14,
+    "recruitment": 24,
+    "result": 19,
     "admit_card": 0
   },
-  "sourceCount": 21,
+  "sourceCount": 22,
   "grouped": {
     "recruitment": [
       {
@@ -89,6 +89,18 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "26-03-2026"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746806989822.pdf",
+        "title": "DSC: EWKH Advertisement 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26/03/2026 02/05/2026 View (2 MB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -293,18 +305,6 @@
         "sortValue": 1773446400000,
         "score": 6,
         "context": "below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing. 17-03-2026 No.MPSC/D-50/1/2021-2022/65 CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50303",
-        "title": "Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
-        "score": 7,
-        "context": "Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL Date: 16 Mar 2026 Date: 12 Mar 2026 Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
       }
     ],
     "admit_card": [
@@ -455,6 +455,66 @@
         "context": "asi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Po"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
+        "title": "DSC: EWKH Results of Grade IV",
+        "category": "result",
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (701 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
+        "title": "DSC: EWKH Results of LDA (2025)",
+        "category": "result",
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (686 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743373991493.pdf",
+        "title": "DSC: EWKH Results of Driver",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (504 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743372954010.pdf",
+        "title": "DSC: EWKH Results of Enforcement Checker",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (471 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743375146940.pdf",
+        "title": "DSC: EWKH Results of Mechanic Gr1",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (561 KB)"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50381",
@@ -573,66 +633,6 @@
         "sortValue": 1773014400000,
         "score": 40,
         "context": "09.03.2026"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates",
-        "title": "Recruitment Notice: Final extension for reporting / joining of selected candidates",
-        "category": "result",
-        "publishedAt": "2026-03-09T00:00:00.000Z",
-        "publishedLabel": "09 Mar 2026",
-        "sortValue": 1773014400000,
-        "score": 7,
-        "context": "alt=\"new item\"> 2026-03-18 2026-03-09 <a href=\"/imp"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20interview%20-%20Dept%20Cardiology.pdf",
-        "title": "Results for selection of candidate for ICMR project entitle \"Colchicine in Heart Failure (COLHEF) a randomized controlled study\" - Department of Cardiology",
-        "category": "result",
-        "publishedAt": "2026-03-06T00:00:00.000Z",
-        "publishedLabel": "06 Mar 2026",
-        "sortValue": 1772755200000,
-        "score": 40,
-        "context": "06.03.2026"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17725394789530.pdf",
-        "title": "Result for the post of Sweeper & Cleaner conducted by the District Selection Committee, East Khasi Hills District, Shillong.",
-        "category": "result",
-        "publishedAt": "2026-03-03T00:00:00.000Z",
-        "publishedLabel": "03 Mar 2026",
-        "sortValue": 1772496000000,
-        "score": 40,
-        "context": "List of the successful candidates for the post of Sweeper & Cleaner recommended by the Committee. 03/03/2026 03/04/2026 View (431 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50248",
-        "title": "List of Successful Candidates, recommended by the respective District Selection Committee, DM&HO office, to the post of Medical Officers (AYUSH)",
-        "category": "result",
-        "publishedAt": "2026-03-02T00:00:00.000Z",
-        "publishedLabel": "02 Mar 2026",
-        "sortValue": 1772409600000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Advertisement for appointment to the post of President of the Meghalaya State Consumer Disputes Redressal Commission, (State Commission) of Meghalaya Date: 03 Mar 2026 Date: 02 Mar 2026 Dissemination of Notification Indian Air Force (IAF) Open Recruitment Rallies Date: </s"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn",
-        "title": "Recruitment Update: Posting of successful candidates to District / Unit / Organization for the post of UB Constable, AB/BN Constable, Driver Fireman, Fire Mechanic / Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
-        "category": "result",
-        "publishedAt": "2026-03-01T00:00:00.000Z",
-        "publishedLabel": "01 Mar 2026",
-        "sortValue": 1772323200000,
-        "score": 7,
-        "context": "02.03.2026 2026-03-02 2026-03-01 <a href=\"/pre"
       }
     ],
     "other_notice": [
@@ -673,6 +673,30 @@
         "context": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal 26/03/2026 31/07/2026 View (618 KB) SMART-PDS-AddMember (2 MB) SMART-PDS-DeleteMember (2 MB) SMART-PDS-FreshRC (2 MB) SMART-PDS-SurrenderRC (2 MB) SMART-PDS-TransferRC (2 MB) SMART-PDS-RCModificationNew (4 MB)"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746804985480.pdf",
+        "title": "DSC: EWKH Grade IV (2024) Personal Interview Notice",
+        "category": "other_notice",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26/03/2026 08/04/2026 View (534 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746803234075.pdf",
+        "title": "DSC: EWKH Mechanic Gr II Personal Interview Notice",
+        "category": "other_notice",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26/03/2026 11/04/2026 View (610 KB)"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/EWS%20CERTIFICATE%20FORMAT%20-%20Annexure%20II%20(1).pdf",
@@ -706,7 +730,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 <a href=\"/request-bids-rfb-procurement-office-equipmentfurniture"
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 A"
       },
       {
         "department": "MSRLS",
@@ -718,7 +742,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the p"
+        "context": "t-bpm-svep-khasi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement"
       },
       {
         "department": "Information Tech.",
@@ -742,7 +766,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
+        "context": "t of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 19/03/2026 <div class=\""
       },
       {
         "department": "Education Dept",
@@ -899,30 +923,6 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus Pre-School I-III 2025",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 6,
-        "context": "ulars/2026/Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025).pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\"> Meghalaya Syllabus for Classes 1 and 2 (Langauge and Numeracy) 2025 Resource Books for Preschool I-III <"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2025/12/17647593807378.pdf",
-        "title": "Written Examination notice for Grade-IV",
-        "category": "other_notice",
-        "publishedAt": "2025-12-01T00:00:00.000Z",
-        "publishedLabel": "01 Dec 2025",
-        "sortValue": 1764547200000,
-        "score": 40,
-        "context": "01/12/2025 View (213 KB)"
       }
     ]
   },
@@ -999,6 +999,18 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "26-03-2026"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746806989822.pdf",
+        "title": "DSC: EWKH Advertisement 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "26/03/2026 02/05/2026 View (2 MB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -1313,6 +1325,66 @@
         "sortValue": 1774224000000,
         "score": 7,
         "context": "asi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Po"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
+        "title": "DSC: EWKH Results of Grade IV",
+        "category": "result",
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (701 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
+        "title": "DSC: EWKH Results of LDA (2025)",
+        "category": "result",
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (686 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743373991493.pdf",
+        "title": "DSC: EWKH Results of Driver",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (504 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743372954010.pdf",
+        "title": "DSC: EWKH Results of Enforcement Checker",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (471 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743375146940.pdf",
+        "title": "DSC: EWKH Results of Mechanic Gr1",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (561 KB)"
       },
       {
         "department": "Meghalaya Govt",
@@ -1502,6 +1574,12 @@
     {
       "department": "MPSC result",
       "url": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+      "limit": 8,
+      "enabled": true
+    },
+    {
+      "department": "West Khasi Hills",
+      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
       "limit": 8,
       "enabled": true
     }
