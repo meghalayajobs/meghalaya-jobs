@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-28T19:46:08.265Z",
-  "generatedAtLabel": "29 March 2026 at 01:16 am",
+  "generatedAt": "2026-03-28T21:01:12.144Z",
+  "generatedAtLabel": "29 March 2026 at 02:31 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -658,7 +658,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/advertisement-internship-program-farm-"
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
       },
       {
         "department": "North Garo Hills",
@@ -711,6 +711,18 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
+        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "publishedLabel": "25 Mar 2026",
+        "sortValue": 1774396800000,
+        "score": 7,
+        "context": "ge Management under MegARISE Notice of Award 27/03/2026 25/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under",
         "title": "Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
         "category": "other_notice",
@@ -730,7 +742,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the p"
+        "context": "-bpm-svep-khasi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the po"
       },
       {
         "department": "Information Tech.",
@@ -805,18 +817,6 @@
         "context": "Time\" content=\"2026-03-18T00:00:00+05:30\">18/03/2026 17/03/2026 Response to Pre-Bid Querie"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/response-pre-bid-queries-and-addendum-request-bids-rfb-titled-procurement-office-furniture-fixtures",
-        "title": "Response to Pre-Bid Queries and Addendum for the Request for Bids (RFB) titled: Procurement of Office Furniture, Fixtures, IT and other equipment for establishment of CM Connect Centres at Blocks in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-03-16T00:00:00.000Z",
-        "publishedLabel": "16 Mar 2026",
-        "sortValue": 1773619200000,
-        "score": 7,
-        "context": "-office-digital-other-equipment-under-megsure\">Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE 17/03/2026 16/03/2026 <div class=\""
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
@@ -850,7 +850,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Procurement Notice - Data Analytics 24/02/2"
+        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
       },
       {
         "department": "Education Dept",
