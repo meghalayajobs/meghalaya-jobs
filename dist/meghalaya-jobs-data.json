@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-29T05:27:13.600Z",
-  "generatedAtLabel": "29 March 2026 at 10:57 am",
+  "generatedAt": "2026-03-29T05:54:38.487Z",
+  "generatedAtLabel": "29 March 2026 at 11:24 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,7 +11,7 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 19,
+    "recruitment": 16,
     "result": 19,
     "admit_card": 0
   },
@@ -29,18 +29,6 @@
         "sortValue": 1774569600000,
         "score": 40,
         "context": "27-03-2026"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17746010398432.pdf",
-        "title": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools",
-        "category": "recruitment",
-        "publishedAt": "2026-03-27T00:00:00.000Z",
-        "publishedLabel": "27 Mar 2026",
-        "sortValue": 1774569600000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools 27/03/2026 10/04/2026 View (526 KB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -127,18 +115,6 @@
         "context": "dex=\"0\"> 25/03/2026 Declaration of results for the Walk ln"
       },
       {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17743394774791.pdf",
-        "title": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School",
-        "category": "recruitment",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School 24/03/2026 30/04/2026 View (433 KB)"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/notice-central-recruitment-board-dated-24032026",
@@ -149,18 +125,6 @@
         "sortValue": 1774310400000,
         "score": 7,
         "context": "2026-03-24 <div class=\"vi"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17742513275808.pdf",
-        "title": "Advertisement for the post of ISA coordinator in PHE Baghmara",
-        "category": "recruitment",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "publishedLabel": "23 Mar 2026",
-        "sortValue": 1774224000000,
-        "score": 40,
-        "context": "Advertisement for the post of ISA coordinator in PHE Baghmara 23/03/2026 09/04/2026 View (382 KB)"
       },
       {
         "department": "Information Tech.",
@@ -305,6 +269,42 @@
         "sortValue": 1773446400000,
         "score": 6,
         "context": "below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing. 17-03-2026 No.MPSC/D-50/1/2021-2022/65 CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50303",
+        "title": "Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College",
+        "category": "recruitment",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 7,
+        "context": "Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL Date: 16 Mar 2026 Date: 12 Mar 2026 Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines at Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-postponement-personal-interview-post-cluster-coordinator-general-batch-iiiv-vi",
+        "title": "Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI",
+        "category": "recruitment",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 7,
+        "context": "erview-post-district-accountant\">NOTIFICATION-Result of the Personal Interview for the post of District Accountant. 23/03/2026 12/03/2026 NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General <span class=\"date-disp"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17732263557451.pdf",
+        "title": "NOTICE FOR ENROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION",
+        "category": "recruitment",
+        "publishedAt": "2026-03-11T00:00:00.000Z",
+        "publishedLabel": "11 Mar 2026",
+        "sortValue": 1773187200000,
+        "score": 40,
+        "context": "NOTICE FOR ENROLLMENT FOR THE POST OF 18 PART-TIME PLATOON HAVILDAR (VOLUNTEERS) IN MEGHALAYA BORDER WING HOMEGUARDS BATTALION 11/03/2026 30/04/2026 View (2 MB)"
       }
     ],
     "admit_card": [
@@ -658,7 +658,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/advertisement-internship-program-farm-"
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
       },
       {
         "department": "North Garo Hills",
@@ -711,6 +711,18 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
+        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "publishedLabel": "25 Mar 2026",
+        "sortValue": 1774396800000,
+        "score": 7,
+        "context": "ge Management under MegARISE Notice of Award 27/03/2026 25/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under",
         "title": "Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
         "category": "other_notice",
@@ -718,7 +730,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 A"
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 <a href=\"/request-bids-rfb-procurement-office-equipmentfurniture"
       },
       {
         "department": "MSRLS",
@@ -730,7 +742,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "-bpm-svep-khasi-garo-region\">NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the po"
+        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the p"
       },
       {
         "department": "Information Tech.",
@@ -754,7 +766,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "t of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 19/03/2026 <div class=\""
+        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
       },
       {
         "department": "Education Dept",
@@ -805,18 +817,6 @@
         "context": "Time\" content=\"2026-03-18T00:00:00+05:30\">18/03/2026 17/03/2026 Response to Pre-Bid Querie"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/response-pre-bid-queries-and-addendum-request-bids-rfb-titled-procurement-office-furniture-fixtures",
-        "title": "Response to Pre-Bid Queries and Addendum for the Request for Bids (RFB) titled: Procurement of Office Furniture, Fixtures, IT and other equipment for establishment of CM Connect Centres at Blocks in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-03-16T00:00:00.000Z",
-        "publishedLabel": "16 Mar 2026",
-        "sortValue": 1773619200000,
-        "score": 7,
-        "context": "-office-digital-other-equipment-under-megsure\">Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE 17/03/2026 16/03/2026 <div class=\""
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
@@ -850,7 +850,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "sp; 06/03/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
+        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
       },
       {
         "department": "Education Dept",
@@ -941,18 +941,6 @@
         "context": "27-03-2026"
       },
       {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17746010398432.pdf",
-        "title": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools",
-        "category": "recruitment",
-        "publishedAt": "2026-03-27T00:00:00.000Z",
-        "publishedLabel": "27 Mar 2026",
-        "sortValue": 1774569600000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools 27/03/2026 10/04/2026 View (526 KB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/JRD-%20APPLICATION%20FORM-%20ANNEXURE-%20I.pdf",
@@ -1037,18 +1025,6 @@
         "context": "dex=\"0\"> 25/03/2026 Declaration of results for the Walk ln"
       },
       {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17743394774791.pdf",
-        "title": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School",
-        "category": "recruitment",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School 24/03/2026 30/04/2026 View (433 KB)"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/notice-central-recruitment-board-dated-24032026",
@@ -1059,18 +1035,6 @@
         "sortValue": 1774310400000,
         "score": 7,
         "context": "2026-03-24 <div class=\"vi"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17742513275808.pdf",
-        "title": "Advertisement for the post of ISA coordinator in PHE Baghmara",
-        "category": "recruitment",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "publishedLabel": "23 Mar 2026",
-        "sortValue": 1774224000000,
-        "score": 40,
-        "context": "Advertisement for the post of ISA coordinator in PHE Baghmara 23/03/2026 09/04/2026 View (382 KB)"
       },
       {
         "department": "Information Tech.",
@@ -1389,7 +1353,13 @@
     ],
     "admit_card": []
   },
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
