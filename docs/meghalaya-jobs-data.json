@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-29T15:59:02.800Z",
-  "generatedAtLabel": "29 March 2026 at 09:29 pm",
+  "generatedAt": "2026-03-29T17:05:55.784Z",
+  "generatedAtLabel": "29 March 2026 at 10:35 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "displayCounts": {
     "recruitment": 19,
-    "result": 15,
+    "result": 19,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -371,6 +371,18 @@
         "context": "24.03.2026"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17744275764297.pdf",
+        "title": "NOTIFICATION: Declaration of result of the Language Proficiency Test for the post of Grade-IV conducted on 22nd October, 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of result of the Language Proficiency Test for the post of Grade-IV conducted on 22nd October, 2025. 24/03/2026 30/04/2026 View (773 KB)"
+      },
+      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/declaration-results-walk-ln-lnterview-position-senior-proiect-fellow",
@@ -381,6 +393,42 @@
         "sortValue": 1774310400000,
         "score": 7,
         "context": "cooperative-societies\">Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consul"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742669576069.pdf",
+        "title": "NOTIFICATION: Result of Language Proficiency Test for the post of Gram Sevak and Gram Sevika conducted on the 12th November 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "NOTIFICATION: Result of Language Proficiency Test for the post of Gram Sevak and Gram Sevika conducted on the 12th November 2025. 23/03/2026 30/04/2026 View (390 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742670707083.pdf",
+        "title": "NOTIFICATION: Result of Language Proficiency Test for the post of Weaving Demonstrator and Sericulture Demonstrator conducted on the 11th September 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "NOTIFICATION: Result of Language Proficiency Test for the post of Weaving Demonstrator and Sericulture Demonstrator conducted on the 11th September 2025. 23/03/2026 30/04/2026 View (401 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742668615838.pdf",
+        "title": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025. 23/03/2026 30/04/2026 View (415 KB)"
       },
       {
         "department": "MSRLS",
@@ -585,54 +633,6 @@
         "sortValue": 1773014400000,
         "score": 40,
         "context": "09.03.2026"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates",
-        "title": "Recruitment Notice: Final extension for reporting / joining of selected candidates",
-        "category": "result",
-        "publishedAt": "2026-03-09T00:00:00.000Z",
-        "publishedLabel": "09 Mar 2026",
-        "sortValue": 1773014400000,
-        "score": 7,
-        "context": "alt=\"new item\"> 2026-03-18 2026-03-09 <a href=\"/imp"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20interview%20-%20Dept%20Cardiology.pdf",
-        "title": "Results for selection of candidate for ICMR project entitle \"Colchicine in Heart Failure (COLHEF) a randomized controlled study\" - Department of Cardiology",
-        "category": "result",
-        "publishedAt": "2026-03-06T00:00:00.000Z",
-        "publishedLabel": "06 Mar 2026",
-        "sortValue": 1772755200000,
-        "score": 40,
-        "context": "06.03.2026"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17725394789530.pdf",
-        "title": "Result for the post of Sweeper & Cleaner conducted by the District Selection Committee, East Khasi Hills District, Shillong.",
-        "category": "result",
-        "publishedAt": "2026-03-03T00:00:00.000Z",
-        "publishedLabel": "03 Mar 2026",
-        "sortValue": 1772496000000,
-        "score": 40,
-        "context": "List of the successful candidates for the post of Sweeper & Cleaner recommended by the Committee. 03/03/2026 03/04/2026 View (431 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50248",
-        "title": "List of Successful Candidates, recommended by the respective District Selection Committee, DM&HO office, to the post of Medical Officers (AYUSH)",
-        "category": "result",
-        "publishedAt": "2026-03-02T00:00:00.000Z",
-        "publishedLabel": "02 Mar 2026",
-        "sortValue": 1772409600000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Advertisement for appointment to the post of President of the Meghalaya State Consumer Disputes Redressal Commission, (State Commission) of Meghalaya Date: 03 Mar 2026 Date: 02 Mar 2026 Dissemination of Notification Indian Air Force (IAF) Open Recruitment Rallies Date: </s"
       }
     ],
     "other_notice": [
@@ -659,6 +659,18 @@
         "sortValue": 1774569600000,
         "score": 7,
         "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17746044831757.pdf",
+        "title": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal",
+        "category": "other_notice",
+        "publishedAt": "2026-03-26T00:00:00.000Z",
+        "publishedLabel": "26 Mar 2026",
+        "sortValue": 1774483200000,
+        "score": 40,
+        "context": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal 26/03/2026 31/07/2026 View (618 KB) SMART-PDS-AddMember (2 MB) SMART-PDS-DeleteMember (2 MB) SMART-PDS-FreshRC (2 MB) SMART-PDS-SurrenderRC (2 MB) SMART-PDS-TransferRC (2 MB) SMART-PDS-RCModificationNew (4 MB)"
       },
       {
         "department": "West Khasi Hills",
@@ -711,18 +723,6 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya",
-        "title": "Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 7,
-        "context": "eTime\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 24/03/2026 <a href=\"/declaration-results-walk-ln-lnterview-position-senior-"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under",
         "title": "Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
         "category": "other_notice",
@@ -730,7 +730,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 <a href=\"/request-bids-rfb-procurement-office-equipmentfurniture"
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 A"
       },
       {
         "department": "MSRLS",
@@ -766,7 +766,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
+        "context": "t of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 19/03/2026 <div class=\""
       },
       {
         "department": "Education Dept",
@@ -781,6 +781,18 @@
         "context": "Content Summary Format No. EDN.209/2025/7 Dated 18-03-2026 Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026) (200kb)"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf",
+        "title": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-03-18T00:00:00.000Z",
+        "publishedLabel": "18 Mar 2026",
+        "sortValue": 1773792000000,
+        "score": 40,
+        "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
+      },
+      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/request-proposal-individual-consultant-monitoring-evaluation-mpower",
@@ -791,6 +803,30 @@
         "sortValue": 1773792000000,
         "score": 7,
         "context": "n-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 18/03/2026 Advertisement for the position Senior Data Scientist & Programme Associate- Data Analyst &n"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-no1-procurement-office-digital-other-equipment-under-megsure",
+        "title": "Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE",
+        "category": "other_notice",
+        "publishedAt": "2026-03-17T00:00:00.000Z",
+        "publishedLabel": "17 Mar 2026",
+        "sortValue": 1773705600000,
+        "score": 7,
+        "context": "Time\" content=\"2026-03-18T00:00:00+05:30\">18/03/2026 17/03/2026 Response to Pre-Bid Querie"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
+        "title": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC",
+        "category": "other_notice",
+        "publishedAt": "2026-03-13T00:00:00.000Z",
+        "publishedLabel": "13 Mar 2026",
+        "sortValue": 1773360000000,
+        "score": 40,
+        "context": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC 13/03/2026 31/10/2026 View (873 KB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -887,42 +923,6 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus Pre-School I-III 2025",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 6,
-        "context": "ulars/2026/Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025).pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\"> Meghalaya Syllabus for Classes 1 and 2 (Langauge and Numeracy) 2025 Resource Books for Preschool I-III <"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2025/12/17647593807378.pdf",
-        "title": "Written Examination notice for Grade-IV",
-        "category": "other_notice",
-        "publishedAt": "2025-12-01T00:00:00.000Z",
-        "publishedLabel": "01 Dec 2025",
-        "sortValue": 1764547200000,
-        "score": 40,
-        "context": "01/12/2025 View (213 KB)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/shawp.pdf",
-        "title": "No. EDN.51/2015/22 Dated 14-11-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-11-14T00:00:00.000Z",
-        "publishedLabel": "14 Nov 2025",
-        "sortValue": 1763078400000,
-        "score": 40,
-        "context": "Notification for Internal Complaint Committee for Sexual Harashment of Women at Workplace (14.11.2025) (200kb)"
       }
     ]
   },
@@ -1183,6 +1183,18 @@
         "context": "24.03.2026"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17744275764297.pdf",
+        "title": "NOTIFICATION: Declaration of result of the Language Proficiency Test for the post of Grade-IV conducted on 22nd October, 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of result of the Language Proficiency Test for the post of Grade-IV conducted on 22nd October, 2025. 24/03/2026 30/04/2026 View (773 KB)"
+      },
+      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/declaration-results-walk-ln-lnterview-position-senior-proiect-fellow",
@@ -1193,6 +1205,42 @@
         "sortValue": 1774310400000,
         "score": 7,
         "context": "cooperative-societies\">Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consul"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742669576069.pdf",
+        "title": "NOTIFICATION: Result of Language Proficiency Test for the post of Gram Sevak and Gram Sevika conducted on the 12th November 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "NOTIFICATION: Result of Language Proficiency Test for the post of Gram Sevak and Gram Sevika conducted on the 12th November 2025. 23/03/2026 30/04/2026 View (390 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742670707083.pdf",
+        "title": "NOTIFICATION: Result of Language Proficiency Test for the post of Weaving Demonstrator and Sericulture Demonstrator conducted on the 11th September 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "NOTIFICATION: Result of Language Proficiency Test for the post of Weaving Demonstrator and Sericulture Demonstrator conducted on the 11th September 2025. 23/03/2026 30/04/2026 View (401 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742668615838.pdf",
+        "title": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025.",
+        "category": "result",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 40,
+        "context": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025. 23/03/2026 30/04/2026 View (415 KB)"
       },
       {
         "department": "MSRLS",
@@ -1341,13 +1389,7 @@
     ],
     "admit_card": []
   },
-  "failedSources": [
-    {
-      "department": "North Garo Hills",
-      "url": "https://northgarohills.gov.in/notice_category/announcements/",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
