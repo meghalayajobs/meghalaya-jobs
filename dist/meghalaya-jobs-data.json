@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T05:56:27.988Z",
-  "generatedAtLabel": "31 March 2026 at 11:26 am",
+  "generatedAt": "2026-03-31T09:45:13.734Z",
+  "generatedAtLabel": "31 March 2026 at 03:15 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "displayCounts": {
     "recruitment": 18,
-    "result": 17,
+    "result": 18,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -184,7 +184,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "Office Wise Search Date: 19 Mar 2026 Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span class=\"views-label vi"
+        "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span class=\"views-label vi"
       },
       {
         "department": "Information Tech.",
@@ -346,6 +346,18 @@
       }
     ],
     "result": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50479",
+        "title": "Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency",
+        "category": "result",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 7,
+        "context": "Office Wise Search Date: 27 Mar 2026 Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong <div class=\"views-field views"
+      },
       {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
@@ -621,18 +633,6 @@
         "sortValue": 1773273600000,
         "score": 40,
         "context": "18.03.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20waitlisted%20candidates%20for%20the%20post%20of%20Associate%20Professor,%20College%20of%20Nursing%20on%20Direct%20Recruitment%20in%20the%20interviews%20held%20on%2015th%20%2016th%20October%202025.pdf",
-        "title": "Result of waitlisted candidates for the post of Associate Professor, College of Nursing on Direct Recruitment in the interviews held on 15th 16th October 2025",
-        "category": "result",
-        "publishedAt": "2026-03-09T00:00:00.000Z",
-        "publishedLabel": "09 Mar 2026",
-        "sortValue": 1773014400000,
-        "score": 40,
-        "context": "09.03.2026"
       }
     ],
     "other_notice": [
@@ -658,7 +658,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/advertisement-internship-program-farm-"
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
       },
       {
         "department": "North Garo Hills",
@@ -711,6 +711,18 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
+        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "publishedLabel": "25 Mar 2026",
+        "sortValue": 1774396800000,
+        "score": 7,
+        "context": "ge Management under MegARISE Notice of Award 27/03/2026 25/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/corrigendum-1-and-response-bid-queries-rfb-procurement-office-equipment-furniture-fixtures-under",
         "title": "Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
         "category": "other_notice",
@@ -718,7 +730,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 Addendum 2 - RFP for Biofertilizer & Biopesticide - under CDP &nbs"
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
       },
       {
         "department": "MSRLS",
@@ -749,6 +761,18 @@
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/addendum-2-rfp-biofertilizer-biopesticide-under-cdp",
         "title": "Addendum 2 - RFP for Biofertilizer & Biopesticide - under CDP",
+        "category": "other_notice",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 7,
+        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/request-bids-rfb-procurement-office-equipmentfurniturefixtures-under-scep-mbda",
+        "title": "Request for Bids (RFB) for Procurement of Office Equipment/Furniture/Fixtures under SCEP (MBDA)",
         "category": "other_notice",
         "publishedAt": "2026-03-19T00:00:00.000Z",
         "publishedLabel": "19 Mar 2026",
@@ -793,30 +817,6 @@
         "context": "n-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 18/03/2026 Advertisement for the position Senior Data Scientist & Programme Associate- Data Analyst &n"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/corrigendum-no1-procurement-office-digital-other-equipment-under-megsure",
-        "title": "Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE",
-        "category": "other_notice",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "publishedLabel": "17 Mar 2026",
-        "sortValue": 1773705600000,
-        "score": 7,
-        "context": "Time\" content=\"2026-03-18T00:00:00+05:30\">18/03/2026 17/03/2026 Response to Pre-Bid Querie"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/response-pre-bid-queries-and-addendum-request-bids-rfb-titled-procurement-office-furniture-fixtures",
-        "title": "Response to Pre-Bid Queries and Addendum for the Request for Bids (RFB) titled: Procurement of Office Furniture, Fixtures, IT and other equipment for establishment of CM Connect Centres at Blocks in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-03-16T00:00:00.000Z",
-        "publishedLabel": "16 Mar 2026",
-        "sortValue": 1773619200000,
-        "score": 7,
-        "context": "-office-digital-other-equipment-under-megsure\">Corrigendum No#1 for Procurement of Office Digital & other Equipment under MegSURE 17/03/2026 16/03/2026 <div class=\""
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
@@ -850,7 +850,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
+        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Procurement Notice - Data Analytics 24/02/2"
       },
       {
         "department": "Education Dept",
@@ -1094,7 +1094,7 @@
         "publishedLabel": "19 Mar 2026",
         "sortValue": 1773878400000,
         "score": 7,
-        "context": "Office Wise Search Date: 19 Mar 2026 Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span class=\"views-label vi"
+        "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span class=\"views-label vi"
       },
       {
         "department": "Information Tech.",
@@ -1146,6 +1146,18 @@
       }
     ],
     "result": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50479",
+        "title": "Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency",
+        "category": "result",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 7,
+        "context": "Office Wise Search Date: 27 Mar 2026 Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong <div class=\"views-field views"
+      },
       {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
