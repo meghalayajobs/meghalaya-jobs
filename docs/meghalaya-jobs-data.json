@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T09:45:13.734Z",
-  "generatedAtLabel": "31 March 2026 at 03:15 pm",
+  "generatedAt": "2026-03-31T12:06:08.008Z",
+  "generatedAtLabel": "31 March 2026 at 05:36 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -18,6 +18,18 @@
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17749578462372.pdf",
+        "title": "District IT Manager cum Accountant Recruitment under SBM-G",
+        "category": "recruitment",
+        "publishedAt": "2026-03-31T00:00:00.000Z",
+        "publishedLabel": "31 Mar 2026",
+        "sortValue": 1774915200000,
+        "score": 40,
+        "context": "District IT Manager cum Accountant Recruitment under SBM-G. 31/03/2026 15/04/2026 View (355 KB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -53,18 +65,6 @@
         "sortValue": 1774569600000,
         "score": 12,
         "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // <a href=\"Latest News/estt-2/2026/APPLICATION FORM (SRD) - ANNEXURE-"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17745235527440.pdf",
-        "title": "IT Professional Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-03-26T00:00:00.000Z",
-        "publishedLabel": "26 Mar 2026",
-        "sortValue": 1774483200000,
-        "score": 40,
-        "context": "Applications are invited to apply for the post of IT professional. 26/03/2026 15/04/2026 View (409 KB)"
       },
       {
         "department": "East Garo Hills",
@@ -742,7 +742,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch"
       },
       {
         "department": "Information Tech.",
@@ -929,6 +929,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17749578462372.pdf",
+        "title": "District IT Manager cum Accountant Recruitment under SBM-G",
+        "category": "recruitment",
+        "publishedAt": "2026-03-31T00:00:00.000Z",
+        "publishedLabel": "31 Mar 2026",
+        "sortValue": 1774915200000,
+        "score": 40,
+        "context": "District IT Manager cum Accountant Recruitment under SBM-G. 31/03/2026 15/04/2026 View (355 KB)"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(3rd%20Cut%20off%20Date).pdf",
@@ -963,18 +975,6 @@
         "sortValue": 1774569600000,
         "score": 12,
         "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // <a href=\"Latest News/estt-2/2026/APPLICATION FORM (SRD) - ANNEXURE-"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17745235527440.pdf",
-        "title": "IT Professional Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-03-26T00:00:00.000Z",
-        "publishedLabel": "26 Mar 2026",
-        "sortValue": 1774483200000,
-        "score": 40,
-        "context": "Applications are invited to apply for the post of IT professional. 26/03/2026 15/04/2026 View (409 KB)"
       },
       {
         "department": "East Garo Hills",
