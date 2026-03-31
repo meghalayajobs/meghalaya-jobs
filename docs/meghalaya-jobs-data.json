@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T12:06:08.008Z",
-  "generatedAtLabel": "31 March 2026 at 05:36 pm",
+  "generatedAt": "2026-03-31T13:53:13.579Z",
+  "generatedAtLabel": "31 March 2026 at 07:23 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,13 +11,25 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 19,
     "result": 18,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17749603902767.pdf",
+        "title": "DSC East Khasi Hills – Advertisement for vacant posts [2026]",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
+      },
       {
         "department": "East Garo Hills",
         "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
@@ -293,18 +305,6 @@
         "sortValue": 1773446400000,
         "score": 12,
         "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://rpa.meghalaya.gov.in/rpaonline",
-        "title": "Online Application",
-        "category": "recruitment",
-        "publishedAt": "2026-03-14T00:00:00.000Z",
-        "publishedLabel": "14 Mar 2026",
-        "sortValue": 1773446400000,
-        "score": 6,
-        "context": "below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing. 17-03-2026 No.MPSC/D-50/1/2021-2022/65 CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <"
       }
     ],
     "admit_card": [
@@ -637,6 +637,30 @@
     ],
     "other_notice": [
       {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "title": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "category": "other_notice",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 7,
+        "context": "(in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from 01/04/2026 01/05/2026 View (2"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/notice-contract-award-request-bids-%E2%80%9Cprocurement-office-equipment-furniture-fixtures-under-scep-mbda%E2%80%9D",
+        "title": "Notice for Contract of Award of Request for Bids for “Procurement of office equipment, furniture, fixtures under SCEP (MBDA)”",
+        "category": "other_notice",
+        "publishedAt": "2026-03-31T00:00:00.000Z",
+        "publishedLabel": "31 Mar 2026",
+        "sortValue": 1774915200000,
+        "score": 7,
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 31/03/2026 <a href=\"/g-17-procurement-material-knowledge-ma"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/EWS%20CERTIFICATE%20FORMAT%20-%20Annexure%20II.pdf",
@@ -658,7 +682,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 27/03/2026 <a href=\"/request-proposal-selection-agency-esta"
+        "context": "ment, furniture, fixtures under SCEP (MBDA)” 31/03/2026 27/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "North Garo Hills",
@@ -711,14 +735,26 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
-        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "url": "https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya",
+        "title": "Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya",
         "category": "other_notice",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "publishedLabel": "25 Mar 2026",
-        "sortValue": 1774396800000,
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
         "score": 7,
-        "context": "ge Management under MegARISE Notice of Award 27/03/2026 25/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+        "context": "eTime\" content=\"2026-03-25T00:00:00+05:30\">25/03/2026 24/03/2026 <a href=\"/declaration-results-walk-ln-lnterview-position-senior-"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/rfb-procurement-office-furniture-appliances-and-itelectronic-equipment-prime-hub-jowai",
+        "title": "RFB for Procurement of Office Furniture, appliances, and IT/Electronic equipment at PRIME Hub, Jowai",
+        "category": "other_notice",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 7,
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 24/03/2026 <a href=\"/corrigendum-1-and-response-bid-queries-rfb-procurement"
       },
       {
         "department": "MBDA",
@@ -730,7 +766,19 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
+        "context": "appliances, and IT/Electronic equipment at PRIME Hub, Jowai 24/03/2026 23/03/2026 <div class=\""
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-2-request-bids-rfb-procurement-office-equipment-furniture-fixtures-under-scep-mbda",
+        "title": "Corrigendum 2 for Request for Bids (RFB) for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 7,
+        "context": "eTime\" content=\"2026-03-23T00:00:00+05:30\">23/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
       },
       {
         "department": "MSRLS",
@@ -742,7 +790,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "Information Tech.",
@@ -755,30 +803,6 @@
         "sortValue": 1773878400000,
         "score": 12,
         "context": "length=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Mar 26 2026 [NEW] Mar 19 2026 [NEW] Online Registration for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya Click Here Note: Bett"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/addendum-2-rfp-biofertilizer-biopesticide-under-cdp",
-        "title": "Addendum 2 - RFP for Biofertilizer & Biopesticide - under CDP",
-        "category": "other_notice",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 7,
-        "context": "eTime\" content=\"2026-03-19T00:00:00+05:30\">19/03/2026 19/03/2026 Request for Proposal - Individual Consultant - Monitoring"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-bids-rfb-procurement-office-equipmentfurniturefixtures-under-scep-mbda",
-        "title": "Request for Bids (RFB) for Procurement of Office Equipment/Furniture/Fixtures under SCEP (MBDA)",
-        "category": "other_notice",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 7,
-        "context": "nder\">Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 19/03/2026 <div class=\""
       },
       {
         "department": "Education Dept",
@@ -803,18 +827,6 @@
         "sortValue": 1773792000000,
         "score": 40,
         "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-individual-consultant-monitoring-evaluation-mpower",
-        "title": "Request for Proposal - Individual Consultant - Monitoring & Evaluation - MPOWER",
-        "category": "other_notice",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 7,
-        "context": "n-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 18/03/2026 Advertisement for the position Senior Data Scientist & Programme Associate- Data Analyst &n"
       },
       {
         "department": "North Garo Hills",
@@ -850,7 +862,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Procurement Notice - Data Analytics 24/02/2"
+        "context": "sp; 06/03/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
       },
       {
         "department": "Education Dept",
@@ -911,23 +923,23 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17749603902767.pdf",
+        "title": "DSC East Khasi Hills – Advertisement for vacant posts [2026]",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
+      },
       {
         "department": "East Garo Hills",
         "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
