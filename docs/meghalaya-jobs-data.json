@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-01T06:12:50.646Z",
-  "generatedAtLabel": "01 April 2026 at 11:42 am",
+  "generatedAt": "2026-04-01T10:36:33.634Z",
+  "generatedAtLabel": "01 April 2026 at 04:06 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,7 +11,7 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 19,
     "result": 17,
     "admit_card": 0
   },
@@ -29,6 +29,30 @@
         "sortValue": 1775001600000,
         "score": 40,
         "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17750366627663.pdf",
+        "title": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for the post of Grade-IV on the 9th and 10th April 2026.",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for the post of Grade-IV on the 9th and 10th April 2026. 01/04/2026 30/04/2026 View (478 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/04/17750286359362.pdf",
+        "title": "Advertisement for the post of Assistant Teacher -Mathematics in UP Graded RMSA Sec. Schools",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "Advertisement for the post of Assistant Teacher – Mathematics in UP Graded RMSA Sec. Schools 01/04/2026 10/04/2026 View (284 KB)"
       },
       {
         "department": "East Garo Hills",
@@ -281,30 +305,6 @@
         "sortValue": 1773446400000,
         "score": 40,
         "context": "CORRIGENDUM This is for general information of all candidates and general public that as per Letter No.PER(AR) 64/2022/41, dated Shillong, the 4th November, 2025 received from the Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv.Reforms (B) Department for the post of Assistant Engineer under Urban Affairs Department which was advertised earlier by the Commission. 14-03-2026 -"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
-        "title": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing.",
-        "category": "recruitment",
-        "publishedAt": "2026-03-14T00:00:00.000Z",
-        "publishedLabel": "14 Mar 2026",
-        "sortValue": 1773446400000,
-        "score": 12,
-        "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
-        "title": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing.",
-        "category": "recruitment",
-        "publishedAt": "2026-03-14T00:00:00.000Z",
-        "publishedLabel": "14 Mar 2026",
-        "sortValue": 1773446400000,
-        "score": 12,
-        "context": "tual.html\" title=\"Click here to see more\"> More about Programmes Schedule CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ <a href=\"notify/No"
       }
     ],
     "admit_card": [
@@ -637,6 +637,18 @@
     ],
     "other_notice": [
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17750367286462.pdf",
+        "title": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for various posts on the 6th, 7th and 8th April 2026.",
+        "category": "other_notice",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for various posts on the 6th, 7th and 8th April 2026. 01/04/2026 30/04/2026 View (358 KB)"
+      },
+      {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://rpa.meghalaya.gov.in/rpaonline/",
@@ -735,18 +747,6 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
-        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
-        "category": "other_notice",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "publishedLabel": "25 Mar 2026",
-        "sortValue": 1774396800000,
-        "score": 7,
-        "context": "2026-03-27T00:00:00+05:30\">27/03/2026 25/03/2026 <a href=\"/advertisement-internship-program-farm-m"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya",
         "title": "Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya",
         "category": "other_notice",
@@ -781,6 +781,18 @@
         "context": "ronic-equipment-prime-hub-jowai\">RFB for Procurement of Office Furniture, appliances, and IT/Electronic equipment at PRIME Hub, Jowai 24/03/2026 23/03/2026 <div class=\""
       },
       {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-2-request-bids-rfb-procurement-office-equipment-furniture-fixtures-under-scep-mbda",
+        "title": "Corrigendum 2 for Request for Bids (RFB) for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 7,
+        "context": "eTime\" content=\"2026-03-23T00:00:00+05:30\">23/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notice-opening-financial-bid",
@@ -790,7 +802,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch"
       },
       {
         "department": "Information Tech.",
@@ -829,18 +841,6 @@
         "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
-        "title": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC",
-        "category": "other_notice",
-        "publishedAt": "2026-03-13T00:00:00.000Z",
-        "publishedLabel": "13 Mar 2026",
-        "sortValue": 1773360000000,
-        "score": 40,
-        "context": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC 13/03/2026 31/10/2026 View (873 KB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20JRD%20interview%20on%2012.03.2026%20with%20lists%20of%20Eligible%20%20In-Eligibe%20candidates%2005-03-2026.pdf",
@@ -862,7 +862,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
+        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Procurement Notice - Data Analytics 24/02/2"
       },
       {
         "department": "Education Dept",
@@ -939,6 +939,30 @@
         "sortValue": 1775001600000,
         "score": 40,
         "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17750366627663.pdf",
+        "title": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for the post of Grade-IV on the 9th and 10th April 2026.",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for the post of Grade-IV on the 9th and 10th April 2026. 01/04/2026 30/04/2026 View (478 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/04/17750286359362.pdf",
+        "title": "Advertisement for the post of Assistant Teacher -Mathematics in UP Graded RMSA Sec. Schools",
+        "category": "recruitment",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "Advertisement for the post of Assistant Teacher – Mathematics in UP Graded RMSA Sec. Schools 01/04/2026 10/04/2026 View (284 KB)"
       },
       {
         "department": "East Garo Hills",
