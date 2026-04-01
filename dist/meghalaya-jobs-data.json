@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T23:50:09.722Z",
-  "generatedAtLabel": "01 April 2026 at 05:20 am",
+  "generatedAt": "2026-04-01T06:12:50.646Z",
+  "generatedAtLabel": "01 April 2026 at 11:42 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,8 +11,8 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 19,
-    "result": 18,
+    "recruitment": 17,
+    "result": 17,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -735,6 +735,18 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
+        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "publishedLabel": "25 Mar 2026",
+        "sortValue": 1774396800000,
+        "score": 7,
+        "context": "2026-03-27T00:00:00+05:30\">27/03/2026 25/03/2026 <a href=\"/advertisement-internship-program-farm-m"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya",
         "title": "Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya",
         "category": "other_notice",
@@ -769,18 +781,6 @@
         "context": "ronic-equipment-prime-hub-jowai\">RFB for Procurement of Office Furniture, appliances, and IT/Electronic equipment at PRIME Hub, Jowai 24/03/2026 23/03/2026 <div class=\""
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/corrigendum-2-request-bids-rfb-procurement-office-equipment-furniture-fixtures-under-scep-mbda",
-        "title": "Corrigendum 2 for Request for Bids (RFB) for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
-        "category": "other_notice",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "publishedLabel": "23 Mar 2026",
-        "sortValue": 1774224000000,
-        "score": 7,
-        "context": "eTime\" content=\"2026-03-23T00:00:00+05:30\">23/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notice-opening-financial-bid",
@@ -790,7 +790,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
       },
       {
         "department": "Information Tech.",
@@ -862,7 +862,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Procurement Notice - Data Analytics 24/02/2"
+        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
       },
       {
         "department": "Education Dept",
@@ -1131,30 +1131,6 @@
         "sortValue": 1773792000000,
         "score": 12,
         "context": "Note: Better viewed in Chrome Browser Mar 19 2026 [NEW] Details Advertisement for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya Mar 19 2026 [NEW] Mar 18 2026 [NEW] Notice Inviting Tender for Supply, Installation, Commissioning, Testing of IT Equipment and Software for the Data AI Lab at Shillong Polytechnic, ITI Rynjah – Shillong and ITI Tura, Meghalaya Mar 02 2026 [NEW]"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Advt17Mar2026.pdf",
-        "title": "No.1/2026",
-        "category": "recruitment",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "publishedLabel": "17 Mar 2026",
-        "sortValue": 1773705600000,
-        "score": 40,
-        "context": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile Investigator in the Directorate of Housing. 17-03-2026 Online Application"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17Mar2026b.pdf",
-        "title": "No.MPSC/D-50/1/2021-2022/65",
-        "category": "recruitment",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "publishedLabel": "17 Mar 2026",
-        "sortValue": 1773705600000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ 17-03-2026 -"
       }
     ],
     "result": [
@@ -1361,18 +1337,6 @@
         "sortValue": 1773792000000,
         "score": 7,
         "context": "lt=\"new item\"> 2026-03-24 2026-03-18 <div class=\"vie"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50347",
-        "title": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT)",
-        "category": "result",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "publishedLabel": "17 Mar 2026",
-        "sortValue": 1773705600000,
-        "score": 7,
-        "context": "iv> Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 19 Mar 2026 Date: 17 Mar 2026 Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL <span class=\"views-"
       }
     ],
     "admit_card": []
