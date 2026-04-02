@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-02T05:50:39.945Z",
-  "generatedAtLabel": "02 April 2026 at 11:20 am",
+  "generatedAt": "2026-04-02T09:40:02.666Z",
+  "generatedAtLabel": "02 April 2026 at 03:10 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -350,7 +350,7 @@
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
-        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Driver Constable & Fireman Mechanic/Mechanic",
+        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator & Fireman Mechanic/Mechanic",
         "category": "result",
         "publishedAt": "2026-04-01T00:00:00.000Z",
         "publishedLabel": "01 Apr 2026",
@@ -639,6 +639,18 @@
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17751197581642.pdf",
+        "title": "NOTICE: Proposal received regarding execution of Gift Deed of land situated at New Kantolguri, North Garo Hills District",
+        "category": "other_notice",
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "publishedLabel": "02 Apr 2026",
+        "sortValue": 1775088000000,
+        "score": 40,
+        "context": "NOTICE: Proposal received regarding execution of Gift Deed of land situated at New Kantolguri, North Garo Hills District 02/04/2026 30/04/2026 View (593 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17750367286462.pdf",
         "title": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for various posts on the 6th, 7th and 8th April 2026.",
         "category": "other_notice",
@@ -695,6 +707,18 @@
         "sortValue": 1774569600000,
         "score": 7,
         "context": "ment, furniture, fixtures under SCEP (MBDA)” 31/03/2026 27/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/eoi-hiring-vehicle-march-2026",
+        "title": "EOI- Hiring of Vehicle March, 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 7,
+        "context": "\"> 27/03/2026 Notice -Opening of Financial Bid <span class=\"date-display-single\" prope"
       },
       {
         "department": "North Garo Hills",
@@ -766,7 +790,7 @@
         "publishedLabel": "24 Mar 2026",
         "sortValue": 1774310400000,
         "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 24/03/2026 Corrigendum 2 for Request for B"
+        "context": "eTime\" content=\"2026-03-25T00:00:00+05:30\">25/03/2026 24/03/2026 Declaration of results for the Walk ln lnterview for the"
       },
       {
         "department": "MBDA",
@@ -778,7 +802,7 @@
         "publishedLabel": "24 Mar 2026",
         "sortValue": 1774310400000,
         "score": 7,
-        "context": "-lnterview-position-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 24/03/2026 <div class="
+        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 24/03/2026 Corrigendum 2 for Request for B"
       },
       {
         "department": "MBDA",
@@ -802,7 +826,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "Information Tech.",
@@ -829,18 +853,6 @@
         "context": "Content Summary Format No. EDN.209/2025/7 Dated 18-03-2026 Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026) (200kb)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf",
-        "title": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20JRD%20interview%20on%2012.03.2026%20with%20lists%20of%20Eligible%20%20In-Eligibe%20candidates%2005-03-2026.pdf",
@@ -862,7 +874,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
+        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
       },
       {
         "department": "Education Dept",
@@ -911,18 +923,6 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
@@ -1174,7 +1174,7 @@
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
-        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Driver Constable & Fireman Mechanic/Mechanic",
+        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator & Fireman Mechanic/Mechanic",
         "category": "result",
         "publishedAt": "2026-04-01T00:00:00.000Z",
         "publishedLabel": "01 Apr 2026",
