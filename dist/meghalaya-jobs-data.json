@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-03T08:36:05.670Z",
-  "generatedAtLabel": "03 April 2026 at 02:06 pm",
+  "generatedAt": "2026-04-03T11:25:32.886Z",
+  "generatedAtLabel": "03 April 2026 at 04:55 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -874,7 +874,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
+        "context": "s-row-odd item-list-slider\"> NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General 06/03/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
       },
       {
         "department": "Education Dept",
@@ -1317,18 +1317,7 @@
     ],
     "admit_card": []
   },
-  "failedSources": [
-    {
-      "department": "DERT",
-      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "DHET",
-      "url": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
