@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T10:36:50.185Z",
-  "generatedAtLabel": "07 April 2026 at 04:06 pm",
+  "generatedAt": "2026-04-07T14:58:06.232Z",
+  "generatedAtLabel": "07 April 2026 at 08:28 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "displayCounts": {
     "recruitment": 20,
-    "result": 8,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -232,7 +232,7 @@
         "publishedLabel": "25 Mar 2026",
         "sortValue": 1774396800000,
         "score": 7,
-        "context": "dex=\"0\"> 25/03/2026 Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow <"
+        "context": "ning-program-gis\">Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS) 07/04/2026 25/03/2026 Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow <s"
       },
       {
         "department": "South Garo Hills",
@@ -347,6 +347,18 @@
     ],
     "result": [
       {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/shortlisted-candidate-list-written-examination-apprentice-training-program-gis",
+        "title": "Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS)",
+        "category": "result",
+        "publishedAt": "2026-04-07T00:00:00.000Z",
+        "publishedLabel": "07 Apr 2026",
+        "sortValue": 1775520000000,
+        "score": 7,
+        "context": "dex=\"0\"> 07/04/2026 Advertisement for Internshi"
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
@@ -440,7 +452,7 @@
         "publishedLabel": "24 Mar 2026",
         "sortValue": 1774310400000,
         "score": 7,
-        "context": "tem\"> Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consultant - Monitoring & Evaluation - MPOWER <span clas"
+        "context": "item\"> Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consultant - Monitoring & Evaluation - MPOWER <span cla"
       },
       {
         "department": "North Garo Hills",
@@ -465,18 +477,6 @@
         "sortValue": 1774224000000,
         "score": 40,
         "context": "NOTIFICATION: Result of Language Proficiency Test for the post of Weaving Demonstrator and Sericulture Demonstrator conducted on the 11th September 2025. 23/03/2026 30/04/2026 View (401 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17742668615838.pdf",
-        "title": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025.",
-        "category": "result",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "publishedLabel": "23 Mar 2026",
-        "sortValue": 1774224000000,
-        "score": 40,
-        "context": "Result of Language Proficiency Test for the post of Typist, Sectional Assistant, Driver, Storekeeper and Sales assistant conducted on the 22nd Oct 2025, 21st Nov 2025 and 24th Nov 2025. 23/03/2026 30/04/2026 View (415 KB)"
       },
       {
         "department": "MSRLS",
@@ -639,6 +639,18 @@
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17755631761924.pdf",
+        "title": "CORRIGENDUM: Inspection of land at New Kantolguri, North Garo Hills, District Park University scheduled on 8th April 2026 stands revised and re-scheduled to 9th April 2026 due to unforeseen circumstances.",
+        "category": "other_notice",
+        "publishedAt": "2026-04-07T00:00:00.000Z",
+        "publishedLabel": "07 Apr 2026",
+        "sortValue": 1775520000000,
+        "score": 40,
+        "context": "CORRIGENDUM: Inspection of land at New Kantolguri, North Garo Hills, District Park University scheduled on 8th April 2026 stands revised and re-scheduled to 9th April 2026 due to unforeseen circumstances. 07/04/2026 30/04/2026 View (439 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17751197581642.pdf",
         "title": "NOTICE: Proposal received regarding execution of Gift Deed of land situated at New Kantolguri, North Garo Hills District",
         "category": "other_notice",
@@ -682,7 +694,7 @@
         "publishedLabel": "31 Mar 2026",
         "sortValue": 1774915200000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 31/03/2026 <a href=\"/g-17-procurement-material-knowledge-ma"
+        "context": "on for the Apprentice Training Program (GIS) 07/04/2026 31/03/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "NEIGRIHMS",
@@ -706,7 +718,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "ment, furniture, fixtures under SCEP (MBDA)” 31/03/2026 27/03/2026"
+        "context": "2026-03-31T00:00:00+05:30\">31/03/2026 27/03/2026 Advertisement for Internship Pr"
       },
       {
         "department": "North Garo Hills",
@@ -759,30 +771,6 @@
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-selection-agency-establishing-remote-pilot-training-organization-rpto",
-        "title": "Request for Proposal for Selection of an Agency for Establishing a Remote Pilot Training Organization (RPTO)",
-        "category": "other_notice",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "publishedLabel": "25 Mar 2026",
-        "sortValue": 1774396800000,
-        "score": 7,
-        "context": "2026-03-27T00:00:00+05:30\">27/03/2026 25/03/2026 Advertisement for Internship Pr"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/request-proposal-hiring-agency-design-and-implementation-learning-mission-meghalaya",
-        "title": "Request for Proposal for Hiring of an Agency for the Design and Implementation of Learning Mission in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 7,
-        "context": "Time\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 24/03/2026 Corrigendum 2 for Request for B"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/rfb-procurement-office-furniture-appliances-and-itelectronic-equipment-prime-hub-jowai",
         "title": "RFB for Procurement of Office Furniture, appliances, and IT/Electronic equipment at PRIME Hub, Jowai",
         "category": "other_notice",
@@ -790,7 +778,7 @@
         "publishedLabel": "24 Mar 2026",
         "sortValue": 1774310400000,
         "score": 7,
-        "context": "-lnterview-position-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 24/03/2026 <div class="
+        "context": "-lnterview-position-senior-proiect-fellow\">Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow 24/03/2026 24/03/2026 <div class=\""
       },
       {
         "department": "MBDA",
@@ -802,7 +790,19 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "eTime\" content=\"2026-03-23T00:00:00+05:30\">23/03/2026 23/03/2026 Request for Bids (RFB) for Procurement of Offic"
+        "context": "eTime\" content=\"2026-03-24T00:00:00+05:30\">24/03/2026 23/03/2026 Corrigendum 2 for Request for B"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-2-request-bids-rfb-procurement-office-equipment-furniture-fixtures-under-scep-mbda",
+        "title": "Corrigendum 2 for Request for Bids (RFB) for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA)",
+        "category": "other_notice",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "publishedLabel": "23 Mar 2026",
+        "sortValue": 1774224000000,
+        "score": 7,
+        "context": "nder\">Corrigendum 1 and Response to Bid Queries of the RFB for Procurement of Office Equipment/ Furniture/ Fixtures under SCEP (MBDA) 23/03/2026 23/03/2026 <div class="
       },
       {
         "department": "MSRLS",
@@ -838,7 +838,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-odd item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
+        "context": "sp; 06/03/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
       },
       {
         "department": "MPSC notice",
@@ -1142,7 +1142,7 @@
         "publishedLabel": "25 Mar 2026",
         "sortValue": 1774396800000,
         "score": 7,
-        "context": "dex=\"0\"> 25/03/2026 Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow <"
+        "context": "ning-program-gis\">Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS) 07/04/2026 25/03/2026 Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow <s"
       },
       {
         "department": "South Garo Hills",
@@ -1170,6 +1170,18 @@
       }
     ],
     "result": [
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/shortlisted-candidate-list-written-examination-apprentice-training-program-gis",
+        "title": "Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS)",
+        "category": "result",
+        "publishedAt": "2026-04-07T00:00:00.000Z",
+        "publishedLabel": "07 Apr 2026",
+        "sortValue": 1775520000000,
+        "score": 7,
+        "context": "dex=\"0\"> 07/04/2026 Advertisement for Internshi"
+      },
       {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
@@ -1264,7 +1276,7 @@
         "publishedLabel": "24 Mar 2026",
         "sortValue": 1774310400000,
         "score": 7,
-        "context": "tem\"> Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consultant - Monitoring & Evaluation - MPOWER <span clas"
+        "context": "item\"> Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies 25/03/2026 24/03/2026 Request for Proposal - Individual Consultant - Monitoring & Evaluation - MPOWER <span cla"
       }
     ],
     "admit_card": []
