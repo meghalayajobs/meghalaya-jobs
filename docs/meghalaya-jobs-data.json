@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-08T23:54:25.213Z",
-  "generatedAtLabel": "09 April 2026 at 05:24 am",
+  "generatedAt": "2026-04-09T05:59:38.494Z",
+  "generatedAtLabel": "09 April 2026 at 11:29 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -11,7 +11,7 @@
     "other_notice": 24
   },
   "displayCounts": {
-    "recruitment": 19,
+    "recruitment": 18,
     "result": 9,
     "admit_card": 0
   },
@@ -778,7 +778,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"> 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "Information Tech.",
@@ -1143,18 +1143,6 @@
         "sortValue": 1774483200000,
         "score": 11,
         "context": "XURE- I.pdf\" target=\"_blank\">JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // // EWS Certificate Format 26-03-2026 Vacancy Circular for the post of Director (Level 15) on deputation basis a"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/advertisement-internship-program-farm-managers-agro-based-cooperative-societies",
-        "title": "Advertisement for Internship Program for Farm Managers for Agro Based Cooperative Societies",
-        "category": "recruitment",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "publishedLabel": "25 Mar 2026",
-        "sortValue": 1774396800000,
-        "score": 7,
-        "context": "ning-program-gis\">Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS) 07/04/2026 25/03/2026 Declaration of results for the Walk ln lnterview for the position of Senior Proiect Fellow <s"
       }
     ],
     "result": [
