@@ -137,6 +137,20 @@ const months = {
   dec: 12
 };
 
+const latestPostsFeedLimit = 40;
+const latestPostsDisplayLimit = 18;
+const latestPostsDescriptionLimit = 320;
+
+const postTypeLabels = {
+  recruitment: "Recruitment",
+  admit_card: "Admit Card",
+  result: "Result",
+  syllabus: "Syllabus",
+  answer_key: "Answer Key",
+  exam: "Exam Update",
+  other: "Latest Update"
+};
+
 function normalizeSpace(value) {
   return String(value ?? "").replace(/\s+/g, " ").trim();
 }
@@ -726,6 +740,965 @@ function buildDisplayGrouped(grouped, generatedAt, siteConfig) {
       filterRecentItems(grouped[category] ?? [], generatedAt).slice(0, siteConfig.maxItemsPerCategory)
     ])
   );
+}
+
+function safeDate(value) {
+  if (!value) {
+    return null;
+  }
+
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
+
+function serializeJsonLd(value) {
+  return JSON.stringify(value, null, 2).replace(/</g, "\\u003c");
+}
+
+function normalizeFieldLabel(value) {
+  return normalizeSpace(String(value ?? "").toLowerCase().replace(/[^a-z0-9]+/g, " "));
+}
+
+function extractTableFieldMap(html) {
+  const fieldMap = new Map();
+  const rows = html.match(/<tr\b[\s\S]*?<\/tr>/gi) ?? [];
+
+  for (const rowHtml of rows) {
+    const cells = Array.from(rowHtml.matchAll(/<t[dh]\b[^>]*>([\s\S]*?)<\/t[dh]>/gi))
+      .map((match) => normalizeSpace(stripTags(match[1] ?? "")))
+      .filter(Boolean);
+
+    if (cells.length < 2) {
+      continue;
+    }
+
+    const label = normalizeFieldLabel(cells[0]);
+    const value = normalizeSpace(cells.slice(1).join(" "));
+    if (label && value && value !== "-") {
+      fieldMap.set(label, value);
+    }
+  }
+
+  const blockPattern = /<(p|li)\b[^>]*>([\s\S]*?)<\/\1>/gi;
+  let match;
+  while ((match = blockPattern.exec(html)) !== null) {
+    const text = normalizeSpace(stripTags(match[2] ?? ""));
+    const pair = text.match(/^([A-Za-z][A-Za-z0-9\s./&()'-]{2,48})\s*:\s*(.+)$/);
+    if (!pair) {
+      continue;
+    }
+
+    const label = normalizeFieldLabel(pair[1]);
+    const value = normalizeSpace(pair[2]);
+    if (!fieldMap.has(label) && label && value) {
+      fieldMap.set(label, value);
+    }
+  }
+
+  return fieldMap;
+}
+
+function findFieldValue(fieldMap, matchers) {
+  for (const [label, value] of fieldMap.entries()) {
+    if (
+      matchers.some((matcher) =>
+        typeof matcher === "string" ? label.includes(matcher) : matcher.test(label)
+      )
+    ) {
+      return value;
+    }
+  }
+
+  return null;
+}
+
+function extractLastDateFromText(text) {
+  const patterns = [
+    /(?:last date(?: to apply)?|application last date|closing date|last date of submission|apply before)\s*[:\-]?\s*([^\n|]{4,60})/i,
+    /(?:walk[-\s]?in date)\s*[:\-]?\s*([^\n|]{4,60})/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = String(text ?? "").match(pattern);
+    if (!match) {
+      continue;
+    }
+
+    const detected = detectDate(match[1]);
+    if (detected) {
+      return detected.label;
+    }
+
+    const candidate = normalizeSpace(match[1]).replace(/[.;,]+$/g, "");
+    if (candidate) {
+      return candidate;
+    }
+  }
+
+  return null;
+}
+
+function extractOrganizationFromText(text) {
+  const patterns = [
+    /(?:organization|conducting body|conducting authority|department|recruiting body)\s*[:\-]?\s*([^\n|]{3,80})/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = String(text ?? "").match(pattern);
+    if (match?.[1]) {
+      return normalizeSpace(match[1]).replace(/[.;,]+$/g, "");
+    }
+  }
+
+  return null;
+}
+
+function extractOrganizationFromTitle(title) {
+  const match = String(title ?? "").match(
+    /^(.*?)\s+(?:Recruitment|Result|Admit Card|Syllabus|Answer Key|Notification|Exam|Vacancy|Vacancies|Jobs?)\b/i
+  );
+
+  return match?.[1] ? normalizeSpace(match[1]) : null;
+}
+
+function extractImageUrls(html, pageUrl) {
+  const urls = [];
+  const imgPattern =
+    /<img\b[^>]*?src\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))[^>]*>/gi;
+
+  let match;
+  while ((match = imgPattern.exec(html)) !== null) {
+    const src = decodeEntities(match[1] ?? match[2] ?? match[3] ?? "");
+    if (!src) {
+      continue;
+    }
+
+    try {
+      urls.push(new URL(src, pageUrl).href);
+    } catch {
+      continue;
+    }
+  }
+
+  return urls;
+}
+
+function extractMeaningfulParagraphs(html) {
+  return Array.from(html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi))
+    .map((match) => normalizeSpace(stripTags(match[1] ?? "")))
+    .filter((text) => text.length >= 40)
+    .filter(
+      (text) =>
+        !/^(check also|important links|official website|join telegram|join whatsapp|faqs?)\b/i.test(
+          text
+        )
+    )
+    .filter(
+      (text) =>
+        !/\b(?:click here|download pdf|visit website|join now|not released yet)\b/i.test(text)
+    );
+}
+
+function truncateText(text, maxLength) {
+  const normalized = normalizeSpace(text);
+  if (normalized.length <= maxLength) {
+    return normalized;
+  }
+
+  const clipped = normalized.slice(0, maxLength + 1);
+  const boundary = Math.max(
+    clipped.lastIndexOf(". "),
+    clipped.lastIndexOf("; "),
+    clipped.lastIndexOf(", "),
+    clipped.lastIndexOf(" ")
+  );
+
+  return `${clipped.slice(0, boundary > maxLength * 0.55 ? boundary : maxLength).trim()}...`;
+}
+
+function getInitials(value) {
+  const words = normalizeSpace(value)
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2);
+
+  if (!words.length) {
+    return "MJ";
+  }
+
+  return words.map((word) => word.charAt(0).toUpperCase()).join("");
+}
+
+function getEntryAlternateLink(entry) {
+  return (entry?.link ?? []).find((link) => link.rel === "alternate")?.href ?? null;
+}
+
+function resolvePostType(title, text = "", categories = []) {
+  const titleLower = String(title ?? "").toLowerCase();
+  const contextLower = `${String(text ?? "").toLowerCase()} ${categories
+    .join(" ")
+    .toLowerCase()}`;
+
+  if (/\banswer key\b/.test(titleLower)) {
+    return "answer_key";
+  }
+
+  if (textContainsKeyword(titleLower, categoryKeywords.admit_card)) {
+    return "admit_card";
+  }
+
+  if (textContainsKeyword(titleLower, categoryKeywords.result)) {
+    return "result";
+  }
+
+  if (textContainsKeyword(titleLower, categoryKeywords.recruitment)) {
+    return "recruitment";
+  }
+
+  if (/\bsyllabus\b/.test(titleLower)) {
+    return "syllabus";
+  }
+
+  if (/\bexam date\b|\bexam pattern\b|\bexam schedule\b/.test(titleLower)) {
+    return "exam";
+  }
+
+  if (/\banswer key\b/.test(contextLower)) {
+    return "answer_key";
+  }
+
+  if (textContainsKeyword(contextLower, categoryKeywords.admit_card)) {
+    return "admit_card";
+  }
+
+  if (textContainsKeyword(contextLower, categoryKeywords.result)) {
+    return "result";
+  }
+
+  if (textContainsKeyword(contextLower, categoryKeywords.recruitment)) {
+    return "recruitment";
+  }
+
+  if (/\bsyllabus\b/.test(contextLower)) {
+    return "syllabus";
+  }
+
+  if (/\bexam date\b|\bexam pattern\b|\bexam schedule\b/.test(contextLower)) {
+    return "exam";
+  }
+
+  return "other";
+}
+
+function resolveScopeLabel(categories, type, title) {
+  const preferredLabels = [
+    [/all india/i, "All India"],
+    [/(?:meghalaya govt job|state govt)/i, "State Govt."],
+    [/central govt/i, "Central Govt."],
+    [/bank/i, "Bank Job"],
+    [/(?:teaching|education)/i, "Teaching"],
+    [/(?:medical|health)/i, "Medical"],
+    [/(?:police|defence|army|navy|air force)/i, "Defence"],
+    [/railway/i, "Railway"]
+  ];
+
+  const values = [...(categories ?? []), title].filter(Boolean);
+  for (const [pattern, label] of preferredLabels) {
+    if (values.some((value) => pattern.test(value))) {
+      return label;
+    }
+  }
+
+  return postTypeLabels[type];
+}
+
+function buildPostDescription(html, text) {
+  const paragraphText = extractMeaningfulParagraphs(html)
+    .map((item) =>
+      item
+        .replace(/Meghalaya Jobs 2026(?: Update)?\s*:\s*/gi, "")
+        .replace(/\bmeghalayajobs\.in\b/gi, "MeghalayaJobs.in")
+    )
+    .join(" ");
+
+  const fallbackText = normalizeSpace(
+    String(text ?? "")
+      .replace(/Meghalaya Jobs 2026(?: Update)?\s*:\s*/gi, "")
+      .replace(/\s+/g, " ")
+  );
+
+  return truncateText(paragraphText || fallbackText, latestPostsDescriptionLimit);
+}
+
+function parseLatestPostEntry(entry, siteConfig) {
+  const title = normalizeSpace(entry?.title?.$t ?? "");
+  const url = getEntryAlternateLink(entry);
+  if (!title || !url) {
+    return null;
+  }
+
+  const cleanedUrl = cleanUrl(url);
+  const html = entry?.content?.$t ?? entry?.summary?.$t ?? "";
+  const text = stripTags(html);
+  const fieldMap = extractTableFieldMap(html);
+  const publishedDate = safeDate(entry?.published?.$t);
+  const updatedDate = safeDate(entry?.updated?.$t);
+  const categories = (entry?.category ?? [])
+    .map((item) => normalizeSpace(item?.term ?? ""))
+    .filter(Boolean);
+  const imageUrls = extractImageUrls(html, cleanedUrl);
+  const type = resolvePostType(title, text, categories);
+  const organization =
+    findFieldValue(fieldMap, [
+      /^organization$/,
+      /conducting body/,
+      /conducting authority/,
+      /^department$/,
+      /recruiting body/,
+      /^authority$/,
+      /recruitment board/
+    ]) ??
+    extractOrganizationFromTitle(title) ??
+    extractOrganizationFromText(text) ??
+    "Meghalaya Jobs";
+  const lastDateSource =
+    findFieldValue(fieldMap, [/last date/, /closing date/, /deadline/, /apply before/]) ??
+    extractLastDateFromText(text);
+  const lastDateDetected = detectDate(lastDateSource ?? "");
+  const lastDateLabel = lastDateDetected?.label ?? lastDateSource ?? null;
+  const description = buildPostDescription(html, text);
+  const logoUrl = entry?.["media$thumbnail"]?.url ?? imageUrls[0] ?? null;
+  const imageUrl = imageUrls[0] ?? logoUrl;
+
+  return {
+    title,
+    url: cleanedUrl,
+    organization,
+    type,
+    typeLabel: postTypeLabels[type],
+    scopeLabel: resolveScopeLabel(categories, type, title),
+    lastDateLabel,
+    publishedAt: publishedDate?.toISOString() ?? null,
+    updatedAt: updatedDate?.toISOString() ?? publishedDate?.toISOString() ?? null,
+    publishedLabel: publishedDate ? formatDisplayDate(publishedDate) : "Latest",
+    description,
+    logoUrl,
+    imageUrl,
+    categories
+  };
+}
+
+async function fetchJson(url, siteConfig) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), siteConfig.requestTimeoutMs);
+
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "user-agent": USER_AGENT,
+        accept: "application/json,text/javascript,*/*;q=0.8",
+        "accept-language": "en-IN,en;q=0.9"
+      },
+      redirect: "follow",
+      signal: controller.signal
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    return await response.json();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function collectLatestPosts(siteConfig) {
+  const feedUrl = `${siteConfig.latestJobsUrl.replace(
+    /\/+$/,
+    ""
+  )}/feeds/posts/default?alt=json&orderby=published&max-results=${latestPostsFeedLimit}`;
+
+  try {
+    const payload = await fetchJson(feedUrl, siteConfig);
+    const entries = Array.isArray(payload?.feed?.entry) ? payload.feed.entry : [];
+    const posts = entries
+      .map((entry) => parseLatestPostEntry(entry, siteConfig))
+      .filter(Boolean)
+      .filter(
+        (item) =>
+          item.lastDateLabel || ["result", "admit_card", "answer_key"].includes(item.type)
+      )
+      .slice(0, latestPostsDisplayLimit);
+
+    return {
+      posts,
+      error: null,
+      feedUrl
+    };
+  } catch (error) {
+    return {
+      posts: [],
+      error: error.message,
+      feedUrl
+    };
+  }
+}
+
+function renderPostsAlert(error) {
+  if (!error) {
+    return "";
+  }
+
+  return `
+    <div class="mjp-alert">
+      The latest MeghalayaJobs.in posts feed could not be refreshed during this run.
+      The Blogger card page was still generated, but live cards may be incomplete until the next successful fetch.
+    </div>
+  `;
+}
+
+function buildPostsSchema(posts, siteConfig) {
+  return serializeJsonLd({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Meghalaya Govt Jobs 2026 - Latest Vacancies & Notifications",
+    description:
+      "Auto-updating Meghalaya Jobs Blogger page with latest titles, last dates, organization names, images, and direct links from MeghalayaJobs.in.",
+    url: `${siteConfig.publicBaseUrl}/posts.html`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: posts.map((post, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: post.url,
+        name: post.title,
+        image: post.imageUrl ?? post.logoUrl ?? undefined,
+        datePublished: post.publishedAt ?? undefined
+      }))
+    }
+  });
+}
+
+function buildPostBoardStyles() {
+  return `
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+.mjp-shell,
+.mjp-shell * {
+  box-sizing: border-box;
+}
+
+.mjp-shell {
+  --mjp-bg: #05060a;
+  --mjp-card: rgba(12, 14, 26, 0.92);
+  --mjp-card-strong: rgba(16, 19, 34, 0.98);
+  --mjp-line: rgba(122, 134, 186, 0.22);
+  --mjp-line-strong: rgba(91, 151, 255, 0.4);
+  --mjp-text: #f5f7fc;
+  --mjp-muted: #b5bdd8;
+  --mjp-accent: #4f8fff;
+  --mjp-accent-soft: rgba(79, 143, 255, 0.14);
+  --mjp-date: #ff6fa9;
+  --mjp-pill: rgba(255, 255, 255, 0.09);
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1120px;
+  padding: 18px 10px 30px;
+  border-radius: 28px;
+  color: var(--mjp-text);
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(74, 111, 255, 0.15), transparent 28%),
+    radial-gradient(circle at bottom center, rgba(255, 111, 169, 0.1), transparent 30%),
+    linear-gradient(180deg, #06070d 0%, #090b14 100%);
+}
+
+.mjp-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 24px 20px;
+  border-radius: 24px;
+  border: 1px solid var(--mjp-line);
+  background:
+    radial-gradient(circle at 18% 18%, rgba(94, 159, 255, 0.16), transparent 20%),
+    linear-gradient(135deg, rgba(22, 25, 44, 0.98) 0%, rgba(10, 12, 24, 0.98) 100%);
+  box-shadow: 0 22px 60px rgba(0, 0, 0, 0.38);
+}
+
+.mjp-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto -110px -130px auto;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  background: rgba(79, 143, 255, 0.08);
+}
+
+.mjp-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 13px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: #d5def8;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mjp-hero h2 {
+  margin: 14px 0 0;
+  max-width: 760px;
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  font-size: clamp(28px, 5vw, 42px);
+  line-height: 1.08;
+}
+
+.mjp-hero p {
+  margin: 14px 0 0;
+  max-width: 760px;
+  color: rgba(245, 247, 252, 0.86);
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.mjp-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.mjp-chip,
+.mjp-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mjp-chip {
+  padding: 8px 13px;
+  color: #dbe4ff;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.mjp-stack {
+  display: grid;
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.mjp-alert {
+  padding: 14px 16px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 180, 98, 0.34);
+  background: rgba(88, 54, 14, 0.34);
+  color: #ffd9a6;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.mjp-post-card {
+  overflow: hidden;
+  border-radius: 24px;
+  border: 1px solid var(--mjp-line);
+  background:
+    linear-gradient(180deg, rgba(18, 20, 36, 0.98) 0%, rgba(11, 13, 24, 0.98) 100%);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.28);
+}
+
+.mjp-card-head {
+  display: grid;
+  grid-template-columns: 68px minmax(0, 1fr);
+  gap: 16px;
+  padding: 18px 18px 8px;
+}
+
+.mjp-logo-link,
+.mjp-logo-fallback {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+}
+
+.mjp-logo-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.mjp-logo-link img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mjp-logo-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(79, 143, 255, 0.9) 0%, rgba(255, 111, 169, 0.8) 100%);
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.mjp-card-title {
+  margin: 0;
+  font-size: clamp(24px, 3.9vw, 30px);
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+}
+
+.mjp-card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mjp-card-title a:hover {
+  color: #cfe0ff;
+}
+
+.mjp-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 18px 12px 18px;
+}
+
+.mjp-date {
+  color: var(--mjp-date);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.mjp-badge {
+  padding: 9px 14px;
+  background: var(--mjp-pill);
+  color: #eef2ff;
+}
+
+.mjp-card-details {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.mjp-card-details summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 18px 16px;
+  color: #e7ecff;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.mjp-card-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.mjp-caret {
+  transition: transform 0.2s ease;
+}
+
+.mjp-card-details[open] .mjp-caret {
+  transform: rotate(180deg);
+}
+
+.mjp-card-body {
+  display: grid;
+  gap: 16px;
+  padding: 0 18px 18px;
+}
+
+.mjp-feature {
+  overflow: hidden;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.mjp-feature img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.mjp-description {
+  margin: 0;
+  color: var(--mjp-muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.mjp-info-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.mjp-info {
+  padding: 14px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.mjp-info-label {
+  display: block;
+  margin-bottom: 6px;
+  color: #9ba7c8;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mjp-info-value {
+  display: block;
+  color: #f4f7ff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.mjp-actions {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.mjp-open-post {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #2a63ff 0%, #4f8fff 100%);
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: 0 14px 30px rgba(42, 99, 255, 0.34);
+}
+
+.mjp-open-post:hover {
+  filter: brightness(1.06);
+}
+
+.mjp-empty,
+.mjp-foot {
+  margin: 0;
+  color: var(--mjp-muted);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.mjp-empty {
+  padding: 18px;
+  border-radius: 22px;
+  border: 1px dashed rgba(255, 255, 255, 0.16);
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .mjp-shell {
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+  }
+
+  .mjp-hero,
+  .mjp-post-card {
+    border-radius: 22px;
+  }
+
+  .mjp-card-head {
+    grid-template-columns: 58px minmax(0, 1fr);
+    gap: 12px;
+    padding: 18px 14px 8px;
+  }
+
+  .mjp-logo-link,
+  .mjp-logo-fallback {
+    width: 58px;
+    height: 58px;
+  }
+
+  .mjp-card-title {
+    font-size: 18px;
+  }
+
+  .mjp-card-meta {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .mjp-card-body {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .mjp-badge {
+    padding: 8px 12px;
+    font-size: 11px;
+  }
+}
+  `.trim();
+}
+
+function renderPostCardLogo(post) {
+  if (post.logoUrl) {
+    return `
+      <a class="mjp-logo-link" href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(post.organization)}">
+        <img src="${escapeHtml(post.logoUrl)}" alt="${escapeHtml(post.organization)} logo" loading="lazy" />
+      </a>
+    `;
+  }
+
+  return `<div class="mjp-logo-fallback" aria-hidden="true">${escapeHtml(
+    getInitials(post.organization)
+  )}</div>`;
+}
+
+function renderPostCards(posts) {
+  if (!posts.length) {
+    return `<p class="mjp-empty">No recent MeghalayaJobs.in posts matched the latest jobs card rules.</p>`;
+  }
+
+  return posts
+    .map(
+      (post) => `
+        <article class="mjp-post-card" itemscope itemtype="https://schema.org/BlogPosting">
+          <div class="mjp-card-head">
+            ${renderPostCardLogo(post)}
+            <div>
+              <h3 class="mjp-card-title" itemprop="headline">
+                <a href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer" itemprop="url">
+                  ${escapeHtml(post.title)}
+                </a>
+              </h3>
+            </div>
+          </div>
+          <div class="mjp-card-meta">
+            <span class="mjp-date">${escapeHtml(
+              post.lastDateLabel ? `Last Date: ${post.lastDateLabel}` : `Updated: ${post.publishedLabel}`
+            )}</span>
+            <span class="mjp-badge">${escapeHtml(post.scopeLabel)}</span>
+          </div>
+          <details class="mjp-card-details">
+            <summary>
+              <span>View details</span>
+              <span class="mjp-caret">↓</span>
+            </summary>
+            <div class="mjp-card-body">
+              ${
+                post.imageUrl
+                  ? `
+                <div class="mjp-feature">
+                  <img src="${escapeHtml(post.imageUrl)}" alt="${escapeHtml(post.title)}" loading="lazy" />
+                </div>
+              `
+                  : ""
+              }
+              <p class="mjp-description" itemprop="description">${escapeHtml(post.description)}</p>
+              <div class="mjp-info-grid">
+                <div class="mjp-info">
+                  <span class="mjp-info-label">Organization</span>
+                  <span class="mjp-info-value">${escapeHtml(post.organization)}</span>
+                </div>
+                <div class="mjp-info">
+                  <span class="mjp-info-label">Post Type</span>
+                  <span class="mjp-info-value">${escapeHtml(post.typeLabel)}</span>
+                </div>
+                <div class="mjp-info">
+                  <span class="mjp-info-label">Published</span>
+                  <span class="mjp-info-value">${escapeHtml(post.publishedLabel)}</span>
+                </div>
+              </div>
+              <div class="mjp-actions">
+                <a class="mjp-open-post" href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer">
+                  Open full post
+                </a>
+              </div>
+            </div>
+          </details>
+          ${
+            post.publishedAt
+              ? `<meta itemprop="datePublished" content="${escapeHtml(post.publishedAt)}" />`
+              : ""
+          }
+          ${
+            post.updatedAt
+              ? `<meta itemprop="dateModified" content="${escapeHtml(post.updatedAt)}" />`
+              : ""
+          }
+          ${
+            post.imageUrl
+              ? `<meta itemprop="image" content="${escapeHtml(post.imageUrl)}" />`
+              : ""
+          }
+        </article>
+      `
+    )
+    .join("");
+}
+
+function renderPostsBoardMarkup({ posts, error, generatedAt, siteConfig }) {
+  const generatedLabel = formatGeneratedLabel(generatedAt);
+
+  return `
+<div class="mjp-shell">
+  <section class="mjp-hero">
+    <div class="mjp-kicker">Live Blogger Job Posts</div>
+    <h2>Meghalaya Govt Jobs 2026 - Latest Vacancies &amp; Notifications</h2>
+    <p>
+      Stay updated with the latest Meghalaya government and All India job posts from MeghalayaJobs.in.
+      This Blogger-ready page automatically collects title, direct post link, last date, organization name,
+      thumbnail image, and a collapsible description for every new update.
+    </p>
+    <div class="mjp-meta">
+      <span class="mjp-chip">Last synced: ${escapeHtml(generatedLabel)}</span>
+      <span class="mjp-chip">${posts.length} latest posts</span>
+      <span class="mjp-chip">Google SEO friendly layout</span>
+      <span class="mjp-chip">Collapsible descriptions</span>
+    </div>
+  </section>
+
+  <div class="mjp-stack">
+    ${renderPostsAlert(error)}
+    ${renderPostCards(posts)}
+    <p class="mjp-foot">
+      Titles, links, last dates, organization names, and post images are pulled automatically from
+      <a href="${escapeHtml(siteConfig.latestJobsUrl)}" target="_blank" rel="noopener noreferrer">MeghalayaJobs.in</a>
+      and formatted for a mobile-friendly Blogger page.
+    </p>
+  </div>
+
+  <script type="application/ld+json">
+${buildPostsSchema(posts, siteConfig)}
+  </script>
+</div>
+  `.trim();
+}
+
+function renderPostsStaticSnippet(payload) {
+  return `
+<style>
+${buildPostBoardStyles()}
+</style>
+${renderPostsBoardMarkup(payload)}
+  `.trim();
 }
 
 function buildStyles() {
@@ -1639,7 +2612,7 @@ ${renderAutoRefreshLoader(widgetScriptUrl, { widgetAttribute, scriptId })}
   `.trim();
 }
 
-function renderPreviewDocument(title, body, background = "#e8f0f7") {
+function renderPreviewDocument(title, body, background = "#e8f0f7", headMarkup = "") {
   return `
 <!DOCTYPE html>
 <html lang="en">
@@ -1647,6 +2620,7 @@ function renderPreviewDocument(title, body, background = "#e8f0f7") {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>${escapeHtml(title)}</title>
+    ${headMarkup}
   </head>
   <body style="margin:0;padding:24px;background:${background};">
     ${body}
@@ -1662,7 +2636,9 @@ function renderPagesIndex(
     pageTitle = `${siteConfig.siteName} Live Widget`,
     widgetAttribute = "data-meghalaya-jobs-widget",
     widgetScriptUrl = "./meghalaya-jobs-widget.js",
-    scriptId = "mjg-remote-script"
+    scriptId = "mjg-remote-script",
+    bodyBackground = "#e8f0f7",
+    headMarkup = ""
   } = {}
 ) {
   return `
@@ -1672,8 +2648,9 @@ function renderPagesIndex(
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>${escapeHtml(pageTitle)}</title>
+    ${headMarkup}
   </head>
-  <body style="margin:0;padding:24px;background:#e8f0f7;">
+  <body style="margin:0;padding:24px;background:${bodyBackground};">
     <div ${widgetAttribute}>${staticSnippet}</div>
     ${renderAutoRefreshLoader(widgetScriptUrl, { widgetAttribute, scriptId })}
   </body>
@@ -1768,8 +2745,13 @@ async function writeOutputs(files) {
 async function main() {
   const siteConfig = await loadSiteConfig();
   const generatedAt = new Date();
-  const { grouped, failedSources, activeSources } = await collectNotices(siteConfig);
+  const [{ grouped, failedSources, activeSources }, latestPostsResult] = await Promise.all([
+    collectNotices(siteConfig),
+    collectLatestPosts(siteConfig)
+  ]);
   const displayGrouped = buildDisplayGrouped(grouped, generatedAt, siteConfig);
+  const { posts: latestPosts, error: latestPostsError, feedUrl: latestPostsFeedUrl } =
+    latestPostsResult;
 
   const payload = {
     grouped: displayGrouped,
@@ -1838,6 +2820,49 @@ async function main() {
     widgetScriptUrl: "./meghalaya-results-widget.js",
     scriptId: "mjg-results-remote-script"
   });
+  const postsPayload = {
+    posts: latestPosts,
+    error: latestPostsError,
+    generatedAt,
+    siteConfig
+  };
+  const postsStaticSnippet = renderPostsStaticSnippet(postsPayload);
+  const postsBloggerLiveSnippet = renderBloggerLiveSnippet(siteConfig, postsStaticSnippet, {
+    widgetAttribute: "data-meghalaya-posts-widget",
+    widgetScriptUrl: `${siteConfig.publicBaseUrl}/meghalaya-posts-widget.js`,
+    livePageUrl: `${siteConfig.publicBaseUrl}/posts.html`,
+    scriptId: "mjp-remote-script"
+  });
+  const postsWidgetScript = buildWidgetScript(
+    postsStaticSnippet,
+    "data-meghalaya-posts-widget"
+  );
+  const postsHeadMarkup = `<meta name="description" content="Auto-updating Meghalaya Jobs Blogger page with latest vacancies, last dates, organization names, images, and direct post links from MeghalayaJobs.in." />`;
+  const postsPreview = renderPreviewDocument(
+    "Meghalaya Latest Posts Preview",
+    postsStaticSnippet,
+    "#04050a",
+    postsHeadMarkup
+  );
+  const postsLocalLivePreview = renderPreviewDocument(
+    "Meghalaya Latest Posts Live Local Preview",
+    `<div data-meghalaya-posts-widget></div><script defer src="./meghalaya-posts-widget.js"></script>`,
+    "#04050a",
+    postsHeadMarkup
+  );
+  const postsBloggerLiveHelp = renderSnippetHelpDocument(siteConfig, postsBloggerLiveSnippet, {
+    title: "Meghalaya Latest Posts Blogger Live Snippet",
+    previewPaths: "dist/meghalaya-posts-live-local-preview.html or docs/posts.html",
+    livePageUrl: `${siteConfig.publicBaseUrl}/posts.html`
+  });
+  const postsPage = renderPagesIndex(siteConfig, postsStaticSnippet, {
+    pageTitle: "Meghalaya Govt Jobs 2026 - Latest Vacancies & Notifications",
+    widgetAttribute: "data-meghalaya-posts-widget",
+    widgetScriptUrl: "./meghalaya-posts-widget.js",
+    scriptId: "mjp-remote-script",
+    bodyBackground: "#04050a",
+    headMarkup: postsHeadMarkup
+  });
   const dataJson = `${JSON.stringify(
     {
       generatedAt: generatedAt.toISOString(),
@@ -1855,12 +2880,16 @@ async function main() {
       counts: Object.fromEntries(
         categoryOrder.map((category) => [category, grouped[category].length])
       ),
+      latestPostCount: latestPosts.length,
       displayCounts: Object.fromEntries(
         displayCategoryOrder.map((category) => [category, displayGrouped[category].length])
       ),
       sourceCount: activeSources.length,
       grouped,
       displayGrouped,
+      latestPosts,
+      latestPostsError,
+      latestPostsFeedUrl,
       failedSources,
       sources: activeSources
     },
@@ -1881,8 +2910,15 @@ async function main() {
     "meghalaya-results-live-local-preview.html": resultLocalLivePreview,
     "meghalaya-results-preview.html": resultPreview,
     "meghalaya-results-widget.js": `${resultWidgetScript}\n`,
+    "meghalaya-posts-blogger.html": postsStaticSnippet,
+    "meghalaya-posts-blogger-live.html": postsBloggerLiveSnippet,
+    "meghalaya-posts-blogger-live-help.html": postsBloggerLiveHelp,
+    "meghalaya-posts-live-local-preview.html": postsLocalLivePreview,
+    "meghalaya-posts-preview.html": postsPreview,
+    "meghalaya-posts-widget.js": `${postsWidgetScript}\n`,
     "meghalaya-jobs-data.json": dataJson,
     "index.html": pagesIndex,
+    "posts.html": postsPage,
     "result.html": resultsPage,
     "results.html": resultsPage,
     ".nojekyll": ""
@@ -1900,6 +2936,11 @@ async function main() {
     resultBloggerLiveSnippet,
     "utf8"
   );
+  await writeFile(
+    path.join(__dirname, "dist", "meghalaya-posts-blogger-live.html"),
+    postsBloggerLiveSnippet,
+    "utf8"
+  );
 
   console.log("\nGenerated files in dist/ and docs/:");
   console.log("- meghalaya-jobs-blogger.html");
@@ -1914,8 +2955,15 @@ async function main() {
   console.log("- meghalaya-results-live-local-preview.html");
   console.log("- meghalaya-results-preview.html");
   console.log("- meghalaya-results-widget.js");
+  console.log("- meghalaya-posts-blogger.html");
+  console.log("- meghalaya-posts-blogger-live.html");
+  console.log("- meghalaya-posts-blogger-live-help.html");
+  console.log("- meghalaya-posts-live-local-preview.html");
+  console.log("- meghalaya-posts-preview.html");
+  console.log("- meghalaya-posts-widget.js");
   console.log("- meghalaya-jobs-data.json");
   console.log("- index.html");
+  console.log("- posts.html");
   console.log("- result.html");
   console.log("- results.html");
 }

@@ -25,6 +25,7 @@ This project pulls Meghalaya government job notices from official department sit
 - `dist/meghalaya-jobs-blogger.html`: static Blogger HTML
 - `dist/meghalaya-jobs-blogger-live.html`: one-time live Blogger embed code
 - `dist/meghalaya-jobs-widget.js`: live widget script for Blogger
+- `dist/meghalaya-posts-blogger-live.html`: live Blogger page for latest MeghalayaJobs.in posts with image, organization, last date, and collapsible description
 - `docs/`: GitHub Pages output
 
 ## Local use
@@ -100,6 +101,25 @@ If you want a plain copy-paste version instead of the live widget, use:
 `dist/meghalaya-jobs-blogger.html`
 
 This is static HTML, so you would need to paste it again after future updates.
+
+## Latest posts Blogger page
+
+If you want a Blogger page that shows your latest MeghalayaJobs.in posts as mobile cards with:
+
+- post image or logo
+- title and direct link
+- last date
+- organization name
+- collapsible description
+
+use:
+
+`dist/meghalaya-posts-blogger-live.html`
+
+For preview:
+
+- `dist/meghalaya-posts-live-local-preview.html`
+- `docs/posts.html`
 
 ## Commands
 

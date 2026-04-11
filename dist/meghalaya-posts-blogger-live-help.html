@@ -1,0 +1,1682 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meghalaya Latest Posts Blogger Live Snippet</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 24px;
+        font-family: "Segoe UI", sans-serif;
+        background: #eef5fb;
+        color: #10233b;
+      }
+
+      .box {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 22px;
+        border-radius: 20px;
+        background: #fff;
+        box-shadow: 0 18px 42px rgba(16, 35, 59, 0.1);
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      pre {
+        overflow: auto;
+        padding: 16px;
+        border-radius: 14px;
+        background: #0f172a;
+        color: #dbeafe;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
+      .note {
+        padding: 14px 16px;
+        border-radius: 14px;
+        background: #fff7ea;
+        color: #7a4d00;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <h1>Meghalaya Latest Posts Blogger Live Snippet</h1>
+      <p>
+        This file is a Blogger embed snippet, not a standalone preview page.
+        Paste the code below into Blogger HTML view.
+      </p>
+      <div class="note">
+        For local preview use <strong>dist/meghalaya-posts-live-local-preview.html or docs/posts.html</strong>.
+        For the live Blogger widget to work, GitHub Pages must be deployed at
+        <strong>https://meghalayajobs.github.io/meghalaya-jobs/posts.html</strong>.
+      </div>
+      <pre>&lt;div data-meghalaya-posts-widget&gt;
+&lt;style&gt;
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
+
+.mjp-shell,
+.mjp-shell * {
+  box-sizing: border-box;
+}
+
+.mjp-shell {
+  --mjp-bg: #05060a;
+  --mjp-card: rgba(12, 14, 26, 0.92);
+  --mjp-card-strong: rgba(16, 19, 34, 0.98);
+  --mjp-line: rgba(122, 134, 186, 0.22);
+  --mjp-line-strong: rgba(91, 151, 255, 0.4);
+  --mjp-text: #f5f7fc;
+  --mjp-muted: #b5bdd8;
+  --mjp-accent: #4f8fff;
+  --mjp-accent-soft: rgba(79, 143, 255, 0.14);
+  --mjp-date: #ff6fa9;
+  --mjp-pill: rgba(255, 255, 255, 0.09);
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1120px;
+  padding: 18px 10px 30px;
+  border-radius: 28px;
+  color: var(--mjp-text);
+  font-family: &quot;Manrope&quot;, &quot;Segoe UI&quot;, sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(74, 111, 255, 0.15), transparent 28%),
+    radial-gradient(circle at bottom center, rgba(255, 111, 169, 0.1), transparent 30%),
+    linear-gradient(180deg, #06070d 0%, #090b14 100%);
+}
+
+.mjp-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 24px 20px;
+  border-radius: 24px;
+  border: 1px solid var(--mjp-line);
+  background:
+    radial-gradient(circle at 18% 18%, rgba(94, 159, 255, 0.16), transparent 20%),
+    linear-gradient(135deg, rgba(22, 25, 44, 0.98) 0%, rgba(10, 12, 24, 0.98) 100%);
+  box-shadow: 0 22px 60px rgba(0, 0, 0, 0.38);
+}
+
+.mjp-hero::after {
+  content: &quot;&quot;;
+  position: absolute;
+  inset: auto -110px -130px auto;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  background: rgba(79, 143, 255, 0.08);
+}
+
+.mjp-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 13px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: #d5def8;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mjp-hero h2 {
+  margin: 14px 0 0;
+  max-width: 760px;
+  font-family: &quot;Space Grotesk&quot;, &quot;Segoe UI&quot;, sans-serif;
+  font-size: clamp(28px, 5vw, 42px);
+  line-height: 1.08;
+}
+
+.mjp-hero p {
+  margin: 14px 0 0;
+  max-width: 760px;
+  color: rgba(245, 247, 252, 0.86);
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.mjp-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.mjp-chip,
+.mjp-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mjp-chip {
+  padding: 8px 13px;
+  color: #dbe4ff;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.mjp-stack {
+  display: grid;
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.mjp-alert {
+  padding: 14px 16px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 180, 98, 0.34);
+  background: rgba(88, 54, 14, 0.34);
+  color: #ffd9a6;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.mjp-post-card {
+  overflow: hidden;
+  border-radius: 24px;
+  border: 1px solid var(--mjp-line);
+  background:
+    linear-gradient(180deg, rgba(18, 20, 36, 0.98) 0%, rgba(11, 13, 24, 0.98) 100%);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.28);
+}
+
+.mjp-card-head {
+  display: grid;
+  grid-template-columns: 68px minmax(0, 1fr);
+  gap: 16px;
+  padding: 18px 18px 8px;
+}
+
+.mjp-logo-link,
+.mjp-logo-fallback {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+}
+
+.mjp-logo-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.mjp-logo-link img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mjp-logo-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(79, 143, 255, 0.9) 0%, rgba(255, 111, 169, 0.8) 100%);
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.mjp-card-title {
+  margin: 0;
+  font-size: clamp(24px, 3.9vw, 30px);
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+}
+
+.mjp-card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mjp-card-title a:hover {
+  color: #cfe0ff;
+}
+
+.mjp-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 18px 12px 18px;
+}
+
+.mjp-date {
+  color: var(--mjp-date);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.mjp-badge {
+  padding: 9px 14px;
+  background: var(--mjp-pill);
+  color: #eef2ff;
+}
+
+.mjp-card-details {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.mjp-card-details summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 18px 16px;
+  color: #e7ecff;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.mjp-card-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.mjp-caret {
+  transition: transform 0.2s ease;
+}
+
+.mjp-card-details[open] .mjp-caret {
+  transform: rotate(180deg);
+}
+
+.mjp-card-body {
+  display: grid;
+  gap: 16px;
+  padding: 0 18px 18px;
+}
+
+.mjp-feature {
+  overflow: hidden;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.mjp-feature img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.mjp-description {
+  margin: 0;
+  color: var(--mjp-muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.mjp-info-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.mjp-info {
+  padding: 14px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.mjp-info-label {
+  display: block;
+  margin-bottom: 6px;
+  color: #9ba7c8;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mjp-info-value {
+  display: block;
+  color: #f4f7ff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.mjp-actions {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.mjp-open-post {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #2a63ff 0%, #4f8fff 100%);
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: 0 14px 30px rgba(42, 99, 255, 0.34);
+}
+
+.mjp-open-post:hover {
+  filter: brightness(1.06);
+}
+
+.mjp-empty,
+.mjp-foot {
+  margin: 0;
+  color: var(--mjp-muted);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.mjp-empty {
+  padding: 18px;
+  border-radius: 22px;
+  border: 1px dashed rgba(255, 255, 255, 0.16);
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .mjp-shell {
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+  }
+
+  .mjp-hero,
+  .mjp-post-card {
+    border-radius: 22px;
+  }
+
+  .mjp-card-head {
+    grid-template-columns: 58px minmax(0, 1fr);
+    gap: 12px;
+    padding: 18px 14px 8px;
+  }
+
+  .mjp-logo-link,
+  .mjp-logo-fallback {
+    width: 58px;
+    height: 58px;
+  }
+
+  .mjp-card-title {
+    font-size: 18px;
+  }
+
+  .mjp-card-meta {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .mjp-card-body {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .mjp-badge {
+    padding: 8px 12px;
+    font-size: 11px;
+  }
+}
+&lt;/style&gt;
+&lt;div class=&quot;mjp-shell&quot;&gt;
+  &lt;section class=&quot;mjp-hero&quot;&gt;
+    &lt;div class=&quot;mjp-kicker&quot;&gt;Live Blogger Job Posts&lt;/div&gt;
+    &lt;h2&gt;Meghalaya Govt Jobs 2026 - Latest Vacancies &amp;amp; Notifications&lt;/h2&gt;
+    &lt;p&gt;
+      Stay updated with the latest Meghalaya government and All India job posts from MeghalayaJobs.in.
+      This Blogger-ready page automatically collects title, direct post link, last date, organization name,
+      thumbnail image, and a collapsible description for every new update.
+    &lt;/p&gt;
+    &lt;div class=&quot;mjp-meta&quot;&gt;
+      &lt;span class=&quot;mjp-chip&quot;&gt;Last synced: 11 April 2026 at 08:57 am&lt;/span&gt;
+      &lt;span class=&quot;mjp-chip&quot;&gt;18 latest posts&lt;/span&gt;
+      &lt;span class=&quot;mjp-chip&quot;&gt;Google SEO friendly layout&lt;/span&gt;
+      &lt;span class=&quot;mjp-chip&quot;&gt;Collapsible descriptions&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;div class=&quot;mjp-stack&quot;&gt;
+    
+    
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mpsc-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Meghalaya Public Service Commission (MPSC)&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgK0_NgjEidRr7xKiuoRlYvDI2xjFDJiI2leCCXeCF489juOuzt4nvrETqRby9CsvoYvIcnC2u5_JXNYBqHgsI-LsDHsuI2xWWBIjKju7njTQxpTnshudq-bRKi7Q51uz2SRjqWZOXtuZz_VuQMx5y--lpqUTrw6la0TkSQt-xaxCoKthSvh8c5fZ3clD96=s72-c&quot; alt=&quot;Meghalaya Public Service Commission (MPSC) logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/mpsc-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  Meghalaya MPSC Recruitment 2026 – Apply Online for 04 Posts, Last Date 17 April | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 17 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgK0_NgjEidRr7xKiuoRlYvDI2xjFDJiI2leCCXeCF489juOuzt4nvrETqRby9CsvoYvIcnC2u5_JXNYBqHgsI-LsDHsuI2xWWBIjKju7njTQxpTnshudq-bRKi7Q51uz2SRjqWZOXtuZz_VuQMx5y--lpqUTrw6la0TkSQt-xaxCoKthSvh8c5fZ3clD96&quot; alt=&quot;Meghalaya MPSC Recruitment 2026 – Apply Online for 04 Posts, Last Date 17 April | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;Meghalaya MPSC Recruitment 2026 has been officially released by the Meghalaya Public Service Commission for 04 posts . Eligible candidates can apply online before 17 April 2026 . If you are searching for Meghalaya Job , Meghalaya Govt Jobs 2026 , or latest updates from MeghalayaJobs.in , this Meghalaya MPSC Recruitment...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Meghalaya Public Service Commission (MPSC)&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;10 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mpsc-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-10T17:55:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-10T17:55:43.622Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgK0_NgjEidRr7xKiuoRlYvDI2xjFDJiI2leCCXeCF489juOuzt4nvrETqRby9CsvoYvIcnC2u5_JXNYBqHgsI-LsDHsuI2xWWBIjKju7njTQxpTnshudq-bRKi7Q51uz2SRjqWZOXtuZz_VuQMx5y--lpqUTrw6la0TkSQt-xaxCoKthSvh8c5fZ3clD96&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/south-garo-hills-dseo-recruitment-2026-meghalaya-job.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;District School Education Officer, South Garo Hills&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiPp1pe3IcgExkQw6QRGd37lwLsdfyV6AUb6k5Py3F0FF5_1U-XgamKgJVGCypTGOIHfHTOmwYqrHorthF0_9rBbdy501TgJrJScxMvO-wZWZM8Xi-Fa7B8nqIS5FDHSW5k45fSCB2hMw8_nX7ODYmZaoqFicoLVYP5Ld9iRm4M_arkWxCBQnBZ1xlzGCnc=s72-c&quot; alt=&quot;District School Education Officer, South Garo Hills logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/south-garo-hills-dseo-recruitment-2026-meghalaya-job.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  South Garo Hills DSEO Recruitment 2026 – Assistant Lecturer &amp;amp; Teacher | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 10 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Teaching&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiPp1pe3IcgExkQw6QRGd37lwLsdfyV6AUb6k5Py3F0FF5_1U-XgamKgJVGCypTGOIHfHTOmwYqrHorthF0_9rBbdy501TgJrJScxMvO-wZWZM8Xi-Fa7B8nqIS5FDHSW5k45fSCB2hMw8_nX7ODYmZaoqFicoLVYP5Ld9iRm4M_arkWxCBQnBZ1xlzGCnc&quot; alt=&quot;South Garo Hills DSEO Recruitment 2026 – Assistant Lecturer &amp;amp; Teacher | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;South Garo Hills DSEO Recruitment 2026 offers 5 job vacancies in Meghalaya for Lecturer and Teacher posts. Apply before 10 April 2026 . Check eligibility, salary, and application details on MeghalayaJobs.in – the best Meghalaya Job portal for latest Shillong job and job vacancy in Meghalaya updates. The District School...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;District School Education Officer, South Garo Hills&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;09 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/south-garo-hills-dseo-recruitment-2026-meghalaya-job.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-09T08:58:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-09T08:58:10.975Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiPp1pe3IcgExkQw6QRGd37lwLsdfyV6AUb6k5Py3F0FF5_1U-XgamKgJVGCypTGOIHfHTOmwYqrHorthF0_9rBbdy501TgJrJScxMvO-wZWZM8Xi-Fa7B8nqIS5FDHSW5k45fSCB2hMw8_nX7ODYmZaoqFicoLVYP5Ld9iRm4M_arkWxCBQnBZ1xlzGCnc&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/ssa-south-garo-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;District School Education Officer &amp;amp; District Project Coordinator, SSA, South Garo Hills&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgMrJLlQJqUV073Gqy-Bn_SpGxcWYyJ8mdSt8E4DF8zLffIsKMoHGkYiXNE5z8qPaTEg6eYAcUi1a7qoaNFmJbFuX4jmtTuBhY-z1iTLIz_rIalQhuYWAvYl8QWanpMmnxjfu9LNU0l_rlthMnU-nJ-f9MxE_meYqA8gUWIckcmYwUN7yk7M_QaiDovxQdG=s72-c&quot; alt=&quot;District School Education Officer &amp;amp; District Project Coordinator, SSA, South Garo Hills logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/ssa-south-garo-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  SSA South Garo Hills Recruitment 2026 – Apply for Assistant Teacher Posts | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 10 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;State Govt.&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgMrJLlQJqUV073Gqy-Bn_SpGxcWYyJ8mdSt8E4DF8zLffIsKMoHGkYiXNE5z8qPaTEg6eYAcUi1a7qoaNFmJbFuX4jmtTuBhY-z1iTLIz_rIalQhuYWAvYl8QWanpMmnxjfu9LNU0l_rlthMnU-nJ-f9MxE_meYqA8gUWIckcmYwUN7yk7M_QaiDovxQdG&quot; alt=&quot;SSA South Garo Hills Recruitment 2026 – Apply for Assistant Teacher Posts | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;The District School Education Officer &amp;amp; District Project Coordinator, SSA South Garo Hills has released an official notification for Assistant Teacher recruitment . A total of 2 vacancies are available under this recruitment with a fixed salary of Rs.29,000 per month . Interested candidates can apply before 10 April...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;District School Education Officer &amp;amp; District Project Coordinator, SSA, South Garo Hills&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;09 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/ssa-south-garo-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-09T08:57:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-09T08:57:06.701Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgMrJLlQJqUV073Gqy-Bn_SpGxcWYyJ8mdSt8E4DF8zLffIsKMoHGkYiXNE5z8qPaTEg6eYAcUi1a7qoaNFmJbFuX4jmtTuBhY-z1iTLIz_rIalQhuYWAvYl8QWanpMmnxjfu9LNU0l_rlthMnU-nJ-f9MxE_meYqA8gUWIckcmYwUN7yk7M_QaiDovxQdG&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/midc-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Meghalaya Industrial Development Corporation Ltd (MIDC)&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhcvYdbJv5mbODkCvEo9Qts-8fA2oHa8Cbj963bhiak63UloEBWk4_2Q6MjhJrRFDAWIZVJDlZHJym5PQBcDnDmSJeC8i5mMIYXXNbzQzOi_wqjYH5buBehZrgky31659n_MtXERrALi52r-SFLRF-bQqKlCmBGFxX-Nnm0NTZjPufXJn7l7mZ8tqCdbLYx=s72-c&quot; alt=&quot;Meghalaya Industrial Development Corporation Ltd (MIDC) logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/midc-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  MIDC Recruitment 2026 – Assistant Manager &amp;amp; Junior Assistant Apply Online | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 15 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhcvYdbJv5mbODkCvEo9Qts-8fA2oHa8Cbj963bhiak63UloEBWk4_2Q6MjhJrRFDAWIZVJDlZHJym5PQBcDnDmSJeC8i5mMIYXXNbzQzOi_wqjYH5buBehZrgky31659n_MtXERrALi52r-SFLRF-bQqKlCmBGFxX-Nnm0NTZjPufXJn7l7mZ8tqCdbLYx&quot; alt=&quot;MIDC Recruitment 2026 – Assistant Manager &amp;amp; Junior Assistant Apply Online | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;The Meghalaya Industrial Development Corporation Ltd (MIDC) has released the official notification for Assistant Manager &amp;amp; Junior Assistant Recruitment 2026 . A total of 15 vacancies are available. Candidates looking for the latest Meghalaya Job updates can check complete details on MeghalayaJobs.in . Post Name:...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Meghalaya Industrial Development Corporation Ltd (MIDC)&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;09 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/midc-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-09T08:56:00.001Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-09T08:56:42.780Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhcvYdbJv5mbODkCvEo9Qts-8fA2oHa8Cbj963bhiak63UloEBWk4_2Q6MjhJrRFDAWIZVJDlZHJym5PQBcDnDmSJeC8i5mMIYXXNbzQzOi_wqjYH5buBehZrgky31659n_MtXERrALi52r-SFLRF-bQqKlCmBGFxX-Nnm0NTZjPufXJn7l7mZ8tqCdbLYx&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/neigrihms-recruitment-2026-doctor-vacancy.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;North Eastern Indira Gandhi Regional Institute of Health &amp;amp; Medical Sciences (NEIGRIHMS), Shillong&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEh7sNxKe8lumwueqBUDZljl7yVIOkMWAz2khsz4PHtOqligUOw7ZxKTQcJLan5-pY7MI-8TGTLJHboVGmJPxfNZUO4M4_UrBXrcZU0BesJ4c8l54IYKdfR0UgAuJBBblo43qKmNCok69VC6TKj9bGvgtra2YHN7HeAptzEFe08HcjX9tY_IrB4X-Mci3gnD=s72-c&quot; alt=&quot;North Eastern Indira Gandhi Regional Institute of Health &amp;amp; Medical Sciences (NEIGRIHMS), Shillong logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/neigrihms-recruitment-2026-doctor-vacancy.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  NEIGRIHMS Recruitment 2026 – Apply for 92 Senior &amp;amp; Junior Resident Doctor Posts | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 09 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;State Govt.&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEh7sNxKe8lumwueqBUDZljl7yVIOkMWAz2khsz4PHtOqligUOw7ZxKTQcJLan5-pY7MI-8TGTLJHboVGmJPxfNZUO4M4_UrBXrcZU0BesJ4c8l54IYKdfR0UgAuJBBblo43qKmNCok69VC6TKj9bGvgtra2YHN7HeAptzEFe08HcjX9tY_IrB4X-Mci3gnD&quot; alt=&quot;NEIGRIHMS Recruitment 2026 – Apply for 92 Senior &amp;amp; Junior Resident Doctor Posts | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;NEIGRIHMS Recruitment 2026 has released official notification for 92 Doctor vacancies including Senior Resident (65 posts) and Junior Resident (27 posts) at Shillong. Candidates looking for latest Meghalaya Job opportunities in the medical sector can apply before 09 April 2026 . Check detailed eligibility,...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;North Eastern Indira Gandhi Regional Institute of Health &amp;amp; Medical Sciences (NEIGRIHMS), Shillong&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;09 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/neigrihms-recruitment-2026-doctor-vacancy.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-09T08:56:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-09T08:56:13.095Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEh7sNxKe8lumwueqBUDZljl7yVIOkMWAz2khsz4PHtOqligUOw7ZxKTQcJLan5-pY7MI-8TGTLJHboVGmJPxfNZUO4M4_UrBXrcZU0BesJ4c8l54IYKdfR0UgAuJBBblo43qKmNCok69VC6TKj9bGvgtra2YHN7HeAptzEFe08HcjX9tY_IrB4X-Mci3gnD&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mtet-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;DERT Meghalaya&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhRRKTlEdmRFGyYaTVnOCDGeW5KjAyqoqffhhXvlyp9EagHuaBMkKhF18TXpvfSqRR8VZGdLs0rQQp_eVZ-TJBs90x1THgVZx8GDtfKdSIF1rQR8u7QewAep1QNnccXBoVu_6S3VwwdKFZPohebD9_hvBDAekYW0SHgtEvgHAsPHY1m4LtWgsIFYi_sUljp=s72-c&quot; alt=&quot;DERT Meghalaya logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/mtet-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  MTET Recruitment 2026 – Online Application Form, Syllabus, Edit Form Till 14 April | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 09 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Teaching&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhRRKTlEdmRFGyYaTVnOCDGeW5KjAyqoqffhhXvlyp9EagHuaBMkKhF18TXpvfSqRR8VZGdLs0rQQp_eVZ-TJBs90x1THgVZx8GDtfKdSIF1rQR8u7QewAep1QNnccXBoVu_6S3VwwdKFZPohebD9_hvBDAekYW0SHgtEvgHAsPHY1m4LtWgsIFYi_sUljp&quot; alt=&quot;MTET Recruitment 2026 – Online Application Form, Syllabus, Edit Form Till 14 April | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;MTET Online Application 2026 has been officially released under Meghalaya Jobs 2026 . Candidates can now apply online for MTET Application Form 2026 through the official portal. The Directorate of Educational Research &amp;amp; Training (DERT), Meghalaya is conducting the Meghalaya Teacher Eligibility Test (MTET) for teaching...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;DERT Meghalaya&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;08 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mtet-recruitment-2026-meghalaya-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-08T11:08:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-08T11:08:56.570Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhRRKTlEdmRFGyYaTVnOCDGeW5KjAyqoqffhhXvlyp9EagHuaBMkKhF18TXpvfSqRR8VZGdLs0rQQp_eVZ-TJBs90x1THgVZx8GDtfKdSIF1rQR8u7QewAep1QNnccXBoVu_6S3VwwdKFZPohebD9_hvBDAekYW0SHgtEvgHAsPHY1m4LtWgsIFYi_sUljp&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/04/cm-elevate-scheme-meghalaya-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Wise Scheme List Below is the complete department-wise list of CM Elevate Scheme&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgkKS95QpOdRtfTWmI-XwzKIh9FgeYnb3wM5JBlB6_Xr8COPnVDyMvammSE4bcC9V9g0kjltDa5_j8SdC2gUNuHMqoCwGbsc7iNjw00BdeUQ0YOlr-MHRxh58pHyt6dRWZ9SS3E8fBKOS5Cu3xthK6FWRlqqBAjlQ-4B_XcmM24EpGNCzn9mzdKwQOO7vmb=s72-c&quot; alt=&quot;Wise Scheme List Below is the complete department-wise list of CM Elevate Scheme logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/04/cm-elevate-scheme-meghalaya-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  CM Elevate Scheme 2026 Meghalaya – Apply Online, 75% Subsidy, Loan up to ₹5 Crore
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: Not Mentioned&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgkKS95QpOdRtfTWmI-XwzKIh9FgeYnb3wM5JBlB6_Xr8COPnVDyMvammSE4bcC9V9g0kjltDa5_j8SdC2gUNuHMqoCwGbsc7iNjw00BdeUQ0YOlr-MHRxh58pHyt6dRWZ9SS3E8fBKOS5Cu3xthK6FWRlqqBAjlQ-4B_XcmM24EpGNCzn9mzdKwQOO7vmb=s1200&quot; alt=&quot;CM Elevate Scheme 2026 Meghalaya – Apply Online, 75% Subsidy, Loan up to ₹5 Crore&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;The CM Elevate Scheme 2026 Meghalaya is a flagship initiative launched by the Government of Meghalaya to promote entrepreneurship, startups, and self-employment across the state. Under this scheme, eligible applicants can receive 35% to 75% subsidy along with up to 95% bank loan support to start or expand their...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Wise Scheme List Below is the complete department-wise list of CM Elevate Scheme&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;08 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/04/cm-elevate-scheme-meghalaya-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-08T10:49:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-08T10:49:02.325Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgkKS95QpOdRtfTWmI-XwzKIh9FgeYnb3wM5JBlB6_Xr8COPnVDyMvammSE4bcC9V9g0kjltDa5_j8SdC2gUNuHMqoCwGbsc7iNjw00BdeUQ0YOlr-MHRxh58pHyt6dRWZ9SS3E8fBKOS5Cu3xthK6FWRlqqBAjlQ-4B_XcmM24EpGNCzn9mzdKwQOO7vmb=s1200&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/04/el-elyon-institute-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;El Elyon Institute&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjtlMlFiAUaCWVu_OfnNEz8_keUi0BBBTR9oiyT3Eu3YxjBHL7J1zOXTNrQRNadlhgm8choszrS9YtM45lEP8kRjVb0CJt57Vu56G6uqT51O1uIIfn_Z9tdks7g8y1489PAJZQCOwzl-ULMvGm7121qRZHAc6w1m7zUJGoTLSy6oEcqK8Ocj5mUwlHmKLYd=s72-c&quot; alt=&quot;El Elyon Institute logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/04/el-elyon-institute-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  El Elyon Institute Recruitment 2026 – Apply for 49 Posts | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 25 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjtlMlFiAUaCWVu_OfnNEz8_keUi0BBBTR9oiyT3Eu3YxjBHL7J1zOXTNrQRNadlhgm8choszrS9YtM45lEP8kRjVb0CJt57Vu56G6uqT51O1uIIfn_Z9tdks7g8y1489PAJZQCOwzl-ULMvGm7121qRZHAc6w1m7zUJGoTLSy6oEcqK8Ocj5mUwlHmKLYd=s1200&quot; alt=&quot;El Elyon Institute Recruitment 2026 – Apply for 49 Posts | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;El Elyon Institute Recruitment 2026 notification is out for 49 posts including Trainers, Project Officials, and Internship vacancies in Meghalaya. Eligible candidates can apply before 25 April 2026 . This is a good opportunity for candidates searching for a latest Meghalaya Job . Check post-wise vacancy, qualification,...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;El Elyon Institute&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;06 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/04/el-elyon-institute-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-06T05:52:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-07T13:20:34.420Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjtlMlFiAUaCWVu_OfnNEz8_keUi0BBBTR9oiyT3Eu3YxjBHL7J1zOXTNrQRNadlhgm8choszrS9YtM45lEP8kRjVb0CJt57Vu56G6uqT51O1uIIfn_Z9tdks7g8y1489PAJZQCOwzl-ULMvGm7121qRZHAc6w1m7zUJGoTLSy6oEcqK8Ocj5mUwlHmKLYd=s1200&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/04/phe-mairang-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Public Health Engineering Department (PHE), Mairang Division&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjXZ-8NDBV_wvXUAFBhLvJmep7WVCZP1FbAG4l9Pwwr3u1xZo0Z-VWIFvrYiHTuUhHE8TG9FN-aiTWq9xnm6a6TyPuoOak7Rn-0hrcpgq2ydkBkNqz9DER3uoQoLkJIogk4HoCBMJUNX4woecQkVMWquMunUF912ZVsYmEod_PGwzQ6c6kZInsWfEzVsUeZ=s72-c&quot; alt=&quot;Public Health Engineering Department (PHE), Mairang Division logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/04/phe-mairang-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  PHE Mairang Recruitment 2026 – 3 Posts Apply Online (Last Date 5 April) | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 05 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjXZ-8NDBV_wvXUAFBhLvJmep7WVCZP1FbAG4l9Pwwr3u1xZo0Z-VWIFvrYiHTuUhHE8TG9FN-aiTWq9xnm6a6TyPuoOak7Rn-0hrcpgq2ydkBkNqz9DER3uoQoLkJIogk4HoCBMJUNX4woecQkVMWquMunUF912ZVsYmEod_PGwzQ6c6kZInsWfEzVsUeZ&quot; alt=&quot;PHE Mairang Recruitment 2026 – 3 Posts Apply Online (Last Date 5 April) | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;PHE Mairang Recruitment 2026 has been released for 3 posts under Public Health Engineering Department (PHE), Mairang Division. Interested candidates can apply before 5 April 2026 (4:00 PM) . Check eligibility, salary, and full details of this Meghalaya Job below on MeghalayaJobs.in . The PHE Mairang Division has...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Public Health Engineering Department (PHE), Mairang Division&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;04 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/04/phe-mairang-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-04T09:47:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-04T09:47:33.709Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjXZ-8NDBV_wvXUAFBhLvJmep7WVCZP1FbAG4l9Pwwr3u1xZo0Z-VWIFvrYiHTuUhHE8TG9FN-aiTWq9xnm6a6TyPuoOak7Rn-0hrcpgq2ydkBkNqz9DER3uoQoLkJIogk4HoCBMJUNX4woecQkVMWquMunUF912ZVsYmEod_PGwzQ6c6kZInsWfEzVsUeZ&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/04/dsc-east-khasi-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;District Selection Committee, East Khasi Hills&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEg_NcqJtc7fIS8QMo0zYg_kkPdAFF6sQTroGVyIwX5wR45Ur7nE24CP6aPnahUItudJs7hrFD0v3yMsf04rjvC1dzPG_hjP2L8fsqP62H26OGbJ3B8sUEkjOz1mxAUM1YWRuHhukU8W3sS_bSqc_N6jEWdlYCl0DxIkini-xfJ4ihj6635deEygTiKE6YoD=s72-c&quot; alt=&quot;District Selection Committee, East Khasi Hills logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/04/dsc-east-khasi-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  DSC East Khasi Hills Recruitment 2026 – Apply Online for 17 Posts (10th Pass) | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 01 May 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEg_NcqJtc7fIS8QMo0zYg_kkPdAFF6sQTroGVyIwX5wR45Ur7nE24CP6aPnahUItudJs7hrFD0v3yMsf04rjvC1dzPG_hjP2L8fsqP62H26OGbJ3B8sUEkjOz1mxAUM1YWRuHhukU8W3sS_bSqc_N6jEWdlYCl0DxIkini-xfJ4ihj6635deEygTiKE6YoD&quot; alt=&quot;DSC East Khasi Hills Recruitment 2026 – Apply Online for 17 Posts (10th Pass) | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;DSC East Khasi Hills Recruitment 2026 has been released for 17 posts . Interested candidates can apply before 1st May 2026 . This is a great opportunity for candidates looking for a Meghalaya Job . Check eligibility, vacancy details, and application process on MeghalayaJobs.in . The DSC East Khasi Hills Recruitment...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;District Selection Committee, East Khasi Hills&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;04 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/04/dsc-east-khasi-hills-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-04T07:34:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-04T07:57:10.316Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEg_NcqJtc7fIS8QMo0zYg_kkPdAFF6sQTroGVyIwX5wR45Ur7nE24CP6aPnahUItudJs7hrFD0v3yMsf04rjvC1dzPG_hjP2L8fsqP62H26OGbJ3B8sUEkjOz1mxAUM1YWRuHhukU8W3sS_bSqc_N6jEWdlYCl0DxIkini-xfJ4ihj6635deEygTiKE6YoD&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/04/mbose-sslc-result-2026-meghalaya.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;MBOSE SSLC&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgpPrAjPBTPGRJhg6p2E4m1TPiYxI-a3IzyjOrF3p7iDkQPGFHN-H125UIIkh95tXxe4Nygahiv5c9uIS6GdGNT2uvAU7-GLobo-GGRhRTjD9mDTW7vrhn1aE28RcB3By1CPqEstJr8pguk_3D8ZtAFzXOPzuWdtoI9ZM4NfZ3EVTM3TAJOugv2yrdXCEi0=s72-c&quot; alt=&quot;MBOSE SSLC logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/04/mbose-sslc-result-2026-meghalaya.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  MBOSE SSLC Result 2026 Out Now – Check Meghalaya Board Class 10 Result Link @mbose.in
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Updated: 04 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Result&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgpPrAjPBTPGRJhg6p2E4m1TPiYxI-a3IzyjOrF3p7iDkQPGFHN-H125UIIkh95tXxe4Nygahiv5c9uIS6GdGNT2uvAU7-GLobo-GGRhRTjD9mDTW7vrhn1aE28RcB3By1CPqEstJr8pguk_3D8ZtAFzXOPzuWdtoI9ZM4NfZ3EVTM3TAJOugv2yrdXCEi0&quot; alt=&quot;MBOSE SSLC Result 2026 Out Now – Check Meghalaya Board Class 10 Result Link @mbose.in&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;Live Update: Meghalaya SSLC Result 2026 countdown has started. Stay tuned for official result link. MBOSE SSLC Result 2026 is scheduled to be declared on 7 April 2026 at 11:00 AM by the Meghalaya Board of School Education (MBOSE) . Students can check their Meghalaya Board Class 10 Result online through official...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;MBOSE SSLC&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Result&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;04 Apr 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/04/mbose-sslc-result-2026-meghalaya.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-04-04T05:30:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-04-07T07:29:28.752Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgpPrAjPBTPGRJhg6p2E4m1TPiYxI-a3IzyjOrF3p7iDkQPGFHN-H125UIIkh95tXxe4Nygahiv5c9uIS6GdGNT2uvAU7-GLobo-GGRhRTjD9mDTW7vrhn1aE28RcB3By1CPqEstJr8pguk_3D8ZtAFzXOPzuWdtoI9ZM4NfZ3EVTM3TAJOugv2yrdXCEi0&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/dsc-ewkhd-recruitment-2026-38-posts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;District Selection Committee, Eastern West Khasi Hills&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhF1O_GsmX9lqZEW-uhoVuQm4yu6Zf-n_zDWCpUY4dL-nV2Un_A_X9GHrdko-4__w8FhxVbMU13sGTmBEMGFK1lW7V7C2bfVg_7Wt1MQKWn-a-c5cLEK5lvlumc79j2VEhMR42Kf9wPtaurA-_PZML-KdLzmIn1OXkdXTrjSYijQDJ1PaJZwHM5pIw3tAB_=s72-c&quot; alt=&quot;District Selection Committee, Eastern West Khasi Hills logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/dsc-ewkhd-recruitment-2026-38-posts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  DSC Eastern West Khasi Hills Recruitment 2026 – LDA, Gram Sevak, Driver, Grade IV | 6th, 8th, 10th Pass Job | 39 Posts Apply Online | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 01 May 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhF1O_GsmX9lqZEW-uhoVuQm4yu6Zf-n_zDWCpUY4dL-nV2Un_A_X9GHrdko-4__w8FhxVbMU13sGTmBEMGFK1lW7V7C2bfVg_7Wt1MQKWn-a-c5cLEK5lvlumc79j2VEhMR42Kf9wPtaurA-_PZML-KdLzmIn1OXkdXTrjSYijQDJ1PaJZwHM5pIw3tAB_&quot; alt=&quot;DSC Eastern West Khasi Hills Recruitment 2026 – LDA, Gram Sevak, Driver, Grade IV | 6th, 8th, 10th Pass Job | 39 Posts Apply Online | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;DSC Eastern West Khasi Hills Recruitment 2026 has been officially released for multiple posts (total 39 vacancies) . Interested candidates can apply online from 31 March 2026 to 1 May 2026 . Check eligibility, selection process, and complete details of this Meghalaya Job below on MeghalayaJobs.in . The District...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;District Selection Committee, Eastern West Khasi Hills&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;28 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/dsc-ewkhd-recruitment-2026-38-posts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-28T20:55:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-31T01:39:18.694Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhF1O_GsmX9lqZEW-uhoVuQm4yu6Zf-n_zDWCpUY4dL-nV2Un_A_X9GHrdko-4__w8FhxVbMU13sGTmBEMGFK1lW7V7C2bfVg_7Wt1MQKWn-a-c5cLEK5lvlumc79j2VEhMR42Kf9wPtaurA-_PZML-KdLzmIn1OXkdXTrjSYijQDJ1PaJZwHM5pIw3tAB_&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/sres-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;State Rural Employment Society (SRES), East Garo Hills&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEikqvu4HInBQKRP082XwuJdddGhOgnczAl9vzWhj6ewWP2QiDvrZLJN2TM1a_ojbc97ColWmanR8eKrZszHU20740LesVNqWMEKRs2lbYLHMPj-LCeNJTudHk3e-N0VydPE2M-KeNgFfgCl_njINRGpHyMAwjF1hzAXLtzp2n2l0wMGPbRN0xKZa_UfDSSC=s72-c&quot; alt=&quot;State Rural Employment Society (SRES), East Garo Hills logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/sres-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  SRES Meghalaya Recruitment 2026 – Apply for Programme Assistant &amp;amp; IT Professional | Meghalaya Job
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 15 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;State Govt.&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEikqvu4HInBQKRP082XwuJdddGhOgnczAl9vzWhj6ewWP2QiDvrZLJN2TM1a_ojbc97ColWmanR8eKrZszHU20740LesVNqWMEKRs2lbYLHMPj-LCeNJTudHk3e-N0VydPE2M-KeNgFfgCl_njINRGpHyMAwjF1hzAXLtzp2n2l0wMGPbRN0xKZa_UfDSSC&quot; alt=&quot;SRES Meghalaya Recruitment 2026 – Apply for Programme Assistant &amp;amp; IT Professional | Meghalaya Job&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;SRES Meghalaya Recruitment 2026 notification has been officially released for 2 vacancies of Programme Assistant and IT Professional under State Rural Employment Society (SRES), East Garo Hills . This latest Meghalaya Job opportunity is open for eligible candidates who want to work in government projects like RGSA and...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;State Rural Employment Society (SRES), East Garo Hills&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;28 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/sres-meghalaya-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-28T13:00:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-28T15:54:06.299Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEikqvu4HInBQKRP082XwuJdddGhOgnczAl9vzWhj6ewWP2QiDvrZLJN2TM1a_ojbc97ColWmanR8eKrZszHU20740LesVNqWMEKRs2lbYLHMPj-LCeNJTudHk3e-N0VydPE2M-KeNgFfgCl_njINRGpHyMAwjF1hzAXLtzp2n2l0wMGPbRN0xKZa_UfDSSC&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-govt-job-2026-8th-pass-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;General Administration (A) Department Meghalaya&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhOrlAzzhRpWpeBxuxl2nl5hnUEeELe3Ieve8XknxzSbmcPj6FXgFE7fgPREU56wzKlUCdyIDpdEG_BTr301eTbQ8V935RPDuWq-olpc-gxSzZDCvMFEB5OdBR__N8CO6TZTeleLVibEVZ_O_5kJ8Rl6a0kfTUujjI7JInLerqrDomRl1rf1Z1nnTw5YJiI=s72-c&quot; alt=&quot;General Administration (A) Department Meghalaya logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-govt-job-2026-8th-pass-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  Meghalaya Govt Job 2026 – 8th Pass Jobs Apply Online for LDA, Driver &amp;amp; Peon Posts | Last Date 31 March 2026
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 31 Mar 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;State Govt.&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhOrlAzzhRpWpeBxuxl2nl5hnUEeELe3Ieve8XknxzSbmcPj6FXgFE7fgPREU56wzKlUCdyIDpdEG_BTr301eTbQ8V935RPDuWq-olpc-gxSzZDCvMFEB5OdBR__N8CO6TZTeleLVibEVZ_O_5kJ8Rl6a0kfTUujjI7JInLerqrDomRl1rf1Z1nnTw5YJiI&quot; alt=&quot;Meghalaya Govt Job 2026 – 8th Pass Jobs Apply Online for LDA, Driver &amp;amp; Peon Posts | Last Date 31 March 2026&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;Meghalaya Govt Job 2026 notification has been released by the General Administration (A) Department for 22 vacancies . Candidates looking for latest Meghalaya Govt Jobs 2026 can apply online before 31 March 2026 . Check full details like eligibility, vacancy, salary, and selection process of this Meghalaya Government...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;General Administration (A) Department Meghalaya&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;26 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-govt-job-2026-8th-pass-jobs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-26T07:16:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-27T11:46:20.544Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhOrlAzzhRpWpeBxuxl2nl5hnUEeELe3Ieve8XknxzSbmcPj6FXgFE7fgPREU56wzKlUCdyIDpdEG_BTr301eTbQ8V935RPDuWq-olpc-gxSzZDCvMFEB5OdBR__N8CO6TZTeleLVibEVZ_O_5kJ8Rl6a0kfTUujjI7JInLerqrDomRl1rf1Z1nnTw5YJiI&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mbma-recruitment-2026-internship-apply-online.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Meghalaya Basin Management Agency (MBMA)&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjRZB_qDDg4FWCPebu4Tk1b3PBYOrNCc6W3JfmsvwDSapTHwzCWSL9Za48tSkRf0VyRLhfR0vTRHnYdUniaaXdn2vnjByE-JmZQa8IoBms8ekNVsbE7U5-50jKfn3T8WbmFArAJmHXtfCcFq0IP9d_zgkwqKhJMb1aWpjz5t1M8SBh5nw5QixVJqMwOakxa=s72-c&quot; alt=&quot;Meghalaya Basin Management Agency (MBMA) logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/mbma-recruitment-2026-internship-apply-online.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  MBMA Recruitment 2026 – Farm Manager Internship ₹18,000 Salary | Apply Online
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 06 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjRZB_qDDg4FWCPebu4Tk1b3PBYOrNCc6W3JfmsvwDSapTHwzCWSL9Za48tSkRf0VyRLhfR0vTRHnYdUniaaXdn2vnjByE-JmZQa8IoBms8ekNVsbE7U5-50jKfn3T8WbmFArAJmHXtfCcFq0IP9d_zgkwqKhJMb1aWpjz5t1M8SBh5nw5QixVJqMwOakxa&quot; alt=&quot;MBMA Recruitment 2026 – Farm Manager Internship ₹18,000 Salary | Apply Online&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;MBMA Recruitment 2026 has been released for 12 Internship posts . Interested candidates can apply before 06 April 2026 . This is a great opportunity for candidates looking for a Meghalaya Job in agriculture and rural development. Check eligibility, salary, selection process, and full details on MeghalayaJobs.in . The...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Meghalaya Basin Management Agency (MBMA)&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;25 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/mbma-recruitment-2026-internship-apply-online.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-25T14:22:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-27T11:47:17.616Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjRZB_qDDg4FWCPebu4Tk1b3PBYOrNCc6W3JfmsvwDSapTHwzCWSL9Za48tSkRf0VyRLhfR0vTRHnYdUniaaXdn2vnjByE-JmZQa8IoBms8ekNVsbE7U5-50jKfn3T8WbmFArAJmHXtfCcFq0IP9d_zgkwqKhJMb1aWpjz5t1M8SBh5nw5QixVJqMwOakxa&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-consumer-affairs-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Food Civil Supplies &amp;amp; Consumer Affairs Department, Meghalaya&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhBOS10Qe3Xlgolo6Qtqs4CN3MEAKgRi83K5dEkobt7KkS0Rom-O1vnKL11TpN1J-3_A6SGpKdn2fT-sQf3RTUqcof6qNU5FiVk0ywTd5T9U_5-9fVKGnc1kHOVnRFe2iUVWYzBOv9-uFkoCWAyXSZs0fMOOc3Y9m5o_c3yYax5qn8F5x7zgrDmwJHrsUNh=s72-c&quot; alt=&quot;Food Civil Supplies &amp;amp; Consumer Affairs Department, Meghalaya logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-consumer-affairs-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  Meghalaya Food Civil Supplies &amp;amp; Consumer Affairs Recruitment 2026 – Apply for Member Posts | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 28 Mar 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhBOS10Qe3Xlgolo6Qtqs4CN3MEAKgRi83K5dEkobt7KkS0Rom-O1vnKL11TpN1J-3_A6SGpKdn2fT-sQf3RTUqcof6qNU5FiVk0ywTd5T9U_5-9fVKGnc1kHOVnRFe2iUVWYzBOv9-uFkoCWAyXSZs0fMOOc3Y9m5o_c3yYax5qn8F5x7zgrDmwJHrsUNh&quot; alt=&quot;Meghalaya Food Civil Supplies &amp;amp; Consumer Affairs Recruitment 2026 – Apply for Member Posts | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;Meghalaya Food Civil Supplies &amp;amp; Consumer Commission Recruitment 2026 offers 12 Member posts in different districts. The last date to apply is 28 March 2026 . Candidates must have a Bachelor’s degree with 15 years experience . Apply offline through the official process. Get full details on MeghalayaJobs.in . The Food...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Food Civil Supplies &amp;amp; Consumer Affairs Department, Meghalaya&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;24 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-consumer-affairs-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-24T09:30:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-26T11:57:10.042Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhBOS10Qe3Xlgolo6Qtqs4CN3MEAKgRi83K5dEkobt7KkS0Rom-O1vnKL11TpN1J-3_A6SGpKdn2fT-sQf3RTUqcof6qNU5FiVk0ywTd5T9U_5-9fVKGnc1kHOVnRFe2iUVWYzBOv9-uFkoCWAyXSZs0fMOOc3Y9m5o_c3yYax5qn8F5x7zgrDmwJHrsUNh&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-home-guards-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Directorate of Civil Defence &amp;amp; Home Guards, Meghalaya&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiaGbqOwzoe5xWcIQs3QzuRjh2ql9c6IQ3or7s70TAw0WdIhz8i-AP90COSgkNIhYx1FIdNWF6jmXGLXn7kbjYGzAQPdZ7gR0WzLaV8G0OIlX5hwc1VrnDFALi5uQrcML3aMTD5AR-GPbublS_b99rFBQDH999JT2k3ZdmxWQPJlvMtUTlYc7TicxW7LLrf=s72-c&quot; alt=&quot;Directorate of Civil Defence &amp;amp; Home Guards, Meghalaya logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-home-guards-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  Meghalaya Home Guards Recruitment 2026 – Apply for 18 Havildar Posts | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 06 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiaGbqOwzoe5xWcIQs3QzuRjh2ql9c6IQ3or7s70TAw0WdIhz8i-AP90COSgkNIhYx1FIdNWF6jmXGLXn7kbjYGzAQPdZ7gR0WzLaV8G0OIlX5hwc1VrnDFALi5uQrcML3aMTD5AR-GPbublS_b99rFBQDH999JT2k3ZdmxWQPJlvMtUTlYc7TicxW7LLrf&quot; alt=&quot;Meghalaya Home Guards Recruitment 2026 – Apply for 18 Havildar Posts | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;The Directorate of Civil Defence &amp;amp; Home Guards, Meghalaya has released the official notification for Meghalaya Home Guards Recruitment 2026 . A total of 18 Part-Time Platoon Havildar (Volunteer) posts are available. Candidates searching for the latest Meghalaya Job updates can check complete details such as...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Directorate of Civil Defence &amp;amp; Home Guards, Meghalaya&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;23 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-home-guards-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-23T06:02:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-24T09:33:44.264Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiaGbqOwzoe5xWcIQs3QzuRjh2ql9c6IQ3or7s70TAw0WdIhz8i-AP90COSgkNIhYx1FIdNWF6jmXGLXn7kbjYGzAQPdZ7gR0WzLaV8G0OIlX5hwc1VrnDFALi5uQrcML3aMTD5AR-GPbublS_b99rFBQDH999JT2k3ZdmxWQPJlvMtUTlYc7TicxW7LLrf&quot; /&gt;
+        &lt;/article&gt;
+      
+        &lt;article class=&quot;mjp-post-card&quot; itemscope itemtype=&quot;https://schema.org/BlogPosting&quot;&gt;
+          &lt;div class=&quot;mjp-card-head&quot;&gt;
+            
+      &lt;a class=&quot;mjp-logo-link&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-it-society-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; aria-label=&quot;Meghalaya IT Society (MITS)&quot;&gt;
+        &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhYjKL9yRYWGhHHwA-7yZLD02t6MvuvAYrgrWEGpSeQzehYRBHRaStYctkxSKnKN_IliAEXh3AUGPuKEgKL8GYSuutDhLmQ2IZbhIdYkqUKRs1mMuGUpRip1eDFbQZT-MhzTxahBRNR1lwbHkTExYJHuFvvCTSW_doDOGr9aeGyzQgAbllyeDEhIZKEBhC5=s72-c&quot; alt=&quot;Meghalaya IT Society (MITS) logo&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/a&gt;
+    
+            &lt;div&gt;
+              &lt;h3 class=&quot;mjp-card-title&quot; itemprop=&quot;headline&quot;&gt;
+                &lt;a href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-it-society-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; itemprop=&quot;url&quot;&gt;
+                  Meghalaya IT Society Recruitment 2026 – Apply Online for AI Trainer &amp;amp; Lab Assistant Posts | Meghalaya Jobs
+                &lt;/a&gt;
+              &lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;mjp-card-meta&quot;&gt;
+            &lt;span class=&quot;mjp-date&quot;&gt;Last Date: 06 Apr 2026&lt;/span&gt;
+            &lt;span class=&quot;mjp-badge&quot;&gt;Recruitment&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;details class=&quot;mjp-card-details&quot;&gt;
+            &lt;summary&gt;
+              &lt;span&gt;View details&lt;/span&gt;
+              &lt;span class=&quot;mjp-caret&quot;&gt;↓&lt;/span&gt;
+            &lt;/summary&gt;
+            &lt;div class=&quot;mjp-card-body&quot;&gt;
+              
+                &lt;div class=&quot;mjp-feature&quot;&gt;
+                  &lt;img src=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhYjKL9yRYWGhHHwA-7yZLD02t6MvuvAYrgrWEGpSeQzehYRBHRaStYctkxSKnKN_IliAEXh3AUGPuKEgKL8GYSuutDhLmQ2IZbhIdYkqUKRs1mMuGUpRip1eDFbQZT-MhzTxahBRNR1lwbHkTExYJHuFvvCTSW_doDOGr9aeGyzQgAbllyeDEhIZKEBhC5&quot; alt=&quot;Meghalaya IT Society Recruitment 2026 – Apply Online for AI Trainer &amp;amp; Lab Assistant Posts | Meghalaya Jobs&quot; loading=&quot;lazy&quot; /&gt;
+                &lt;/div&gt;
+              
+              &lt;p class=&quot;mjp-description&quot; itemprop=&quot;description&quot;&gt;Meghalaya IT Society (MITS) has released an official notification for recruitment of AI Trainer and Lab Assistant posts under IT &amp;amp; Communications Department. This is a great opportunity for candidates looking for Meghalaya Job in the AI and IT sector. A total of 6 contractual vacancies are available. Educational...&lt;/p&gt;
+              &lt;div class=&quot;mjp-info-grid&quot;&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Organization&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Meghalaya IT Society (MITS)&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Post Type&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;Recruitment&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;mjp-info&quot;&gt;
+                  &lt;span class=&quot;mjp-info-label&quot;&gt;Published&lt;/span&gt;
+                  &lt;span class=&quot;mjp-info-value&quot;&gt;22 Mar 2026&lt;/span&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;mjp-actions&quot;&gt;
+                &lt;a class=&quot;mjp-open-post&quot; href=&quot;https://www.meghalayajobs.in/2026/03/meghalaya-it-society-recruitment-2026.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;
+                  Open full post
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/details&gt;
+          &lt;meta itemprop=&quot;datePublished&quot; content=&quot;2026-03-22T11:25:00.000Z&quot; /&gt;
+          &lt;meta itemprop=&quot;dateModified&quot; content=&quot;2026-03-24T09:33:29.094Z&quot; /&gt;
+          &lt;meta itemprop=&quot;image&quot; content=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEhYjKL9yRYWGhHHwA-7yZLD02t6MvuvAYrgrWEGpSeQzehYRBHRaStYctkxSKnKN_IliAEXh3AUGPuKEgKL8GYSuutDhLmQ2IZbhIdYkqUKRs1mMuGUpRip1eDFbQZT-MhzTxahBRNR1lwbHkTExYJHuFvvCTSW_doDOGr9aeGyzQgAbllyeDEhIZKEBhC5&quot; /&gt;
+        &lt;/article&gt;
+      
+    &lt;p class=&quot;mjp-foot&quot;&gt;
+      Titles, links, last dates, organization names, and post images are pulled automatically from
+      &lt;a href=&quot;https://www.meghalayajobs.in&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;MeghalayaJobs.in&lt;/a&gt;
+      and formatted for a mobile-friendly Blogger page.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://schema.org&quot;,
+  &quot;@type&quot;: &quot;CollectionPage&quot;,
+  &quot;name&quot;: &quot;Meghalaya Govt Jobs 2026 - Latest Vacancies &amp; Notifications&quot;,
+  &quot;description&quot;: &quot;Auto-updating Meghalaya Jobs Blogger page with latest titles, last dates, organization names, images, and direct links from MeghalayaJobs.in.&quot;,
+  &quot;url&quot;: &quot;https://meghalayajobs.github.io/meghalaya-jobs/posts.html&quot;,
+  &quot;mainEntity&quot;: {
+    &quot;@type&quot;: &quot;ItemList&quot;,
+    &quot;itemListElement&quot;: [
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 1,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/mpsc-meghalaya-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;Meghalaya MPSC Recruitment 2026 – Apply Online for 04 Posts, Last Date 17 April | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEgK0_NgjEidRr7xKiuoRlYvDI2xjFDJiI2leCCXeCF489juOuzt4nvrETqRby9CsvoYvIcnC2u5_JXNYBqHgsI-LsDHsuI2xWWBIjKju7njTQxpTnshudq-bRKi7Q51uz2SRjqWZOXtuZz_VuQMx5y--lpqUTrw6la0TkSQt-xaxCoKthSvh8c5fZ3clD96&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-10T17:55:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 2,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/south-garo-hills-dseo-recruitment-2026-meghalaya-job.html&quot;,
+        &quot;name&quot;: &quot;South Garo Hills DSEO Recruitment 2026 – Assistant Lecturer &amp; Teacher | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEiPp1pe3IcgExkQw6QRGd37lwLsdfyV6AUb6k5Py3F0FF5_1U-XgamKgJVGCypTGOIHfHTOmwYqrHorthF0_9rBbdy501TgJrJScxMvO-wZWZM8Xi-Fa7B8nqIS5FDHSW5k45fSCB2hMw8_nX7ODYmZaoqFicoLVYP5Ld9iRm4M_arkWxCBQnBZ1xlzGCnc&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-09T08:58:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 3,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/ssa-south-garo-hills-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;SSA South Garo Hills Recruitment 2026 – Apply for Assistant Teacher Posts | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEgMrJLlQJqUV073Gqy-Bn_SpGxcWYyJ8mdSt8E4DF8zLffIsKMoHGkYiXNE5z8qPaTEg6eYAcUi1a7qoaNFmJbFuX4jmtTuBhY-z1iTLIz_rIalQhuYWAvYl8QWanpMmnxjfu9LNU0l_rlthMnU-nJ-f9MxE_meYqA8gUWIckcmYwUN7yk7M_QaiDovxQdG&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-09T08:57:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 4,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/midc-recruitment-2026-meghalaya-jobs.html&quot;,
+        &quot;name&quot;: &quot;MIDC Recruitment 2026 – Assistant Manager &amp; Junior Assistant Apply Online | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhcvYdbJv5mbODkCvEo9Qts-8fA2oHa8Cbj963bhiak63UloEBWk4_2Q6MjhJrRFDAWIZVJDlZHJym5PQBcDnDmSJeC8i5mMIYXXNbzQzOi_wqjYH5buBehZrgky31659n_MtXERrALi52r-SFLRF-bQqKlCmBGFxX-Nnm0NTZjPufXJn7l7mZ8tqCdbLYx&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-09T08:56:00.001Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 5,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/neigrihms-recruitment-2026-doctor-vacancy.html&quot;,
+        &quot;name&quot;: &quot;NEIGRIHMS Recruitment 2026 – Apply for 92 Senior &amp; Junior Resident Doctor Posts | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEh7sNxKe8lumwueqBUDZljl7yVIOkMWAz2khsz4PHtOqligUOw7ZxKTQcJLan5-pY7MI-8TGTLJHboVGmJPxfNZUO4M4_UrBXrcZU0BesJ4c8l54IYKdfR0UgAuJBBblo43qKmNCok69VC6TKj9bGvgtra2YHN7HeAptzEFe08HcjX9tY_IrB4X-Mci3gnD&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-09T08:56:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 6,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/mtet-recruitment-2026-meghalaya-jobs.html&quot;,
+        &quot;name&quot;: &quot;MTET Recruitment 2026 – Online Application Form, Syllabus, Edit Form Till 14 April | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhRRKTlEdmRFGyYaTVnOCDGeW5KjAyqoqffhhXvlyp9EagHuaBMkKhF18TXpvfSqRR8VZGdLs0rQQp_eVZ-TJBs90x1THgVZx8GDtfKdSIF1rQR8u7QewAep1QNnccXBoVu_6S3VwwdKFZPohebD9_hvBDAekYW0SHgtEvgHAsPHY1m4LtWgsIFYi_sUljp&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-08T11:08:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 7,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/04/cm-elevate-scheme-meghalaya-2026.html&quot;,
+        &quot;name&quot;: &quot;CM Elevate Scheme 2026 Meghalaya – Apply Online, 75% Subsidy, Loan up to ₹5 Crore&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEgkKS95QpOdRtfTWmI-XwzKIh9FgeYnb3wM5JBlB6_Xr8COPnVDyMvammSE4bcC9V9g0kjltDa5_j8SdC2gUNuHMqoCwGbsc7iNjw00BdeUQ0YOlr-MHRxh58pHyt6dRWZ9SS3E8fBKOS5Cu3xthK6FWRlqqBAjlQ-4B_XcmM24EpGNCzn9mzdKwQOO7vmb=s1200&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-08T10:49:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 8,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/04/el-elyon-institute-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;El Elyon Institute Recruitment 2026 – Apply for 49 Posts | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEjtlMlFiAUaCWVu_OfnNEz8_keUi0BBBTR9oiyT3Eu3YxjBHL7J1zOXTNrQRNadlhgm8choszrS9YtM45lEP8kRjVb0CJt57Vu56G6uqT51O1uIIfn_Z9tdks7g8y1489PAJZQCOwzl-ULMvGm7121qRZHAc6w1m7zUJGoTLSy6oEcqK8Ocj5mUwlHmKLYd=s1200&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-06T05:52:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 9,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/04/phe-mairang-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;PHE Mairang Recruitment 2026 – 3 Posts Apply Online (Last Date 5 April) | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEjXZ-8NDBV_wvXUAFBhLvJmep7WVCZP1FbAG4l9Pwwr3u1xZo0Z-VWIFvrYiHTuUhHE8TG9FN-aiTWq9xnm6a6TyPuoOak7Rn-0hrcpgq2ydkBkNqz9DER3uoQoLkJIogk4HoCBMJUNX4woecQkVMWquMunUF912ZVsYmEod_PGwzQ6c6kZInsWfEzVsUeZ&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-04T09:47:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 10,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/04/dsc-east-khasi-hills-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;DSC East Khasi Hills Recruitment 2026 – Apply Online for 17 Posts (10th Pass) | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEg_NcqJtc7fIS8QMo0zYg_kkPdAFF6sQTroGVyIwX5wR45Ur7nE24CP6aPnahUItudJs7hrFD0v3yMsf04rjvC1dzPG_hjP2L8fsqP62H26OGbJ3B8sUEkjOz1mxAUM1YWRuHhukU8W3sS_bSqc_N6jEWdlYCl0DxIkini-xfJ4ihj6635deEygTiKE6YoD&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-04T07:34:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 11,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/04/mbose-sslc-result-2026-meghalaya.html&quot;,
+        &quot;name&quot;: &quot;MBOSE SSLC Result 2026 Out Now – Check Meghalaya Board Class 10 Result Link @mbose.in&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEgpPrAjPBTPGRJhg6p2E4m1TPiYxI-a3IzyjOrF3p7iDkQPGFHN-H125UIIkh95tXxe4Nygahiv5c9uIS6GdGNT2uvAU7-GLobo-GGRhRTjD9mDTW7vrhn1aE28RcB3By1CPqEstJr8pguk_3D8ZtAFzXOPzuWdtoI9ZM4NfZ3EVTM3TAJOugv2yrdXCEi0&quot;,
+        &quot;datePublished&quot;: &quot;2026-04-04T05:30:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 12,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/dsc-ewkhd-recruitment-2026-38-posts.html&quot;,
+        &quot;name&quot;: &quot;DSC Eastern West Khasi Hills Recruitment 2026 – LDA, Gram Sevak, Driver, Grade IV | 6th, 8th, 10th Pass Job | 39 Posts Apply Online | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhF1O_GsmX9lqZEW-uhoVuQm4yu6Zf-n_zDWCpUY4dL-nV2Un_A_X9GHrdko-4__w8FhxVbMU13sGTmBEMGFK1lW7V7C2bfVg_7Wt1MQKWn-a-c5cLEK5lvlumc79j2VEhMR42Kf9wPtaurA-_PZML-KdLzmIn1OXkdXTrjSYijQDJ1PaJZwHM5pIw3tAB_&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-28T20:55:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 13,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/sres-meghalaya-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;SRES Meghalaya Recruitment 2026 – Apply for Programme Assistant &amp; IT Professional | Meghalaya Job&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEikqvu4HInBQKRP082XwuJdddGhOgnczAl9vzWhj6ewWP2QiDvrZLJN2TM1a_ojbc97ColWmanR8eKrZszHU20740LesVNqWMEKRs2lbYLHMPj-LCeNJTudHk3e-N0VydPE2M-KeNgFfgCl_njINRGpHyMAwjF1hzAXLtzp2n2l0wMGPbRN0xKZa_UfDSSC&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-28T13:00:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 14,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/meghalaya-govt-job-2026-8th-pass-jobs.html&quot;,
+        &quot;name&quot;: &quot;Meghalaya Govt Job 2026 – 8th Pass Jobs Apply Online for LDA, Driver &amp; Peon Posts | Last Date 31 March 2026&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhOrlAzzhRpWpeBxuxl2nl5hnUEeELe3Ieve8XknxzSbmcPj6FXgFE7fgPREU56wzKlUCdyIDpdEG_BTr301eTbQ8V935RPDuWq-olpc-gxSzZDCvMFEB5OdBR__N8CO6TZTeleLVibEVZ_O_5kJ8Rl6a0kfTUujjI7JInLerqrDomRl1rf1Z1nnTw5YJiI&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-26T07:16:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 15,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/mbma-recruitment-2026-internship-apply-online.html&quot;,
+        &quot;name&quot;: &quot;MBMA Recruitment 2026 – Farm Manager Internship ₹18,000 Salary | Apply Online&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEjRZB_qDDg4FWCPebu4Tk1b3PBYOrNCc6W3JfmsvwDSapTHwzCWSL9Za48tSkRf0VyRLhfR0vTRHnYdUniaaXdn2vnjByE-JmZQa8IoBms8ekNVsbE7U5-50jKfn3T8WbmFArAJmHXtfCcFq0IP9d_zgkwqKhJMb1aWpjz5t1M8SBh5nw5QixVJqMwOakxa&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-25T14:22:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 16,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/meghalaya-consumer-affairs-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;Meghalaya Food Civil Supplies &amp; Consumer Affairs Recruitment 2026 – Apply for Member Posts | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhBOS10Qe3Xlgolo6Qtqs4CN3MEAKgRi83K5dEkobt7KkS0Rom-O1vnKL11TpN1J-3_A6SGpKdn2fT-sQf3RTUqcof6qNU5FiVk0ywTd5T9U_5-9fVKGnc1kHOVnRFe2iUVWYzBOv9-uFkoCWAyXSZs0fMOOc3Y9m5o_c3yYax5qn8F5x7zgrDmwJHrsUNh&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-24T09:30:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 17,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/meghalaya-home-guards-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;Meghalaya Home Guards Recruitment 2026 – Apply for 18 Havildar Posts | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEiaGbqOwzoe5xWcIQs3QzuRjh2ql9c6IQ3or7s70TAw0WdIhz8i-AP90COSgkNIhYx1FIdNWF6jmXGLXn7kbjYGzAQPdZ7gR0WzLaV8G0OIlX5hwc1VrnDFALi5uQrcML3aMTD5AR-GPbublS_b99rFBQDH999JT2k3ZdmxWQPJlvMtUTlYc7TicxW7LLrf&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-23T06:02:00.000Z&quot;
+      },
+      {
+        &quot;@type&quot;: &quot;ListItem&quot;,
+        &quot;position&quot;: 18,
+        &quot;url&quot;: &quot;https://www.meghalayajobs.in/2026/03/meghalaya-it-society-recruitment-2026.html&quot;,
+        &quot;name&quot;: &quot;Meghalaya IT Society Recruitment 2026 – Apply Online for AI Trainer &amp; Lab Assistant Posts | Meghalaya Jobs&quot;,
+        &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/a/AVvXsEhYjKL9yRYWGhHHwA-7yZLD02t6MvuvAYrgrWEGpSeQzehYRBHRaStYctkxSKnKN_IliAEXh3AUGPuKEgKL8GYSuutDhLmQ2IZbhIdYkqUKRs1mMuGUpRip1eDFbQZT-MhzTxahBRNR1lwbHkTExYJHuFvvCTSW_doDOGr9aeGyzQgAbllyeDEhIZKEBhC5&quot;,
+        &quot;datePublished&quot;: &quot;2026-03-22T11:25:00.000Z&quot;
+      }
+    ]
+  }
+}
+  &lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  (function () {
+    var src = &quot;https://meghalayajobs.github.io/meghalaya-jobs/meghalaya-posts-widget.js&quot;;
+    var widgetSelector = &quot;[data-meghalaya-posts-widget]&quot;;
+    var scriptId = &quot;mjp-remote-script&quot;;
+    function reloadWidget() {
+      var target = document.querySelector(widgetSelector);
+      if (target) {
+        target.dataset.mjgMounted = 'false';
+      }
+
+      var oldScript = document.getElementById(scriptId);
+      if (oldScript) {
+        oldScript.remove();
+      }
+
+      var script = document.createElement('script');
+      script.id = scriptId;
+      script.defer = true;
+      script.src = src + (src.indexOf('?') === -1 ? '?' : '&amp;') + 'v=' + Date.now();
+      document.body.appendChild(script);
+    }
+
+    reloadWidget();
+    window.setInterval(reloadWidget, 900000);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;
+  &lt;p&gt;
+    Meghalaya jobs widget requires JavaScript. Open
+    &lt;a href=&quot;https://meghalayajobs.github.io/meghalaya-jobs/posts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;the live jobs page&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/noscript&gt;</pre>
+    </div>
+  </body>
+</html>
