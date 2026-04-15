@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-14T22:32:13.245Z",
-  "generatedAtLabel": "15 April 2026 at 04:02 am",
+  "generatedAt": "2026-04-15T06:12:25.930Z",
+  "generatedAtLabel": "15 April 2026 at 11:42 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
+    "recruitment": 11,
     "result": 13,
     "admit_card": 0
   },
@@ -767,7 +767,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "r-coordinator-general-garo-region\">Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
       },
       {
         "department": "Information Tech.",
@@ -803,7 +803,7 @@
         "publishedLabel": "27 Feb 2026",
         "sortValue": 1772150400000,
         "score": 7,
-        "context": "w-even item-list-slider\"> Advertisement of the post Office Assistant for BMMUs under East Jaintia Hills 27/02/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - F"
+        "context": "s-row-odd item-list-slider\"> NOTIFICATION-Personal Interview for the post of Cluster Coordinator-General 06/03/2026 27/02/2026 Notification - Personal Interview for the Absorption of staffs for the post of District Functional specialist - Fi"
       },
       {
         "department": "Education Dept",
@@ -1060,18 +1060,6 @@
         "sortValue": 1775001600000,
         "score": 40,
         "context": "Advertisement for the post of Assistant Teacher – Mathematics in UP Graded RMSA Sec. Schools 01/04/2026 10/04/2026 View (284 KB)"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/03/17749578462372.pdf",
-        "title": "District IT Manager cum Accountant Recruitment under SBM-G",
-        "category": "recruitment",
-        "publishedAt": "2026-03-31T00:00:00.000Z",
-        "publishedLabel": "31 Mar 2026",
-        "sortValue": 1774915200000,
-        "score": 40,
-        "context": "District IT Manager cum Accountant Recruitment under SBM-G. 31/03/2026 15/04/2026 View (355 KB)"
       }
     ],
     "result": [
