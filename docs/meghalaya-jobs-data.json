@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-15T10:44:47.977Z",
-  "generatedAtLabel": "15 April 2026 at 04:14 pm",
+  "generatedAt": "2026-04-15T14:57:07.620Z",
+  "generatedAtLabel": "15 April 2026 at 08:27 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
+    "recruitment": 13,
     "result": 13,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MeGSRES",
+        "sourceUrl": "https://megsres.nic.in/recruitment",
+        "url": "https://megsres.nic.in/notice-written-test-post-accounts-assistant-under-pmay-g",
+        "title": "NOTICE- Written Test for the post of Accounts Assistant under PMAY-G",
+        "category": "recruitment",
+        "publishedAt": "2026-04-15T00:00:00.000Z",
+        "publishedLabel": "15 Apr 2026",
+        "sortValue": 1776211200000,
+        "score": 7,
+        "context": "dex=\"0\"> 15/04/2026 Corrigend"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -294,18 +306,6 @@
         "sortValue": 1773878400000,
         "score": 12,
         "context": "I Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya Click Here Note: Better viewed in Chrome Browser Mar 19 2026 [NEW] Mar 19 2026 [NEW] Advertisement for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya Mar 18 2026 [NEW] Notice Invit"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50368",
-        "title": "Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 7,
-        "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span class=\"views-label vi"
       }
     ],
     "admit_card": [
@@ -779,7 +779,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "r-coordinator-general-garo-region\">Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-"
       },
       {
         "department": "Information Tech.",
@@ -929,6 +929,18 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MeGSRES",
+        "sourceUrl": "https://megsres.nic.in/recruitment",
+        "url": "https://megsres.nic.in/notice-written-test-post-accounts-assistant-under-pmay-g",
+        "title": "NOTICE- Written Test for the post of Accounts Assistant under PMAY-G",
+        "category": "recruitment",
+        "publishedAt": "2026-04-15T00:00:00.000Z",
+        "publishedLabel": "15 Apr 2026",
+        "sortValue": 1776211200000,
+        "score": 7,
+        "context": "dex=\"0\"> 15/04/2026 Corrigend"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
