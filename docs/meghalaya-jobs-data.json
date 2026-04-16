@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-16T11:40:17.848Z",
-  "generatedAtLabel": "16 April 2026 at 05:10 pm",
+  "generatedAt": "2026-04-16T16:55:44.369Z",
+  "generatedAtLabel": "16 April 2026 at 10:25 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -612,6 +612,18 @@
         "context": "19/03/2026 30/06/2026 View (504 KB)"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743372954010.pdf",
+        "title": "DSC: EWKH Results of Enforcement Checker",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (471 KB)"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50381",
@@ -622,18 +634,6 @@
         "sortValue": 1773878400000,
         "score": 7,
         "context": "s-field-title\"> Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong Date: 19 Mar 2026 Date: 19 Mar 2026 Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT) <div class=\"vi"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
-        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
-        "category": "result",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 7,
-        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
       }
     ],
     "other_notice": [
@@ -746,16 +746,16 @@
         "context": "rm 06-04-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // JRD- APPLICATION FORM- ANNEXURE- I // 27-03-2026 Advertisement for the post of Senior Resident Doctors // Application Form // <a href=\"Latest News/estt-2/2026/EWS CERTIFICATE FORMAT - Annexure II (1).pdf\" target=\"_b"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746803234075.pdf",
-        "title": "DSC: EWKH Mechanic Gr II Personal Interview Notice",
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/eoi-hiring-vehicle-march-2026",
+        "title": "EOI- Hiring of Vehicle March, 2026",
         "category": "other_notice",
-        "publishedAt": "2026-03-26T00:00:00.000Z",
-        "publishedLabel": "26 Mar 2026",
-        "sortValue": 1774483200000,
-        "score": 40,
-        "context": "26/03/2026 11/04/2026 View (610 KB)"
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 7,
+        "context": "er-coordinator-general-garo-region\">Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
       },
       {
         "department": "NEIGRIHMS",
@@ -779,7 +779,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "er-coordinator-general-garo-region\">Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
+        "context": "sp; 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</"
       },
       {
         "department": "Information Tech.",
