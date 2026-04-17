@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T10:39:37.702Z",
-  "generatedAtLabel": "17 April 2026 at 04:09 pm",
+  "generatedAt": "2026-04-17T14:43:30.984Z",
+  "generatedAtLabel": "17 April 2026 at 08:13 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -674,6 +674,18 @@
         "context": "ssociate-gls\">Declaration of results of the Apprenticeship Trainee GIS for the position of Programme Associate-GlS 17/04/2026 14/04/2026 List of S"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026%20amendment.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-04-09T00:00:00.000Z",
+        "publishedLabel": "09 Apr 2026",
+        "sortValue": 1775692800000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.104/2024/205 Dated 09-04-2026 Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17755631761924.pdf",
@@ -755,7 +767,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-si"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid"
       },
       {
         "department": "MSRLS",
@@ -767,7 +779,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "sp; 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</"
+        "context": "in-frame-row-item views-row views-row-2 views-row-odd views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "Information Tech.",
@@ -785,13 +797,13 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026.pdf",
-        "title": "Notification Number/Date",
+        "title": "No. EDN.209/2025/7 Dated 18-03-2026",
         "category": "other_notice",
         "publishedAt": "2026-03-18T00:00:00.000Z",
         "publishedLabel": "18 Mar 2026",
         "sortValue": 1773792000000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.209/2025/7 Dated 18-03-2026 Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026) (200kb)"
+        "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026) (200kb)"
       },
       {
         "department": "Education Dept",
@@ -912,18 +924,6 @@
         "sortValue": 1761696000000,
         "score": 40,
         "context": "Reconstitution of the composition of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%201.pdf",
-        "title": "No. EDN.272/2015/117 Dated 29-10-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2025",
-        "sortValue": 1761696000000,
-        "score": 40,
-        "context": "Constitution of the Executive Committee of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
       }
     ]
   },
