@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T17:03:09.719Z",
-  "generatedAtLabel": "18 April 2026 at 10:33 pm",
+  "generatedAt": "2026-04-18T19:55:24.247Z",
+  "generatedAtLabel": "19 April 2026 at 01:25 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 13,
-    "result": 11,
+    "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -360,54 +360,6 @@
         "context": "dex=\"0\"> 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.i"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761747421408.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026. 14/04/2026 31/05/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761740083289.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026. 14/04/2026 31/05/2026 View (627 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761750641796.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026. 14/04/2026 31/05/2026 View (933 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761744338351.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.p 14/04/2026 31/05/2026 View (954 KB)"
-      },
-      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/list-shortlisted-candidates-written-examination-position-manager-technology-innovation-information",
@@ -634,6 +586,54 @@
         "sortValue": 1773878400000,
         "score": 7,
         "context": "s-field-title\"> Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong Date: 19 Mar 2026 Date: 19 Mar 2026 Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT) <div class=\"vi"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
+        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
+        "category": "result",
+        "publishedAt": "2026-03-18T00:00:00.000Z",
+        "publishedLabel": "18 Mar 2026",
+        "sortValue": 1773792000000,
+        "score": 7,
+        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50347",
+        "title": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT)",
+        "category": "result",
+        "publishedAt": "2026-03-17T00:00:00.000Z",
+        "publishedLabel": "17 Mar 2026",
+        "sortValue": 1773705600000,
+        "score": 7,
+        "context": "iv> Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 19 Mar 2026 Date: 17 Mar 2026 Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL <span class=\"views-"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Extension%20of%20Deadline%20for%20Submission%20of%20Claims%20on%20Shortlisting%20Scores%20for%20Provisionally%20Eligible%20Candidates%20(1).pdf",
+        "title": "16th March 2026",
+        "category": "result",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
+        "publishedLabel": "16 Mar 2026",
+        "sortValue": 1773619200000,
+        "score": 40,
+        "context": "Extension of Deadline for Submission of Claims on Shortlisting Scores for Provisionally Eligible Candidates. (117 MB)"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50354",
+        "title": "Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL",
+        "category": "result",
+        "publishedAt": "2026-03-16T00:00:00.000Z",
+        "publishedLabel": "16 Mar 2026",
+        "sortValue": 1773619200000,
+        "score": 7,
+        "context": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT) Date: 17 Mar 2026 Date: 16 Mar 2026 Advertisement for the post of Professors and Associate Professors on contractual basis in various disciplines for Shillong Medical College <div class=\"views-field views-field-field-date1 sf-2"
       }
     ],
     "other_notice": [
@@ -647,7 +647,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 17/04/2026 <a href=\"/declaration-results-apprenticeship-tra"
+        "context": "for the position of Programme Associate-GlS 17/04/2026 17/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "NEIGRIHMS",
@@ -684,54 +684,6 @@
         "sortValue": 1775692800000,
         "score": 40,
         "context": "Content Summary Format No. EDN.104/2024/205 Dated 09-04-2026 Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17755631761924.pdf",
-        "title": "CORRIGENDUM: Inspection of land at New Kantolguri, North Garo Hills, District Park University scheduled on 8th April 2026 stands revised and re-scheduled to 9th April 2026 due to unforeseen circumstances.",
-        "category": "other_notice",
-        "publishedAt": "2026-04-07T00:00:00.000Z",
-        "publishedLabel": "07 Apr 2026",
-        "sortValue": 1775520000000,
-        "score": 40,
-        "context": "CORRIGENDUM: Inspection of land at New Kantolguri, North Garo Hills, District Park University scheduled on 8th April 2026 stands revised and re-scheduled to 9th April 2026 due to unforeseen circumstances. 07/04/2026 30/04/2026 View (439 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17751197581642.pdf",
-        "title": "NOTICE: Proposal received regarding execution of Gift Deed of land situated at New Kantolguri, North Garo Hills District",
-        "category": "other_notice",
-        "publishedAt": "2026-04-02T00:00:00.000Z",
-        "publishedLabel": "02 Apr 2026",
-        "sortValue": 1775088000000,
-        "score": 40,
-        "context": "NOTICE: Proposal received regarding execution of Gift Deed of land situated at New Kantolguri, North Garo Hills District 02/04/2026 30/04/2026 View (593 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17758414183450.pdf",
-        "title": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District",
-        "category": "other_notice",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District 01/04/2026 31/12/2026 View (579 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17750367286462.pdf",
-        "title": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for various posts on the 6th, 7th and 8th April 2026.",
-        "category": "other_notice",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "NOTICE: District Selection Committee, North Garo Hills District will conduct Personal Interview for various posts on the 6th, 7th and 8th April 2026. 01/04/2026 30/04/2026 View (358 KB)"
       },
       {
         "department": "East Khasi Hills",
@@ -924,6 +876,54 @@
         "sortValue": 1761696000000,
         "score": 40,
         "context": "Reconstitution of the composition of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%201.pdf",
+        "title": "No. EDN.272/2015/117 Dated 29-10-2025",
+        "category": "other_notice",
+        "publishedAt": "2025-10-29T00:00:00.000Z",
+        "publishedLabel": "29 Oct 2025",
+        "sortValue": 1761696000000,
+        "score": 40,
+        "context": "Constitution of the Executive Committee of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/ADDENDUM%20IT%20AWARDS%202025.pdf",
+        "title": "Addendum to the List of eligible Meritorious Students for IT Awards 2025",
+        "category": "other_notice",
+        "publishedAt": "2025-10-06T00:00:00.000Z",
+        "publishedLabel": "06 Oct 2025",
+        "sortValue": 1759708800000,
+        "score": 12,
+        "context": "rade, supply, installation, commissioning and maintenance of MSWAN Feb 27 2026 [NEW] Results of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Oct 06 2025 [NEW] Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 22 2025 [NEW] <a"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Date%20Extension%20for%20Short%20Notice%20Inviting%20quotation%20for%20Supply%20of%203%20numbers%20of%20Split%20AC%20at%20MITS.pdf",
+        "title": "Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS)",
+        "category": "other_notice",
+        "publishedAt": "2025-09-22T00:00:00.000Z",
+        "publishedLabel": "22 Sept 2025",
+        "sortValue": 1758499200000,
+        "score": 12,
+        "context": "sults of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Sep 22 2025 [NEW] Short Notice Inviting quotation for Supply, Installation and Commissioning of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 02 2025 [NEW] <a href=\"pdf/Res"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
+        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
+        "category": "other_notice",
+        "publishedAt": "2025-09-19T00:00:00.000Z",
+        "publishedLabel": "19 Sept 2025",
+        "sortValue": 1758240000000,
+        "score": 12,
+        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
       }
     ]
   },
@@ -1098,54 +1098,6 @@
         "sortValue": 1776384000000,
         "score": 7,
         "context": "dex=\"0\"> 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.i"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761747421408.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026. 14/04/2026 31/05/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761740083289.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026. 14/04/2026 31/05/2026 View (627 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761750641796.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026. 14/04/2026 31/05/2026 View (933 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761744338351.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.p 14/04/2026 31/05/2026 View (954 KB)"
       },
       {
         "department": "MBDA",
@@ -1706,7 +1658,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "reason": "HTTP 504"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
