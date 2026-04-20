@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T07:27:33.803Z",
-  "generatedAtLabel": "20 April 2026 at 12:57 pm",
+  "generatedAt": "2026-04-20T11:57:41.615Z",
+  "generatedAtLabel": "20 April 2026 at 05:27 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -272,18 +272,6 @@
         "context": "SRES DID under DRDA is inviting all the eligible applicants to apply for the post of Programme Assistant. 26/03/2026 15/04/2026 View (472 KB)"
       },
       {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisment%20for%20the%20post%20of%20SRD%20(three%20years%20tenure).pdf",
-        "title": "Advertisement for the post of Senior Resident Doctors // Application Form // EWS Certificate Format",
-        "category": "recruitment",
-        "publishedAt": "2026-03-26T00:00:00.000Z",
-        "publishedLabel": "26 Mar 2026",
-        "sortValue": 1774483200000,
-        "score": 40,
-        "context": "26-03-2026"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746806989822.pdf",
@@ -306,6 +294,18 @@
         "sortValue": 1774310400000,
         "score": 40,
         "context": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School 24/03/2026 30/04/2026 View (433 KB)"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/notice-central-recruitment-board-dated-24032026",
+        "title": "Notice by Central Recruitment Board dated 24.03.2026",
+        "category": "recruitment",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 7,
+        "context": "Constable 2026-04-01 2026-03-24 <a href=\"/rej"
       }
     ],
     "admit_card": [
@@ -638,6 +638,18 @@
     ],
     "other_notice": [
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20SRD%20(three%20years%20tenure)%20%20interview%20to%20be%20held%20on%2024th%20April%202026%20(Friday)%20with%20lists%20of%20Eligible%20&%20Not%20Eligible%20candidates.pdf",
+        "title": "Notice with list of Eligible & Not Eligible candidates for interview of Senior Resident Doctors on Hybrid Mode (Online/Offline) on 24th April 2026 (Friday)",
+        "category": "other_notice",
+        "publishedAt": "2026-04-20T00:00:00.000Z",
+        "publishedLabel": "20 Apr 2026",
+        "sortValue": 1776643200000,
+        "score": 40,
+        "context": "20-04-2026"
+      },
+      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/clarification-addendum-and-corrigendum-rfp-industry-scale-liquid-biofertilizer-and-biopesticide",
@@ -647,7 +659,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 17/04/2026 <a href=\"/declaration-results-apprenticeship-tra"
+        "context": "for the position of Programme Associate-GlS 17/04/2026 17/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "NEIGRIHMS",
@@ -767,7 +779,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <span"
       },
       {
         "department": "MSRLS",
@@ -779,7 +791,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "in-frame-row-item views-row views-row-2 views-row-odd views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 <div class=\"newit"
       },
       {
         "department": "Information Tech.",
@@ -912,18 +924,6 @@
         "sortValue": 1763078400000,
         "score": 40,
         "context": "Notification for Internal Complaint Committee for Sexual Harashment of Women at Workplace (14.11.2025) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/notification%202.pdf",
-        "title": "No. EDN.272/2015/116 Dated 29-10-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2025",
-        "sortValue": 1761696000000,
-        "score": 40,
-        "context": "Reconstitution of the composition of the Meghalaya State Higher Education Council (29.10.2025) (200kb)"
       }
     ]
   },
