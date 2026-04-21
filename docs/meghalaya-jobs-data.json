@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-21T10:54:20.225Z",
-  "generatedAtLabel": "21 April 2026 at 04:24 pm",
+  "generatedAt": "2026-04-21T15:54:13.419Z",
+  "generatedAtLabel": "21 April 2026 at 09:24 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
-    "result": 11,
+    "recruitment": 14,
+    "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/recruitment-position-chief-financial-officer-cfo",
+        "title": "Recruitment for the position of Chief Financial Officer (CFO)",
+        "category": "recruitment",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 7,
+        "context": "dex=\"0\"> 21/04/2026 Declaration of results of t"
+      },
+      {
+        "department": "MeGSRES",
+        "sourceUrl": "https://megsres.nic.in/recruitment",
+        "url": "https://megsres.nic.in/written-test-post-programme-officer-ic-iec-under-mgnrega",
+        "title": "Written test for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 7,
+        "context": "dex=\"0\"> 21/04/2026 NOTICE- Written Test for the post of Accounts A"
+      },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
@@ -77,7 +101,7 @@
         "publishedLabel": "15 Apr 2026",
         "sortValue": 1776211200000,
         "score": 7,
-        "context": "dex=\"0\"> 15/04/2026 Corrigend"
+        "context": "st-programme-officer-ic-iec-under-mgnrega\">Written test for the post of Programme Officer i/c IEC under MGNREGA 21/04/2026 15/04/2026 Corrigendu"
       },
       {
         "department": "MERB",
@@ -113,7 +137,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "osition-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of Ass"
+        "context": "position-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of As"
       },
       {
         "department": "Meghalaya Govt",
@@ -149,7 +173,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date"
+        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
       },
       {
         "department": "MPSC",
@@ -282,30 +306,6 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "SRES DID under DRDA is inviting all the eligible applicants to apply for the post of Programme Assistant. 26/03/2026 15/04/2026 View (472 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17746806989822.pdf",
-        "title": "DSC: EWKH Advertisement 2026",
-        "category": "recruitment",
-        "publishedAt": "2026-03-26T00:00:00.000Z",
-        "publishedLabel": "26 Mar 2026",
-        "sortValue": 1774483200000,
-        "score": 40,
-        "context": "26/03/2026 02/05/2026 View (2 MB)"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17743394774791.pdf",
-        "title": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School",
-        "category": "recruitment",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Lecturer and Assistant Teacher in Baghmara Govt. Higher Secondary School 24/03/2026 30/04/2026 View (433 KB)"
       }
     ],
     "admit_card": [
@@ -357,7 +357,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "dex=\"0\"> 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.i"
+        "context": "=\"/recruitment-position-chief-financial-officer-cfo\">Recruitment for the position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.in"
       },
       {
         "department": "North Garo Hills",
@@ -417,7 +417,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "\"field-content\"> Corrigendum Senior Data Scientist 14/04/2026 09/04/2026 Advertisement for the position Senior Data Scientist & Research Associate <span class=\"date-"
+        "context": "field-content\"> Corrigendum Senior Data Scientist 14/04/2026 09/04/2026 Advertisement for the position Senior Data Scientist & Research Associate <span class=\"date-d"
       },
       {
         "department": "West Khasi Hills",
@@ -441,7 +441,7 @@
         "publishedLabel": "08 Apr 2026",
         "sortValue": 1775606400000,
         "score": 7,
-        "context": "ield-content\"> Advertisement for the position Senior Data Scientist & Research Associate 09/04/2026 08/04/2026 List of Shortlisted candidates for the Written Examination for the position of Field Coordinator &nbs"
+        "context": "eld-content\"> Advertisement for the position Senior Data Scientist & Research Associate 09/04/2026 08/04/2026 List of Shortlisted candidates for the Written Examination for the position of Field Coordinator &nbsp"
       },
       {
         "department": "MBDA",
@@ -453,19 +453,7 @@
         "publishedLabel": "08 Apr 2026",
         "sortValue": 1775606400000,
         "score": 7,
-        "context": "tant-manager-and-programme-associate\">List of Shortlisted candidates for the Written Examination for the position of Assistant Manager and Programme Associate- Monitoring & Evaluation 08/04/2026 08/04/2026 Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance &am"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/shortlisted-candidates-written-examination-apprenticeship-training-finance-accounts",
-        "title": "Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance & Accounts",
-        "category": "result",
-        "publishedAt": "2026-04-08T00:00:00.000Z",
-        "publishedLabel": "08 Apr 2026",
-        "sortValue": 1775606400000,
-        "score": 7,
-        "context": "item\"> List of Shortlisted candidates for the Written Examination for the position of Field Coordinator 08/04/2026 08/04/2026 Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS)"
+        "context": "stant-manager-and-programme-associate\">List of Shortlisted candidates for the Written Examination for the position of Assistant Manager and Programme Associate- Monitoring & Evaluation 08/04/2026 08/04/2026 Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance &a"
       },
       {
         "department": "West Khasi Hills",
@@ -561,7 +549,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "-content\"> NOTIFICATION-Result of the Personal Interview for the post of District Accountant. 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-Gener"
+        "context": "\"newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"dat"
       },
       {
         "department": "MSRLS",
@@ -573,7 +561,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <"
+        "context": "newitem\"> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-Gener"
       },
       {
         "department": "West Khasi Hills",
@@ -634,9 +622,33 @@
         "sortValue": 1773878400000,
         "score": 7,
         "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong <div class=\"views-field views"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
+        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
+        "category": "result",
+        "publishedAt": "2026-03-18T00:00:00.000Z",
+        "publishedLabel": "18 Mar 2026",
+        "sortValue": 1773792000000,
+        "score": 7,
+        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
       }
     ],
     "other_notice": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-opening-financial-bids-hiring-vehicles",
+        "title": "NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles",
+        "category": "other_notice",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 7,
+        "context": "\"> 21/04/2026 NOTIFICATION - Advertisement for the p"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -659,7 +671,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 17/04/2026 <a href=\"/declaration-results-apprenticeship-tra"
+        "context": "he position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "NEIGRIHMS",
@@ -683,7 +695,7 @@
         "publishedLabel": "14 Apr 2026",
         "sortValue": 1776124800000,
         "score": 7,
-        "context": "ssociate-gls\">Declaration of results of the Apprenticeship Trainee GIS for the position of Programme Associate-GlS 17/04/2026 14/04/2026 List of S"
+        "context": "associate-gls\">Declaration of results of the Apprenticeship Trainee GIS for the position of Programme Associate-GlS 17/04/2026 14/04/2026 List of"
       },
       {
         "department": "Education Dept",
@@ -779,7 +791,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "MSRLS",
@@ -791,7 +803,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "in-frame-row-item views-row views-row-2 views-row-odd views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</a"
       },
       {
         "department": "Information Tech.",
@@ -912,23 +924,35 @@
         "sortValue": 1764547200000,
         "score": 40,
         "context": "01/12/2025 View (213 KB)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2025/shawp.pdf",
-        "title": "No. EDN.51/2015/22 Dated 14-11-2025",
-        "category": "other_notice",
-        "publishedAt": "2025-11-14T00:00:00.000Z",
-        "publishedLabel": "14 Nov 2025",
-        "sortValue": 1763078400000,
-        "score": 40,
-        "context": "Notification for Internal Complaint Committee for Sexual Harashment of Women at Workplace (14.11.2025) (200kb)"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/recruitment-position-chief-financial-officer-cfo",
+        "title": "Recruitment for the position of Chief Financial Officer (CFO)",
+        "category": "recruitment",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 7,
+        "context": "dex=\"0\"> 21/04/2026 Declaration of results of t"
+      },
+      {
+        "department": "MeGSRES",
+        "sourceUrl": "https://megsres.nic.in/recruitment",
+        "url": "https://megsres.nic.in/written-test-post-programme-officer-ic-iec-under-mgnrega",
+        "title": "Written test for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 7,
+        "context": "dex=\"0\"> 21/04/2026 NOTICE- Written Test for the post of Accounts A"
+      },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
@@ -987,7 +1011,7 @@
         "publishedLabel": "15 Apr 2026",
         "sortValue": 1776211200000,
         "score": 7,
-        "context": "dex=\"0\"> 15/04/2026 Corrigend"
+        "context": "st-programme-officer-ic-iec-under-mgnrega\">Written test for the post of Programme Officer i/c IEC under MGNREGA 21/04/2026 15/04/2026 Corrigendu"
       },
       {
         "department": "MERB",
@@ -1023,7 +1047,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "osition-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of Ass"
+        "context": "position-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of As"
       },
       {
         "department": "Meghalaya Govt",
@@ -1059,7 +1083,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date"
+        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
       },
       {
         "department": "MPSC",
@@ -1085,7 +1109,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "dex=\"0\"> 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.i"
+        "context": "=\"/recruitment-position-chief-financial-officer-cfo\">Recruitment for the position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 Corrigendum Senior Data Scientist <img src=\"https://mbda.gov.in"
       },
       {
         "department": "North Garo Hills",
@@ -1145,7 +1169,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "\"field-content\"> Corrigendum Senior Data Scientist 14/04/2026 09/04/2026 Advertisement for the position Senior Data Scientist & Research Associate <span class=\"date-"
+        "context": "field-content\"> Corrigendum Senior Data Scientist 14/04/2026 09/04/2026 Advertisement for the position Senior Data Scientist & Research Associate <span class=\"date-d"
       },
       {
         "department": "West Khasi Hills",
@@ -1169,7 +1193,7 @@
         "publishedLabel": "08 Apr 2026",
         "sortValue": 1775606400000,
         "score": 7,
-        "context": "ield-content\"> Advertisement for the position Senior Data Scientist & Research Associate 09/04/2026 08/04/2026 List of Shortlisted candidates for the Written Examination for the position of Field Coordinator &nbs"
+        "context": "eld-content\"> Advertisement for the position Senior Data Scientist & Research Associate 09/04/2026 08/04/2026 List of Shortlisted candidates for the Written Examination for the position of Field Coordinator &nbsp"
       },
       {
         "department": "MBDA",
@@ -1181,19 +1205,7 @@
         "publishedLabel": "08 Apr 2026",
         "sortValue": 1775606400000,
         "score": 7,
-        "context": "tant-manager-and-programme-associate\">List of Shortlisted candidates for the Written Examination for the position of Assistant Manager and Programme Associate- Monitoring & Evaluation 08/04/2026 08/04/2026 Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance &am"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/shortlisted-candidates-written-examination-apprenticeship-training-finance-accounts",
-        "title": "Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance & Accounts",
-        "category": "result",
-        "publishedAt": "2026-04-08T00:00:00.000Z",
-        "publishedLabel": "08 Apr 2026",
-        "sortValue": 1775606400000,
-        "score": 7,
-        "context": "item\"> List of Shortlisted candidates for the Written Examination for the position of Field Coordinator 08/04/2026 08/04/2026 Shortlisted candidate list for the Written Examination for the Apprentice Training Program (GIS)"
+        "context": "stant-manager-and-programme-associate\">List of Shortlisted candidates for the Written Examination for the position of Assistant Manager and Programme Associate- Monitoring & Evaluation 08/04/2026 08/04/2026 Shortlisted candidates for the Written Examination for the Apprenticeship Training in Finance &a"
       },
       {
         "department": "West Khasi Hills",
