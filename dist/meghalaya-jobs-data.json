@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-04-22T10:51:31.956Z",
-  "generatedAtLabel": "22 April 2026 at 04:21 pm",
+  "generatedAt": "2026-04-22T15:52:21.292Z",
+  "generatedAtLabel": "22 April 2026 at 09:22 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 3,
+    "admit_card": 1,
     "result": 24,
     "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 15,
-    "result": 8,
-    "admit_card": 0
+    "recruitment": 17,
+    "result": 9,
+    "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
@@ -53,7 +53,7 @@
         "publishedLabel": "20 Apr 2026",
         "sortValue": 1776643200000,
         "score": 7,
-        "context": "Office Wise Search Date: 20 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
+        "context": "Office Wise Search Date: 20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
       },
       {
         "department": "NEIGRIHMS",
@@ -89,7 +89,31 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
+        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50615",
+        "title": "List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50613",
+        "title": "Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 16 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
       },
       {
         "department": "MSRLS",
@@ -161,7 +185,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 09 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
+        "context": "uitment/content/50556\">Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of Meghalaya Date: 09 Apr 2026 Date: 09 Apr 2026 Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 <div class=\"views-field views-field-field-date1 sf-2\""
       },
       {
         "department": "Meghalaya Govt",
@@ -173,7 +197,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "ws-field views-field-title\"> Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School Date: 09 Apr 2026 Date: 09 Apr 2026 Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 <div class=\"views-field views-field-field-date1 sf-2\""
+        "context": "pan> Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 09 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
       },
       {
         "department": "MSRLS",
@@ -221,7 +245,7 @@
         "publishedLabel": "06 Apr 2026",
         "sortValue": 1775433600000,
         "score": 7,
-        "context": "uitment/content/50556\">Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of Meghalaya Date: 09 Apr 2026 Date: 06 Apr 2026 List of Qualified Candidates for Driving Skill Test for the Post of Driver – Meghalaya House, New Delhi <span class=\"views-label views-la"
+        "context": "ws-field views-field-title\"> Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School Date: 09 Apr 2026 Date: 06 Apr 2026 List of Qualified Candidates for Driving Skill Test for the Post of Driver – Meghalaya House, New Delhi <span class=\"views-label views-la"
       },
       {
         "department": "Meghalaya Govt",
@@ -282,68 +306,20 @@
         "sortValue": 1774569600000,
         "score": 40,
         "context": "27-03-2026"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/03/17746010398432.pdf",
-        "title": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools",
-        "category": "recruitment",
-        "publishedAt": "2026-03-27T00:00:00.000Z",
-        "publishedLabel": "27 Mar 2026",
-        "sortValue": 1774569600000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Teacher in Maths and Science in RMSA schools 27/03/2026 10/04/2026 View (526 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/JRD-%20APPLICATION%20FORM-%20ANNEXURE-%20I.pdf",
-        "title": "JRD- APPLICATION FORM- ANNEXURE- I",
-        "category": "recruitment",
-        "publishedAt": "2026-03-27T00:00:00.000Z",
-        "publishedLabel": "27 Mar 2026",
-        "sortValue": 1774569600000,
-        "score": 12,
-        "context": "dhpur.edu.in/recruitment/Non%20Faculty/2026/1767616255_Deputation%20Application%20Form%20(1).pdf\" target=\"_blank\">Link to Application Form 06-04-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // // EWS CERTIFICATE FORMAT - Annexure II 27-03-2026 Advertisement for the post of Senior Resident Doctors // <a href=\"Latest News/estt-2/2026/APPLICATION FORM (SRD) - ANNEXURE-"
       }
     ],
     "admit_card": [
       {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17733384687593.pdf",
-        "title": "Result of the Written Examination for the Post of Peon (2025) held on 07th March, 2026.",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/04/17768579275342.pdf",
+        "title": "Notice Regarding Qualifying Paper on knowledge of Local Language (Khasi language) Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 2nd May, 2026",
         "category": "admit_card",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "publishedLabel": "24 Apr 2026",
+        "sortValue": 1776988800000,
         "score": 40,
-        "context": "The Knowledge of Local Language paper will be held on the 18th March, 2026. All eligible candidates must mandatorily report for the verification of documents on the 14th March, 2026 at the O/o of the Deputy Commissioner, East Khasi Hills District, Shillong, Atrium Area, 2nd Floor from 10:30 am onwards. Admit card can be downloaded from https://rpa.meghalaya.gov.in/rpaonline 12/03/2026 31/03/2026 View (303 KB)"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://rpa.meghalaya.gov.in/rpaonline/login",
-        "title": "Admit card can be downloaded from https://rpa.meghalaya.gov.in/rpaonline",
-        "category": "admit_card",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
-        "score": 7,
-        "context": "Result of the Written Examination for the Post of Peon (2025) held on 07th March, 2026. The Knowledge of Local Language paper will be held on the 18th March, 2026. All eligible candidates must mandatorily report for the verification of documents on the 14th March, 2026 at the O/o of the Deputy Commissioner, East Khasi Hills District, Shillong, Atrium Area, 2nd Floor from 10:30 am onwards. 12/03/2026 31/03/2026 <a target=\"_blank\" aria-label=\"Result of the Written Examination for the Post of Peon (2025) held on 07th March, 2026. PDF 303 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/1"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/02/17721758954029.pdf",
-        "title": "Notice Regarding Written Examination for the Peon advertised by the District Selection Committee, East Khasi Hills District vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/67 dated Shillong the 19th December 2025.",
-        "category": "admit_card",
-        "publishedAt": "2026-02-27T00:00:00.000Z",
-        "publishedLabel": "27 Feb 2026",
-        "sortValue": 1772150400000,
-        "score": 40,
-        "context": "This is for general information for those candidates who have applied for the posts of Peon advertised by the District Selection Committee, East Khasi Hills District vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/67 Dated Shillong the 19th December 2025 that the Written Examination for the said post will be held on the 7th March, 2026. Candidates are to mandatorily download the e-Admit Card for the written examination from the designated website at https://rpa.meghalaya.gov.in/rpaonline/ which will be made available to download from 2nd March, 2026 onwards No candidate will be allowed to enter the examination centre(s) without the e-Admit Card and a valid ID Card. Candidates are requested to report at the examination centre 1 (one) hour before the commencement of the examination. Entry Gates will be closed 30 minutes before the commencement of examination. The decision of the Office in this regard is Final. 27/02/2026 31/03/2026 View (302 KB)"
+        "context": "This is for general information for those candidates who applied for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District, Shillong vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/64, dated 2nd September, 2025 that the Qualifying Paper on knowledge of Local Language (Khasi Language) Examination will be held on 2nd May, 2026. Candidates are advised to download the e-admit card from the website at https://rps.meghalaya.gov.in/rpaonline/ w.e.f. 24th April, 2026 onwards. No candidate will be allowed to enter the examination Centre(s) without the e-Admit Card and a valid ID Card. Candidates must mandatorily produce the hard copy of the e-admit card during the examination when asked for by the Examination functionaries. Candidates are requested to report at the examination Centre 1 (one) hour before the commencement of the examination. Entry Gates will be closed 30 minutes before the commencement of examination. The decision of the Office in this regard is Final. 24/04/2026 02/05/2026 View (259 KB)"
       }
     ],
     "result": [
@@ -358,6 +334,18 @@
         "sortValue": 1776384000000,
         "score": 7,
         "context": "=\"/recruitment-position-chief-financial-officer-cfo\">Recruitment for the position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 Corrigendum Senior Data Scientist <span class=\"date-dis"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50614",
+        "title": "Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "result",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "nt\">20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
       },
       {
         "department": "North Garo Hills",
@@ -622,18 +610,6 @@
         "sortValue": 1773792000000,
         "score": 7,
         "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50347",
-        "title": "Shortlisted Candidates to appear for the Personal Interview for the post of Junior Consultant in the Office of the Meghalaya Society for Social Audit & Transparency (MSSAT)",
-        "category": "result",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "publishedLabel": "17 Mar 2026",
-        "sortValue": 1773705600000,
-        "score": 7,
-        "context": "s-field-title\"> Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong Date: 19 Mar 2026 Date: 17 Mar 2026 Results and list of candidates qualified for the Personal Interview for the post of Procurement Associate under MMDSL <span class=\"views-"
       }
     ],
     "other_notice": [
@@ -648,6 +624,18 @@
         "sortValue": 1776816000000,
         "score": 7,
         "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 22/04/2026 <a href=\"/recruitment-position-chief-financial-o"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/PIO%20DSEL.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.80/2018/68 Dated 21-04-2026 Notification regarding the Appointment of Public Information Officer for providing information pertaining to the Directorate of School Education & Literacy (21.04.2026) (200kb)"
       },
       {
         "department": "MSRLS",
@@ -683,7 +671,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "S for the position of Programme Associate-GlS 17/04/2026 17/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
+        "context": "2026-04-21T00:00:00+05:30\">21/04/2026 17/04/2026 <a href=\"/declaration-results-apprenticeship-trai"
       },
       {
         "department": "NEIGRIHMS",
@@ -713,13 +701,13 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026%20amendment.pdf",
-        "title": "Notification Number/Date",
+        "title": "No. EDN.104/2024/205 Dated 09-04-2026",
         "category": "other_notice",
         "publishedAt": "2026-04-09T00:00:00.000Z",
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.104/2024/205 Dated 09-04-2026 Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
+        "context": "Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -803,7 +791,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 2"
       },
       {
         "department": "MSRLS",
@@ -815,7 +803,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</a"
+        "context": "in-frame-row-item views-row views-row-3 views-row-even views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 <div class=\"newit"
       },
       {
         "department": "Information Tech.",
@@ -912,18 +900,6 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus Pre-School I-III 2025",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 6,
-        "context": "ulars/2026/Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025).pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\"> Meghalaya Syllabus for Classes 1 and 2 (Langauge and Numeracy) 2025 Resource Books for Preschool I-III <"
       }
     ]
   },
@@ -963,7 +939,7 @@
         "publishedLabel": "20 Apr 2026",
         "sortValue": 1776643200000,
         "score": 7,
-        "context": "Office Wise Search Date: 20 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
+        "context": "Office Wise Search Date: 20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
       },
       {
         "department": "NEIGRIHMS",
@@ -999,7 +975,31 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
+        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50615",
+        "title": "List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50613",
+        "title": "Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 16 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
       },
       {
         "department": "MSRLS",
@@ -1071,7 +1071,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 09 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
+        "context": "uitment/content/50556\">Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of Meghalaya Date: 09 Apr 2026 Date: 09 Apr 2026 Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 <div class=\"views-field views-field-field-date1 sf-2\""
       },
       {
         "department": "Meghalaya Govt",
@@ -1083,7 +1083,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "ws-field views-field-title\"> Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School Date: 09 Apr 2026 Date: 09 Apr 2026 Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 <div class=\"views-field views-field-field-date1 sf-2\""
+        "context": "pan> Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 09 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
       },
       {
         "department": "MSRLS",
@@ -1122,6 +1122,18 @@
         "sortValue": 1776384000000,
         "score": 7,
         "context": "=\"/recruitment-position-chief-financial-officer-cfo\">Recruitment for the position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 Corrigendum Senior Data Scientist <span class=\"date-dis"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50614",
+        "title": "Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA",
+        "category": "result",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 7,
+        "context": "nt\">20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
       },
       {
         "department": "North Garo Hills",
@@ -1208,7 +1220,20 @@
         "context": "eld-content\"> Advertisement for the position Senior Data Scientist & Research Associate 09/04/2026 08/04/2026 List of Shortlisted candidates for the Written Examination for the position of Field Coordinator &nbsp"
       }
     ],
-    "admit_card": []
+    "admit_card": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/04/17768579275342.pdf",
+        "title": "Notice Regarding Qualifying Paper on knowledge of Local Language (Khasi language) Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 2nd May, 2026",
+        "category": "admit_card",
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "publishedLabel": "24 Apr 2026",
+        "sortValue": 1776988800000,
+        "score": 40,
+        "context": "This is for general information for those candidates who applied for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District, Shillong vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/64, dated 2nd September, 2025 that the Qualifying Paper on knowledge of Local Language (Khasi Language) Examination will be held on 2nd May, 2026. Candidates are advised to download the e-admit card from the website at https://rps.meghalaya.gov.in/rpaonline/ w.e.f. 24th April, 2026 onwards. No candidate will be allowed to enter the examination Centre(s) without the e-Admit Card and a valid ID Card. Candidates must mandatorily produce the hard copy of the e-admit card during the examination when asked for by the Examination functionaries. Candidates are requested to report at the examination Centre 1 (one) hour before the commencement of the examination. Entry Gates will be closed 30 minutes before the commencement of examination. The decision of the Office in this regard is Final. 24/04/2026 02/05/2026 View (259 KB)"
+      }
+    ]
   },
   "latestPosts": [
     {
