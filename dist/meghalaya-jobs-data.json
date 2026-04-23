@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T16:53:44.635Z",
-  "generatedAtLabel": "23 April 2026 at 10:23 pm",
+  "generatedAt": "2026-04-23T20:13:45.506Z",
+  "generatedAtLabel": "24 April 2026 at 01:43 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 16,
     "result": 7,
     "admit_card": 1
   },
@@ -137,7 +137,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "nt 16/04/2026 Notification - Personal Interv"
+        "context": "nt 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region <"
       },
       {
         "department": "MeGSRES",
@@ -176,18 +176,6 @@
         "context": "Advertisement for the post of Assistant Lecturers in Baghmara Govt Higher Sec. School 09/04/2026 17/04/2026 View (834 KB)"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/advertisement-position-senior-data-scientist-research-associate",
-        "title": "Advertisement for the position Senior Data Scientist & Research Associate",
-        "category": "recruitment",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "publishedLabel": "09 Apr 2026",
-        "sortValue": 1775692800000,
-        "score": 7,
-        "context": "position-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of As"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50561",
@@ -221,7 +209,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
+        "context": "ref=\"/notification-advertisement-post-district-functional-special-dfs-farm-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
       },
       {
         "department": "MPSC",
@@ -306,6 +294,18 @@
         "sortValue": 1774915200000,
         "score": 40,
         "context": "District IT Manager cum Accountant Recruitment under SBM-G. 31/03/2026 15/04/2026 View (355 KB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2703/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(3rd%20Cut%20off%20Date).pdf",
+        "title": "Rolling Advertisement for recruitment of Junior Resident Doctor (3rd Cut off Date) // JRD- APPLICATION FORM- ANNEXURE- I // EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "recruitment",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "publishedLabel": "27 Mar 2026",
+        "sortValue": 1774569600000,
+        "score": 40,
+        "context": "27-03-2026"
       }
     ],
     "admit_card": [
@@ -623,13 +623,25 @@
         "publishedLabel": "23 Apr 2026",
         "sortValue": 1776902400000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 23/04/2026 <a href=\"/rfq-procurement-workstation-under-megl"
+        "context": "FQ for Procurement of H₂S Vial under MegLIFE 23/04/2026 23/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/rfq-procurement-h%E2%82%82s-vial-under-meglife",
         "title": "RFQ for Procurement of H₂S Vial under MegLIFE",
+        "category": "other_notice",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 7,
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 23/04/2026 <a href=\"/notice-award-contract-procurement-offi"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/rfq-procurement-workstation-under-meglife",
+        "title": "RFQ for Procurement of Workstation under MegLIFE",
         "category": "other_notice",
         "publishedAt": "2026-04-23T00:00:00.000Z",
         "publishedLabel": "23 Apr 2026",
@@ -659,7 +671,7 @@
         "publishedLabel": "22 Apr 2026",
         "sortValue": 1776816000000,
         "score": 7,
-        "context": "RFQ for Procurement of H₂S Vial under MegLIFE 23/04/2026 22/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
+        "context": "for Procurement of Workstation under MegLIFE 23/04/2026 22/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
       },
       {
         "department": "Education Dept",
@@ -888,18 +900,6 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
@@ -1023,7 +1023,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "nt 16/04/2026 Notification - Personal Interv"
+        "context": "nt 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region <"
       },
       {
         "department": "MeGSRES",
@@ -1062,18 +1062,6 @@
         "context": "Advertisement for the post of Assistant Lecturers in Baghmara Govt Higher Sec. School 09/04/2026 17/04/2026 View (834 KB)"
       },
       {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/advertisement-position-senior-data-scientist-research-associate",
-        "title": "Advertisement for the position Senior Data Scientist & Research Associate",
-        "category": "recruitment",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "publishedLabel": "09 Apr 2026",
-        "sortValue": 1775692800000,
-        "score": 7,
-        "context": "position-manager-technology-innovation-information\">List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System) 09/04/2026 09/04/2026 List of Shortlisted candidates for the Written Examination for the position of As"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50561",
@@ -1107,7 +1095,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
+        "context": "ref=\"/notification-advertisement-post-district-functional-special-dfs-farm-garo-region\">NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) 16/04/2026 09/04/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). </"
       }
     ],
     "result": [
