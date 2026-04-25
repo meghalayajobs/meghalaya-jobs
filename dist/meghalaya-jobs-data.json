@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-25T11:56:57.995Z",
-  "generatedAtLabel": "25 April 2026 at 05:26 pm",
+  "generatedAt": "2026-04-25T14:29:16.392Z",
+  "generatedAtLabel": "25 April 2026 at 07:59 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -408,6 +408,18 @@
         "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.p 14/04/2026 31/05/2026 View (954 KB)"
       },
       {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/list-shortlisted-candidates-written-examination-position-manager-technology-innovation-information",
+        "title": "List of Shortlisted candidates for the Written Examination for the position of Manager- Technology & Innovation (Information System)",
+        "category": "result",
+        "publishedAt": "2026-04-09T00:00:00.000Z",
+        "publishedLabel": "09 Apr 2026",
+        "sortValue": 1775692800000,
+        "score": 7,
+        "context": "-odd\"> Corrigendum Senior Data Scientist 14/04/2026 09/04/2026 Advertisement for the position Senior Data Scientist & Research Associate <span class=\"date-d"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17757500533347.pdf",
@@ -598,18 +610,6 @@
         "sortValue": 1773792000000,
         "score": 7,
         "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Extension%20of%20Deadline%20for%20Submission%20of%20Claims%20on%20Shortlisting%20Scores%20for%20Provisionally%20Eligible%20Candidates%20(1).pdf",
-        "title": "16th March 2026",
-        "category": "result",
-        "publishedAt": "2026-03-16T00:00:00.000Z",
-        "publishedLabel": "16 Mar 2026",
-        "sortValue": 1773619200000,
-        "score": 40,
-        "context": "Extension of Deadline for Submission of Claims on Shortlisting Scores for Provisionally Eligible Candidates. (117 MB)"
       }
     ],
     "other_notice": [
@@ -635,19 +635,7 @@
         "publishedLabel": "23 Apr 2026",
         "sortValue": 1776902400000,
         "score": 7,
-        "context": "for Procurement of Workstation under MegLIFE 23/04/2026 23/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/rfq-procurement-workstation-under-meglife",
-        "title": "RFQ for Procurement of Workstation under MegLIFE",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 7,
-        "context": "2026-04-24T00:00:00+05:30\">24/04/2026 23/04/2026 <a href=\"/notice-award-contract-procurement-offic"
+        "context": "2026-04-24T00:00:00+05:30\">24/04/2026 23/04/2026 <a href=\"/rfq-procurement-workstation-under-megli"
       },
       {
         "department": "North Garo Hills",
@@ -900,6 +888,18 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
+        "category": "other_notice",
+        "publishedAt": "2026-01-22T00:00:00.000Z",
+        "publishedLabel": "22 Jan 2026",
+        "sortValue": 1769040000000,
+        "score": 10,
+        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
