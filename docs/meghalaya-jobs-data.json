@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-26T10:05:44.715Z",
-  "generatedAtLabel": "26 April 2026 at 03:35 pm",
+  "generatedAt": "2026-04-26T11:33:30.925Z",
+  "generatedAtLabel": "26 April 2026 at 05:03 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -420,30 +420,6 @@
         "context": "07/04/2026 31/12/2026 View (216 KB)"
       },
       {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
-        "title": "Recruitment Update: Second Merit List - Shortlisted Candidates for Appointment to the post of Armed Branch Constable",
-        "category": "result",
-        "publishedAt": "2026-04-02T00:00:00.000Z",
-        "publishedLabel": "02 Apr 2026",
-        "sortValue": 1775088000000,
-        "score": 7,
-        "context": "2026-04-02 <a href=\"/rec"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
-        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Fireman Mechanic/Mechanic & Driver Constable",
-        "category": "result",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 7,
-        "context": "Constable 2026-04-02 2026-04-01 <a href=\"/noti"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50479",
@@ -576,18 +552,6 @@
         "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong <div class=\"views-field views"
       },
       {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
-        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
-        "category": "result",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 7,
-        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
-      },
-      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/Extension%20of%20Deadline%20for%20Submission%20of%20Claims%20on%20Shortlisting%20Scores%20for%20Provisionally%20Eligible%20Candidates%20(1).pdf",
@@ -608,6 +572,42 @@
         "publishedAt": "2026-03-13T00:00:00.000Z",
         "publishedLabel": "13 Mar 2026",
         "sortValue": 1773360000000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/walk-in%20interview%20for%20the%20posts%20of%20Assistant%20Professor%20Adhoc%20basis%2012.03.2026%20.pdf",
+        "title": "Result of the walk-in interview for the posts of Assistant Professor on Adhoc basis held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "17.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2012.3.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2012.03.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
         "score": 40,
         "context": "18.03.2026"
       }
@@ -1635,7 +1635,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "Meghalaya Police",
+      "url": "https://megpolice.gov.in/recruitment",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
