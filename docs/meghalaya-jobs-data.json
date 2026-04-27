@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T01:58:21.038Z",
-  "generatedAtLabel": "27 April 2026 at 07:28 am",
+  "generatedAt": "2026-04-27T05:24:00.158Z",
+  "generatedAtLabel": "27 April 2026 at 10:54 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
+    "recruitment": 14,
     "result": 7,
     "admit_card": 1
   },
@@ -102,6 +102,18 @@
         "sortValue": 1776384000000,
         "score": 12,
         "context": "Notice for extension of last date for submission of application for the post of Medical Superintendent on Deputation Basis (including short-term contract) in AlIMS Jodhpur // Link to advertisement // 17-04-2026 Notice with list of Eligible & Not Eligible candidates for interview of Junior Resident Doctors on 21st April 2026 (3rd Cut Off Date) 15-0"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17772671216037.pdf",
+        "title": "MSRLS: WKH Advertisement IFC Anchor",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 40,
+        "context": "16/04/2026 09/05/2026 View (997 KB)"
       },
       {
         "department": "Meghalaya Govt",
@@ -294,18 +306,6 @@
         "sortValue": 1775088000000,
         "score": 7,
         "context": "class=\"views-field views-field-title\"> Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 Date: 06 Apr 2026 Date: 02 Apr 2026 Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency <div class=\"views-field vi"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17749603902767.pdf",
-        "title": "DSC East Khasi Hills – Advertisement for vacant posts [2026]",
-        "category": "recruitment",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
       }
     ],
     "admit_card": [
@@ -564,18 +564,6 @@
         "context": "19/03/2026 30/06/2026 View (504 KB)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743372954010.pdf",
-        "title": "DSC: EWKH Results of Enforcement Checker",
-        "category": "result",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 40,
-        "context": "19/03/2026 30/06/2026 View (471 KB)"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50381",
@@ -610,6 +598,18 @@
         "sortValue": 1773619200000,
         "score": 40,
         "context": "Extension of Deadline for Submission of Claims on Shortlisting Scores for Provisionally Eligible Candidates. (117 MB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20of%20the%20interview%20for%20the%20posts%20of%20SRD%20held%20on%2013.03.2026.pdf",
+        "title": "Result of the interview for the posts of SRD held on 13.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-13T00:00:00.000Z",
+        "publishedLabel": "13 Mar 2026",
+        "sortValue": 1773360000000,
+        "score": 40,
+        "context": "18.03.2026"
       }
     ],
     "other_notice": [
@@ -623,7 +623,7 @@
         "publishedLabel": "24 Apr 2026",
         "sortValue": 1776988800000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 24/04/2026 <a href=\"/response-pre-bid-queries-procurement-o"
+        "context": "al for Bacterial Contamination under MegLIFE 24/04/2026 24/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "MBDA",
@@ -635,7 +635,7 @@
         "publishedLabel": "24 Apr 2026",
         "sortValue": 1776988800000,
         "score": 7,
-        "context": "2026-04-24T00:00:00+05:30\">24/04/2026 24/04/2026 <a href=\"/notice-award-contract-procurement-offic"
+        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 24/04/2026 <a href=\"/corrigendum-1-procurement-office-furni"
       },
       {
         "department": "North Garo Hills",
@@ -654,18 +654,6 @@
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/notice-award-contract-procurement-office-furniture-fixtures-it-and-other-equipment-establishment-cm",
         "title": "Notice of Award of Contract for Procurement of Office Furniture, Fixtures, IT and other equipment for establishment of CM Connect Centres at Blocks in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 7,
-        "context": "ial for Bacterial Contamination under MegLIFE 24/04/2026 23/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/rfq-procurement-workstation-under-meglife",
-        "title": "RFQ for Procurement of Workstation under MegLIFE",
         "category": "other_notice",
         "publishedAt": "2026-04-23T00:00:00.000Z",
         "publishedLabel": "23 Apr 2026",
@@ -695,7 +683,7 @@
         "publishedLabel": "22 Apr 2026",
         "sortValue": 1776816000000,
         "score": 7,
-        "context": "er-meglife\">RFQ for Procurement of Workstation under MegLIFE 23/04/2026 22/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
+        "context": "r establishment of CM Connect Centres at Blocks in Meghalaya 23/04/2026 22/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item"
       },
       {
         "department": "Education Dept",
@@ -756,6 +744,18 @@
         "sortValue": 1776211200000,
         "score": 40,
         "context": "15-04-2026"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-senior-data-scientist",
+        "title": "Corrigendum Senior Data Scientist",
+        "category": "other_notice",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 7,
+        "context": "href=\"/declaration-results-apprenticeship-trainee-gis-position-programme-associate-gls\">Declaration of results of the Apprenticeship Trainee GIS for the position of Programme Associate-GlS 17/04/2026 14/04/2026 List of Shortlisted candidates for the Written Examination for the position of Ma"
       },
       {
         "department": "Education Dept",
@@ -988,6 +988,18 @@
         "sortValue": 1776384000000,
         "score": 12,
         "context": "Notice for extension of last date for submission of application for the post of Medical Superintendent on Deputation Basis (including short-term contract) in AlIMS Jodhpur // Link to advertisement // 17-04-2026 Notice with list of Eligible & Not Eligible candidates for interview of Junior Resident Doctors on 21st April 2026 (3rd Cut Off Date) 15-0"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17772671216037.pdf",
+        "title": "MSRLS: WKH Advertisement IFC Anchor",
+        "category": "recruitment",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "publishedLabel": "16 Apr 2026",
+        "sortValue": 1776297600000,
+        "score": 40,
+        "context": "16/04/2026 09/05/2026 View (997 KB)"
       },
       {
         "department": "Meghalaya Govt",
