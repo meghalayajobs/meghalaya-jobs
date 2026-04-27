@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T21:47:37.739Z",
-  "generatedAtLabel": "28 April 2026 at 03:17 am",
+  "generatedAt": "2026-04-27T22:40:58.203Z",
+  "generatedAtLabel": "28 April 2026 at 04:10 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -623,18 +623,6 @@
         "publishedLabel": "24 Apr 2026",
         "sortValue": 1776988800000,
         "score": 7,
-        "context": "k_1\" class=\"views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section\"> 24/04/2026 <a href=\"/response-pre-bid-queries-procurement-o"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/rfq-procurement-h%E2%82%82s-test-vial-bacterial-contamination-under-meglife",
-        "title": "RFQ for Procurement of H₂S Test Vial for Bacterial Contamination under MegLIFE",
-        "category": "other_notice",
-        "publishedAt": "2026-04-24T00:00:00.000Z",
-        "publishedLabel": "24 Apr 2026",
-        "sortValue": 1776988800000,
-        "score": 7,
         "context": "2026-04-24T00:00:00+05:30\">24/04/2026 24/04/2026 <a href=\"/notice-award-contract-procurement-offic"
       },
       {
@@ -659,7 +647,7 @@
         "publishedLabel": "23 Apr 2026",
         "sortValue": 1776902400000,
         "score": 7,
-        "context": "ial for Bacterial Contamination under MegLIFE 24/04/2026 23/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
+        "context": "d IT/Electronic equipment at PRIME Hub, Jowai 24/04/2026 23/04/2026 <div class=\"views-slideshow-cycle-main-frame-row-item v"
       },
       {
         "department": "MBDA",
@@ -743,7 +731,7 @@
         "publishedLabel": "17 Apr 2026",
         "sortValue": 1776384000000,
         "score": 7,
-        "context": "eTime\" content=\"2026-04-17T00:00:00+05:30\">17/04/2026 17/04/2026 Corrigendum Senior Data Scientist <span class=\"date-display-single\" prope"
+        "context": "ecruitment for the position of Chief Financial Officer (CFO) 21/04/2026 17/04/2026 <div class=\""
       },
       {
         "department": "NEIGRIHMS",
@@ -756,6 +744,18 @@
         "sortValue": 1776211200000,
         "score": 40,
         "context": "15-04-2026"
+      },
+      {
+        "department": "MBDA",
+        "sourceUrl": "https://mbda.gov.in/recruitment",
+        "url": "https://mbda.gov.in/corrigendum-senior-data-scientist",
+        "title": "Corrigendum Senior Data Scientist",
+        "category": "other_notice",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 7,
+        "context": "href=\"/declaration-results-apprenticeship-trainee-gis-position-programme-associate-gls\">Declaration of results of the Apprenticeship Trainee GIS for the position of Programme Associate-GlS 17/04/2026 14/04/2026 List of Shortlisted candidates for the Written Examination for the position of Ma"
       },
       {
         "department": "Education Dept",
