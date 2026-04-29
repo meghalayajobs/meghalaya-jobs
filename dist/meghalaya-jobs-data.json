@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T08:02:08.198Z",
-  "generatedAtLabel": "29 April 2026 at 01:32 pm",
+  "generatedAt": "2026-04-29T10:47:41.170Z",
+  "generatedAtLabel": "29 April 2026 at 04:17 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
-    "result": 3,
+    "recruitment": 14,
+    "result": 5,
     "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17774582261885.pdf",
+        "title": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -30,6 +42,18 @@
         "sortValue": 1776988800000,
         "score": 40,
         "context": "24-04-2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50692",
+        "title": "Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Apr 2026 Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai <di"
       },
       {
         "department": "North Garo Hills",
@@ -65,7 +89,7 @@
         "publishedLabel": "20 Apr 2026",
         "sortValue": 1776643200000,
         "score": 7,
-        "context": "=\"field-content\"> Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai Date: 21 Apr 2026 Date: 20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
+        "context": "=\"field-content\"> Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai Date: 21 Apr 2026 Date: 20 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
       },
       {
         "department": "NEIGRIHMS",
@@ -113,7 +137,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "pan> Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
+        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
       },
       {
         "department": "Meghalaya Govt",
@@ -125,7 +149,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
+        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
       },
       {
         "department": "Meghalaya Govt",
@@ -137,7 +161,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
+        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
       },
       {
         "department": "MSRLS",
@@ -221,7 +245,7 @@
         "publishedLabel": "09 Apr 2026",
         "sortValue": 1775692800000,
         "score": 7,
-        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 09 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
+        "context": "pan> Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 09 Apr 2026 Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of"
       },
       {
         "department": "Meghalaya Govt",
@@ -282,30 +306,6 @@
         "sortValue": 1775433600000,
         "score": 7,
         "context": "uitment/content/50556\">Walk-In Interview for the post of Medical & Health Officer and Junior Specialist (Obst & Gynae and Anaesthesiology) on contractual basis under the Health & Family Welfare Department, Government of Meghalaya Date: 09 Apr 2026 Date: 06 Apr 2026 List of Qualified Candidates for Driving Skill Test for the Post of Driver – Meghalaya House, New Delhi <span class=\"views-label views-la"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50516",
-        "title": "List of Qualified Candidates for Driving Skill Test for the Post of Driver – Meghalaya House, New Delhi",
-        "category": "recruitment",
-        "publishedAt": "2026-04-02T00:00:00.000Z",
-        "publishedLabel": "02 Apr 2026",
-        "sortValue": 1775088000000,
-        "score": 7,
-        "context": "class=\"views-field views-field-title\"> Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 Date: 06 Apr 2026 Date: 02 Apr 2026 Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency <div class=\"views-field vi"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17749603902767.pdf",
-        "title": "DSC East Khasi Hills – Advertisement for vacant posts [2026]",
-        "category": "recruitment",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "District Selection Committee, East Khasi Hills District, Shillong invites online applications from citizen of India who are the permanent residents of East Khasi Hills District, Meghalaya only (in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from https://rpa.meghalaya.gov.in/rpaonline/ 01/04/2026 01/05/2026 View (2 MB)"
       }
     ],
     "admit_card": [
@@ -336,6 +336,30 @@
         "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
       },
       {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 21.04.2026",
+        "category": "result",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "29.04.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2021.04.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 21.04.2026",
+        "category": "result",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "29.04.2026"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50626",
@@ -345,7 +369,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Office Wise Search Date: 21 Apr 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College <span class=\"views-label views"
+        "context": "field-content\"> Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong Date: 23 Apr 2026 Date: 21 Apr 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College <span class=\"views-label views"
       },
       {
         "department": "Meghalaya Govt",
@@ -357,7 +381,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "nt\">20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
+        "context": "nt\">16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
       },
       {
         "department": "North Garo Hills",
@@ -370,18 +394,6 @@
         "sortValue": 1776124800000,
         "score": 40,
         "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026. 14/04/2026 31/05/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761740083289.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Gram Sevak and Gram Sevika conducted by the District Selection Committee, North Garo Hills on the 7th April 2026. 14/04/2026 31/05/2026 View (627 KB)"
       },
       {
         "department": "North Garo Hills",
@@ -564,18 +576,6 @@
         "context": "19/03/2026 30/06/2026 View (504 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50381",
-        "title": "Notification: Result for various posts in the Office of the Resident Commissioner, Meghalaya House, New Delhi",
-        "category": "result",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 7,
-        "context": "ield-title\"> Declaration of the result for the post of Junior Consultant's and Social Audit Associate conducted by the Meghalaya Society for Social Audit & Transparency Date: 27 Mar 2026 Date: 19 Mar 2026 Online application are invited for the Post of AI Trainer and Lab Assistant on Contractual Basis in the Office of the Member Secretary, MITS, Meghalaya, Shillong <div class=\"views-field views"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
@@ -731,7 +731,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 2"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
       },
       {
         "department": "MSRLS",
@@ -743,7 +743,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "in-frame-row-item views-row views-row-3 views-row-even views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 <div class=\"newit"
+        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</a"
       },
       {
         "department": "Information Tech.",
@@ -906,6 +906,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17774582261885.pdf",
+        "title": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisement%20for%20the%20post%20of%20Director,%20NEIGRIHMS.pdf",
@@ -916,6 +928,18 @@
         "sortValue": 1776988800000,
         "score": 40,
         "context": "24-04-2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50692",
+        "title": "Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Apr 2026 Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai <di"
       },
       {
         "department": "North Garo Hills",
@@ -951,7 +975,7 @@
         "publishedLabel": "20 Apr 2026",
         "sortValue": 1776643200000,
         "score": 7,
-        "context": "=\"field-content\"> Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai Date: 21 Apr 2026 Date: 20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
+        "context": "=\"field-content\"> Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai Date: 21 Apr 2026 Date: 20 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
       },
       {
         "department": "NEIGRIHMS",
@@ -999,7 +1023,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "pan> Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
+        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Da"
       },
       {
         "department": "Meghalaya Govt",
@@ -1011,7 +1035,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College Date: 20 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
+        "context": "ield views-field-title\"> Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 16 Apr 2026 Date: 16 Apr 2026 Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <sp"
       },
       {
         "department": "Meghalaya Govt",
@@ -1023,7 +1047,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Declaration of Candidates Qualified for Personal Interview for the Post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <div class=\"views-field views-field-fi"
+        "context": "span class=\"views-field views-field-title\"> Shortlisted Candidates to appear for the Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School <div class=\"views-field views-field-field-"
       },
       {
         "department": "MSRLS",
@@ -1064,6 +1088,30 @@
         "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
       },
       {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 21.04.2026",
+        "category": "result",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "29.04.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2021.04.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 21.04.2026",
+        "category": "result",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "29.04.2026"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/50626",
@@ -1073,7 +1121,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Office Wise Search Date: 21 Apr 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College <span class=\"views-label views"
+        "context": "field-content\"> Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong Date: 23 Apr 2026 Date: 21 Apr 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College <span class=\"views-label views"
       },
       {
         "department": "Meghalaya Govt",
@@ -1085,7 +1133,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "nt\">20 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
+        "context": "nt\">16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
       }
     ],
     "admit_card": [
