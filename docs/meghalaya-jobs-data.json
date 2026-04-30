@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-30T17:09:55.104Z",
-  "generatedAtLabel": "30 April 2026 at 10:39 pm",
+  "generatedAt": "2026-04-30T19:07:02.382Z",
+  "generatedAtLabel": "01 May 2026 at 12:37 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 0,
+    "admit_card": 1,
     "result": 24,
     "other_notice": 24
   },
@@ -14,7 +14,7 @@
   "displayCounts": {
     "recruitment": 17,
     "result": 5,
-    "admit_card": 0
+    "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
@@ -308,7 +308,20 @@
         "context": "ws-field views-field-title\"> Applications are invited for the post of Assistant Lecturers for temporary engagement on contractual basis at Baghmara Govt. Higher Secondary School Date: 09 Apr 2026 Date: 09 Apr 2026 Extension of Online Registration for Recruitment of AGNIVEER into Indian Army from all District of Meghalaya States upto 10th April, 2026 <div class=\"views-field views-field-field-date1 sf-2\""
       }
     ],
-    "admit_card": [],
+    "admit_card": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/04/17768579275342.pdf",
+        "title": "Notice Regarding Qualifying Paper on knowledge of Local Language (Khasi language) Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 2nd May, 2026",
+        "category": "admit_card",
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "publishedLabel": "24 Apr 2026",
+        "sortValue": 1776988800000,
+        "score": 40,
+        "context": "This is for general information for those candidates who applied for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District, Shillong vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/64, dated 2nd September, 2025 that the Qualifying Paper on knowledge of Local Language (Khasi Language) Examination will be held on 2nd May, 2026. Candidates are advised to download the e-admit card from the website at https://rpa.meghalaya.gov.in/rpaonline / w.e.f. 24th April, 2026 onwards. No candidate will be allowed to enter the examination Centre(s) without the e-Admit Card and a valid ID Card. Candidates must mandatorily produce the hard copy of the e-admit card during the examination when asked for by the Examination functionaries. Candidates are requested to report at the examination Centre 1 (one) hour before the commencement of the examination. Entry Gates will be closed 30 minutes before the commencement of examination. The decision of the Office in this regard is Final. 24/04/2026 02/05/2026 View (259 KB)"
+      }
+    ],
     "result": [
       {
         "department": "North Garo Hills",
@@ -479,6 +492,18 @@
         "context": "26/03/2026 30/04/2026 View (228 KB)"
       },
       {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/03/17743541327699.pdf",
+        "title": "Result of the Knowledge of Local Language Paper for the Post of Peon(2025) conducted by the District Selection Committee, East Khasi Hills District, Shillong",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "Result of the Knowledge of Local Language Paper for the Post of Peon(2025) conducted by the District Selection Committee, East Khasi Hills District, Shillong. List of Successful candidates as recommened by the Committee in order of merit. 24/03/2026 30/04/2026 View (641 KB)"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
@@ -585,18 +610,6 @@
         "sortValue": 1773360000000,
         "score": 40,
         "context": "18.03.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/walk-in%20interview%20for%20the%20posts%20of%20Assistant%20Professor%20Adhoc%20basis%2012.03.2026%20.pdf",
-        "title": "Result of the walk-in interview for the posts of Assistant Professor on Adhoc basis held on 12.03.2026",
-        "category": "result",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
-        "score": 40,
-        "context": "17.03.2026"
       }
     ],
     "other_notice": [
@@ -709,6 +722,18 @@
         "context": "Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
       },
       {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "title": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "category": "other_notice",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 7,
+        "context": "(in compliance to Memo No. PER (AR) 111/2022/70-A dated Shillong, the 27th March, 2025) who are desirous to apply as per the terms and conditions in the advertisement for filling up the vacancies. Candidate can apply the vacant posts w.e.f 1st April, 2026 to 1st May, 2026. Please click here for the detailed advertisement. Apply from 01/04/2026 01/05/2026 View (2"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/eoi-hiring-vehicle-march-2026",
@@ -718,7 +743,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 2"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <span c"
       },
       {
         "department": "MSRLS",
@@ -730,7 +755,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "in-frame-row-item views-row views-row-3 views-row-even views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 <div class=\"newit"
+        "context": "sp; 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
       },
       {
         "department": "Information Tech.",
@@ -875,18 +900,6 @@
         "sortValue": 1758499200000,
         "score": 12,
         "context": "sults of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Sep 22 2025 [NEW] Short Notice Inviting quotation for Supply, Installation and Commissioning of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 02 2025 [NEW] <a href=\"pdf/Res"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
-        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
       }
     ]
   },
@@ -1159,7 +1172,20 @@
         "context": "nt\">16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
       }
     ],
-    "admit_card": []
+    "admit_card": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/04/17768579275342.pdf",
+        "title": "Notice Regarding Qualifying Paper on knowledge of Local Language (Khasi language) Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 2nd May, 2026",
+        "category": "admit_card",
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "publishedLabel": "24 Apr 2026",
+        "sortValue": 1776988800000,
+        "score": 40,
+        "context": "This is for general information for those candidates who applied for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District, Shillong vide Advertisement No. DSC.127/DSC-EKH/ADVT/2024/64, dated 2nd September, 2025 that the Qualifying Paper on knowledge of Local Language (Khasi Language) Examination will be held on 2nd May, 2026. Candidates are advised to download the e-admit card from the website at https://rpa.meghalaya.gov.in/rpaonline / w.e.f. 24th April, 2026 onwards. No candidate will be allowed to enter the examination Centre(s) without the e-Admit Card and a valid ID Card. Candidates must mandatorily produce the hard copy of the e-admit card during the examination when asked for by the Examination functionaries. Candidates are requested to report at the examination Centre 1 (one) hour before the commencement of the examination. Entry Gates will be closed 30 minutes before the commencement of examination. The decision of the Office in this regard is Final. 24/04/2026 02/05/2026 View (259 KB)"
+      }
+    ]
   },
   "latestPosts": [
     {
@@ -1647,9 +1673,9 @@
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
     {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 502"
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
     }
   ],
   "sources": [
