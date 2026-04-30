@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-30T08:05:51.601Z",
-  "generatedAtLabel": "30 April 2026 at 01:35 pm",
+  "generatedAt": "2026-04-30T10:47:09.733Z",
+  "generatedAtLabel": "30 April 2026 at 04:17 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -614,6 +614,18 @@
     ],
     "other_notice": [
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Virtual%20Autotopsy%20-%20Conducted%20by%20the%20Department%20of%20Forensic%20Medicine,%20NEIGRIHMS,%20Shillong.pdf",
+        "title": "Hands on Training on Virtual Autopsy - Conducted by the Department of Forensic Medicine, NEIGRIHMS, Shillong",
+        "category": "other_notice",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 40,
+        "context": "30-04-2026"
+      },
+      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
@@ -731,7 +743,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-sin"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 2"
       },
       {
         "department": "MSRLS",
@@ -743,7 +755,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</a"
+        "context": "in-frame-row-item views-row views-row-3 views-row-even views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 <div class=\"newit"
       },
       {
         "department": "Information Tech.",
@@ -888,18 +900,6 @@
         "sortValue": 1758499200000,
         "score": 12,
         "context": "sults of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Sep 22 2025 [NEW] Short Notice Inviting quotation for Supply, Installation and Commissioning of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 02 2025 [NEW] <a href=\"pdf/Res"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
-        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
       }
     ]
   },
