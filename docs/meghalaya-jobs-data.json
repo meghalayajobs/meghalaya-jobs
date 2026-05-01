@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-01T08:54:12.401Z",
-  "generatedAtLabel": "01 May 2026 at 02:24 pm",
+  "generatedAt": "2026-05-01T10:16:45.390Z",
+  "generatedAtLabel": "01 May 2026 at 03:46 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 12,
-    "result": 5,
+    "result": 6,
     "admit_card": 1
   },
   "sourceCount": 22,
@@ -221,7 +221,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "or Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region </"
+        "context": "for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region <"
       },
       {
         "department": "MeGSRES",
@@ -326,6 +326,18 @@
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidate-written-examination-post-project-executive-farm-livelihoods",
+        "title": "Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region.",
+        "category": "result",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 7,
+        "context": "nt 01/05/2026 Notific"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-and-personal-interview-post-project-manager",
         "title": "Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence",
         "category": "result",
@@ -333,7 +345,7 @@
         "publishedLabel": "01 May 2026",
         "sortValue": 1777593600000,
         "score": 7,
-        "context": "nt 01/05/2026 NOTIFICATION - Advertiseme"
+        "context": "te for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 01/05/2026 NOTIFICATION - Advertisemen"
       },
       {
         "department": "North Garo Hills",
@@ -537,19 +549,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-result-personal-interview-post-district-accountant",
-        "title": "NOTIFICATION-Result of the Personal Interview for the post of District Accountant.",
-        "category": "result",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "publishedLabel": "23 Mar 2026",
-        "sortValue": 1774224000000,
-        "score": 7,
-        "context": "\"newitem\"> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-Gene"
+        "context": "\"newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"dat"
       },
       {
         "department": "West Khasi Hills",
@@ -671,7 +671,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <"
+        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
       },
       {
         "department": "NEIGRIHMS",
@@ -743,7 +743,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 <div class=\"newit"
+        "context": "sp; 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 23/03/2026</span"
       },
       {
         "department": "MSRLS",
@@ -755,7 +755,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-General of Batch-III,V &VI</"
+        "context": "class=\"views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\"d"
       },
       {
         "department": "Information Tech.",
@@ -1054,6 +1054,18 @@
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidate-written-examination-post-project-executive-farm-livelihoods",
+        "title": "Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region.",
+        "category": "result",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 7,
+        "context": "nt 01/05/2026 Notific"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-and-personal-interview-post-project-manager",
         "title": "Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence",
         "category": "result",
@@ -1061,7 +1073,7 @@
         "publishedLabel": "01 May 2026",
         "sortValue": 1777593600000,
         "score": 7,
-        "context": "nt 01/05/2026 NOTIFICATION - Advertiseme"
+        "context": "te for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 01/05/2026 NOTIFICATION - Advertisemen"
       },
       {
         "department": "North Garo Hills",
