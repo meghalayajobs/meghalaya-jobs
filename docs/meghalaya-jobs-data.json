@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-01T11:51:50.754Z",
-  "generatedAtLabel": "01 May 2026 at 05:21 pm",
+  "generatedAt": "2026-05-01T12:58:27.538Z",
+  "generatedAtLabel": "01 May 2026 at 06:28 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 1,
+    "admit_card": 4,
     "result": 24,
     "other_notice": 24
   },
@@ -14,7 +14,7 @@
   "displayCounts": {
     "recruitment": 13,
     "result": 6,
-    "admit_card": 1
+    "admit_card": 4
   },
   "sourceCount": 22,
   "grouped": {
@@ -310,6 +310,42 @@
     ],
     "admit_card": [
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776366269804.pdf",
+        "title": "DRDA: Admit Cards for the post of Accountant/Accounts Assistant",
+        "category": "admit_card",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 40,
+        "context": "01/05/2026 14/05/2026 View (2 MB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776363733541.pdf",
+        "title": "DRDA: Admit Cards for the post of APO",
+        "category": "admit_card",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 40,
+        "context": "01/05/2026 14/05/2026 View (2 MB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776368464160.pdf",
+        "title": "DRDA: Notice for Admit Card",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "28/04/2026 14/05/2026 View (451 KB)"
+      },
+      {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/04/17768579275342.pdf",
@@ -540,42 +576,6 @@
         "context": "\"newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"dat"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
-        "title": "DSC: EWKH Results of Grade IV",
-        "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (701 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
-        "title": "DSC: EWKH Results of LDA (2025)",
-        "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (686 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743373991493.pdf",
-        "title": "DSC: EWKH Results of Driver",
-        "category": "result",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 40,
-        "context": "19/03/2026 30/06/2026 View (504 KB)"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
@@ -610,9 +610,57 @@
         "sortValue": 1773360000000,
         "score": 40,
         "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/walk-in%20interview%20for%20the%20posts%20of%20Assistant%20Professor%20Adhoc%20basis%2012.03.2026%20.pdf",
+        "title": "Result of the walk-in interview for the posts of Assistant Professor on Adhoc basis held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "17.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2012.3.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "18.03.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2012.03.2026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 12.03.2026",
+        "category": "result",
+        "publishedAt": "2026-03-12T00:00:00.000Z",
+        "publishedLabel": "12 Mar 2026",
+        "sortValue": 1773273600000,
+        "score": 40,
+        "context": "18.03.2026"
       }
     ],
     "other_notice": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20English.pdf",
+        "title": "1st May 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 40,
+        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in English (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -671,7 +719,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
+        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
       },
       {
         "department": "NEIGRIHMS",
@@ -888,18 +936,6 @@
         "sortValue": 1759708800000,
         "score": 12,
         "context": "rade, supply, installation, commissioning and maintenance of MSWAN Feb 27 2026 [NEW] Results of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Oct 06 2025 [NEW] Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 22 2025 [NEW] <a"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Date%20Extension%20for%20Short%20Notice%20Inviting%20quotation%20for%20Supply%20of%203%20numbers%20of%20Split%20AC%20at%20MITS.pdf",
-        "title": "Date Extension for Short Notice Inviting quotation for Supply of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS)",
-        "category": "other_notice",
-        "publishedAt": "2025-09-22T00:00:00.000Z",
-        "publishedLabel": "22 Sept 2025",
-        "sortValue": 1758499200000,
-        "score": 12,
-        "context": "sults of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya” Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Sep 22 2025 [NEW] Short Notice Inviting quotation for Supply, Installation and Commissioning of 3 numbers of Split AC at Meghalaya State Data Cenre and Office of Meghalaya Information Technology Society (MITS) Sep 02 2025 [NEW] <a href=\"pdf/Res"
       }
     ]
   },
@@ -1137,6 +1173,42 @@
       }
     ],
     "admit_card": [
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776366269804.pdf",
+        "title": "DRDA: Admit Cards for the post of Accountant/Accounts Assistant",
+        "category": "admit_card",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 40,
+        "context": "01/05/2026 14/05/2026 View (2 MB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776363733541.pdf",
+        "title": "DRDA: Admit Cards for the post of APO",
+        "category": "admit_card",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 40,
+        "context": "01/05/2026 14/05/2026 View (2 MB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776368464160.pdf",
+        "title": "DRDA: Notice for Admit Card",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "28/04/2026 14/05/2026 View (451 KB)"
+      },
       {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
