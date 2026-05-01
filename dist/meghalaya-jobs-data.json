@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-01T02:10:22.383Z",
-  "generatedAtLabel": "01 May 2026 at 07:40 am",
+  "generatedAt": "2026-05-01T06:07:40.654Z",
+  "generatedAtLabel": "01 May 2026 at 11:37 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 12,
-    "result": 4,
+    "result": 5,
     "admit_card": 1
   },
   "sourceCount": 22,
@@ -221,7 +221,7 @@
         "publishedLabel": "16 Apr 2026",
         "sortValue": 1776297600000,
         "score": 7,
-        "context": "nt 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region <"
+        "context": "or Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region </"
       },
       {
         "department": "MeGSRES",
@@ -323,6 +323,18 @@
       }
     ],
     "result": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-and-personal-interview-post-project-manager",
+        "title": "Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence",
+        "category": "result",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 7,
+        "context": "nt 01/05/2026 NOTIFICATION - Advertiseme"
+      },
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
@@ -525,7 +537,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "\"newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"dat"
+        "context": "newitem\"> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date"
       },
       {
         "department": "MSRLS",
@@ -537,7 +549,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "newitem\"> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-Gener"
+        "context": "\"newitem\"> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 Notification: Postponement of Personal Interview for the Post of Cluster Coordinator-Gene"
       },
       {
         "department": "West Khasi Hills",
@@ -598,18 +610,6 @@
         "sortValue": 1773619200000,
         "score": 40,
         "context": "Extension of Deadline for Submission of Claims on Shortlisting Scores for Provisionally Eligible Candidates. (117 MB)"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20of%20the%20interview%20for%20the%20posts%20of%20SRD%20held%20on%2013.03.2026.pdf",
-        "title": "Result of the interview for the posts of SRD held on 13.03.2026",
-        "category": "result",
-        "publishedAt": "2026-03-13T00:00:00.000Z",
-        "publishedLabel": "13 Mar 2026",
-        "sortValue": 1773360000000,
-        "score": 40,
-        "context": "18.03.2026"
       }
     ],
     "other_notice": [
@@ -671,7 +671,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "\"> 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
+        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <"
       },
       {
         "department": "NEIGRIHMS",
@@ -743,7 +743,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 2"
+        "context": "Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 <div class=\"newit"
       },
       {
         "department": "MSRLS",
@@ -755,7 +755,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "in-frame-row-item views-row views-row-3 views-row-even views-row-first item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 <div class=\"newit"
+        "context": "sp; 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
       },
       {
         "department": "Information Tech.",
@@ -1051,6 +1051,18 @@
       }
     ],
     "result": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-and-personal-interview-post-project-manager",
+        "title": "Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence",
+        "category": "result",
+        "publishedAt": "2026-05-01T00:00:00.000Z",
+        "publishedLabel": "01 May 2026",
+        "sortValue": 1777593600000,
+        "score": 7,
+        "context": "nt 01/05/2026 NOTIFICATION - Advertiseme"
+      },
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
