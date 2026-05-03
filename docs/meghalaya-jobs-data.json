@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T14:06:43.181Z",
-  "generatedAtLabel": "03 May 2026 at 07:36 pm",
+  "generatedAt": "2026-05-03T15:38:40.226Z",
+  "generatedAtLabel": "03 May 2026 at 09:08 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -875,7 +875,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "sp; 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <span class=\"date-disp"
+        "context": "sp; 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 23/03/2026</span"
       },
       {
         "department": "MSRLS",
@@ -887,7 +887,7 @@
         "publishedLabel": "23 Mar 2026",
         "sortValue": 1774224000000,
         "score": 7,
-        "context": "> NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). 23/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
+        "context": "class=\"views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd item-list-slider\"> EOI- Hiring of Vehicle March, 2026 27/03/2026 23/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\"d"
       },
       {
         "department": "Information Tech.",
@@ -1683,7 +1683,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
