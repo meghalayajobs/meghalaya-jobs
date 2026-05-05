@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-05T07:55:58.117Z",
-  "generatedAtLabel": "05 May 2026 at 01:25 pm",
+  "generatedAt": "2026-05-05T09:56:22.068Z",
+  "generatedAtLabel": "05 May 2026 at 03:26 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -34,8 +34,8 @@
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-postponement-personal-interview-post-project-manager-partnership-convergence-pm-fpc",
-        "title": "NOTIFICATION-Postponement of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC).",
+        "url": "https://msrls.nic.in/notification-reschedule-personal-interview-post-project-manager-partnership-convergence-pm-fpc",
+        "title": "NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC).",
         "category": "recruitment",
         "publishedAt": "2026-05-05T00:00:00.000Z",
         "publishedLabel": "05 May 2026",
@@ -357,7 +357,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "ION-Postponement of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification"
+        "context": "TION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -638,6 +638,30 @@
     ],
     "other_notice": [
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/notification%20may%202026.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.55/2026/7 Dated 04-05-2026 Notification regarding Compliance Reduction and Deregulation Exercise 2026 [Phase II](04.05.2026) (200kb)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/corrigendum%20for%20physics%20interview.pdf",
+        "title": "4th May 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in English (117 MB)"
+      },
+      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/English.pdf",
@@ -722,18 +746,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Education (117 MB)"
       },
       {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Garo.pdf",
-        "title": "1st May 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Garo (117 MB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Virtual%20Autotopsy%20-%20Conducted%20by%20the%20Department%20of%20Forensic%20Medicine,%20NEIGRIHMS,%20Shillong.pdf",
@@ -749,13 +761,13 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
-        "title": "Notification Number/Date",
+        "title": "No. EDN.55/2026/7 Dated 28-04-2026",
         "category": "other_notice",
         "publishedAt": "2026-04-28T00:00:00.000Z",
         "publishedLabel": "28 Apr 2026",
         "sortValue": 1777334400000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.55/2026/7 Dated 28-04-2026 Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
+        "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -791,7 +803,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 <div class=\"newit"
+        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 <div class=\"newit"
       },
       {
         "department": "NEIGRIHMS",
@@ -912,18 +924,6 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice27Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates regarding viewing of marks for the Post(s) of Lower Division Assistant under the Meghalaya (C) Secretariat [May 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 12,
-        "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
       }
     ]
   },
@@ -944,8 +944,8 @@
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-postponement-personal-interview-post-project-manager-partnership-convergence-pm-fpc",
-        "title": "NOTIFICATION-Postponement of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC).",
+        "url": "https://msrls.nic.in/notification-reschedule-personal-interview-post-project-manager-partnership-convergence-pm-fpc",
+        "title": "NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC).",
         "category": "recruitment",
         "publishedAt": "2026-05-05T00:00:00.000Z",
         "publishedLabel": "05 May 2026",
@@ -1085,7 +1085,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "ION-Postponement of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification"
+        "context": "TION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification"
       },
       {
         "department": "NEIGRIHMS Result",
