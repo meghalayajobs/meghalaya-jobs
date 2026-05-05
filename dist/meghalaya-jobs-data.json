@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-05T11:13:13.978Z",
-  "generatedAtLabel": "05 May 2026 at 04:43 pm",
+  "generatedAt": "2026-05-05T13:16:35.955Z",
+  "generatedAtLabel": "05 May 2026 at 06:46 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 3,
+    "admit_card": 5,
     "result": 24,
     "other_notice": 24
   },
@@ -14,7 +14,7 @@
   "displayCounts": {
     "recruitment": 15,
     "result": 9,
-    "admit_card": 3
+    "admit_card": 5
   },
   "sourceCount": 22,
   "grouped": {
@@ -344,6 +344,30 @@
         "sortValue": 1777334400000,
         "score": 40,
         "context": "28/04/2026 14/05/2026 View (451 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17779805794096.pdf",
+        "title": "DSC: EWKH Notice for Admit Card Download",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "Click Here to Download Admit Card 28/04/2026 16/05/2026 View (426 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://megrecruitment.nic.in/rpa/printadmitcard.htm",
+        "title": "Click Here to Download Admit Card",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 7,
+        "context": "Start Date End Date File DSC: EWKH Notice for Admit Card Download 28/04/2026 16/05/2026 View (426 KB) <span class"
       }
     ],
     "result": [
@@ -516,18 +540,6 @@
         "context": "08/04/2026 31/12/2026 View (1 MB)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17757499229144.pdf",
-        "title": "DSC: EWKH Results of Personal Interview for Grade IV [2024]",
-        "category": "result",
-        "publishedAt": "2026-04-07T00:00:00.000Z",
-        "publishedLabel": "07 Apr 2026",
-        "sortValue": 1775520000000,
-        "score": 40,
-        "context": "07/04/2026 31/12/2026 View (216 KB)"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
@@ -634,6 +646,18 @@
         "sortValue": 1773014400000,
         "score": 7,
         "context": "Meghalaya 2026-03-18 2026-03-09 <a href=\"/imp"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn",
+        "title": "Recruitment Update: Posting of successful candidates to District / Unit / Organization for the post of UB Constable, AB/BN Constable, Driver Fireman, Fire Mechanic / Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
+        "category": "result",
+        "publishedAt": "2026-03-01T00:00:00.000Z",
+        "publishedLabel": "01 Mar 2026",
+        "sortValue": 1772323200000,
+        "score": 7,
+        "context": "02.03.2026 2026-03-02 2026-03-01 <a href=\"/rec"
       }
     ],
     "other_notice": [
@@ -851,7 +875,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <span class=\"date-disp"
+        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
       },
       {
         "department": "Information Tech.",
@@ -1256,6 +1280,30 @@
         "sortValue": 1777334400000,
         "score": 40,
         "context": "28/04/2026 14/05/2026 View (451 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17779805794096.pdf",
+        "title": "DSC: EWKH Notice for Admit Card Download",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "Click Here to Download Admit Card 28/04/2026 16/05/2026 View (426 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://megrecruitment.nic.in/rpa/printadmitcard.htm",
+        "title": "Click Here to Download Admit Card",
+        "category": "admit_card",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 7,
+        "context": "Start Date End Date File DSC: EWKH Notice for Admit Card Download 28/04/2026 16/05/2026 View (426 KB) <span class"
       }
     ]
   },
