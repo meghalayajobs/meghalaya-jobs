@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T12:26:45.490Z",
-  "generatedAtLabel": "06 May 2026 at 05:56 pm",
+  "generatedAt": "2026-05-06T15:23:40.217Z",
+  "generatedAtLabel": "06 May 2026 at 08:53 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
+    "recruitment": 13,
     "result": 6,
     "admit_card": 5
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/merb_dert_public%20notice_assistant%20professor.pdf",
+        "title": "6th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 40,
+        "context": "PUBLIC NOTICE regarding the scrutiny and verification of Application Forms and relevant Original Documents for the vacant posts of Assistant Professor Grade - II in various subjects in DERT/DIETs (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -294,18 +306,6 @@
         "sortValue": 1776038400000,
         "score": 40,
         "context": "13/04/2026 View (194 KB)"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/04/17757274338756.pdf",
-        "title": "Advertisement for the post of Assistant Lecturers in Baghmara Govt Higher Sec. School",
-        "category": "recruitment",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "publishedLabel": "09 Apr 2026",
-        "sortValue": 1775692800000,
-        "score": 40,
-        "context": "Advertisement for the post of Assistant Lecturers in Baghmara Govt Higher Sec. School 09/04/2026 17/04/2026 View (834 KB)"
       }
     ],
     "admit_card": [
@@ -770,18 +770,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Economics (117 MB)"
       },
       {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Education.pdf",
-        "title": "1st May 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Education (117 MB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Virtual%20Autotopsy%20-%20Conducted%20by%20the%20Department%20of%20Forensic%20Medicine,%20NEIGRIHMS,%20Shillong.pdf",
@@ -839,7 +827,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 <div class=\"newit"
+        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 <div class=\"newit"
       },
       {
         "department": "NEIGRIHMS",
@@ -878,6 +866,18 @@
         "context": "Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
       },
       {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
+        "title": "Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII",
+        "category": "other_notice",
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 10,
+        "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools."
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/eoi-hiring-vehicle-march-2026",
@@ -887,7 +887,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 23/03/2026</span"
+        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of BPM-SVEP (Khasi & Garo Region). <span class=\"date-disp"
       },
       {
         "department": "Information Tech.",
@@ -953,6 +953,18 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/merb_dert_public%20notice_assistant%20professor.pdf",
+        "title": "6th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 40,
+        "context": "PUBLIC NOTICE regarding the scrutiny and verification of Application Forms and relevant Original Documents for the vacant posts of Assistant Professor Grade - II in various subjects in DERT/DIETs (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -1719,13 +1731,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "DERT",
-      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-      "reason": "HTTP 404"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
