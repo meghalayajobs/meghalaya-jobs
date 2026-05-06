@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "auto-update": "powershell -ExecutionPolicy Bypass -File .\\auto-update.ps1",
     "generate": "node generate-meghalaya-jobs.mjs",
     "admin": "node admin-server.mjs"
   }
