@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T10:57:57.637Z",
-  "generatedAtLabel": "06 May 2026 at 04:27 pm",
+  "generatedAt": "2026-05-06T12:26:45.490Z",
+  "generatedAtLabel": "06 May 2026 at 05:56 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -839,7 +839,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 <div class=\"newit"
+        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 <div class=\"newit"
       },
       {
         "department": "NEIGRIHMS",
@@ -1719,7 +1719,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "DERT",
+      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+      "reason": "HTTP 404"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
