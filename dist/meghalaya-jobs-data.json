@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T08:09:26.376Z",
-  "generatedAtLabel": "06 May 2026 at 01:39 pm",
+  "generatedAt": "2026-05-06T10:57:57.637Z",
+  "generatedAtLabel": "06 May 2026 at 04:27 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -665,13 +665,25 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/notification%20may%202026.pdf",
+        "title": "No. EDN.55/2026/7 Dated 04-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "Notification regarding Compliance Reduction and Deregulation Exercise 2026 [Phase II](04.05.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/SPF.pdf",
         "title": "Notification Number/Date",
         "category": "other_notice",
         "publishedAt": "2026-05-04T00:00:00.000Z",
         "publishedLabel": "04 May 2026",
         "sortValue": 1777852800000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.55/2026/7 Dated 04-05-2026 Notification regarding Compliance Reduction and Deregulation Exercise 2026 [Phase II](04.05.2026) (200kb)"
+        "context": "Content Summary Format No. EDN.55/2026/7 Dated 04-05-2026 Notification regarding the implementation of the Structured Pay Framework (SPF)(04.05.2026) (200kb)"
       },
       {
         "department": "MERB",
@@ -827,7 +839,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "isted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 <div class=\"newit"
+        "context": "Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 <div class=\"newit"
       },
       {
         "department": "NEIGRIHMS",
@@ -875,7 +887,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
+        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 23/03/2026</span"
       },
       {
         "department": "Information Tech.",
@@ -900,18 +912,6 @@
         "sortValue": 1773792000000,
         "score": 40,
         "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centralised Provident Fund Scheme, 2026 (18.03.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/education%20website.pdf",
-        "title": "No. EDN.209/2025/7 Dated 12-02-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-02-12T00:00:00.000Z",
-        "publishedLabel": "12 Feb 2026",
-        "sortValue": 1770854400000,
-        "score": 40,
-        "context": "Notification regarding the Introduction of Structured Pay Framework for Fixed-Pay Teachers under the Education Department (12.02.2026) (200kb)"
       },
       {
         "department": "West Garo Hills",
