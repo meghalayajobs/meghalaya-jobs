@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-07T23:01:58.103Z",
-  "generatedAtLabel": "08 May 2026 at 04:31 am",
+  "generatedAt": "2026-05-08T02:10:16.510Z",
+  "generatedAtLabel": "08 May 2026 at 07:40 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
-    "result": 6,
+    "recruitment": 11,
+    "result": 5,
     "admit_card": 5
   },
   "sourceCount": 22,
@@ -1084,30 +1084,6 @@
         "sortValue": 1776988800000,
         "score": 40,
         "context": "24-04-2026"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Selection%20Committee%20for%20appointment%20in%20Pine%20Mount.pdf",
-        "title": "No. EDN.55/2026/7 Dated 23-04-2026",
-        "category": "recruitment",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "Notification for constitution of a Selection Committee for appointment to various posts of Teaching and Non-Teaching Staff in Pine Mount School, Shillong (23.04.2026) (200kb)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50692",
-        "title": "Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 7,
-        "context": "Office Wise Search Date: 23 Apr 2026 Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai <di"
       }
     ],
     "result": [
@@ -1170,18 +1146,6 @@
         "sortValue": 1777593600000,
         "score": 7,
         "context": "te for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 01/05/2026 NOTIFICATION - Advertisemen"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17772883499464.pdf",
-        "title": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026",
-        "category": "result",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
       }
     ],
     "admit_card": [
