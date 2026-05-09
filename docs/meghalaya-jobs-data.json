@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-09T05:40:45.432Z",
-  "generatedAtLabel": "09 May 2026 at 11:10 am",
+  "generatedAt": "2026-05-09T07:44:32.051Z",
+  "generatedAtLabel": "09 May 2026 at 01:14 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
+    "recruitment": 12,
     "result": 5,
     "admit_card": 5
   },
@@ -140,6 +140,18 @@
         "context": "CORRIGENDUM PUBLIC NOTICE In partial modification of this Office Advertisement. No 17/2025 dtd 4th September, 2025 for the post of Sub-Inspector of Supply in the Office of the Directorate of Food Civil supplies & Consumer Affairs , \"The Method of Selection\" at Para 6 & 6.3 for subjects and marks allocation for the above post stands modified. The revised subjects and marks distribution is as mentioned below:- 29-04-2026 -"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17774582261885.pdf",
+        "title": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776361672903.pdf",
@@ -198,6 +210,18 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "Notification regarding the Appointment of Public Information Officer for providing information pertaining to the Directorate of School Education & Literacy (21.04.2026) (200kb)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769296738537.pdf",
+        "title": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis.",
+        "category": "recruitment",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "publishedLabel": "21 Apr 2026",
+        "sortValue": 1776729600000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis. 21/04/2026 31/05/2026 View (392 KB)"
       },
       {
         "department": "MeGSRES",
@@ -282,30 +306,6 @@
         "sortValue": 1776297600000,
         "score": 7,
         "context": "nal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 16/04/2026 Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region <"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/notice-written-test-post-accounts-assistant-under-pmay-g",
-        "title": "NOTICE- Written Test for the post of Accounts Assistant under PMAY-G",
-        "category": "recruitment",
-        "publishedAt": "2026-04-15T00:00:00.000Z",
-        "publishedLabel": "15 Apr 2026",
-        "sortValue": 1776211200000,
-        "score": 7,
-        "context": "Written test for the post of Programme Officer i/c IEC under MGNREGA 21/04/2026 15/04/2026 Corrigendum- Submission of Applications for the post of Accounts Assistant, PMAY(G) an"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/04/17760704069668.pdf",
-        "title": "Corrigendum – Notice for candidates who had passed written examination for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-04-13T00:00:00.000Z",
-        "publishedLabel": "13 Apr 2026",
-        "sortValue": 1776038400000,
-        "score": 40,
-        "context": "13/04/2026 View (194 KB)"
       }
     ],
     "admit_card": [
@@ -432,6 +432,18 @@
         "context": "ost-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 01/05/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17772883499464.pdf",
+        "title": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026",
+        "category": "result",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
@@ -478,6 +490,42 @@
         "sortValue": 1776297600000,
         "score": 7,
         "context": "nt\">16 Apr 2026 List of Rejected Candidates for the post of Programme Officer i/c IEC under MGNREGA Date: 16 Apr 2026 Date: 16 Apr 2026 Notice on Written Examination and Presentation for the post of Programme Officer i/c IEC under MGNREGA <span class=\"views-label views-lab"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761747421408.pdf",
+        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026.",
+        "category": "result",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Grade-IV conducted by the District Selection Committee, North Garo Hills on the 9th and 10th April 2026. 14/04/2026 31/05/2026 View (2 MB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761750641796.pdf",
+        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026.",
+        "category": "result",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026. 14/04/2026 31/05/2026 View (933 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761744338351.pdf",
+        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.",
+        "category": "result",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Weaving Demonstrator and Sericulture Demonstrator conducted by the District Selection Committee, North Garo Hills on the 8th April 2026.p 14/04/2026 31/05/2026 View (954 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -610,54 +658,6 @@
         "sortValue": 1771977600000,
         "score": 7,
         "context": "Constable 2026-03-01 2026-02-25 <a href=\"/pres"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710477601408.pdf",
-        "title": "Written examination result for the post of LDA",
-        "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (696 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf",
-        "title": "Written examination result for the post of Semen Carrier and Tracer",
-        "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (556 KB)"
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025",
-        "category": "result",
-        "publishedAt": "2025-12-15T00:00:00.000Z",
-        "publishedLabel": "15 Dec 2025",
-        "sortValue": 1765756800000,
-        "score": 12,
-        "context": "opens in a new window\">Notification regarding eligibility of applicants with Concern/Relevant/Allied Subjects for recruitment to the Post of Assistant Professor/Lecturer for various subjects in Government Colleges in Meghalaya vide MERB advertisement No. CE/GC/MERB/5/2024/7, Dated Shillong, the 18th February 2025 RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025<img src=\"../../assets/images/new.gif\" alt=\"New Icon\" width=\"35\" height=\"17\""
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CSE.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025",
-        "category": "result",
-        "publishedAt": "2025-11-21T00:00:00.000Z",
-        "publishedLabel": "21 Nov 2025",
-        "sortValue": 1763683200000,
-        "score": 12,
-        "context": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025 RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025"
       }
     ],
     "other_notice": [
@@ -806,6 +806,30 @@
         "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
+        "title": "NOTICE: Traffic Violations Notice",
+        "category": "other_notice",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
+        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
+        "category": "other_notice",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "publishedLabel": "22 Apr 2026",
+        "sortValue": 1776816000000,
+        "score": 40,
+        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-opening-financial-bids-hiring-vehicles",
@@ -875,7 +899,7 @@
         "publishedLabel": "27 Mar 2026",
         "sortValue": 1774569600000,
         "score": 7,
-        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 Notice -Opening of Financial Bid 23/03/2026</span"
+        "context": "> Notification - Personal Interview for the post of Cluster Coordinator General - Garo Region 09/04/2026 27/03/2026 NOTIFICATION-Result of the Personal Interview for the post of District Accountant. <span class=\"date-display-single\" property=\""
       },
       {
         "department": "Information Tech.",
@@ -924,30 +948,6 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
@@ -1072,6 +1072,18 @@
         "sortValue": 1777420800000,
         "score": 40,
         "context": "CORRIGENDUM PUBLIC NOTICE In partial modification of this Office Advertisement. No 17/2025 dtd 4th September, 2025 for the post of Sub-Inspector of Supply in the Office of the Directorate of Food Civil supplies & Consumer Affairs , \"The Method of Selection\" at Para 6 & 6.3 for subjects and marks allocation for the above post stands modified. The revised subjects and marks distribution is as mentioned below:- 29-04-2026 -"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17774582261885.pdf",
+        "title": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -1695,13 +1707,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "North Garo Hills",
-      "url": "https://northgarohills.gov.in/notice_category/announcements/",
-      "reason": "HTTP 502"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
