@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-11T23:50:35.343Z",
-  "generatedAtLabel": "12 May 2026 at 05:20 am",
+  "generatedAt": "2026-05-12T02:09:11.219Z",
+  "generatedAtLabel": "12 May 2026 at 07:39 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
+    "recruitment": 12,
     "result": 5,
     "admit_card": 6
   },
@@ -1108,18 +1108,6 @@
         "sortValue": 1777334400000,
         "score": 40,
         "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776361672903.pdf",
-        "title": "DRDA: Eligibility & Ineligibility List for the post of APO and Accountant",
-        "category": "recruitment",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "publishedLabel": "27 Apr 2026",
-        "sortValue": 1777248000000,
-        "score": 40,
-        "context": "27/04/2026 14/05/2026 View (3 MB)"
       }
     ],
     "result": [
