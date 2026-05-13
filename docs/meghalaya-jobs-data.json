@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T23:52:16.018Z",
-  "generatedAtLabel": "13 May 2026 at 05:22 am",
+  "generatedAt": "2026-05-13T02:14:43.548Z",
+  "generatedAtLabel": "13 May 2026 at 07:44 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,9 +12,9 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 15,
+    "recruitment": 14,
     "result": 5,
-    "admit_card": 6
+    "admit_card": 3
   },
   "sourceCount": 22,
   "grouped": {
@@ -1132,18 +1132,6 @@
         "sortValue": 1777420800000,
         "score": 40,
         "context": "CORRIGENDUM PUBLIC NOTICE In partial modification of this Office Advertisement. No 17/2025 dtd 4th September, 2025 for the post of Sub-Inspector of Supply in the Office of the Directorate of Food Civil supplies & Consumer Affairs , \"The Method of Selection\" at Para 6 & 6.3 for subjects and marks allocation for the above post stands modified. The revised subjects and marks distribution is as mentioned below:- 29-04-2026 -"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17774582261885.pdf",
-        "title": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
       }
     ],
     "result": [
@@ -1244,42 +1232,6 @@
         "sortValue": 1777593600000,
         "score": 40,
         "context": "01/05/2026 14/05/2026 View (2 MB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776368464160.pdf",
-        "title": "DRDA: Notice for Admit Card",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 40,
-        "context": "28/04/2026 14/05/2026 View (451 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17779805794096.pdf",
-        "title": "DSC: EWKH Notice for Admit Card Download",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 40,
-        "context": "Click Here to Download Admit Card 28/04/2026 16/05/2026 View (426 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://megrecruitment.nic.in/rpa/printadmitcard.htm",
-        "title": "Click Here to Download Admit Card",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 7,
-        "context": "Start Date End Date File DSC: EWKH Notice for Admit Card Download 28/04/2026 16/05/2026 View (426 KB) <span class"
       }
     ]
   },
