@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T09:36:27.974Z",
-  "generatedAtLabel": "13 May 2026 at 03:06 pm",
+  "generatedAt": "2026-05-13T11:56:05.833Z",
+  "generatedAtLabel": "13 May 2026 at 05:26 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -528,6 +528,18 @@
         "context": "08/04/2026 31/12/2026 View (1 MB)"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17757499229144.pdf",
+        "title": "DSC: EWKH Results of Personal Interview for Grade IV [2024]",
+        "category": "result",
+        "publishedAt": "2026-04-07T00:00:00.000Z",
+        "publishedLabel": "07 Apr 2026",
+        "sortValue": 1775520000000,
+        "score": 40,
+        "context": "07/04/2026 31/12/2026 View (216 KB)"
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
@@ -658,18 +670,6 @@
         "sortValue": 1770336000000,
         "score": 40,
         "context": "06/02/2026 View (696 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf",
-        "title": "Written examination result for the post of Semen Carrier and Tracer",
-        "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (556 KB)"
       }
     ],
     "other_notice": [
