@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T09:27:46.287Z",
-  "generatedAtLabel": "14 May 2026 at 02:57 pm",
+  "generatedAt": "2026-05-14T11:44:59.511Z",
+  "generatedAtLabel": "14 May 2026 at 05:14 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
-    "result": 5,
+    "recruitment": 18,
+    "result": 6,
     "admit_card": 3
   },
   "sourceCount": 22,
@@ -68,6 +68,18 @@
         "context": "12-05-2026"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50814",
+        "title": "NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis",
+        "category": "recruitment",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "publishedLabel": "12 May 2026",
+        "sortValue": 1778544000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17786648514090.pdf",
@@ -89,7 +101,7 @@
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "Office Wise Search Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
+        "context": "views-field-title\"> NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis Date: 12 May 2026 Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -294,18 +306,6 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "Notification regarding the Appointment of Public Information Officer for providing information pertaining to the Directorate of School Education & Literacy (21.04.2026) (200kb)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769296738537.pdf",
-        "title": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis.",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis. 21/04/2026 31/05/2026 View (392 KB)"
       }
     ],
     "admit_card": [
@@ -383,6 +383,18 @@
       }
     ],
     "result": [
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Field%20data%20collector.pdf",
+        "title": "Result of the walk-in interview held for the three posts of NMHS-2 Survey Field Data Collector (FDC) under National Mental Health Survey in India-2 funded by Ministry of Health and Family Welfare, Government of India and co-ordinated by NIMHANS, Bengaluru",
+        "category": "result",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14.05.2026"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
@@ -610,18 +622,6 @@
         "sortValue": 1773273600000,
         "score": 40,
         "context": "17.03.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2012.3.2026.pdf",
-        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 12.03.2026",
-        "category": "result",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
-        "score": 40,
-        "context": "18.03.2026"
       },
       {
         "department": "Meghalaya Police",
@@ -1014,6 +1014,18 @@
         "context": "12-05-2026"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50814",
+        "title": "NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis",
+        "category": "recruitment",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "publishedLabel": "12 May 2026",
+        "sortValue": 1778544000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17786648514090.pdf",
@@ -1035,7 +1047,7 @@
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "Office Wise Search Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
+        "context": "views-field-title\"> NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis Date: 12 May 2026 Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -1171,6 +1183,18 @@
       }
     ],
     "result": [
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Field%20data%20collector.pdf",
+        "title": "Result of the walk-in interview held for the three posts of NMHS-2 Survey Field Data Collector (FDC) under National Mental Health Survey in India-2 funded by Ministry of Health and Family Welfare, Government of India and co-ordinated by NIMHANS, Bengaluru",
+        "category": "result",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14.05.2026"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
