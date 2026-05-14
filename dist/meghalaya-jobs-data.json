@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T02:50:15.830Z",
-  "generatedAtLabel": "14 May 2026 at 08:20 am",
+  "generatedAt": "2026-05-14T06:17:23.605Z",
+  "generatedAtLabel": "14 May 2026 at 11:47 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 16,
+    "recruitment": 17,
     "result": 5,
     "admit_card": 3
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Detailed%20Advertisment%20Faculty%20posts%20-%202026.pdf",
+        "title": "Advertisement for Faculty posts, NEIGRIHMS // Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
+        "title": "Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 12,
+        "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -200,18 +224,6 @@
         "context": "Notification: Candidates qualified for the post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 05 May 2026 Date: 04 May 2026 Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong <"
       },
       {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/State%20Organ%20&%20Tissue%20Transplant%20Organization%20(SOTTO),%20NEIGRIHMS%20-%20Recruitment%20Advertisement%20(Contractual%20Positions).pdf",
-        "title": "State Organ & Tissue Transplant Organization (SOTTO), NEIGRIHMS - Recruitment Advertisement (Contractual Positions)",
-        "category": "recruitment",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 40,
-        "context": "30-04-2026"
-      },
-      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice29April2026a.pdf",
@@ -294,18 +306,6 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis. 21/04/2026 31/05/2026 View (392 KB)"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/written-test-post-programme-officer-ic-iec-under-mgnrega",
-        "title": "Written test for the post of Programme Officer i/c IEC under MGNREGA",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 7,
-        "context": "dex=\"0\"> 21/04/2026 NOTICE- Written Test for the post of Accounts Assistant under PMAY-G <span class=\"date-display-single\" p"
       }
     ],
     "admit_card": [
@@ -794,18 +794,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Economics (117 MB)"
       },
       {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Virtual%20Autotopsy%20-%20Conducted%20by%20the%20Department%20of%20Forensic%20Medicine,%20NEIGRIHMS,%20Shillong.pdf",
-        "title": "Hands on Training on Virtual Autopsy - Conducted by the Department of Forensic Medicine, NEIGRIHMS, Shillong",
-        "category": "other_notice",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 40,
-        "context": "30-04-2026"
-      },
-      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
@@ -960,11 +948,47 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Final%20SCFFS%20(18.02.2026).pdf",
+        "title": "Final SCFFS (18.02.2026)",
+        "category": "other_notice",
+        "publishedAt": "2025-12-19T00:00:00.000Z",
+        "publishedLabel": "19 Dec 2025",
+        "sortValue": 1766102400000,
+        "score": 12,
+        "context": "f=\"../notices_and_circulars/2026/Notice.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026. Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-car"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Detailed%20Advertisment%20Faculty%20posts%20-%202026.pdf",
+        "title": "Advertisement for Faculty posts, NEIGRIHMS // Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
+        "title": "Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 12,
+        "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -1144,18 +1168,6 @@
         "sortValue": 1777852800000,
         "score": 7,
         "context": "Notification: Candidates qualified for the post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi Date: 05 May 2026 Date: 04 May 2026 Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong <"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/State%20Organ%20&%20Tissue%20Transplant%20Organization%20(SOTTO),%20NEIGRIHMS%20-%20Recruitment%20Advertisement%20(Contractual%20Positions).pdf",
-        "title": "State Organ & Tissue Transplant Organization (SOTTO), NEIGRIHMS - Recruitment Advertisement (Contractual Positions)",
-        "category": "recruitment",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 40,
-        "context": "30-04-2026"
       }
     ],
     "result": [
