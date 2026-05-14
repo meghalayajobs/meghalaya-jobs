@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T16:05:40.315Z",
-  "generatedAtLabel": "14 May 2026 at 09:35 pm",
+  "generatedAt": "2026-05-14T18:29:42.998Z",
+  "generatedAtLabel": "14 May 2026 at 11:59 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1779,13 +1779,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "East Garo Hills",
-      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
