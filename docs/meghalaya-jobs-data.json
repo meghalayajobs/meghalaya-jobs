@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T11:48:32.575Z",
-  "generatedAtLabel": "15 May 2026 at 05:18 pm",
+  "generatedAt": "2026-05-15T13:44:55.663Z",
+  "generatedAtLabel": "15 May 2026 at 07:14 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -676,14 +676,38 @@
       {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Meghalaya%20Common%20Admission%20Portal.pdf",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/PA%20Sangma%20Model%20Degree%20College.pdf",
         "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.55/2026/7 Dated 14-05-2026 Notification regarding rename of the \"Rongjeng Model Degree College\" Rongjeng as \"P.A. Sangma Model Degree College\" Rongjeng (14.05.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/CECPFS.pdf",
+        "title": "No. EDN.55/2026/7 Dated 08-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-08T00:00:00.000Z",
+        "publishedLabel": "08 May 2026",
+        "sortValue": 1778198400000,
+        "score": 40,
+        "context": "Notification regarding Meghalaya Non Government Schools and Colleges Employees Centralized Provident Fund Scheme 2026 (08.05.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Meghalaya%20Common%20Admission%20Portal.pdf",
+        "title": "No. EDN.55/2026/7 Dated 06-05-2026",
         "category": "other_notice",
         "publishedAt": "2026-05-06T00:00:00.000Z",
         "publishedLabel": "06 May 2026",
         "sortValue": 1778025600000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.55/2026/7 Dated 06-05-2026 Notification regarding the Meghalaya Common Admission Portal (MCAP)(06.05.2026) (200kb)"
+        "context": "Notification regarding the Meghalaya Common Admission Portal (MCAP)(06.05.2026) (200kb)"
       },
       {
         "department": "Education Dept",
@@ -720,6 +744,18 @@
         "sortValue": 1777852800000,
         "score": 40,
         "context": "Corrigendum on the matters relating to the interview for the post Assistant Professors/Lecturers in Physics (117 MB)"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/08_RFP%20SMC%20DPR%20Final_120526_r04.pdf",
+        "title": "Request for Proposal (RFP) document",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 10,
+        "context": "t 4.5.2026.pdf\" target=\"_blank\">Rolling Advertisement for Teaching Faculty Post on Contractual Basis for Proposed Tura Medical College Notice Inviting Request for Proposal (RFP) for selection of Architectural Consultant for Preparing DPR of new infrastructure at Shillong Medical College | Notice - Cancellation of the RFP for selection of Architectural Consultant for preparation of a detailed project report for development of new building infrastructure for Shillong Medical College List of Students for Stipend of MBBS Course Batches 2018-2019 to 2023-2024 <i"
       },
       {
         "department": "MERB",
@@ -842,30 +878,6 @@
         "context": "sp; 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span cla"
       },
       {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/High%20Level%20Committee%20PM%20SHRI%20Schools.pdf",
-        "title": "No. EDN.140/2022/104 Dated 17-04-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-04-17T00:00:00.000Z",
-        "publishedLabel": "17 Apr 2026",
-        "sortValue": 1776384000000,
-        "score": 40,
-        "context": "Notification for Constitution of a High Level Committee for PM-SHRI Schools (17.04.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Provident%20Fund%20Scheme%202026%20amendment.pdf",
-        "title": "No. EDN.104/2024/205 Dated 09-04-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "publishedLabel": "09 Apr 2026",
-        "sortValue": 1775692800000,
-        "score": 40,
-        "context": "Notification regarding the Amendment of the Meghalaya Non-Government Schools and Colleges Employees Centralized Provident Fund Scheme, 2O26 (09.04.2026) (200kb)"
-      },
-      {
         "department": "DERT",
         "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
         "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
@@ -948,18 +960,6 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Final%20SCFFS%20(18.02.2026).pdf",
-        "title": "Final SCFFS (18.02.2026)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 12,
-        "context": "f=\"../notices_and_circulars/2026/Notice.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026. Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-car"
       }
     ]
   },
