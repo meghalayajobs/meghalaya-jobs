@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-16T21:40:19.769Z",
-  "generatedAtLabel": "17 May 2026 at 03:10 am",
+  "generatedAt": "2026-05-16T22:37:00.212Z",
+  "generatedAtLabel": "17 May 2026 at 04:07 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -564,6 +564,30 @@
         "context": "07/04/2026 31/12/2026 View (216 KB)"
       },
       {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
+        "title": "Recruitment Update: Second Merit List - Shortlisted Candidates for Appointment to the post of Armed Branch Constable",
+        "category": "result",
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "publishedLabel": "02 Apr 2026",
+        "sortValue": 1775088000000,
+        "score": 7,
+        "context": "2026-04-02 <a href=\"/rec"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
+        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Fireman Mechanic/Mechanic & Driver Constable",
+        "category": "result",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 7,
+        "context": "Constable 2026-04-02 2026-04-01 <a href=\"/noti"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
@@ -574,6 +598,18 @@
         "sortValue": 1774310400000,
         "score": 40,
         "context": "24.03.2026"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
+        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
+        "category": "result",
+        "publishedAt": "2026-03-18T00:00:00.000Z",
+        "publishedLabel": "18 Mar 2026",
+        "sortValue": 1773792000000,
+        "score": 7,
+        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -600,76 +636,40 @@
         "context": "17.03.2026"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710477601408.pdf",
-        "title": "Written examination result for the post of LDA",
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates",
+        "title": "Recruitment Notice: Final extension for reporting / joining of selected candidates",
         "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (696 KB)"
+        "publishedAt": "2026-03-09T00:00:00.000Z",
+        "publishedLabel": "09 Mar 2026",
+        "sortValue": 1773014400000,
+        "score": 7,
+        "context": "Meghalaya 2026-03-18 2026-03-09 <a href=\"/imp"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/02/17710482493042.pdf",
-        "title": "Written examination result for the post of Semen Carrier and Tracer",
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn",
+        "title": "Recruitment Update: Posting of successful candidates to District / Unit / Organization for the post of UB Constable, AB/BN Constable, Driver Fireman, Fire Mechanic / Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
         "category": "result",
-        "publishedAt": "2026-02-06T00:00:00.000Z",
-        "publishedLabel": "06 Feb 2026",
-        "sortValue": 1770336000000,
-        "score": 40,
-        "context": "06/02/2026 View (556 KB)"
+        "publishedAt": "2026-03-01T00:00:00.000Z",
+        "publishedLabel": "01 Mar 2026",
+        "sortValue": 1772323200000,
+        "score": 7,
+        "context": "02.03.2026 2026-03-02 2026-03-01 <a href=\"/pre"
       },
       {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025",
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-select-list-candidates-order-merit-post-ub-constable-abbn-constable-fireman",
+        "title": "Recruitment Update: Select list of candidates in order of merit for the post of UB Constable, AB/BN Constable, Fireman, Driver Fireman, Fireman Mechanic/ Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
         "category": "result",
-        "publishedAt": "2025-12-15T00:00:00.000Z",
-        "publishedLabel": "15 Dec 2025",
-        "sortValue": 1765756800000,
-        "score": 12,
-        "context": "opens in a new window\">Notification regarding eligibility of applicants with Concern/Relevant/Allied Subjects for recruitment to the Post of Assistant Professor/Lecturer for various subjects in Government Colleges in Meghalaya vide MERB advertisement No. CE/GC/MERB/5/2024/7, Dated Shillong, the 18th February 2025 RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025<img src=\"../../assets/images/new.gif\" alt=\"New Icon\" width=\"35\" height=\"17\""
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CSE.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025",
-        "category": "result",
-        "publishedAt": "2025-11-21T00:00:00.000Z",
-        "publishedLabel": "21 Nov 2025",
-        "sortValue": 1763683200000,
-        "score": 12,
-        "context": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025 RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025"
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Notification%20result%20in%20History.pdf",
-        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025",
-        "category": "result",
-        "publishedAt": "2025-11-21T00:00:00.000Z",
-        "publishedLabel": "21 Nov 2025",
-        "sortValue": 1763683200000,
-        "score": 12,
-        "context": "\"../notices_and_circulars/2025/Result for the recruitment to the post of CSE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025 Online Application are invited from Tribal students of Meghalaya who are pursuing studies in Post Graduate/DegreelDiploma Courses (inside and outside the State) and also Certificate Courses (outside the State) in recognized Engineering Colleges/Institutes"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/IT%20website%20RFP%20final%20result.pdf",
-        "title": "Results of the Technical and Financial Bid Evaluation for “RFP for Design and Development of Website for Information Technology & Communication Department, Govt. of Meghalaya”",
-        "category": "result",
-        "publishedAt": "2025-11-20T00:00:00.000Z",
-        "publishedLabel": "20 Nov 2025",
-        "sortValue": 1763596800000,
-        "score": 12,
-        "context": "ng, Testing of IT Equipment and Software for the Data AI Lab at Shillong Polytechnic, ITI Rynjah – Shillong and ITI Tura, Meghalaya Mar 02 2026 [NEW] Notice Inviting Limited Tender from eligible CPSUs for upgrade, supply, installation, commissioning and maintenance of MSWAN Feb 27 2026 [NEW] Nov 20 2025 [NEW] Addendum to the List of eligible Meritorious Students for IT Awards 2025 Oct 06 2025 [NEW] Date Extension for Short Notice Inviting quotat"
+        "publishedAt": "2026-02-25T00:00:00.000Z",
+        "publishedLabel": "25 Feb 2026",
+        "sortValue": 1771977600000,
+        "score": 7,
+        "context": "25.02.2026 2026-02-25 2026-02-25 <a href=\"/pr"
       }
     ],
     "other_notice": [
@@ -1755,13 +1755,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "Meghalaya Police",
-      "url": "https://megpolice.gov.in/recruitment",
-      "reason": "This operation was aborted"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
