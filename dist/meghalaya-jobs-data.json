@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-16T02:07:00.392Z",
-  "generatedAtLabel": "16 May 2026 at 07:37 am",
+  "generatedAt": "2026-05-16T05:46:23.598Z",
+  "generatedAtLabel": "16 May 2026 at 11:16 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 19,
     "result": 5,
     "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/advertisement%20SGCE%20May%202026.pdf",
+        "title": "16th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-16T00:00:00.000Z",
+        "publishedLabel": "16 May 2026",
+        "sortValue": 1778889600000,
+        "score": 40,
+        "context": "Advertisement for recruitment to the posts of Instructor in various laboratories and workshops in Shillong Government College of Engineering, Shillong (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -294,18 +306,6 @@
         "sortValue": 1776902400000,
         "score": 7,
         "context": "s-field views-field-title\"> Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College, Tura, West Garo Hills District, Meghalaya Date: 04 May 2026 Date: 23 Apr 2026 Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai <di"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/PIO%20DSEL.pdf",
-        "title": "No. EDN.80/2018/68 Dated 21-04-2026",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 40,
-        "context": "Notification regarding the Appointment of Public Information Officer for providing information pertaining to the Directorate of School Education & Literacy (21.04.2026) (200kb)"
       }
     ],
     "admit_card": [
@@ -818,18 +818,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Commerce (117 MB)"
       },
       {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Economics.pdf",
-        "title": "1st May 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Economics (117 MB)"
-      },
-      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
@@ -960,11 +948,35 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Final%20SCFFS%20(18.02.2026).pdf",
+        "title": "Final SCFFS (18.02.2026)",
+        "category": "other_notice",
+        "publishedAt": "2025-12-19T00:00:00.000Z",
+        "publishedLabel": "19 Dec 2025",
+        "sortValue": 1766102400000,
+        "score": 12,
+        "context": "f=\"../notices_and_circulars/2026/Notice.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026. Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-car"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/advertisement%20SGCE%20May%202026.pdf",
+        "title": "16th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-16T00:00:00.000Z",
+        "publishedLabel": "16 May 2026",
+        "sortValue": 1778889600000,
+        "score": 40,
+        "context": "Advertisement for recruitment to the posts of Instructor in various laboratories and workshops in Shillong Government College of Engineering, Shillong (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
