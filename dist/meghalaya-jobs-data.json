@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T23:46:14.205Z",
-  "generatedAtLabel": "16 May 2026 at 05:16 am",
+  "generatedAt": "2026-05-16T02:07:00.392Z",
+  "generatedAtLabel": "16 May 2026 at 07:37 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,8 +13,8 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 18,
-    "result": 7,
-    "admit_card": 3
+    "result": 5,
+    "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
@@ -1242,30 +1242,6 @@
         "sortValue": 1777852800000,
         "score": 40,
         "context": "04.05.2026"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidate-written-examination-post-project-executive-farm-livelihoods",
-        "title": "Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region.",
-        "category": "result",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 7,
-        "context": "nal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 01/05/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-and-personal-interview-post-project-manager",
-        "title": "Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence",
-        "category": "result",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 7,
-        "context": "al-interview-post-project-manager-partnership-convergence-pm-fpc\">NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 01/05/2026 Notification - Shortlisted candidate for written examination for the post of Project Ex"
       }
     ],
     "admit_card": [
@@ -1280,30 +1256,6 @@
         "sortValue": 1778457600000,
         "score": 7,
         "context": "nt 11/05/2026 NOTIFI"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776366269804.pdf",
-        "title": "DRDA: Admit Cards for the post of Accountant/Accounts Assistant",
-        "category": "admit_card",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "01/05/2026 14/05/2026 View (2 MB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776363733541.pdf",
-        "title": "DRDA: Admit Cards for the post of APO",
-        "category": "admit_card",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "01/05/2026 14/05/2026 View (2 MB)"
       }
     ]
   },
