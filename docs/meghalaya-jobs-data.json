@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T14:31:13.869Z",
-  "generatedAtLabel": "18 May 2026 at 08:01 pm",
+  "generatedAt": "2026-05-18T17:26:17.120Z",
+  "generatedAtLabel": "18 May 2026 at 10:56 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -746,18 +746,6 @@
         "context": "Corrigendum on the matters relating to the interview for the post Assistant Professors/Lecturers in Physics (117 MB)"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/08_RFP%20SMC%20DPR%20Final_120526_r04.pdf",
-        "title": "Request for Proposal (RFP) document",
-        "category": "other_notice",
-        "publishedAt": "2026-05-04T00:00:00.000Z",
-        "publishedLabel": "04 May 2026",
-        "sortValue": 1777852800000,
-        "score": 10,
-        "context": "t 4.5.2026.pdf\" target=\"_blank\">Rolling Advertisement for Teaching Faculty Post on Contractual Basis for Proposed Tura Medical College Notice Inviting Request for Proposal (RFP) for selection of Architectural Consultant for Preparing DPR of new infrastructure at Shillong Medical College | Notice - Cancellation of the RFP for selection of Architectural Consultant for preparation of a detailed project report for development of new building infrastructure for Shillong Medical College List of Students for Stipend of MBBS Course Batches 2018-2019 to 2023-2024 <i"
-      },
-      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/English.pdf",
@@ -960,6 +948,18 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "dth=\"35\" height=\"17\" /> Final SCFFS (18.02.2026) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) </l"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf",
+        "title": "Meghalaya Preschool Syllabus (Final 19 December 2025)",
+        "category": "other_notice",
+        "publishedAt": "2025-12-19T00:00:00.000Z",
+        "publishedLabel": "19 Dec 2025",
+        "sortValue": 1766102400000,
+        "score": 8,
+        "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
       }
     ]
   },
