@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T06:46:46.358Z",
-  "generatedAtLabel": "18 May 2026 at 12:16 pm",
+  "generatedAt": "2026-05-18T10:59:08.612Z",
+  "generatedAtLabel": "18 May 2026 at 04:29 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 19,
+    "recruitment": 20,
     "result": 5,
     "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
+        "title": "NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 7,
+        "context": "nt 18/05/2026 Admit card -Block MIS Coordinator <img src=\"https://msrls.nic.in"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -233,7 +245,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "ten-examination-post-block-mis-coordinator-khasi-garo-region\">NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of Block MIS Coordinator (Khasi & Garo Region). 05/05/2026 05/05/2026 Notification - Shortlisted Candidates for Written Examination and the Personal In"
+        "context": "=\"field-content\"> Admit card -Block MIS Coordinator 11/05/2026 05/05/2026 NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of B"
       },
       {
         "department": "Meghalaya Govt",
@@ -294,18 +306,6 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "Notification for constitution of a Selection Committee for appointment to various posts of Teaching and Non-Teaching Staff in Pine Mount School, Shillong (23.04.2026) (200kb)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50692",
-        "title": "Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College, Tura, West Garo Hills District, Meghalaya Date: 04 May 2026 Date: 23 Apr 2026 Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai <di"
       }
     ],
     "admit_card": [
@@ -319,7 +319,7 @@
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "nt 11/05/2026 NOTIFI"
+        "context": "rsonal-interview-post-dfs-flp\">NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION-"
       },
       {
         "department": "West Khasi Hills",
@@ -417,7 +417,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "\"field-content\"> Admit card -Block MIS Coordinator 11/05/2026 05/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Part"
+        "context": "al-interview-post-project-manager-partnership-convergence-pm-fpc\">NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification - Shortlisted candidate for written examination for the post of Project Ex"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -453,7 +453,7 @@
         "publishedLabel": "01 May 2026",
         "sortValue": 1777593600000,
         "score": 7,
-        "context": "nal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 01/05/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region)"
+        "context": "ten-examination-post-block-mis-coordinator-khasi-garo-region\">NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of Block MIS Coordinator (Khasi & Garo Region). 05/05/2026 01/05/2026 Notification - Shortlisted Candidates for Written Examination and the Personal In"
       },
       {
         "department": "MSRLS",
@@ -465,7 +465,7 @@
         "publishedLabel": "01 May 2026",
         "sortValue": 1777593600000,
         "score": 7,
-        "context": "al-interview-post-project-manager-partnership-convergence-pm-fpc\">NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 01/05/2026 Notification - Shortlisted candidate for written examination for the post of Project Ex"
+        "context": "ost-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 01/05/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <"
       },
       {
         "department": "North Garo Hills",
@@ -863,7 +863,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "sp; 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span cla"
+        "context": "itten-examination-and-personal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span clas"
       },
       {
         "department": "DERT",
@@ -965,6 +965,18 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
+        "title": "NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 7,
+        "context": "nt 18/05/2026 Admit card -Block MIS Coordinator <img src=\"https://msrls.nic.in"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -1179,7 +1191,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "ten-examination-post-block-mis-coordinator-khasi-garo-region\">NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of Block MIS Coordinator (Khasi & Garo Region). 05/05/2026 05/05/2026 Notification - Shortlisted Candidates for Written Examination and the Personal In"
+        "context": "=\"field-content\"> Admit card -Block MIS Coordinator 11/05/2026 05/05/2026 NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of B"
       },
       {
         "department": "Meghalaya Govt",
@@ -1229,7 +1241,7 @@
         "publishedLabel": "05 May 2026",
         "sortValue": 1777939200000,
         "score": 7,
-        "context": "\"field-content\"> Admit card -Block MIS Coordinator 11/05/2026 05/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Part"
+        "context": "al-interview-post-project-manager-partnership-convergence-pm-fpc\">NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC). 05/05/2026 05/05/2026 Notification - Shortlisted candidate for written examination for the post of Project Ex"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1267,7 +1279,7 @@
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "nt 11/05/2026 NOTIFI"
+        "context": "rsonal-interview-post-dfs-flp\">NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION-"
       }
     ]
   },
