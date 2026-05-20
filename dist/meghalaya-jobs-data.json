@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-20T06:41:08.023Z",
-  "generatedAtLabel": "20 May 2026 at 12:11 pm",
+  "generatedAt": "2026-05-20T10:19:54.538Z",
+  "generatedAtLabel": "20 May 2026 at 03:49 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 8,
+    "admit_card": 3,
     "result": 24,
     "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 19,
     "result": 4,
     "admit_card": 3
   },
@@ -54,6 +54,18 @@
         "sortValue": 1779062400000,
         "score": 12,
         "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50859",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 18 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
       },
       {
         "department": "MSRLS",
@@ -161,7 +173,7 @@
         "publishedLabel": "12 May 2026",
         "sortValue": 1778544000000,
         "score": 7,
-        "context": "Office Wise Search Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
       },
       {
         "department": "North Garo Hills",
@@ -294,18 +306,6 @@
         "sortValue": 1777939200000,
         "score": 7,
         "context": "ecruitment/content/50762\">MBMA invites applications from eligible candidates to fill up the positions of Community Associate and Innovation Associate on contractual basis for the Chief Minister’s Youth Centres (CMYC) under the MPOWER project Date: 06 May 2026 Date: 05 May 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College, Tura, West Garo Hills District, Meghalaya <div class=\"views-field views-field-field"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-reschedule-personal-interview-post-project-manager-partnership-convergence-pm-fpc",
-        "title": "NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Partnership & Convergence (PM-FPC).",
-        "category": "recruitment",
-        "publishedAt": "2026-05-05T00:00:00.000Z",
-        "publishedLabel": "05 May 2026",
-        "sortValue": 1777939200000,
-        "score": 7,
-        "context": "ow-even\"> Admit card -Block MIS Coordinator 11/05/2026 05/05/2026 NOTIFICATION-Shortlisted Candidates for the Written Examination to the post of B"
       }
     ],
     "admit_card": [
@@ -344,66 +344,6 @@
         "sortValue": 1778457600000,
         "score": 7,
         "context": "rsonal-interview-post-dfs-flp\">NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Part"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776366269804.pdf",
-        "title": "DRDA: Admit Cards for the post of Accountant/Accounts Assistant",
-        "category": "admit_card",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "01/05/2026 14/05/2026 View (2 MB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776363733541.pdf",
-        "title": "DRDA: Admit Cards for the post of APO",
-        "category": "admit_card",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "01/05/2026 14/05/2026 View (2 MB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17776368464160.pdf",
-        "title": "DRDA: Notice for Admit Card",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 40,
-        "context": "28/04/2026 14/05/2026 View (451 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17779805794096.pdf",
-        "title": "DSC: EWKH Notice for Admit Card Download",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 40,
-        "context": "Click Here to Download Admit Card 28/04/2026 16/05/2026 View (426 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://megrecruitment.nic.in/rpa/printadmitcard.htm",
-        "title": "Click Here to Download Admit Card",
-        "category": "admit_card",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 7,
-        "context": "Start Date End Date File DSC: EWKH Notice for Admit Card Download 28/04/2026 16/05/2026 View (426 KB) <span class"
       }
     ],
     "result": [
@@ -660,43 +600,55 @@
         "context": "24.03.2026"
       },
       {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/rejection-list-it-consultant-recruitment-%E2%80%93-cctns-project-meghalaya",
-        "title": "Rejection List: IT Consultant Recruitment – CCTNS Project, Meghalaya",
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
+        "title": "DSC: EWKH Results of Grade IV",
         "category": "result",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 7,
-        "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (701 KB)"
       },
       {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/1803/Result%20of%20the%20interview%20for%20the%20posts%20of%20SRD%20held%20on%2013.03.2026.pdf",
-        "title": "Result of the interview for the posts of SRD held on 13.03.2026",
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
+        "title": "DSC: EWKH Results of LDA (2025)",
         "category": "result",
-        "publishedAt": "2026-03-13T00:00:00.000Z",
-        "publishedLabel": "13 Mar 2026",
-        "sortValue": 1773360000000,
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
         "score": 40,
-        "context": "18.03.2026"
+        "context": "20/03/2026 30/06/2026 View (686 KB)"
       },
       {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/walk-in%20interview%20for%20the%20posts%20of%20Assistant%20Professor%20Adhoc%20basis%2012.03.2026%20.pdf",
-        "title": "Result of the walk-in interview for the posts of Assistant Professor on Adhoc basis held on 12.03.2026",
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743373991493.pdf",
+        "title": "DSC: EWKH Results of Driver",
         "category": "result",
-        "publishedAt": "2026-03-12T00:00:00.000Z",
-        "publishedLabel": "12 Mar 2026",
-        "sortValue": 1773273600000,
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
         "score": 40,
-        "context": "17.03.2026"
+        "context": "19/03/2026 30/06/2026 View (504 KB)"
       }
     ],
     "other_notice": [
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17792640703691.pdf",
+        "title": "Notice for CEE Exam",
+        "category": "other_notice",
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "publishedLabel": "20 May 2026",
+        "sortValue": 1779235200000,
+        "score": 40,
+        "context": "All registered candidates are requested to check the portal for CEE exam 20/05/2026 15/06/2026 View (810 KB)"
+      },
       {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
@@ -899,7 +851,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "itten-examination-and-personal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span clas"
+        "context": "didate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span clas"
       },
       {
         "department": "DERT",
@@ -972,18 +924,6 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Final%20SCFFS%20(18.02.2026).pdf",
-        "title": "Final SCFFS (18.02.2026)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 12,
-        "context": "f=\"../notices_and_circulars/2026/Notice.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026. Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-car"
       }
     ]
   },
@@ -1024,6 +964,18 @@
         "sortValue": 1779062400000,
         "score": 12,
         "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50859",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 18 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
       },
       {
         "department": "MSRLS",
@@ -1131,7 +1083,7 @@
         "publishedLabel": "12 May 2026",
         "sortValue": 1778544000000,
         "score": 7,
-        "context": "Office Wise Search Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
       },
       {
         "department": "North Garo Hills",
