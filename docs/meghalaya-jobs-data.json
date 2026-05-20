@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T13:31:59.737Z",
-  "generatedAtLabel": "20 May 2026 at 07:01 pm",
+  "generatedAt": "2026-05-20T16:48:20.911Z",
+  "generatedAtLabel": "20 May 2026 at 10:18 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1731,7 +1731,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
