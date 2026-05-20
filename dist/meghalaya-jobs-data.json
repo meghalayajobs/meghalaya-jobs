@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T10:19:54.538Z",
-  "generatedAtLabel": "20 May 2026 at 03:49 pm",
+  "generatedAt": "2026-05-20T13:31:59.737Z",
+  "generatedAtLabel": "20 May 2026 at 07:01 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -806,6 +806,18 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Chemistry (117 MB)"
       },
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-procurement-agency-data-analytics-digital-monitoring-tracking-services",
+        "title": "Notification - Procurement of Agency for Data Analytics, Digital Monitoring & Tracking Services",
+        "category": "other_notice",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 7,
+        "context": "didate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
+      },
+      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
@@ -851,7 +863,7 @@
         "publishedLabel": "21 Apr 2026",
         "sortValue": 1776729600000,
         "score": 7,
-        "context": "didate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span clas"
+        "context": "Notification - Procurement of Agency for Data Analytics, Digital Monitoring & Tracking Services 30/04/2026 21/04/2026 NOTIFICATION - Advertisement for the post of District Functional Special (DFS) - Farm (Garo Region) <span cla"
       },
       {
         "department": "DERT",
@@ -904,18 +916,6 @@
       {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
-        "category": "other_notice",
-        "publishedAt": "2026-01-22T00:00:00.000Z",
-        "publishedLabel": "22 Jan 2026",
-        "sortValue": 1769040000000,
-        "score": 10,
-        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
         "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
         "category": "other_notice",
