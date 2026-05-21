@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T10:32:35.104Z",
-  "generatedAtLabel": "21 May 2026 at 04:02 pm",
+  "generatedAt": "2026-05-21T13:56:18.981Z",
+  "generatedAtLabel": "21 May 2026 at 07:26 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 19,
     "result": 4,
     "admit_card": 3
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Notice%20for%20interview.pdf",
+        "title": "21st May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "publishedLabel": "21 May 2026",
+        "sortValue": 1779321600000,
+        "score": 40,
+        "context": "Notice regarding deferment of the personnel interview for the posts of Assistant Professor/Lecturer in Khasi and Assistant Professor/Lecturer in Garo (117 MB)"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -65,7 +77,7 @@
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
         "score": 7,
-        "context": "Office Wise Search Date: 18 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
+        "context": "Office Wise Search Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
       },
       {
         "department": "MSRLS",
@@ -128,6 +140,18 @@
         "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50877",
+        "title": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 7,
+        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Professor%20cum%20Principle%20Advertisement.pdf",
@@ -173,7 +197,7 @@
         "publishedLabel": "12 May 2026",
         "sortValue": 1778544000000,
         "score": 7,
-        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+        "context": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 14 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
       },
       {
         "department": "North Garo Hills",
@@ -282,30 +306,6 @@
         "sortValue": 1777939200000,
         "score": 40,
         "context": "05-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisement%20for%20the%20post%20of%20Executive%20Engineer%20(Civil)%20-%20Proforma%20of%20Application.pdf",
-        "title": "Proforma of Application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-05T00:00:00.000Z",
-        "publishedLabel": "05 May 2026",
-        "sortValue": 1777939200000,
-        "score": 12,
-        "context": "Advertisement Group A B.pdf\" target=\"_blank\">Advertisement for Recruitment to various Non- faculty group A and B on deputation basis at AIIMS Rajkot 12-05-2026 Advertisement for the post of Executive Engineer (Civil), NEIGRIHMS, Shillong // 05-05-2026 Recruitment for three posts of Psychology / Social work for short term project (45 days) on contractual basis 05-05-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50771",
-        "title": "Notification: Candidates qualified for the post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi",
-        "category": "recruitment",
-        "publishedAt": "2026-05-05T00:00:00.000Z",
-        "publishedLabel": "05 May 2026",
-        "sortValue": 1777939200000,
-        "score": 7,
-        "context": "ecruitment/content/50762\">MBMA invites applications from eligible candidates to fill up the positions of Community Associate and Innovation Associate on contractual basis for the Chief Minister’s Youth Centres (CMYC) under the MPOWER project Date: 06 May 2026 Date: 05 May 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College, Tura, West Garo Hills District, Meghalaya <div class=\"views-field views-field-field"
       }
     ],
     "admit_card": [
@@ -806,18 +806,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Botany (117 MB)"
       },
       {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Chemistry.pdf",
-        "title": "1st May 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Chemistry (117 MB)"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-procurement-agency-data-analytics-digital-monitoring-tracking-services",
@@ -827,7 +815,7 @@
         "publishedLabel": "30 Apr 2026",
         "sortValue": 1777507200000,
         "score": 7,
-        "context": "didate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
+        "context": "itten-examination-and-personal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
       },
       {
         "department": "Education Dept",
@@ -924,11 +912,35 @@
         "sortValue": 1769040000000,
         "score": 12,
         "context": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025] PUBLIC NOTICE Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, S"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Jan2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates that the Answer Keys for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]",
+        "category": "other_notice",
+        "publishedAt": "2026-01-22T00:00:00.000Z",
+        "publishedLabel": "22 Jan 2026",
+        "sortValue": 1769040000000,
+        "score": 10,
+        "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Notice%20for%20interview.pdf",
+        "title": "21st May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "publishedLabel": "21 May 2026",
+        "sortValue": 1779321600000,
+        "score": 40,
+        "context": "Notice regarding deferment of the personnel interview for the posts of Assistant Professor/Lecturer in Khasi and Assistant Professor/Lecturer in Garo (117 MB)"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -975,7 +987,7 @@
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
         "score": 7,
-        "context": "Office Wise Search Date: 18 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
+        "context": "Office Wise Search Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
       },
       {
         "department": "MSRLS",
@@ -1038,6 +1050,18 @@
         "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50877",
+        "title": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 7,
+        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Professor%20cum%20Principle%20Advertisement.pdf",
@@ -1083,7 +1107,7 @@
         "publishedLabel": "12 May 2026",
         "sortValue": 1778544000000,
         "score": 7,
-        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
+        "context": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 14 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
       },
       {
         "department": "North Garo Hills",
