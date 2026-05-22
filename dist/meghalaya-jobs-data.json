@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-22T20:28:06.894Z",
-  "generatedAtLabel": "23 May 2026 at 01:58 am",
+  "generatedAt": "2026-05-22T21:59:18.813Z",
+  "generatedAtLabel": "23 May 2026 at 03:29 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 3,
+    "admit_card": 1,
     "result": 24,
     "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 22,
-    "result": 4,
-    "admit_card": 3
+    "result": 3,
+    "admit_card": 1
   },
   "sourceCount": 22,
   "grouped": {
@@ -310,30 +310,6 @@
     ],
     "admit_card": [
       {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17791682749147.pdf",
-        "title": "Notice Regarding Written Test Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 23rd May, 2026.",
-        "category": "admit_card",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 40,
-        "context": "This is for general information for those candidates who have appeared the Local Language Examination for the post of Sectional Assistant conducted by District Selection Committee, East Khasi Hills district, Shillong, on the 2nd May, 2026 that the Result for the said examination has been declared and the Written Test Examination for the above post will be held on the 23rd May, 2026. Qualified candidates can download the Admit card from https://rpa.meghalaya.gov.in/rpaonline/ 18/05/2026 24/05/2026 View (244 KB)"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
-        "title": "Qualified candidates can download the Admit card from https://rpa.meghalaya.gov.in/rpaonline/",
-        "category": "admit_card",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 7,
-        "context": "aas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17791682749147.pdf\">This is for general information for those candidates who have appeared the Local Language Examination for the post of Sectional Assistant conducted by District Selection Committee, East Khasi Hills district, Shillong, on the 2nd May, 2026 that the Result for the said examination has been declared and the Written Test Examination for the above post will be held on the 23rd May, 2026. 18/05/2026 24/05/2026 <a target=\"_blank\" aria-label=\"Notice Regarding Written Test Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 23rd May, 2026. PDF 244 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://c"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/admit-card-block-mis-coordinator",
@@ -370,18 +346,6 @@
         "sortValue": 1779062400000,
         "score": 12,
         "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17788729817837.pdf",
-        "title": "Result of the Written Examination of Local Language Paper (Khasi Language Paper) for the post of Sectional Assistant held on 2nd May, 2026.",
-        "category": "result",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "publishedLabel": "15 May 2026",
-        "sortValue": 1778803200000,
-        "score": 40,
-        "context": "The Result of the Written Examination of Local Language Paper(Khasi Language Paper)for the post of Sectional Assistant held on 2nd May, 2026. The Written Examination for all the eligible candidates will be held on the 23rd May, 2026. 15/05/2026 23/05/2026 View (10 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -634,6 +598,18 @@
         "sortValue": 1773878400000,
         "score": 40,
         "context": "19/03/2026 30/06/2026 View (471 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743375146940.pdf",
+        "title": "DSC: EWKH Results of Mechanic Gr1",
+        "category": "result",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 40,
+        "context": "19/03/2026 30/06/2026 View (561 KB)"
       }
     ],
     "other_notice": [
@@ -803,7 +779,7 @@
         "publishedLabel": "30 Apr 2026",
         "sortValue": 1777507200000,
         "score": 7,
-        "context": "ritten-examination-and-personal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
+        "context": "ndidate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
       },
       {
         "department": "Education Dept",
@@ -1220,18 +1196,6 @@
         "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
       },
       {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17788729817837.pdf",
-        "title": "Result of the Written Examination of Local Language Paper (Khasi Language Paper) for the post of Sectional Assistant held on 2nd May, 2026.",
-        "category": "result",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "publishedLabel": "15 May 2026",
-        "sortValue": 1778803200000,
-        "score": 40,
-        "context": "The Result of the Written Examination of Local Language Paper(Khasi Language Paper)for the post of Sectional Assistant held on 2nd May, 2026. The Written Examination for all the eligible candidates will be held on the 23rd May, 2026. 15/05/2026 23/05/2026 View (10 MB)"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Field%20data%20collector.pdf",
@@ -1245,30 +1209,6 @@
       }
     ],
     "admit_card": [
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17791682749147.pdf",
-        "title": "Notice Regarding Written Test Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 23rd May, 2026.",
-        "category": "admit_card",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 40,
-        "context": "This is for general information for those candidates who have appeared the Local Language Examination for the post of Sectional Assistant conducted by District Selection Committee, East Khasi Hills district, Shillong, on the 2nd May, 2026 that the Result for the said examination has been declared and the Written Test Examination for the above post will be held on the 23rd May, 2026. Qualified candidates can download the Admit card from https://rpa.meghalaya.gov.in/rpaonline/ 18/05/2026 24/05/2026 View (244 KB)"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
-        "title": "Qualified candidates can download the Admit card from https://rpa.meghalaya.gov.in/rpaonline/",
-        "category": "admit_card",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 7,
-        "context": "aas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17791682749147.pdf\">This is for general information for those candidates who have appeared the Local Language Examination for the post of Sectional Assistant conducted by District Selection Committee, East Khasi Hills district, Shillong, on the 2nd May, 2026 that the Result for the said examination has been declared and the Written Test Examination for the above post will be held on the 23rd May, 2026. 18/05/2026 24/05/2026 <a target=\"_blank\" aria-label=\"Notice Regarding Written Test Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 23rd May, 2026. PDF 244 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://c"
-      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
@@ -1767,7 +1707,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "East Khasi Hills",
+      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 502"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
