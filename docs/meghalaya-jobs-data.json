@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T02:33:38.740Z",
-  "generatedAtLabel": "22 May 2026 at 08:03 am",
+  "generatedAt": "2026-05-22T06:41:07.899Z",
+  "generatedAtLabel": "22 May 2026 at 12:11 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 20,
     "result": 4,
     "admit_card": 3
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/AdvertisementVacancy%20Circular%20of%20the%20post%20of%20Senior%20Secretariat%20Assistant%20to%20be%20filled%20up%20on%20deputation%20basis%20in%20the%20NE%20Council%20Secretariat,%20Shillong.pdf",
+        "title": "Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/NOTIFICATION%20of%20Screening%20Committee.pdf",
+        "title": "List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -137,7 +161,7 @@
         "publishedLabel": "14 May 2026",
         "sortValue": 1778716800000,
         "score": 12,
-        "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
+        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
       },
       {
         "department": "Meghalaya Govt",
@@ -276,30 +300,6 @@
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisement%20for%20the%20post%20of%20Executive%20Engineer%20(Civil)%20-%20Detailed%20Advertisement.pdf",
         "title": "Advertisement for the post of Executive Engineer (Civil), NEIGRIHMS, Shillong // Proforma of Application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-05T00:00:00.000Z",
-        "publishedLabel": "05 May 2026",
-        "sortValue": 1777939200000,
-        "score": 40,
-        "context": "05-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20last%20date%20of%20submnission%20of%20applications%20for%20the%20post%20of%20Director,%20NEIGRIHMS..pdf",
-        "title": "Important Notice: Last date for submission of applications for the post of Director, NEIGRIHMS",
-        "category": "recruitment",
-        "publishedAt": "2026-05-05T00:00:00.000Z",
-        "publishedLabel": "05 May 2026",
-        "sortValue": 1777939200000,
-        "score": 40,
-        "context": "05-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Recruitment%20for%20three%20posts%20of%20Psychology%20%20Social%20work%20for%20short%20term%20project%20(45%20days)%20on%20contractual%20basis.pdf",
-        "title": "Recruitment for three posts of Psychology / Social work for short term project (45 days) on contractual basis",
         "category": "recruitment",
         "publishedAt": "2026-05-05T00:00:00.000Z",
         "publishedLabel": "05 May 2026",
@@ -815,7 +815,7 @@
         "publishedLabel": "30 Apr 2026",
         "sortValue": 1777507200000,
         "score": 7,
-        "context": "didate-written-examination-post-project-executive-farm-livelihoods\">Notification - Shortlisted candidate for written examination for the post of Project Executive -Farm Livelihoods Promotion, Khasi & Garo Region. 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
+        "context": "itten-examination-and-personal-interview-post-project-manager\">Notification - Shortlisted Candidates for Written Examination and the Personal Interview for the post of Project Manager - Partnership & Convergence 01/05/2026 30/04/2026 NOTIFICATION-Opening of Financial Bids for Hiring of Vehicles <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\""
       },
       {
         "department": "Education Dept",
@@ -929,6 +929,30 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/AdvertisementVacancy%20Circular%20of%20the%20post%20of%20Senior%20Secretariat%20Assistant%20to%20be%20filled%20up%20on%20deputation%20basis%20in%20the%20NE%20Council%20Secretariat,%20Shillong.pdf",
+        "title": "Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/NOTIFICATION%20of%20Screening%20Committee.pdf",
+        "title": "List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
@@ -1047,7 +1071,7 @@
         "publishedLabel": "14 May 2026",
         "sortValue": 1778716800000,
         "score": 12,
-        "context": "es Notifications Notifications title Date of publishing Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
+        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
       },
       {
         "department": "Meghalaya Govt",
