@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T13:24:22.029Z",
-  "generatedAtLabel": "22 May 2026 at 06:54 pm",
+  "generatedAt": "2026-05-22T16:16:09.886Z",
+  "generatedAtLabel": "22 May 2026 at 09:46 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 21,
+    "recruitment": 22,
     "result": 4,
     "admit_card": 3
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
+        "title": "22nd May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "Notice regarding deferment of the personnel interview for the post of Assistant Professor / Lecturer in Education (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -294,18 +306,6 @@
         "sortValue": 1778025600000,
         "score": 40,
         "context": "PUBLIC NOTICE regarding the scrutiny and verification of Application Forms and relevant Original Documents for the vacant posts of Assistant Professor Grade - II in various subjects in DERT/DIETs (117 MB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50762",
-        "title": "MBMA invites applications from eligible candidates to fill up the positions of Community Associate and Innovation Associate on contractual basis for the Chief Minister’s Youth Centres (CMYC) under the MPOWER project",
-        "category": "recruitment",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "publishedLabel": "06 May 2026",
-        "sortValue": 1778025600000,
-        "score": 7,
-        "context": "ld-title\"> Advertisement for temporary engagement on contractual basis for the post of Assistant Lecturers at Sohkha Govt. H.S. School and Kiang Nangbah Govt. H.S. School, Jowai Date: 07 May 2026 Date: 06 May 2026 Notification: Candidates qualified for the post of Driver in the Office of the Resident Commissioner, Meghalaya House, New Delhi <span cl"
       }
     ],
     "admit_card": [
@@ -794,18 +794,6 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Biochemistry (117 MB)"
       },
       {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Botany.pdf",
-        "title": "1st May 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-01T00:00:00.000Z",
-        "publishedLabel": "01 May 2026",
-        "sortValue": 1777593600000,
-        "score": 40,
-        "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Botany (117 MB)"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-procurement-agency-data-analytics-digital-monitoring-tracking-services",
@@ -924,11 +912,35 @@
         "sortValue": 1769040000000,
         "score": 10,
         "context": "Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong. NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025] <a href=\"notify/Notice08Jan2026a.p"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Final%20SCFFS%20(18.02.2026).pdf",
+        "title": "Final SCFFS (18.02.2026)",
+        "category": "other_notice",
+        "publishedAt": "2025-12-19T00:00:00.000Z",
+        "publishedLabel": "19 Dec 2025",
+        "sortValue": 1766102400000,
+        "score": 12,
+        "context": "f=\"../notices_and_circulars/2026/Notice.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026. Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-car"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
+        "title": "22nd May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "Notice regarding deferment of the personnel interview for the post of Assistant Professor / Lecturer in Education (117 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
