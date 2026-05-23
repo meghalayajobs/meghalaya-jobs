@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T16:52:53.566Z",
-  "generatedAtLabel": "23 May 2026 at 10:22 pm",
+  "generatedAt": "2026-05-23T17:55:07.020Z",
+  "generatedAtLabel": "23 May 2026 at 11:25 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1767,13 +1767,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "MPSC",
-      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
