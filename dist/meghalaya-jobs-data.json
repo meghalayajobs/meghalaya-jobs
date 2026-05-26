@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T23:57:23.089Z",
-  "generatedAtLabel": "26 May 2026 at 05:27 am",
+  "generatedAt": "2026-05-26T02:55:30.838Z",
+  "generatedAtLabel": "26 May 2026 at 08:25 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,9 +12,9 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 24,
+    "recruitment": 21,
     "result": 6,
-    "admit_card": 3
+    "admit_card": 2
   },
   "sourceCount": 22,
   "grouped": {
@@ -1180,42 +1180,6 @@
         "sortValue": 1778544000000,
         "score": 7,
         "context": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 14 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17786648514090.pdf",
-        "title": "ADVERTISEMENT: Applications are invited to the post of Assistant Teacher (Mathematics) at Resubelpara RMSA Secondary School RMSA, North Garo Hills District",
-        "category": "recruitment",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Applications are invited to the post of Assistant Teacher (Mathematics) at Resubelpara RMSA Secondary School RMSA, North Garo Hills District 11/05/2026 31/05/2026 View (679 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50796",
-        "title": "Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati",
-        "category": "recruitment",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 7,
-        "context": "views-field-title\"> NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis Date: 12 May 2026 Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50795",
-        "title": "Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati",
-        "category": "recruitment",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 7,
-        "context": "e\"> Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati Date: 11 May 2026 Date: 11 May 2026 Advertisement for temporary engagement on contractual basis for the post of Assistant Lecturers at Sohkha Govt. H.S. School and Kiang Nangbah Govt. H.S. School, Jowai <div class=\"views-field"
       }
     ],
     "result": [
@@ -1316,18 +1280,6 @@
         "sortValue": 1779062400000,
         "score": 7,
         "context": "aas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17791682749147.pdf\">This is for general information for those candidates who have appeared the Local Language Examination for the post of Sectional Assistant conducted by District Selection Committee, East Khasi Hills district, Shillong, on the 2nd May, 2026 that the Result for the said examination has been declared and the Written Test Examination for the above post will be held on the 23rd May, 2026. 18/05/2026 24/05/2026 <a target=\"_blank\" aria-label=\"Notice Regarding Written Test Examination for the post of Sectional Assistant advertised by the District Selection Committee, East Khasi Hills District to be held on 23rd May, 2026. PDF 244 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://c"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/admit-card-block-mis-coordinator",
-        "title": "Admit card -Block MIS Coordinator",
-        "category": "admit_card",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 7,
-        "context": "content\"> NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Par"
       }
     ]
   },
