@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-27T06:55:59.375Z",
-  "generatedAtLabel": "27 May 2026 at 12:25 pm",
+  "generatedAt": "2026-05-27T10:52:01.804Z",
+  "generatedAtLabel": "27 May 2026 at 04:22 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -30,6 +30,18 @@
         "sortValue": 1780444800000,
         "score": 7,
         "context": "2026-06-03 <div class=\"vi"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-skill-test-personal-interview-post-block-mis-coordinator-various-block-mission",
+        "title": "Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs)",
+        "category": "recruitment",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "nt 27/05/2026 Notification - Final"
       },
       {
         "department": "East Garo Hills",
@@ -137,7 +149,7 @@
         "publishedLabel": "22 May 2026",
         "sortValue": 1779408000000,
         "score": 7,
-        "context": "N - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Per"
+        "context": "gence-pm-fpc\">Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Pers"
       },
       {
         "department": "MERB",
@@ -198,18 +210,6 @@
         "sortValue": 1779062400000,
         "score": 7,
         "context": "Office Wise Search Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
-        "title": "NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP",
-        "category": "recruitment",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 7,
-        "context": "-posts-state-mission-management-unit-smmu\">Advertisement for various posts at State Mission Management Unit (SMMU) 22/05/2026 18/05/2026 Admit card -Block MIS Coordinator <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2026-05-11T"
       },
       {
         "department": "MERB",
@@ -343,7 +343,7 @@
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "content\"> NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Par"
+        "context": "ontent\"> NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP 18/05/2026 11/05/2026 NOTIFICATION- Reschedule of the Personal Interview for the post of Project Manager-Part"
       }
     ],
     "result": [
@@ -381,7 +381,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "nt 26/05/2026 Notification - Final"
+        "context": "n-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 26/05/2026 NOTIFICATION"
       },
       {
         "department": "MSRLS",
@@ -393,7 +393,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "i-garo-region\">Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 26/05/2026 Notification - Final result fo"
+        "context": "& Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final Result for"
       },
       {
         "department": "West Khasi Hills",
@@ -417,7 +417,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "n-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 25/05/2026 NOTIFICATION"
+        "context": "N - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 25/05/2026 Advertisement for various posts at State Mis"
       },
       {
         "department": "MSRLS",
@@ -429,7 +429,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "gence-pm-fpc\">Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 25/05/2026 Advertisement for various posts at State Miss"
+        "context": "i-garo-region\">Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 25/05/2026 Notification - Final result fo"
       },
       {
         "department": "West Garo Hills",
@@ -942,6 +942,18 @@
         "context": "2026-06-03 <div class=\"vi"
       },
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-skill-test-personal-interview-post-block-mis-coordinator-various-block-mission",
+        "title": "Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs)",
+        "category": "recruitment",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "nt 27/05/2026 Notification - Final"
+      },
+      {
         "department": "East Garo Hills",
         "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17797927717656.pdf",
@@ -1047,7 +1059,7 @@
         "publishedLabel": "22 May 2026",
         "sortValue": 1779408000000,
         "score": 7,
-        "context": "N - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Per"
+        "context": "gence-pm-fpc\">Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Pers"
       },
       {
         "department": "MERB",
@@ -1108,18 +1120,6 @@
         "sortValue": 1779062400000,
         "score": 7,
         "context": "Office Wise Search Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
-        "title": "NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP",
-        "category": "recruitment",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 7,
-        "context": "-posts-state-mission-management-unit-smmu\">Advertisement for various posts at State Mission Management Unit (SMMU) 22/05/2026 18/05/2026 Admit card -Block MIS Coordinator <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2026-05-11T"
       },
       {
         "department": "MERB",
@@ -1217,7 +1217,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "nt 26/05/2026 Notification - Final"
+        "context": "n-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 26/05/2026 NOTIFICATION"
       },
       {
         "department": "MSRLS",
@@ -1229,7 +1229,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "i-garo-region\">Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 26/05/2026 Notification - Final result fo"
+        "context": "& Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final Result for"
       },
       {
         "department": "West Khasi Hills",
@@ -1253,7 +1253,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "n-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 25/05/2026 NOTIFICATION"
+        "context": "N - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 25/05/2026 Advertisement for various posts at State Mis"
       },
       {
         "department": "MSRLS",
@@ -1265,7 +1265,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "gence-pm-fpc\">Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 25/05/2026 Advertisement for various posts at State Miss"
+        "context": "i-garo-region\">Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 25/05/2026 Notification - Final result fo"
       },
       {
         "department": "West Garo Hills",
