@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T22:27:00.213Z",
-  "generatedAtLabel": "29 May 2026 at 03:57 am",
+  "generatedAt": "2026-05-29T00:03:45.736Z",
+  "generatedAtLabel": "29 May 2026 at 05:33 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 21,
-    "result": 10,
+    "recruitment": 18,
+    "result": 9,
     "admit_card": 2
   },
   "sourceCount": 22,
@@ -1144,42 +1144,6 @@
         "sortValue": 1778803200000,
         "score": 40,
         "context": "15/05/2026 View (731 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Detailed%20Advertisment%20Faculty%20posts%20-%202026.pdf",
-        "title": "Advertisement for Faculty posts, NEIGRIHMS // Proforma for application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
-        "title": "Proforma for application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 12,
-        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50877",
-        "title": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 7,
-        "context": "ass=\"item-list\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
       }
     ],
     "result": [
@@ -1290,18 +1254,6 @@
         "sortValue": 1779062400000,
         "score": 12,
         "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Field%20data%20collector.pdf",
-        "title": "Result of the walk-in interview held for the three posts of NMHS-2 Survey Field Data Collector (FDC) under National Mental Health Survey in India-2 funded by Ministry of Health and Family Welfare, Government of India and co-ordinated by NIMHANS, Bengaluru",
-        "category": "result",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14.05.2026"
       }
     ],
     "admit_card": [
