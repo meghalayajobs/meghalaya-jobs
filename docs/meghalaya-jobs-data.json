@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-31T11:28:22.074Z",
-  "generatedAtLabel": "31 May 2026 at 04:58 pm",
+  "generatedAt": "2026-05-31T13:17:16.635Z",
+  "generatedAtLabel": "31 May 2026 at 06:47 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
     "recruitment": 24,
-    "admit_card": 1,
+    "admit_card": 3,
     "result": 24,
     "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
-    "result": 7,
-    "admit_card": 0
+    "recruitment": 16,
+    "result": 10,
+    "admit_card": 2
   },
   "sourceCount": 22,
   "grouped": {
@@ -42,6 +42,42 @@
         "sortValue": 1779840000000,
         "score": 7,
         "context": "nt 27/05/2026 Notification - Final"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17797927717656.pdf",
+        "title": "Advertisement for the Post of Assistant Lecturer",
+        "category": "recruitment",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "All eligible candidates are hereby invited to apply for the post of Assistant Lecturer. 26/05/2026 05/06/2026 View (315 KB)"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
+        "title": "No. MPSC/D-61/1/2020-2021/151",
+        "category": "recruitment",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+        "title": "No.3/2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 40,
+        "context": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Fishery Officer underThe Directorate of Fisheries Junior Football Coach under The Directorate of Sports and Youth Affairs Department, Meghalaya, Shillong. 25-05-2026 Online Application"
       },
       {
         "department": "NEIGRIHMS",
@@ -164,16 +200,16 @@
         "context": "18/05/2026 View (628 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50859",
-        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant",
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Notice%20of%20the%20provisional%20ineligibility%20list%20for%20the%20posts%20of%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS",
         "category": "recruitment",
         "publishedAt": "2026-05-18T00:00:00.000Z",
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
-        "score": 7,
-        "context": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared Date: 26 May 2026 Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
+        "score": 12,
+        "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
       },
       {
         "department": "MERB",
@@ -224,18 +260,6 @@
         "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50877",
-        "title": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 7,
-        "context": "May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Professor%20cum%20Principle%20Advertisement.pdf",
@@ -260,18 +284,6 @@
         "context": "12/05/2026 View (736 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50814",
-        "title": "NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis",
-        "category": "recruitment",
-        "publishedAt": "2026-05-12T00:00:00.000Z",
-        "publishedLabel": "12 May 2026",
-        "sortValue": 1778544000000,
-        "score": 7,
-        "context": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 14 May 2026 Date: 12 May 2026 Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati <div class=\"views"
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17786648514090.pdf",
@@ -284,31 +296,43 @@
         "context": "ADVERTISEMENT: Applications are invited to the post of Assistant Teacher (Mathematics) at Resubelpara RMSA Secondary School RMSA, North Garo Hills District 11/05/2026 31/05/2026 View (679 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50796",
-        "title": "Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati",
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
+        "title": "NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP",
         "category": "recruitment",
         "publishedAt": "2026-05-11T00:00:00.000Z",
         "publishedLabel": "11 May 2026",
         "sortValue": 1778457600000,
         "score": 7,
-        "context": "views-field-title\"> NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis Date: 12 May 2026 Date: 11 May 2026 Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati <div class=\"views-field views-fi"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50795",
-        "title": "Advertisement for appointment to the post of District Coordinator-cum-Accountant on contractual basis at the District RMSA Unit, South West Garo Hills, Ampati",
-        "category": "recruitment",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 7,
-        "context": "e\"> Advertisement for appointment to the post of Assistant Teacher (Mathematics) on contractual basis in upgraded Govt. & SSA U.P. School under South West Garo Hills, Ampati Date: 11 May 2026 Date: 11 May 2026 Advertisement for temporary engagement on contractual basis for the post of Assistant Lecturers at Sohkha Govt. H.S. School and Kiang Nangbah Govt. H.S. School, Jowai <div class=\"views-field"
+        "context": "class=\"field-content\"> Advertisement for various posts at State Mission Management Unit (SMMU) 22/05/2026 18/05/2026 Admit card -Block MIS Coordinator <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2026-05-11"
       }
     ],
     "admit_card": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17798612775167.pdf",
+        "title": "Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026.",
+        "category": "admit_card",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 40,
+        "context": "Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. Call letter for the Personal Interview can be downloaded from https://rpa.meghalaya.gov.in/rpaonline/ 27/05/2026 31/05/2026 View (163 KB)"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "title": "Call letter for the Personal Interview can be downloaded from https://rpa.meghalaya.gov.in/rpaonline/",
+        "category": "admit_card",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "10 KB) Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. 27/05/2026 31/05/2026 <a target=\"_blank\" aria-label=\"Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. PDF 163 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/1779861277"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
@@ -324,16 +348,40 @@
     ],
     "result": [
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
-        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17800623484469.pdf",
+        "title": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026.",
+        "category": "result",
+        "publishedAt": "2026-05-29T00:00:00.000Z",
+        "publishedLabel": "29 May 2026",
+        "sortValue": 1780012800000,
+        "score": 40,
+        "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17797930152100.pdf",
+        "title": "Notice: Combined Grade-IV Post Result",
         "category": "result",
         "publishedAt": "2026-05-26T00:00:00.000Z",
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
-        "score": 7,
-        "context": "Office Wise Search Date: 26 May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant <span class=\"views-label views-label-field-dat"
+        "score": 40,
+        "context": "Result of the Language Proficiency Test (Garo) for Combined Grade IV Post. 26/05/2026 04/06/2026 View (919 KB)"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17798052351803.pdf",
+        "title": "Result of the Written Examination for the Post of Sectional Assistant(2025) held on the 23rd May, 2026",
+        "category": "result",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "The Personal Interview will be held on the 29.05.2026 from 10:00 am onwards at the O/o The Deputy Commissioner, East Khasi Hills District, Shillong. All eligible candidates must mandatorily report for the verification of documents at the O/o The Deputy Commissioner, East Khasi Hills District, Shillong, Atrium area, 2nd Floor on the 27th May, 2026 from 10:00 AM to 3:00 PM 26/05/2026 31/05/2026 View (834 KB)"
       },
       {
         "department": "MSRLS",
@@ -406,6 +454,18 @@
         "sortValue": 1779062400000,
         "score": 40,
         "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/AI%20Trainer%20provisional%20rejection%20list.pdf",
+        "title": "Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS",
+        "category": "result",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 12,
+        "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -468,6 +528,18 @@
         "context": "ef=\"advertisements.html\" title=\"Click here to read more\"> More about Advertisements The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
       },
       {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Lab%20Assistant%20provisional%20rejection%20list.pdf",
+        "title": "Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS",
+        "category": "result",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 12,
+        "context": "AI Trainer and Lab Assistant.pdf \" target=\"_blank\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integration and Operation & Maintenance of AUA/ KUA Solution with Aadhar Data vault for Government of Meghalaya\" Apr 10 2026 [NEW] <a href=\"pdf/Notice Invitng Tender Procurement computers D"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17772883499464.pdf",
@@ -502,18 +574,6 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "29.04.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50626",
-        "title": "Declaration of the Result for written examination to the posts of Room Bearer and Lower Divisional Assistant in the Office of the Additional Resident Commissioner, Meghalaya House, Mumbai",
-        "category": "result",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 7,
-        "context": "field-content\"> Advertisement for the posts of Senior Public Health Consultant and Public Health Consultants on contractual engagement under the Health Emergency Operation Centre (HEOC), DHS (MI), Shillong Date: 23 Apr 2026 Date: 21 Apr 2026 Rolling Advertisement for Teaching Faculty Posts on Contractual Basis at the Proposed Tura Medical College <span class=\"views-label views"
       },
       {
         "department": "North Garo Hills",
@@ -574,42 +634,6 @@
         "sortValue": 1775001600000,
         "score": 7,
         "context": "Constable 2026-04-02 2026-04-01 <a href=\"/not"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
-        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
-        "category": "result",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "24.03.2026"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
-        "title": "DSC: EWKH Results of Grade IV",
-        "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (701 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
-        "title": "DSC: EWKH Results of LDA (2025)",
-        "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (686 KB)"
       }
     ],
     "other_notice": [
@@ -638,6 +662,18 @@
         "context": "DSC Operator Submission of Necessary Documents This is for general information to all candidates appearing for the DSC Written Examination for the post Operator held on the 16th May,2026, to submit the Cinema Operator License by 8th June,2026 as mentioned in the Advertisement No.MRG/DSC.13/2024/13, dt.27.02.2025 in email ID dscewkhd@gmail.com or send to the office of the Deputy Commissioner, Eastern West Khasi Hills District, Mairang by registered/speed Post. 22/05/2026 30/06/2026 View (178 KB)"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/PA%20Sangma%20Model%20Degree%20College.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.55/2026/7 Dated 14-05-2026 Notification regarding rename of the \"Rongjeng Model Degree College\" Rongjeng as \"P.A. Sangma Model Degree College\" Rongjeng (14.05.2026) (200kb)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17793440628142.pdf",
@@ -662,6 +698,18 @@
         "context": "14/05/2026 View (154 KB)"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/CECPFS.pdf",
+        "title": "No. EDN.55/2026/7 Dated 08-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-08T00:00:00.000Z",
+        "publishedLabel": "08 May 2026",
+        "sortValue": 1778198400000,
+        "score": 40,
+        "context": "Notification regarding Meghalaya Non Government Schools and Colleges Employees Centralized Provident Fund Scheme 2026 (08.05.2026) (200kb)"
+      },
+      {
         "department": "West Garo Hills",
         "sourceUrl": "https://westgarohills.gov.in/documents/",
         "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17785857886940.pdf",
@@ -672,6 +720,42 @@
         "sortValue": 1778198400000,
         "score": 40,
         "context": "08/05/2026 View (732 KB)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Meghalaya%20Common%20Admission%20Portal.pdf",
+        "title": "No. EDN.55/2026/7 Dated 06-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 40,
+        "context": "Notification regarding the Meghalaya Common Admission Portal (MCAP)(06.05.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/SPF.pdf",
+        "title": "No. EDN.55/2026/7 Dated 04-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "Notification regarding the implementation of the Structured Pay Framework (SPF)(04.05.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/notification%20may%202026.pdf",
+        "title": "No. EDN.55/2026/7 Dated 04-05-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "Notification regarding Compliance Reduction and Deregulation Exercise 2026 [Phase II](04.05.2026) (200kb)"
       },
       {
         "department": "MERB",
@@ -722,6 +806,18 @@
         "context": "Notification of the list of candidates who are eligible to appear for the interview for the post Assistant Professors/Lecturers in Biochemistry (117 MB)"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Provident%20Fund.pdf",
+        "title": "No. EDN.55/2026/7 Dated 28-04-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "publishedLabel": "28 Apr 2026",
+        "sortValue": 1777334400000,
+        "score": 40,
+        "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
@@ -756,6 +852,18 @@
         "sortValue": 1775433600000,
         "score": 10,
         "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools."
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Public%20Notice%20IT%20Awards%202025%20Function.pdf",
+        "title": "Public Notice for the conduct of the IT Awards Academic Year 2025",
+        "category": "other_notice",
+        "publishedAt": "2026-03-19T00:00:00.000Z",
+        "publishedLabel": "19 Mar 2026",
+        "sortValue": 1773878400000,
+        "score": 12,
+        "context": "ent of Meghalaya\" Apr 10 2026 [NEW] Notice Invitng Tender for the “Supply of Desktop PCs, Printer, UPS, Laptops etc.” at the location(s) to be specified by the Directorate of Information Technology and Communication, Govt. of Meghalaya Mar 26 2026 [NEW] Mar 19 2026 [NEW] Online Registration for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya is now closed Click Here <p"
       },
       {
         "department": "MPSC notice",
@@ -816,90 +924,6 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/3_%20Meghalaya%20Syllabus%20for%20Classes%201%20&%202%20-%20Language%20&%20Numeracy%20(FINAL%20-%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 8,
-        "context": "Meghalaya Preschool Syllabus (Final 19 December 2025) Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-caret-ri"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
-        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf",
-        "title": "Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf",
-        "title": "List of Candidates",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 11,
-        "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/screening-eligible-candidates.pdf",
-        "title": "The screening of eligible candida1es for (I) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS and (6) BPT against state, quota seats for the academic session 2025-26 will be held on 16th September 2025 (Tuesday) from 9:00 AM onwards at Civil Hospital Shillong, and Tura Civil Hospital, Tura.",
-        "category": "other_notice",
-        "publishedAt": "2025-09-16T00:00:00.000Z",
-        "publishedLabel": "16 Sept 2025",
-        "sortValue": 1757980800000,
-        "score": 12,
-        "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
-      },
-      {
-        "department": "DHET",
-        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Notice%20wrt%20the%20selected%20candidates%20for%20admission%20to%20CAU%20Imphal.pdf",
-        "title": "Central Agricultural University, Imphal has fixed 15th September 2025 for reporting of the nominated candidates for admission to 4 years Degree Course in B.Tech in Agricultural Engineering, B.Tech in Food Technology, B.Sc. (Hons) in Community Science and B.Sc. (Hons) in Food Nutrition & Dietetics and B.Sc. (Hons) Forestry for the academic session 2025-2026",
-        "category": "other_notice",
-        "publishedAt": "2025-09-15T00:00:00.000Z",
-        "publishedLabel": "15 Sept 2025",
-        "sortValue": 1757894400000,
-        "score": 12,
-        "context": "olid fa-square-caret-right\"> Advertisement for Fresh and Renewal applications for State Schemes of scholarships for the Academic year 2025-2026 Public Notice regarding Notification and Merit list of candidates applied against seats reserved by CAU, Imphal for the AY 2025-26"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/document-video",
-        "title": "Documentaries & Videos",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "x-2 py-3 items-center hover:text-yellow-200 links\">KNOWLEDGE PORTAL Stories Guideline NOTICE BOARD<svg class=\"fill-current h-4 w-4 text-white transform transition-transform duration-500 ease-in-out rotate-180 group-hover:rotate-0\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 2"
       }
     ]
   },
@@ -928,6 +952,42 @@
         "sortValue": 1779840000000,
         "score": 7,
         "context": "nt 27/05/2026 Notification - Final"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17797927717656.pdf",
+        "title": "Advertisement for the Post of Assistant Lecturer",
+        "category": "recruitment",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "All eligible candidates are hereby invited to apply for the post of Assistant Lecturer. 26/05/2026 05/06/2026 View (315 KB)"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
+        "title": "No. MPSC/D-61/1/2020-2021/151",
+        "category": "recruitment",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+        "title": "No.3/2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 40,
+        "context": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Fishery Officer underThe Directorate of Fisheries Junior Football Coach under The Directorate of Sports and Youth Affairs Department, Meghalaya, Shillong. 25-05-2026 Online Application"
       },
       {
         "department": "NEIGRIHMS",
@@ -1050,30 +1110,54 @@
         "context": "18/05/2026 View (628 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50859",
-        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant",
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Notice%20of%20the%20provisional%20ineligibility%20list%20for%20the%20posts%20of%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS",
         "category": "recruitment",
         "publishedAt": "2026-05-18T00:00:00.000Z",
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
-        "score": 7,
-        "context": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared Date: 26 May 2026 Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
+        "score": 12,
+        "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
       }
     ],
     "result": [
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
-        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17800623484469.pdf",
+        "title": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026.",
+        "category": "result",
+        "publishedAt": "2026-05-29T00:00:00.000Z",
+        "publishedLabel": "29 May 2026",
+        "sortValue": 1780012800000,
+        "score": 40,
+        "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/05/17797930152100.pdf",
+        "title": "Notice: Combined Grade-IV Post Result",
         "category": "result",
         "publishedAt": "2026-05-26T00:00:00.000Z",
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
-        "score": 7,
-        "context": "Office Wise Search Date: 26 May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant <span class=\"views-label views-label-field-dat"
+        "score": 40,
+        "context": "Result of the Language Proficiency Test (Garo) for Combined Grade IV Post. 26/05/2026 04/06/2026 View (919 KB)"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17798052351803.pdf",
+        "title": "Result of the Written Examination for the Post of Sectional Assistant(2025) held on the 23rd May, 2026",
+        "category": "result",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 40,
+        "context": "The Personal Interview will be held on the 29.05.2026 from 10:00 am onwards at the O/o The Deputy Commissioner, East Khasi Hills District, Shillong. All eligible candidates must mandatorily report for the verification of documents at the O/o The Deputy Commissioner, East Khasi Hills District, Shillong, Atrium area, 2nd Floor on the 27th May, 2026 from 10:00 AM to 3:00 PM 26/05/2026 31/05/2026 View (834 KB)"
       },
       {
         "department": "MSRLS",
@@ -1146,9 +1230,46 @@
         "sortValue": 1779062400000,
         "score": 40,
         "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/AI%20Trainer%20provisional%20rejection%20list.pdf",
+        "title": "Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS",
+        "category": "result",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 12,
+        "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
       }
     ],
-    "admit_card": []
+    "admit_card": [
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17798612775167.pdf",
+        "title": "Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026.",
+        "category": "admit_card",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 40,
+        "context": "Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. Call letter for the Personal Interview can be downloaded from https://rpa.meghalaya.gov.in/rpaonline/ 27/05/2026 31/05/2026 View (163 KB)"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://rpa.meghalaya.gov.in/rpaonline/",
+        "title": "Call letter for the Personal Interview can be downloaded from https://rpa.meghalaya.gov.in/rpaonline/",
+        "category": "admit_card",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "10 KB) Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. 27/05/2026 31/05/2026 <a target=\"_blank\" aria-label=\"Notice: Personal Interview for the post of Sectional Assistant to be held on the 29th May, 2026. PDF 163 KB - opens in new window\" class=\"pdf-download-link\" href=\"https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/1779861277"
+      }
+    ]
   },
   "latestPosts": [
     {
@@ -1636,28 +1757,8 @@
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
     {
-      "department": "MPSC",
-      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "Information Tech.",
-      "url": "https://ditmeghalaya.gov.in/index.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "Education Dept",
-      "url": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "East Garo Hills",
-      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "department": "Meghalaya Govt",
+      "url": "https://www.meghalaya.gov.in/recruitment",
       "reason": "fetch failed"
     }
   ],
