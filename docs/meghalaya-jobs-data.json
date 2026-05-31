@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T13:17:16.635Z",
-  "generatedAtLabel": "31 May 2026 at 06:47 pm",
+  "generatedAt": "2026-05-31T15:13:01.764Z",
+  "generatedAtLabel": "31 May 2026 at 08:43 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -284,18 +284,6 @@
         "context": "12/05/2026 View (736 KB)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17786648514090.pdf",
-        "title": "ADVERTISEMENT: Applications are invited to the post of Assistant Teacher (Mathematics) at Resubelpara RMSA Secondary School RMSA, North Garo Hills District",
-        "category": "recruitment",
-        "publishedAt": "2026-05-11T00:00:00.000Z",
-        "publishedLabel": "11 May 2026",
-        "sortValue": 1778457600000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Applications are invited to the post of Assistant Teacher (Mathematics) at Resubelpara RMSA Secondary School RMSA, North Garo Hills District 11/05/2026 31/05/2026 View (679 KB)"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-written-examination-personal-interview-post-dfs-flp",
@@ -306,6 +294,18 @@
         "sortValue": 1778457600000,
         "score": 7,
         "context": "class=\"field-content\"> Advertisement for various posts at State Mission Management Unit (SMMU) 22/05/2026 18/05/2026 Admit card -Block MIS Coordinator <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2026-05-11"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/merb_dert_public%20notice_assistant%20professor.pdf",
+        "title": "6th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 40,
+        "context": "PUBLIC NOTICE regarding the scrutiny and verification of Application Forms and relevant Original Documents for the vacant posts of Assistant Professor Grade - II in various subjects in DERT/DIETs (117 MB)"
       }
     ],
     "admit_card": [
@@ -540,18 +540,6 @@
         "context": "AI Trainer and Lab Assistant.pdf \" target=\"_blank\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integration and Operation & Maintenance of AUA/ KUA Solution with Aadhar Data vault for Government of Meghalaya\" Apr 10 2026 [NEW] <a href=\"pdf/Notice Invitng Tender Procurement computers D"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17772883499464.pdf",
-        "title": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026",
-        "category": "result",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
@@ -574,18 +562,6 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "29.04.2026"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761750641796.pdf",
-        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026.",
-        "category": "result",
-        "publishedAt": "2026-04-14T00:00:00.000Z",
-        "publishedLabel": "14 Apr 2026",
-        "sortValue": 1776124800000,
-        "score": 40,
-        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026. 14/04/2026 31/05/2026 View (933 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -634,6 +610,30 @@
         "sortValue": 1775001600000,
         "score": 7,
         "context": "Constable 2026-04-02 2026-04-01 <a href=\"/not"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
+        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
+        "category": "result",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "24 Mar 2026",
+        "sortValue": 1774310400000,
+        "score": 40,
+        "context": "24.03.2026"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
+        "title": "DSC: EWKH Results of Grade IV",
+        "category": "result",
+        "publishedAt": "2026-03-20T00:00:00.000Z",
+        "publishedLabel": "20 Mar 2026",
+        "sortValue": 1773964800000,
+        "score": 40,
+        "context": "20/03/2026 30/06/2026 View (701 KB)"
       }
     ],
     "other_notice": [
@@ -672,18 +672,6 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "Content Summary Format No. EDN.55/2026/7 Dated 14-05-2026 Notification regarding rename of the \"Rongjeng Model Degree College\" Rongjeng as \"P.A. Sangma Model Degree College\" Rongjeng (14.05.2026) (200kb)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17793440628142.pdf",
-        "title": "NOTIFICATION: District Census Cell for conducting and supervising the House-listing operation (HLO), Census 2027 in the Office of the Deputy Commissioner, North Garo Hills, Resubelpara",
-        "category": "other_notice",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "NOTIFICATION: District Census Cell for conducting and supervising the House-listing operation (HLO), Census 2027 in the Office of the Deputy Commissioner, North Garo Hills, Resubelpara 14/05/2026 30/06/2026 View (471 KB)"
       },
       {
         "department": "West Garo Hills",
@@ -818,30 +806,6 @@
         "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
-        "title": "NOTICE: Traffic Violations Notice",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
-        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
-        "category": "other_notice",
-        "publishedAt": "2026-04-22T00:00:00.000Z",
-        "publishedLabel": "22 Apr 2026",
-        "sortValue": 1776816000000,
-        "score": 40,
-        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
-      },
-      {
         "department": "DERT",
         "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
         "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
@@ -924,6 +888,42 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/3_%20Meghalaya%20Syllabus%20for%20Classes%201%20&%202%20-%20Language%20&%20Numeracy%20(FINAL%20-%2019%20December%202025).pdf",
+        "title": "Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)",
+        "category": "other_notice",
+        "publishedAt": "2025-12-19T00:00:00.000Z",
+        "publishedLabel": "19 Dec 2025",
+        "sortValue": 1766102400000,
+        "score": 8,
+        "context": "Meghalaya Preschool Syllabus (Final 19 December 2025) Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-caret-ri"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
+        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
+        "category": "other_notice",
+        "publishedAt": "2025-09-19T00:00:00.000Z",
+        "publishedLabel": "19 Sept 2025",
+        "sortValue": 1758240000000,
+        "score": 12,
+        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf",
+        "title": "Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
+        "category": "other_notice",
+        "publishedAt": "2025-09-19T00:00:00.000Z",
+        "publishedLabel": "19 Sept 2025",
+        "sortValue": 1758240000000,
+        "score": 12,
+        "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
       }
     ]
   },
@@ -1759,6 +1759,16 @@
     {
       "department": "Meghalaya Govt",
       "url": "https://www.meghalaya.gov.in/recruitment",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
       "reason": "fetch failed"
     }
   ],
