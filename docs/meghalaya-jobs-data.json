@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T19:22:57.065Z",
-  "generatedAtLabel": "01 June 2026 at 12:52 am",
+  "generatedAt": "2026-05-31T20:50:13.057Z",
+  "generatedAtLabel": "01 June 2026 at 02:20 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 10,
+    "recruitment": 14,
     "result": 10,
     "admit_card": 2
   },
@@ -56,6 +56,30 @@
         "context": "All eligible candidates are hereby invited to apply for the post of Assistant Lecturer. 26/05/2026 05/06/2026 View (315 KB)"
       },
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(4th%20Cut-Off%20date).pdf",
+        "title": "Rolling Advertisement for recruitment of Junior Resident Doctor (4th Cut-Off date) // Application form - Annexure- I // EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 40,
+        "context": "25-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/JRD-%20Application%20form%20-%20Annexure-%20I.pdf",
+        "title": "Application form - Annexure- I",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (4th Cut-Off date) // // EWS CERTIFICATE FORMAT - Annexure II 25-05-2026 List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS 22-05-2026 <tr"
+      },
+      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
@@ -66,6 +90,30 @@
         "sortValue": 1779408000000,
         "score": 40,
         "context": "Notice regarding deferment of the personnel interview for the post of Assistant Professor / Lecturer in Education (117 MB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/AdvertisementVacancy%20Circular%20of%20the%20post%20of%20Senior%20Secretariat%20Assistant%20to%20be%20filled%20up%20on%20deputation%20basis%20in%20the%20NE%20Council%20Secretariat,%20Shillong.pdf",
+        "title": "Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/NOTIFICATION%20of%20Screening%20Committee.pdf",
+        "title": "List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
       },
       {
         "department": "West Khasi Hills",
@@ -164,6 +212,42 @@
         "context": "15/05/2026 View (731 KB)"
       },
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Detailed%20Advertisment%20Faculty%20posts%20-%202026.pdf",
+        "title": "Advertisement for Faculty posts, NEIGRIHMS // Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
+        "title": "Proforma for application",
+        "category": "recruitment",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 12,
+        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Professor%20cum%20Principle%20Advertisement.pdf",
+        "title": "Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot",
+        "category": "recruitment",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "publishedLabel": "12 May 2026",
+        "sortValue": 1778544000000,
+        "score": 40,
+        "context": "12-05-2026"
+      },
+      {
         "department": "West Garo Hills",
         "sourceUrl": "https://westgarohills.gov.in/documents/",
         "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
@@ -222,90 +306,6 @@
         "sortValue": 1777334400000,
         "score": 40,
         "context": "ADVERTISEMENT: Recruitment for the post of Assistant Teacher MIL(Garo) at RMSA Secondary School, North Garo Hills District on contractual basis 28/04/2026 31/05/2026 View (536 KB)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Selection%20Committee%20for%20appointment%20in%20Pine%20Mount.pdf",
-        "title": "No. EDN.55/2026/7 Dated 23-04-2026",
-        "category": "recruitment",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "Notification for constitution of a Selection Committee for appointment to various posts of Teaching and Non-Teaching Staff in Pine Mount School, Shillong (23.04.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/PIO%20DSEL.pdf",
-        "title": "No. EDN.80/2018/68 Dated 21-04-2026",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 40,
-        "context": "Notification regarding the Appointment of Public Information Officer for providing information pertaining to the Directorate of School Education & Literacy (21.04.2026) (200kb)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769296738537.pdf",
-        "title": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis.",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Applications are invited from permanent residents of Meghalaya for the post of Data Entry Operator (MGNREGA) on contractual basis. 21/04/2026 31/05/2026 View (392 KB)"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/written-test-post-programme-officer-ic-iec-under-mgnrega",
-        "title": "Written test for the post of Programme Officer i/c IEC under MGNREGA",
-        "category": "recruitment",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 7,
-        "context": "dex=\"0\"> 21/04/2026 NOTICE- Written Test for the post of Accounts Assistant under PMAY-G <span class=\"date-display-single\" p"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/notice-written-test-post-accounts-assistant-under-pmay-g",
-        "title": "NOTICE- Written Test for the post of Accounts Assistant under PMAY-G",
-        "category": "recruitment",
-        "publishedAt": "2026-04-15T00:00:00.000Z",
-        "publishedLabel": "15 Apr 2026",
-        "sortValue": 1776211200000,
-        "score": 7,
-        "context": "Written test for the post of Programme Officer i/c IEC under MGNREGA 21/04/2026 15/04/2026 Corrigendum- Submission of Applications for the post of Accounts Assistant, PMAY(G) an"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/04/17760704069668.pdf",
-        "title": "Corrigendum – Notice for candidates who had passed written examination for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-04-13T00:00:00.000Z",
-        "publishedLabel": "13 Apr 2026",
-        "sortValue": 1776038400000,
-        "score": 40,
-        "context": "13/04/2026 View (194 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/04/17758145244887.pdf",
-        "title": "Notice for candidates who had passed written examination for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-04-09T00:00:00.000Z",
-        "publishedLabel": "09 Apr 2026",
-        "sortValue": 1775692800000,
-        "score": 40,
-        "context": "09/04/2026 View (796 KB)"
       }
     ],
     "admit_card": [
@@ -638,6 +638,18 @@
     ],
     "other_notice": [
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/EWS%20CERTIFICATE%20FORMAT%20-%20Annexure%20II.pdf",
+        "title": "EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "other_notice",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 12,
+        "context": "Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (4th Cut-Off date) // Application form - Annexure- I // 25-05-2026 List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS 22-05-2026 <a href=\"Latest News/Other/Advt of other Offices/AdvertisementVacancy Circular of the post of Senior Secretariat Ass"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://s34c27cea8526af8cfee3be5e183ac9605.s3waas.gov.in/notice/dsc-operator-submission-of-necessary-documents",
@@ -912,18 +924,6 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/3_%20Meghalaya%20Syllabus%20for%20Classes%201%20&%202%20-%20Language%20&%20Numeracy%20(FINAL%20-%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 8,
-        "context": "Meghalaya Preschool Syllabus (Final 19 December 2025) Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-caret-ri"
       }
     ]
   },
@@ -966,6 +966,30 @@
         "context": "All eligible candidates are hereby invited to apply for the post of Assistant Lecturer. 26/05/2026 05/06/2026 View (315 KB)"
       },
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(4th%20Cut-Off%20date).pdf",
+        "title": "Rolling Advertisement for recruitment of Junior Resident Doctor (4th Cut-Off date) // Application form - Annexure- I // EWS CERTIFICATE FORMAT - Annexure II",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 40,
+        "context": "25-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/JRD-%20Application%20form%20-%20Annexure-%20I.pdf",
+        "title": "Application form - Annexure- I",
+        "category": "recruitment",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Rolling Advertisement for recruitment of Junior Resident Doctor (4th Cut-Off date) // // EWS CERTIFICATE FORMAT - Annexure II 25-05-2026 List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS 22-05-2026 <tr"
+      },
+      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
@@ -976,6 +1000,30 @@
         "sortValue": 1779408000000,
         "score": 40,
         "context": "Notice regarding deferment of the personnel interview for the post of Assistant Professor / Lecturer in Education (117 MB)"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/AdvertisementVacancy%20Circular%20of%20the%20post%20of%20Senior%20Secretariat%20Assistant%20to%20be%20filled%20up%20on%20deputation%20basis%20in%20the%20NE%20Council%20Secretariat,%20Shillong.pdf",
+        "title": "Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/NOTIFICATION%20of%20Screening%20Committee.pdf",
+        "title": "List of Eligible and Ineligible Candidates for Engagement of 1 (One) Dental Consultant and for Engagement of 1 (One) MD Psychiatry on Contract Basis, NEIGRIHMS",
+        "category": "recruitment",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "publishedLabel": "22 May 2026",
+        "sortValue": 1779408000000,
+        "score": 40,
+        "context": "22-05-2026"
       },
       {
         "department": "West Khasi Hills",
@@ -1692,11 +1740,6 @@
     {
       "department": "Meghalaya Govt",
       "url": "https://www.meghalaya.gov.in/recruitment",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "NEIGRIHMS",
-      "url": "https://neigrihms.gov.in/adsnotification.html",
       "reason": "fetch failed"
     }
   ],
