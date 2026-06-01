@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T10:11:16.932Z",
-  "generatedAtLabel": "01 June 2026 at 03:41 pm",
+  "generatedAt": "2026-06-01T16:32:32.249Z",
+  "generatedAtLabel": "01 June 2026 at 10:02 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 19,
     "result": 10,
     "admit_card": 0
   },
@@ -42,6 +42,18 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01-06-2026"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
+        "title": "Recruitment Notice – Doctor Consultants (Contractual), Meghalaya Police, 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
       },
       {
         "department": "MSRLS",
@@ -294,18 +306,6 @@
         "sortValue": 1778716800000,
         "score": 7,
         "context": "May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
-        "title": "Eligible and Ineligible candidate list for Personal Interview for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-05-12T00:00:00.000Z",
-        "publishedLabel": "12 May 2026",
-        "sortValue": 1778544000000,
-        "score": 40,
-        "context": "12/05/2026 View (736 KB)"
       }
     ],
     "admit_card": [
@@ -609,7 +609,7 @@
         "publishedLabel": "02 Apr 2026",
         "sortValue": 1775088000000,
         "score": 7,
-        "context": "lt=\"new item\"> 2026-06-03 2026-04-02 <a href=\"/recr"
+        "context": "alt=\"new item\"> 2026-06-01 2026-04-02 <a href=\"/rec"
       }
     ],
     "other_notice": [
@@ -928,6 +928,18 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01-06-2026"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
+        "title": "Recruitment Notice – Doctor Consultants (Contractual), Meghalaya Police, 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
       },
       {
         "department": "MSRLS",
