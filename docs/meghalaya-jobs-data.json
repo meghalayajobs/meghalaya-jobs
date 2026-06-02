@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-02T18:33:03.630Z",
-  "generatedAtLabel": "03 June 2026 at 12:03 am",
+  "generatedAt": "2026-06-02T21:42:18.849Z",
+  "generatedAtLabel": "03 June 2026 at 03:12 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 15,
+    "recruitment": 17,
     "result": 8,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/it-consultant-recruitment-cctns-project-list-candidates-merit-basis-eligible-appear-personal",
+        "title": "IT Consultant Recruitment - CCTNS Project: List of Candidates on merit basis eligible to appear for the Personal Interview",
+        "category": "recruitment",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "publishedLabel": "03 Jun 2026",
+        "sortValue": 1780444800000,
+        "score": 7,
+        "context": "2026-06-03 <div class=\"vi"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -30,6 +42,18 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01-06-2026"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
+        "title": "Recruitment Notice – Doctor Consultants (Contractual), Meghalaya Police, 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -282,30 +306,6 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "14-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
-        "title": "Proforma for application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 12,
-        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50877",
-        "title": "Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 7,
-        "context": "May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
       }
     ],
     "admit_card": [
@@ -516,6 +516,18 @@
         "context": "AI Trainer and Lab Assistant.pdf \" target=\"_blank\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integration and Operation & Maintenance of AUA/ KUA Solution with Aadhar Data vault for Government of Meghalaya\" Apr 10 2026 [NEW] <a href=\"pdf/Notice Invitng Tender Procurement computers D"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17772883499464.pdf",
+        "title": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026",
+        "category": "result",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "RESULT: Declaration of result of the Personal Interview for the post of District Programme Manager (SBM-G) conducted on the 3rd March 2026 23/04/2026 31/05/2026 View (641 KB)"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
@@ -538,6 +550,18 @@
         "sortValue": 1776729600000,
         "score": 40,
         "context": "29.04.2026"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17761750641796.pdf",
+        "title": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026.",
+        "category": "result",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "publishedLabel": "14 Apr 2026",
+        "sortValue": 1776124800000,
+        "score": 40,
+        "context": "NOTIFICATION: Declaration of Result of the Personal Interview for the post of Typist, Sectional Assistant, Sales Assistant, Storekeeper and Driver conducted by the District Selection Committee, North Garo Hills on the 6th April 2026. 14/04/2026 31/05/2026 View (933 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -564,52 +588,28 @@
         "context": "07/04/2026 31/12/2026 View (216 KB)"
       },
       {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
-        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
+        "title": "Recruitment Update: Second Merit List - Shortlisted Candidates for Appointment to the post of Armed Branch Constable",
         "category": "result",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "24.03.2026"
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "publishedLabel": "02 Apr 2026",
+        "sortValue": 1775088000000,
+        "score": 7,
+        "context": "alt=\"new item\"> 2026-06-01 2026-04-02 <a href=\"/rec"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371144595.pdf",
-        "title": "DSC: EWKH Results of Grade IV",
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
+        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Fireman Mechanic/Mechanic & Driver Constable",
         "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (701 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743371895217.pdf",
-        "title": "DSC: EWKH Results of LDA (2025)",
-        "category": "result",
-        "publishedAt": "2026-03-20T00:00:00.000Z",
-        "publishedLabel": "20 Mar 2026",
-        "sortValue": 1773964800000,
-        "score": 40,
-        "context": "20/03/2026 30/06/2026 View (686 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/03/17743373991493.pdf",
-        "title": "DSC: EWKH Results of Driver",
-        "category": "result",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 40,
-        "context": "19/03/2026 30/06/2026 View (504 KB)"
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 7,
+        "context": "Constable 2026-04-02 2026-04-01 <a href=\"/noti"
       }
     ],
     "other_notice": [
@@ -648,6 +648,18 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "Content Summary Format No. EDN.55/2026/7 Dated 14-05-2026 Notification regarding rename of the \"Rongjeng Model Degree College\" Rongjeng as \"P.A. Sangma Model Degree College\" Rongjeng (14.05.2026) (200kb)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/05/17793440628142.pdf",
+        "title": "NOTIFICATION: District Census Cell for conducting and supervising the House-listing operation (HLO), Census 2027 in the Office of the Deputy Commissioner, North Garo Hills, Resubelpara",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "NOTIFICATION: District Census Cell for conducting and supervising the House-listing operation (HLO), Census 2027 in the Office of the Deputy Commissioner, North Garo Hills, Resubelpara 14/05/2026 30/06/2026 View (471 KB)"
       },
       {
         "department": "West Garo Hills",
@@ -782,6 +794,30 @@
         "context": "Notification regarding the Meghalaya Non-Government School and College Employees Centrahzed Provident Fund Scheme, 2026 (28.04.2026) (200kb)"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
+        "title": "NOTICE: Traffic Violations Notice",
+        "category": "other_notice",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
+        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
+        "category": "other_notice",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "publishedLabel": "22 Apr 2026",
+        "sortValue": 1776816000000,
+        "score": 40,
+        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
+      },
+      {
         "department": "DERT",
         "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
         "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
@@ -864,47 +900,23 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/3_%20Meghalaya%20Syllabus%20for%20Classes%201%20&%202%20-%20Language%20&%20Numeracy%20(FINAL%20-%2019%20December%202025).pdf",
-        "title": "Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 8,
-        "context": "Meghalaya Preschool Syllabus (Final 19 December 2025) Meghalaya Preschool Syllabus (Final 19 December 2025) <i class=\"fa-solid fa-square-caret-ri"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
-        "title": "Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf",
-        "title": "Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 12,
-        "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/it-consultant-recruitment-cctns-project-list-candidates-merit-basis-eligible-appear-personal",
+        "title": "IT Consultant Recruitment - CCTNS Project: List of Candidates on merit basis eligible to appear for the Personal Interview",
+        "category": "recruitment",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "publishedLabel": "03 Jun 2026",
+        "sortValue": 1780444800000,
+        "score": 7,
+        "context": "2026-06-03 <div class=\"vi"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -916,6 +928,18 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01-06-2026"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
+        "title": "Recruitment Notice – Doctor Consultants (Contractual), Meghalaya Police, 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -1670,18 +1694,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "Meghalaya Police",
-      "url": "https://megpolice.gov.in/recruitment",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "North Garo Hills",
-      "url": "https://northgarohills.gov.in/notice_category/announcements/",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
