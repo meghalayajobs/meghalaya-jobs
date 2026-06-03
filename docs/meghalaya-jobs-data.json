@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T21:42:14.427Z",
-  "generatedAtLabel": "04 June 2026 at 03:12 am",
+  "generatedAt": "2026-06-03T23:26:50.911Z",
+  "generatedAtLabel": "04 June 2026 at 04:56 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 16,
-    "result": 7,
+    "recruitment": 18,
+    "result": 8,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -66,6 +66,18 @@
         "sortValue": 1780272000000,
         "score": 7,
         "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50944",
+        "title": "Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
       },
       {
         "department": "MSRLS",
@@ -212,6 +224,18 @@
         "context": "Notice regarding deferment of the personnel interview for the posts of Assistant Professor/Lecturer in Khasi and Assistant Professor/Lecturer in Garo (117 MB)"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50945",
+        "title": "List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills",
+        "category": "recruitment",
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "publishedLabel": "21 May 2026",
+        "sortValue": 1779321600000,
+        "score": 7,
+        "context": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared Date: 26 May 2026 Date: 21 May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant <span class=\"views-label views-label-field-dat"
+      },
+      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/NOTICE%20online%20application%20MERB.pdf",
@@ -248,6 +272,18 @@
         "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50859",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 7,
+        "context": "2026 List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills Date: 21 May 2026 Date: 18 May 2026 Advertisement for the posts of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <span class"
+      },
+      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/Advertisement%20for%20recruitment%20to%20the%20posts%20of%20Instructors%20MERB.pdf",
@@ -270,42 +306,6 @@
         "sortValue": 1778803200000,
         "score": 40,
         "context": "15/05/2026 View (731 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Detailed%20Advertisment%20Faculty%20posts%20-%202026.pdf",
-        "title": "Advertisement for Faculty posts, NEIGRIHMS // Proforma for application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14-05-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Proforma%20for%20application%20-%20Faculty%20posts%202026.pdf",
-        "title": "Proforma for application",
-        "category": "recruitment",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 12,
-        "context": "ancy Circular of the post of Senior Secretariat Assistant to be filled up on deputation basis in the NE Council Secretariat, Shillong.pdf\" target=\"_blank\">Advertisement Vacancy Circular of the post of Senior Secretariat Assistant on deputation basis in the NE Council Secretariat, Shillong 22-05-2026 Advertisement for Faculty posts, NEIGRIHMS // 14-05-2026 Advertisement for recruitment of the post of Professor cum principal at AIIMS Rajkot 12-05-2026 Advertiseme"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
-        "title": "Eligible and Ineligible candidate list for Personal Interview for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-05-12T00:00:00.000Z",
-        "publishedLabel": "12 May 2026",
-        "sortValue": 1778544000000,
-        "score": 40,
-        "context": "12/05/2026 View (736 KB)"
       }
     ],
     "admit_card": [
@@ -346,6 +346,18 @@
         "sortValue": 1779753600000,
         "score": 40,
         "context": "Result of the Language Proficiency Test (Garo) for Combined Grade IV Post. 26/05/2026 04/06/2026 View (919 KB)"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
+        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
+        "category": "result",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 7,
+        "context": "Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya Date: 27 May 2026 Date: 26 May 2026 List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills <span class=\"views-label views-label-field"
       },
       {
         "department": "MSRLS",
@@ -598,18 +610,6 @@
         "sortValue": 1775001600000,
         "score": 7,
         "context": "Constable 2026-04-02 2026-04-01 <a href=\"/noti"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/CAR_INTERVIEW_2.pdf",
-        "title": "Result for selection list of candidates following the interview held on 18th March 2026 in a research project- \"Centre for Advanced Research in Hypertensive Disorders in Pregnancy\"",
-        "category": "result",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "publishedLabel": "24 Mar 2026",
-        "sortValue": 1774310400000,
-        "score": 40,
-        "context": "24.03.2026"
       }
     ],
     "other_notice": [
@@ -954,6 +954,18 @@
         "context": "lt=\"new item\"> 2026-06-03 2026-06-01 <div class=\"vie"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50944",
+        "title": "Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "publishedLabel": "27 May 2026",
+        "sortValue": 1779840000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-skill-test-personal-interview-post-block-mis-coordinator-various-block-mission",
@@ -1096,6 +1108,18 @@
         "sortValue": 1779321600000,
         "score": 40,
         "context": "Notice regarding deferment of the personnel interview for the posts of Assistant Professor/Lecturer in Khasi and Assistant Professor/Lecturer in Garo (117 MB)"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50945",
+        "title": "List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills",
+        "category": "recruitment",
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "publishedLabel": "21 May 2026",
+        "sortValue": 1779321600000,
+        "score": 7,
+        "context": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared Date: 26 May 2026 Date: 21 May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant <span class=\"views-label views-label-field-dat"
       }
     ],
     "result": [
@@ -1122,6 +1146,18 @@
         "sortValue": 1779753600000,
         "score": 40,
         "context": "Result of the Language Proficiency Test (Garo) for Combined Grade IV Post. 26/05/2026 04/06/2026 View (919 KB)"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
+        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
+        "category": "result",
+        "publishedAt": "2026-05-26T00:00:00.000Z",
+        "publishedLabel": "26 May 2026",
+        "sortValue": 1779753600000,
+        "score": 7,
+        "context": "Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya Date: 27 May 2026 Date: 26 May 2026 List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills <span class=\"views-label views-label-field"
       },
       {
         "department": "MSRLS",
@@ -1670,13 +1706,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "Meghalaya Govt",
-      "url": "https://www.meghalaya.gov.in/recruitment",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
