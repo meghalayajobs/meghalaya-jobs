@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T06:59:32.498Z",
-  "generatedAtLabel": "05 June 2026 at 12:29 pm",
+  "generatedAt": "2026-06-05T10:50:05.107Z",
+  "generatedAtLabel": "05 June 2026 at 04:20 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -269,7 +269,7 @@
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
         "score": 12,
-        "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
+        "context": "/form> News Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
       },
       {
         "department": "Meghalaya Govt",
@@ -441,7 +441,7 @@
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
         "score": 12,
-        "context": "class=\"box\"> News May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
+        "context": "cation on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integ"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -636,6 +636,18 @@
         "sortValue": 1779408000000,
         "score": 7,
         "context": "DSC Operator Submission of Necessary Documents This is for general information to all candidates appearing for the DSC Written Examination for the post Operator held on the 16th May,2026, to submit the Cinema Operator License by 8th June,2026 as mentioned in the Advertisement No.MRG/DSC.13/2024/13, dt.27.02.2025 in email ID dscewkhd@gmail.com or send to the office of the Deputy Commissioner, Eastern West Khasi Hills District, Mairang by registered/speed Post. 22/05/2026 30/06/2026 View (178 KB)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Notification%20on%20approved%20rates%20of%20computer%20equipment.pdf",
+        "title": "Notification on the Approved Rates of Computer Equipment for Government Departments etc.",
+        "category": "other_notice",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 12,
+        "context": "h=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 05 2026 [NEW] May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional"
       },
       {
         "department": "Education Dept",
@@ -888,18 +900,6 @@
         "sortValue": 1766102400000,
         "score": 8,
         "context": "dth=\"35\" height=\"17\" /> Final SCFFS (18.02.2026) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) </l"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Meghalaya%20Preschool%20Syllabus%20(Final%2019%20December%202025).pdf",
-        "title": "Meghalaya Preschool Syllabus (Final 19 December 2025)",
-        "category": "other_notice",
-        "publishedAt": "2025-12-19T00:00:00.000Z",
-        "publishedLabel": "19 Dec 2025",
-        "sortValue": 1766102400000,
-        "score": 8,
-        "context": "> Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025) Meghalaya Syllabus for Classes 1 & 2 - Language & Numeracy (FINAL - 19 December 2025)"
       }
     ]
   },
