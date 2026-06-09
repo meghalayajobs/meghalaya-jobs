@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T21:41:43.062Z",
-  "generatedAtLabel": "10 June 2026 at 03:11 am",
+  "generatedAt": "2026-06-09T23:12:33.926Z",
+  "generatedAtLabel": "10 June 2026 at 04:42 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1563,11 +1563,6 @@
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
-    {
-      "department": "MeGSRES",
-      "url": "https://megsres.nic.in/recruitment",
-      "reason": "This operation was aborted"
-    },
     {
       "department": "NEIGRIHMS",
       "url": "https://neigrihms.gov.in/adsnotification.html",
