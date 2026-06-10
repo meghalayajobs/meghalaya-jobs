@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T23:12:33.926Z",
-  "generatedAtLabel": "10 June 2026 at 04:42 am",
+  "generatedAt": "2026-06-10T02:35:42.528Z",
+  "generatedAtLabel": "10 June 2026 at 08:05 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 10,
-    "result": 4,
+    "recruitment": 9,
+    "result": 1,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1012,18 +1012,6 @@
         "sortValue": 1779840000000,
         "score": 7,
         "context": "nt 27/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
-        "title": "No. MPSC/D-61/1/2020-2021/151",
-        "category": "recruitment",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
       }
     ],
     "result": [
@@ -1038,42 +1026,6 @@
         "sortValue": 1780012800000,
         "score": 40,
         "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
-        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
-        "category": "result",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 7,
-        "context": "v> Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya Date: 27 May 2026 Date: 26 May 2026 List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills <span class=\"views-label views-label-field"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-cluster-coordinator-general-khasi-garo-region",
-        "title": "Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region)",
-        "category": "result",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 7,
-        "context": "cation-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 26/05/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Proje"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm",
-        "title": "Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm",
-        "category": "result",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 7,
-        "context": "ost-block-mis-coordinator-various-block-mission\">Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) &"
       }
     ],
     "admit_card": []
