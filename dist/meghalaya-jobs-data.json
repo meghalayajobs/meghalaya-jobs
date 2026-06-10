@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T07:00:12.249Z",
-  "generatedAtLabel": "10 June 2026 at 12:30 pm",
+  "generatedAt": "2026-06-10T11:30:49.223Z",
+  "generatedAtLabel": "10 June 2026 at 05:00 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 9,
+    "recruitment": 10,
     "result": 2,
     "admit_card": 0
   },
@@ -92,6 +92,18 @@
         "context": "2026-06-03 <div class=\"vi"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50999",
+        "title": "Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "\"> Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat Date: 02 Jun 2026 Date: 01 Jun 2026 Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya <span class=\"views-label v"
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
@@ -113,7 +125,7 @@
         "publishedLabel": "27 May 2026",
         "sortValue": 1779840000000,
         "score": 7,
-        "context": "\"> Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat Date: 02 Jun 2026 Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
+        "context": "class=\"views-field views-field-title\"> Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh Date: 01 Jun 2026 Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
       },
       {
         "department": "MSRLS",
@@ -294,18 +306,6 @@
         "sortValue": 1778716800000,
         "score": 7,
         "context": "May 2026 Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant Date: 18 May 2026 Date: 14 May 2026 NEC Secretariat invites applications from eligible and suitable officers for filling up 03 (three) posts of Senior Secretariat Assistant on deputation basis <div class=\"views-field views-fiel"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
-        "title": "Eligible and Ineligible candidate list for Personal Interview for the post of LDA",
-        "category": "recruitment",
-        "publishedAt": "2026-05-12T00:00:00.000Z",
-        "publishedLabel": "12 May 2026",
-        "sortValue": 1778544000000,
-        "score": 40,
-        "context": "12/05/2026 View (736 KB)"
       }
     ],
     "admit_card": [
@@ -333,7 +333,7 @@
         "publishedLabel": "02 Jun 2026",
         "sortValue": 1780358400000,
         "score": 7,
-        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya <span class=\"views-label v"
+        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh <div class=\"views-field views-field-field-date1 sf-2"
       },
       {
         "department": "East Khasi Hills",
@@ -978,6 +978,18 @@
         "context": "2026-06-03 <div class=\"vi"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/50999",
+        "title": "Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "\"> Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat Date: 02 Jun 2026 Date: 01 Jun 2026 Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya <span class=\"views-label v"
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
@@ -999,7 +1011,7 @@
         "publishedLabel": "27 May 2026",
         "sortValue": 1779840000000,
         "score": 7,
-        "context": "\"> Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat Date: 02 Jun 2026 Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
+        "context": "class=\"views-field views-field-title\"> Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh Date: 01 Jun 2026 Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
       },
       {
         "department": "MSRLS",
@@ -1025,7 +1037,7 @@
         "publishedLabel": "02 Jun 2026",
         "sortValue": 1780358400000,
         "score": 7,
-        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya <span class=\"views-label v"
+        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh <div class=\"views-field views-field-field-date1 sf-2"
       },
       {
         "department": "East Khasi Hills",
