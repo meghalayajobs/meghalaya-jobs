@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T10:07:59.635Z",
-  "generatedAtLabel": "11 June 2026 at 03:37 pm",
+  "generatedAt": "2026-06-11T14:31:01.858Z",
+  "generatedAtLabel": "11 June 2026 at 08:01 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -617,13 +617,25 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Order%20PGI%20%20Score.pdf",
+        "title": "No. EDN.55/2026/7 Dated 05-06-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-06-05T00:00:00.000Z",
+        "publishedLabel": "05 Jun 2026",
+        "sortValue": 1780617600000,
+        "score": 40,
+        "context": "Order pertaining to strengthen monitoring, data validation, reporting, and improvement of the State's Performance Grading Index (PGI) score(05.06.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/DERT%20dual%20charge.pdf",
         "title": "Notification Number/Date",
         "category": "other_notice",
         "publishedAt": "2026-06-05T00:00:00.000Z",
         "publishedLabel": "05 Jun 2026",
         "sortValue": 1780617600000,
         "score": 40,
-        "context": "Content Summary Format No. EDN.55/2026/7 Dated 05-06-2026 Order pertaining to strengthen monitoring, data validation, reporting, and improvement of the State's Performance Grading Index (PGI) score(05.06.2026) (200kb)"
+        "context": "Content Summary Format No. EDN.158/2019/27 Dated 05-06-2026 Notification regarding the current charge of the post of Director of Educational Research & Training(08.06.2026) (200kb)"
       },
       {
         "department": "West Garo Hills",
@@ -888,18 +900,6 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal 26/03/2026 31/07/2026 View (618 KB) SMART-PDS-AddMember (2 MB) SMART-PDS-DeleteMember (2 MB) SMART-PDS-FreshRC (2 MB) SMART-PDS-SurrenderRC (2 MB) SMART-PDS-TransferRC (2 MB) SMART-PDS-RCModificationNew (4 MB)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Public%20Notice%20IT%20Awards%202025%20Function.pdf",
-        "title": "Public Notice for the conduct of the IT Awards Academic Year 2025",
-        "category": "other_notice",
-        "publishedAt": "2026-03-19T00:00:00.000Z",
-        "publishedLabel": "19 Mar 2026",
-        "sortValue": 1773878400000,
-        "score": 12,
-        "context": "ent of Meghalaya\" Apr 10 2026 [NEW] Notice Invitng Tender for the “Supply of Desktop PCs, Printer, UPS, Laptops etc.” at the location(s) to be specified by the Directorate of Information Technology and Communication, Govt. of Meghalaya Mar 26 2026 [NEW] Mar 19 2026 [NEW] Online Registration for the posts of AI Trainer and Lab Assistant in ITI Shillong, Tura and Polytechnic Shillong in the state of Meghalaya is now closed Click Here <p"
       }
     ]
   },
