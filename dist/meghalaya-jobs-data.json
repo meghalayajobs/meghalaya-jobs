@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T12:04:26.839Z",
-  "generatedAtLabel": "16 June 2026 at 05:34 pm",
+  "generatedAt": "2026-06-16T17:55:03.563Z",
+  "generatedAtLabel": "16 June 2026 at 11:25 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 11,
-    "result": 9,
+    "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -41,7 +41,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "nt 15/06/2026 Notification: S"
+        "context": "ods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Sk"
       },
       {
         "department": "East Garo Hills",
@@ -209,7 +209,7 @@
         "publishedLabel": "27 May 2026",
         "sortValue": 1779840000000,
         "score": 7,
-        "context": "post-bpm-garo-region\">NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) 15/06/2026 27/05/2026 Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) &"
+        "context": "-post-bpm-garo-region\">NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) 15/06/2026 27/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &"
       },
       {
         "department": "MPSC",
@@ -293,7 +293,7 @@
         "publishedLabel": "22 May 2026",
         "sortValue": 1779408000000,
         "score": 7,
-        "context": "es-personal-interview-post-project-executive-farm-livelihoods\">NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP <span class=\"d"
+        "context": "s-personal-interview-post-project-executive-farm-livelihoods\">NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP <span class=\"da"
       },
       {
         "department": "MERB",
@@ -321,6 +321,18 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16.06.2026"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-final-result-post-district-functional-special-farm-livelihoods-promotion",
+        "title": "Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 7,
+        "context": "nt 16/06/2026 NOTIFICATION-Personal Interview for t"
       },
       {
         "department": "Meghalaya Govt",
@@ -452,7 +464,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "post-block-mis-coordinator-various-block-mission\">Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &"
+        "context": "cation-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 26/05/2026 Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC)</a"
       },
       {
         "department": "MSRLS",
@@ -464,7 +476,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "> Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 26/05/2026 Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC)"
+        "context": "ost-block-mis-coordinator-various-block-mission\">Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) &"
       },
       {
         "department": "West Khasi Hills",
@@ -488,7 +500,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "cation-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 25/05/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Proje"
+        "context": "> Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 25/05/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Projec"
       },
       {
         "department": "MSRLS",
@@ -500,7 +512,7 @@
         "publishedLabel": "25 May 2026",
         "sortValue": 1779667200000,
         "score": 7,
-        "context": "a href=\"/notification-final-result-post-project-manager-partnership-convergence-pm-fpc\">Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 25/05/2026 Advertisement for various posts at State Mission Management Unit (SMMU) <span class=\"date-display-sin"
+        "context": "Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC) 25/05/2026 25/05/2026 Advertisement for various posts at State Mission Management Unit (SMMU) <span class=\"date-display-si"
       },
       {
         "department": "West Garo Hills",
@@ -585,18 +597,6 @@
         "sortValue": 1777507200000,
         "score": 12,
         "context": "ef=\"advertisements.html\" title=\"Click here to read more\"> More about Advertisements The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Lab%20Assistant%20provisional%20rejection%20list.pdf",
-        "title": "Provisional rejection list of the candidates who have applied for the post of Lab Assistant in MITS",
-        "category": "result",
-        "publishedAt": "2026-04-28T00:00:00.000Z",
-        "publishedLabel": "28 Apr 2026",
-        "sortValue": 1777334400000,
-        "score": 12,
-        "context": "AI Trainer and Lab Assistant.pdf \" target=\"_blank\"> Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Apr 28 2026 [NEW] Notice Invitng Tender for the \"Selection of System Integrator for Supply, Commissioning, Testing, Integration and Operation & Maintenance of AUA/ KUA Solution with Aadhar Data vault for Government of Meghalaya\" Apr 10 2026 [NEW] <a href=\"pdf/Notice Invitng Tender Procurement computers D"
       }
     ],
     "other_notice": [
@@ -914,7 +914,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "nt 15/06/2026 Notification: S"
+        "context": "ods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Sk"
       },
       {
         "department": "East Garo Hills",
@@ -1037,6 +1037,18 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16.06.2026"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-final-result-post-district-functional-special-farm-livelihoods-promotion",
+        "title": "Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 7,
+        "context": "nt 16/06/2026 NOTIFICATION-Personal Interview for t"
       },
       {
         "department": "Meghalaya Govt",
