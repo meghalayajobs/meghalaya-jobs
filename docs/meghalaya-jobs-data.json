@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T06:01:47.312Z",
-  "generatedAtLabel": "17 June 2026 at 11:31 am",
+  "generatedAt": "2026-06-17T11:28:30.149Z",
+  "generatedAtLabel": "17 June 2026 at 04:58 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 11,
-    "result": 9,
+    "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -323,6 +323,18 @@
         "context": "16.06.2026"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51056",
+        "title": "Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-district-functional-special-farm-livelihoods-promotion",
@@ -344,7 +356,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "Office Wise Search Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
+        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
       },
       {
         "department": "Meghalaya Govt",
@@ -577,18 +589,6 @@
       {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
-        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 12,
-        "context": "ef=\"advertisements.html\" title=\"Click here to read more\"> More about Advertisements The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
         "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
         "category": "result",
@@ -1039,6 +1039,18 @@
         "context": "16.06.2026"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51056",
+        "title": "Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-district-functional-special-farm-livelihoods-promotion",
@@ -1060,7 +1072,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "Office Wise Search Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
+        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
       },
       {
         "department": "Meghalaya Govt",
