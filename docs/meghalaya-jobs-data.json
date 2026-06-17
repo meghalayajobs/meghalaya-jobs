@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T22:48:40.727Z",
-  "generatedAtLabel": "17 June 2026 at 04:18 am",
+  "generatedAt": "2026-06-17T00:10:28.560Z",
+  "generatedAtLabel": "17 June 2026 at 05:40 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 11,
-    "result": 10,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1133,18 +1133,6 @@
         "sortValue": 1781222400000,
         "score": 40,
         "context": "Notice: DSC Result 12/06/2026 31/07/2026 View (810 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50997",
-        "title": "Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat",
-        "category": "result",
-        "publishedAt": "2026-06-02T00:00:00.000Z",
-        "publishedLabel": "02 Jun 2026",
-        "sortValue": 1780358400000,
-        "score": 7,
-        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh <div class=\"views-field views-field-field-date1 sf-2"
       }
     ],
     "admit_card": []
