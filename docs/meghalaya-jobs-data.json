@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T06:40:21.961Z",
-  "generatedAtLabel": "23 June 2026 at 12:10 pm",
+  "generatedAt": "2026-06-23T10:28:43.926Z",
+  "generatedAtLabel": "23 June 2026 at 03:58 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -19,6 +19,18 @@
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20last%20date%20of%20submission%20of%20application%20for%20Faculty%20posts,%20NEIGRIHMS,%20Shillong.pdf",
+        "title": "Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 40,
+        "context": "23-06-2026"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -41,7 +53,7 @@
         "publishedLabel": "22 Jun 2026",
         "sortValue": 1782086400000,
         "score": 12,
-        "context": "Notifications title Date of publishing Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
+        "context": "plication for Faculty posts, NEIGRIHMS, Shillong.pdf\" target=\"_blank\">Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
       },
       {
         "department": "NEIGRIHMS",
@@ -78,18 +90,6 @@
         "sortValue": 1780963200000,
         "score": 40,
         "context": "Recruitment for the post of Technical Assistant under MGNREGS. 09/06/2026 26/06/2026 View (265 KB)"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice09June2026a.pdf",
-        "title": "No.MPSC/D-11/3/2024-2025/107",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be read as under : 09-06-2026 -"
       },
       {
         "department": "NEIGRIHMS",
@@ -164,18 +164,6 @@
         "context": "views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 05 Jun 2026 Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat <div class=\"view"
       },
       {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
-        "title": "No.MPSC/D-15/1/2025-2026/22",
-        "category": "recruitment",
-        "publishedAt": "2026-06-03T00:00:00.000Z",
-        "publishedLabel": "03 Jun 2026",
-        "sortValue": 1780444800000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.03/2026, Dated the 25th May, 2026, and as per Departments L.No. MEG/PISC (E) 35/2024-25/73, Dated the 26th May, 2026 for the post of Fishery Officer in the Directorate of Fisheries, appearing at Post Code-01, Para 2 -\"Age & Age Relaxation\" may be read as \"18 years to 32 years\". Upper age limit is relaxable by 5 years for SC/ST who hold certificate issued by competent authority of the Government of Meghalaya. 03-06-2026 -"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/it-consultant-recruitment-cctns-project-list-candidates-merit-basis-eligible-appear-personal",
@@ -186,18 +174,6 @@
         "sortValue": 1780444800000,
         "score": 7,
         "context": "2026-06-03 <a href=\"/rec"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Walk%20in%20interview%20for%20recruitment%20of%20Project%20Technical%20Suppor%20-%20III.pdf",
-        "title": "Walk in interview for recruitment of Project Technical Suppor - III on contractual basis under ICMR Prject \"Effectiveness of Yoga based cardiac rehabilitation (Yogo-Care) in Heath Failure\"",
-        "category": "recruitment",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "publishedLabel": "01 Jun 2026",
-        "sortValue": 1780272000000,
-        "score": 40,
-        "context": "01-06-2026"
       },
       {
         "department": "Meghalaya Govt",
@@ -248,30 +224,6 @@
         "context": "class=\"newitem\"> NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) 15/06/2026 27/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &"
       },
       {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
-        "title": "No. MPSC/D-61/1/2020-2021/151",
-        "category": "recruitment",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
-        "title": "No.3/2026",
-        "category": "recruitment",
-        "publishedAt": "2026-05-25T00:00:00.000Z",
-        "publishedLabel": "25 May 2026",
-        "sortValue": 1779667200000,
-        "score": 40,
-        "context": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Fishery Officer underThe Directorate of Fisheries Junior Football Coach under The Directorate of Sports and Youth Affairs Department, Meghalaya, Shillong. 25-05-2026 Online Application"
-      },
-      {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
@@ -306,6 +258,54 @@
         "sortValue": 1779408000000,
         "score": 7,
         "context": "s-personal-interview-post-project-executive-farm-livelihoods\">NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 25/05/2026 22/05/2026 NOTIFICATION-Written Examination & Personal Interview for the post of DFS - FLP <span class=\"da"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Notice%20for%20interview.pdf",
+        "title": "21st May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-21T00:00:00.000Z",
+        "publishedLabel": "21 May 2026",
+        "sortValue": 1779321600000,
+        "score": 40,
+        "context": "Notice regarding deferment of the personnel interview for the posts of Assistant Professor/Lecturer in Khasi and Assistant Professor/Lecturer in Garo (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/NOTICE%20online%20application%20MERB.pdf",
+        "title": "18th May 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "On-line Application are invited from eligible candidates for recruitment to the posts of Instructor in various laboratories and workshops in Shillong Government College of Engineering, Shillong (117 MB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791883407970.pdf",
+        "title": "Notice for personal interview for the post of LDA",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (628 KB)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Notice%20of%20the%20provisional%20ineligibility%20list%20for%20the%20posts%20of%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 12,
+        "context": "ost of AI Trainer.pdf \" target=\"_blank\"> Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of AI Trainer in MITS May 18 2026 [NEW] Provisional rejection list of the candidates who have applied for the post of L"
       }
     ],
     "admit_card": [],
@@ -622,19 +622,7 @@
         "publishedLabel": "22 Jun 2026",
         "sortValue": 1782086400000,
         "score": 12,
-        "context": "blishing Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // Application format - Annexure-I // 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 Notice for JRD Interview to be held"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17816029353859.pdf",
-        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates",
-        "category": "other_notice",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16/06/2026 30/09/2026 View (1 MB)"
+        "context": "Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // Application format - Annexure-I // 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 Notice for JRD Interview to be held"
       },
       {
         "department": "North Garo Hills",
@@ -887,11 +875,35 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
+        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
+        "category": "other_notice",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "publishedLabel": "22 Apr 2026",
+        "sortValue": 1776816000000,
+        "score": 40,
+        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20last%20date%20of%20submission%20of%20application%20for%20Faculty%20posts,%20NEIGRIHMS,%20Shillong.pdf",
+        "title": "Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 40,
+        "context": "23-06-2026"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -914,7 +926,7 @@
         "publishedLabel": "22 Jun 2026",
         "sortValue": 1782086400000,
         "score": 12,
-        "context": "Notifications title Date of publishing Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
+        "context": "plication for Faculty posts, NEIGRIHMS, Shillong.pdf\" target=\"_blank\">Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
       },
       {
         "department": "NEIGRIHMS",
@@ -951,18 +963,6 @@
         "sortValue": 1780963200000,
         "score": 40,
         "context": "Recruitment for the post of Technical Assistant under MGNREGS. 09/06/2026 26/06/2026 View (265 KB)"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice09June2026a.pdf",
-        "title": "No.MPSC/D-11/3/2024-2025/107",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be read as under : 09-06-2026 -"
       }
     ],
     "result": [
@@ -1573,7 +1573,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "MPSC",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
