@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T13:11:44.937Z",
-  "generatedAtLabel": "24 June 2026 at 06:41 pm",
+  "generatedAt": "2026-06-24T16:09:21.495Z",
+  "generatedAtLabel": "24 June 2026 at 09:39 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -625,6 +625,18 @@
         "context": "Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // Application format - Annexure-I // 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 Notice for JRD Interview to be held"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/DocScanner%2023%20Jun%202026%205-21%20pm.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN.107/2021/19 Dated 18-06-2026 Notification regarding constitutes of the Meghalaya Education Connect Team (MECON)(18.06.2026) (200kb)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/06/17812551044192.pdf",
@@ -639,6 +651,18 @@
       {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/SNO%20for%20Scholarship.pdf",
+        "title": "No. EDN.107/2021/19 Dated 05-06-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-06-05T00:00:00.000Z",
+        "publishedLabel": "05 Jun 2026",
+        "sortValue": 1780617600000,
+        "score": 40,
+        "context": "Notification regarding SNO for Scholarship scheme implemented by DHTE(05.06.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Order%20PGI%20%20Score.pdf",
         "title": "No. EDN.55/2026/7 Dated 05-06-2026",
         "category": "other_notice",
@@ -647,18 +671,6 @@
         "sortValue": 1780617600000,
         "score": 40,
         "context": "Order pertaining to strengthen monitoring, data validation, reporting, and improvement of the State's Performance Grading Index (PGI) score(05.06.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/SNO%20for%20Scholarship.pdf",
-        "title": "Notification Number/Date",
-        "category": "other_notice",
-        "publishedAt": "2026-06-05T00:00:00.000Z",
-        "publishedLabel": "05 Jun 2026",
-        "sortValue": 1780617600000,
-        "score": 40,
-        "context": "Content Summary Format No. EDN.107/2021/19 Dated 05-06-2026 Notification regarding SNO for Scholarship scheme implemented by DHTE(05.06.2026) (200kb)"
       },
       {
         "department": "West Garo Hills",
@@ -803,18 +815,6 @@
         "sortValue": 1777852800000,
         "score": 40,
         "context": "Notification regarding the implementation of the Structured Pay Framework (SPF)(04.05.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/notification%20may%202026.pdf",
-        "title": "No. EDN.55/2026/7 Dated 04-05-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-05-04T00:00:00.000Z",
-        "publishedLabel": "04 May 2026",
-        "sortValue": 1777852800000,
-        "score": 40,
-        "context": "Notification regarding Compliance Reduction and Deregulation Exercise 2026 [Phase II](04.05.2026) (200kb)"
       },
       {
         "department": "MERB",
