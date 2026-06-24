@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T02:28:58.891Z",
-  "generatedAtLabel": "24 June 2026 at 07:58 am",
+  "generatedAt": "2026-06-24T06:37:12.314Z",
+  "generatedAtLabel": "24 June 2026 at 12:07 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 5,
+    "recruitment": 6,
     "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17822807971162.pdf",
+        "title": "Enrollment for the Post of Naik and Part-time Lance Naik (Volunteers)",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "Applications are invited for the post of Naik and Part-time Lance Naik (Volunteers) in Civil Defence & Home Guards 24/06/2026 10/07/2026 View (2 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -78,18 +90,6 @@
         "sortValue": 1781481600000,
         "score": 7,
         "context": "\"/notification-final-result-post-district-functional-special-farm-livelihoods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator f"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17809898694383.pdf",
-        "title": "Notice: Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "Recruitment for the post of Technical Assistant under MGNREGS. 09/06/2026 26/06/2026 View (265 KB)"
       },
       {
         "department": "MPSC",
@@ -892,6 +892,18 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17822807971162.pdf",
+        "title": "Enrollment for the Post of Naik and Part-time Lance Naik (Volunteers)",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "Applications are invited for the post of Naik and Part-time Lance Naik (Volunteers) in Civil Defence & Home Guards 24/06/2026 10/07/2026 View (2 MB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
