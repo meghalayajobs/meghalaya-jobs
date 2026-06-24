@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T23:00:11.256Z",
-  "generatedAtLabel": "24 June 2026 at 04:30 am",
+  "generatedAt": "2026-06-24T02:28:58.891Z",
+  "generatedAtLabel": "24 June 2026 at 07:58 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
+    "recruitment": 5,
     "result": 10,
     "admit_card": 0
   },
@@ -951,30 +951,6 @@
         "sortValue": 1781481600000,
         "score": 7,
         "context": "\"/notification-final-result-post-district-functional-special-farm-livelihoods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator f"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17809898694383.pdf",
-        "title": "Notice: Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "Recruitment for the post of Technical Assistant under MGNREGS. 09/06/2026 26/06/2026 View (265 KB)"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice09June2026a.pdf",
-        "title": "No.MPSC/D-11/3/2024-2025/107",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be read as under : 09-06-2026 -"
       }
     ],
     "result": [
