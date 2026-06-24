@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T10:13:39.209Z",
-  "generatedAtLabel": "24 June 2026 at 03:43 pm",
+  "generatedAt": "2026-06-24T13:11:44.937Z",
+  "generatedAtLabel": "24 June 2026 at 06:41 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
-    "result": 10,
+    "recruitment": 12,
+    "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -44,6 +44,18 @@
         "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
       },
       {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "4\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20last%20date%20of%20submission%20of%20application%20for%20Faculty%20posts,%20NEIGRIHMS,%20Shillong.pdf",
@@ -54,6 +66,18 @@
         "sortValue": 1782172800000,
         "score": 40,
         "context": "23-06-2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51109",
+        "title": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL",
+        "category": "recruitment",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -80,6 +104,30 @@
         "context": "plication for Faculty posts, NEIGRIHMS, Shillong.pdf\" target=\"_blank\">Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51113",
+        "title": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer",
+        "category": "recruitment",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 7,
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51114",
+        "title": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant",
+        "category": "recruitment",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 7,
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Recuitment%20to%20the%20post%20of%20Director%20at%20AIIMS,%20New%20Delhi.pdf",
@@ -90,6 +138,18 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16-06-2026"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 12,
+        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] Notification on the Approved Rates"
       },
       {
         "department": "MSRLS",
@@ -173,7 +233,7 @@
         "publishedLabel": "05 Jun 2026",
         "sortValue": 1780617600000,
         "score": 12,
-        "context": "maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 16 2026 [NEW] Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] <a href=\"pdf/Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant.pdf \" target=\"_bl"
+        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW] Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] <a href=\"pdf/Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant.pdf \" target=\"_bl"
       },
       {
         "department": "Meghalaya Govt",
@@ -212,18 +272,6 @@
         "context": "2026-06-03 <a href=\"/rec"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50999",
-        "title": "Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh",
-        "category": "recruitment",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "publishedLabel": "01 Jun 2026",
-        "sortValue": 1780272000000,
-        "score": 7,
-        "context": "\"> Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat Date: 02 Jun 2026 Date: 01 Jun 2026 Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya <span class=\"views-label v"
-      },
-      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
@@ -234,18 +282,6 @@
         "sortValue": 1780272000000,
         "score": 7,
         "context": "Interview 2026-06-03 2026-06-01 <a href=\"/recr"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50944",
-        "title": "Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya",
-        "category": "recruitment",
-        "publishedAt": "2026-05-27T00:00:00.000Z",
-        "publishedLabel": "27 May 2026",
-        "sortValue": 1779840000000,
-        "score": 7,
-        "context": "class=\"views-field views-field-title\"> Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh Date: 01 Jun 2026 Date: 27 May 2026 Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared <span class=\"views-label"
       },
       {
         "department": "MSRLS",
@@ -270,46 +306,22 @@
         "sortValue": 1779753600000,
         "score": 40,
         "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
-        "title": "No.3/2026",
-        "category": "recruitment",
-        "publishedAt": "2026-05-25T00:00:00.000Z",
-        "publishedLabel": "25 May 2026",
-        "sortValue": 1779667200000,
-        "score": 40,
-        "context": "On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :- Fishery Officer underThe Directorate of Fisheries Junior Football Coach under The Directorate of Sports and Youth Affairs Department, Meghalaya, Shillong. 25-05-2026 Online Application"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reshedule%20of%20interview%20for%20the%20post%20of%20Assistant%20Professor-Lecturer%20in%20Education.pdf",
-        "title": "22nd May 2026",
-        "category": "recruitment",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "publishedLabel": "22 May 2026",
-        "sortValue": 1779408000000,
-        "score": 40,
-        "context": "Notice regarding deferment of the personnel interview for the post of Assistant Professor / Lecturer in Education (117 MB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17800529625860.pdf",
-        "title": "EWKH: DSC Operator Submission of Necessary Documents",
-        "category": "recruitment",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "publishedLabel": "22 May 2026",
-        "sortValue": 1779408000000,
-        "score": 40,
-        "context": "This is for general information to all candidates appearing for the DSC Written Examination for the post Operator held on the 16th May,2026, to submit the Cinema Operator License by 8th June,2026 as mentioned in the Advertisement No.MRG/DSC.13/2024/13, dt.27.02.2025 in email ID dscewkhd@gmail.com or send to the office of the Deputy Commissioner, Eastern West Khasi Hills District, Mairang by registered/speed Post. Click Here for Details 22/05/2026 30/06/2026 View (178 KB)"
       }
     ],
     "admit_card": [],
     "result": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51110",
+        "title": "Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared",
+        "category": "result",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 7,
+        "context": "-list\"> List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+      },
       {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
@@ -332,7 +344,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "Office Wise Search Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
       },
       {
         "department": "MSRLS",
@@ -431,18 +443,6 @@
         "context": "Notice: DSC Result 12/06/2026 31/07/2026 View (810 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50997",
-        "title": "Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat",
-        "category": "result",
-        "publishedAt": "2026-06-02T00:00:00.000Z",
-        "publishedLabel": "02 Jun 2026",
-        "sortValue": 1780358400000,
-        "score": 7,
-        "context": "li> Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 05 Jun 2026 Date: 02 Jun 2026 Walk-in interview for the engagement of Peer Supporter under National Viral Hepatitis Control Programme (NVHCP), Ri Bhoi District, Nongpoh <div class=\"views-field views-field-field-date1 sf-2"
-      },
-      {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17800623484469.pdf",
@@ -453,18 +453,6 @@
         "sortValue": 1780012800000,
         "score": 40,
         "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50922",
-        "title": "Result of the Walk-In Interview for the post of Public Health Consultant on Contractual Basis is hereby declared",
-        "category": "result",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 7,
-        "context": "v> Advertisement for the post of Program Associate under Joint Directorate Quality Committee, DHS (MI), Meghalaya Date: 27 May 2026 Date: 26 May 2026 List of Successful Candidate for the post of Medical Officer (AYUSH) for South West Garo Hills <span class=\"views-label views-label-field"
       },
       {
         "department": "MSRLS",
@@ -597,6 +585,18 @@
         "sortValue": 1777852800000,
         "score": 40,
         "context": "04.05.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20for%20the%20post%20of%20SRD%20(Three%20years%20tenure)%20.pdf",
+        "title": "Result of the interview for the post of Senior Resident Doctor (Three years tenure)",
+        "category": "result",
+        "publishedAt": "2026-05-04T00:00:00.000Z",
+        "publishedLabel": "04 May 2026",
+        "sortValue": 1777852800000,
+        "score": 40,
+        "context": "04.05.2026"
       }
     ],
     "other_notice": [
@@ -694,7 +694,7 @@
         "publishedLabel": "18 May 2026",
         "sortValue": 1779062400000,
         "score": 12,
-        "context": "rm> News Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional"
+        "context": "nt Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] May 18 2026 [NEW] Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant in MITS May 18 2026 [NEW] Provisional"
       },
       {
         "department": "Education Dept",
@@ -917,6 +917,18 @@
         "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
       },
       {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "4\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Notice%20for%20last%20date%20of%20submission%20of%20application%20for%20Faculty%20posts,%20NEIGRIHMS,%20Shillong.pdf",
@@ -927,6 +939,18 @@
         "sortValue": 1782172800000,
         "score": 40,
         "context": "23-06-2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51109",
+        "title": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL",
+        "category": "recruitment",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -953,6 +977,30 @@
         "context": "plication for Faculty posts, NEIGRIHMS, Shillong.pdf\" target=\"_blank\">Notice for last date of submission of application for Faculty posts, NEIGRIHMS, Shillong 23-06-2026 Rolling advertisement for filling up the posts of Senior Resident Doctor in various departments (1st Cut Off date) // // EWS Certificate format- Annexure II 22-06-2026 Recuitment to the post of Director at AIIMS, New Delhi 16-06-2026 <a href=\"Latest News/estt-2/2026/Notice for JRD Interview to be h"
       },
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51113",
+        "title": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer",
+        "category": "recruitment",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 7,
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51114",
+        "title": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant",
+        "category": "recruitment",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 7,
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Recuitment%20to%20the%20post%20of%20Director%20at%20AIIMS,%20New%20Delhi.pdf",
@@ -963,6 +1011,18 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16-06-2026"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 12,
+        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] Notification on the Approved Rates"
       },
       {
         "department": "MSRLS",
@@ -978,6 +1038,18 @@
       }
     ],
     "result": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51110",
+        "title": "Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared",
+        "category": "result",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "publishedLabel": "23 Jun 2026",
+        "sortValue": 1782172800000,
+        "score": 7,
+        "context": "-list\"> List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+      },
       {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
@@ -1000,7 +1072,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "Office Wise Search Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
       },
       {
         "department": "MSRLS",
