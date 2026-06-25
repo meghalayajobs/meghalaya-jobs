@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T03:53:26.692Z",
-  "generatedAtLabel": "25 June 2026 at 09:23 am",
+  "generatedAt": "2026-06-25T07:34:54.927Z",
+  "generatedAtLabel": "25 June 2026 at 01:04 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
+    "recruitment": 14,
     "result": 11,
     "admit_card": 0
   },
@@ -53,7 +53,31 @@
         "publishedLabel": "24 Jun 2026",
         "sortValue": 1782259200000,
         "score": 12,
-        "context": "4\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+        "context": "div class=\"buffer\"> News Jun 24 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Syllabus%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] </sm"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51119",
+        "title": "Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 7,
+        "context": "Office Wise Search Date: 24 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -77,7 +101,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "Office Wise Search Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
       },
       {
         "department": "NEIGRIHMS",
@@ -125,7 +149,7 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
       },
       {
         "department": "NEIGRIHMS",
@@ -236,18 +260,6 @@
         "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW] Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] <a href=\"pdf/Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant.pdf \" target=\"_bl"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/50988",
-        "title": "Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya",
-        "category": "recruitment",
-        "publishedAt": "2026-06-05T00:00:00.000Z",
-        "publishedLabel": "05 Jun 2026",
-        "sortValue": 1780617600000,
-        "score": 7,
-        "context": "views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 05 Jun 2026 Shortlisted Candidates for the Personal Interview for the Post of Block Office Assistant under BMMU Saipung and BMMU Lumshnong, MSRLS, East Jaintia Hills District, Khliehriat <div class=\"view"
-      },
-      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
@@ -294,18 +306,6 @@
         "sortValue": 1779840000000,
         "score": 7,
         "context": "class=\"newitem\"> NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) 15/06/2026 27/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
-        "title": "No. MPSC/D-61/1/2020-2021/151",
-        "category": "recruitment",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
       }
     ],
     "admit_card": [],
@@ -320,7 +320,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "-list\"> List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -344,7 +344,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
       },
       {
         "department": "MSRLS",
@@ -368,7 +368,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
+        "context": "class=\"field-content\"> Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -380,7 +380,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "d-title\"> Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya <span c"
+        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field"
       },
       {
         "department": "Meghalaya Govt",
@@ -392,7 +392,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "class=\"field-content\"> Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field view"
+        "context": "-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
       },
       {
         "department": "Meghalaya Govt",
@@ -404,7 +404,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "ld views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fi"
+        "context": "iews-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
       },
       {
         "department": "Meghalaya Govt",
@@ -416,7 +416,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "iews-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field"
+        "context": "d-title\"> Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -428,7 +428,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
+        "context": "views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field view"
       },
       {
         "department": "East Garo Hills",
@@ -926,7 +926,31 @@
         "publishedLabel": "24 Jun 2026",
         "sortValue": 1782259200000,
         "score": 12,
-        "context": "4\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+        "context": "div class=\"buffer\"> News Jun 24 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Syllabus%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] </sm"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51119",
+        "title": "Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 7,
+        "context": "Office Wise Search Date: 24 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -950,7 +974,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "Office Wise Search Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
       },
       {
         "department": "NEIGRIHMS",
@@ -998,7 +1022,7 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
       },
       {
         "department": "NEIGRIHMS",
@@ -1048,7 +1072,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "-list\"> List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1072,7 +1096,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
       },
       {
         "department": "MSRLS",
@@ -1096,7 +1120,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
+        "context": "class=\"field-content\"> Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -1108,7 +1132,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "d-title\"> Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Advertisement for post of Cath Lab Technician on a contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya <span c"
+        "context": "an class=\"views-field views-field-title\"> Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya Date: 16 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field"
       },
       {
         "department": "Meghalaya Govt",
@@ -1120,7 +1144,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "class=\"field-content\"> Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field view"
+        "context": "-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Lower Division Assistant cum Typist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div cla"
       },
       {
         "department": "Meghalaya Govt",
@@ -1132,7 +1156,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "ld views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fi"
+        "context": "iews-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
       },
       {
         "department": "Meghalaya Govt",
@@ -1144,7 +1168,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "iews-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field"
+        "context": "d-title\"> Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -1156,7 +1180,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
+        "context": "views-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field view"
       },
       {
         "department": "East Garo Hills",
