@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T10:34:57.258Z",
-  "generatedAtLabel": "25 June 2026 at 04:04 pm",
+  "generatedAt": "2026-06-25T13:11:26.408Z",
+  "generatedAtLabel": "25 June 2026 at 06:41 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -637,6 +637,18 @@
         "context": "Content Summary Format No. EDN.107/2021/19 Dated 18-06-2026 Notification regarding constitutes of the Meghalaya Education Connect Team (MECON)(18.06.2026) (200kb)"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
+        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates – Corrigendum",
+        "category": "other_notice",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 40,
+        "context": "16/06/2026 30/09/2026 View (726 KB)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/06/17812551044192.pdf",
@@ -875,18 +887,6 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
-        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
-        "category": "other_notice",
-        "publishedAt": "2026-04-22T00:00:00.000Z",
-        "publishedLabel": "22 Apr 2026",
-        "sortValue": 1776816000000,
-        "score": 40,
-        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
       }
     ]
   },
@@ -1681,7 +1681,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
