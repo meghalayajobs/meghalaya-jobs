@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T13:11:26.408Z",
-  "generatedAtLabel": "25 June 2026 at 06:41 pm",
+  "generatedAt": "2026-06-25T16:16:19.862Z",
+  "generatedAtLabel": "25 June 2026 at 09:46 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1685,7 +1685,7 @@
     {
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
+      "reason": "HTTP 503"
     }
   ],
   "sources": [
