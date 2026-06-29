@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T22:55:18.957Z",
-  "generatedAtLabel": "29 June 2026 at 04:25 am",
+  "generatedAt": "2026-06-29T00:02:00.784Z",
+  "generatedAtLabel": "29 June 2026 at 05:32 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -539,18 +539,6 @@
         "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791887543084.pdf",
-        "title": "Rejection list on the ground of overage for the post of LDA",
-        "category": "result",
-        "publishedAt": "2026-05-18T00:00:00.000Z",
-        "publishedLabel": "18 May 2026",
-        "sortValue": 1779062400000,
-        "score": 40,
-        "context": "18/05/2026 View (593 KB)"
-      },
-      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/AI%20Trainer%20provisional%20rejection%20list.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1777852800000,
         "score": 40,
         "context": "04.05.2026"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
+        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 12,
+        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
       }
     ],
     "other_notice": [
@@ -685,18 +685,6 @@
         "context": "Order pertaining to strengthen monitoring, data validation, reporting, and improvement of the State's Performance Grading Index (PGI) score(05.06.2026) (200kb)"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
-        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
-        "category": "other_notice",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "publishedLabel": "01 Jun 2026",
-        "sortValue": 1780272000000,
-        "score": 40,
-        "context": "01/06/2026 View (248 KB)"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://s34c27cea8526af8cfee3be5e183ac9605.s3waas.gov.in/notice/dsc-operator-submission-of-necessary-documents",
@@ -745,18 +733,6 @@
         "context": "NOTIFICATION: District Census Cell for conducting and supervising the House-listing operation (HLO), Census 2027 in the Office of the Deputy Commissioner, North Garo Hills, Resubelpara 14/05/2026 30/06/2026 View (471 KB)"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
-        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
-        "category": "other_notice",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14/05/2026 View (154 KB)"
-      },
-      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/CECPFS.pdf",
@@ -767,18 +743,6 @@
         "sortValue": 1778198400000,
         "score": 40,
         "context": "Notification regarding Meghalaya Non Government Schools and Colleges Employees Centralized Provident Fund Scheme 2026 (08.05.2026) (200kb)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17785857886940.pdf",
-        "title": "Notice for candidates applied for the post for Dresser and Water Carrier",
-        "category": "other_notice",
-        "publishedAt": "2026-05-08T00:00:00.000Z",
-        "publishedLabel": "08 May 2026",
-        "sortValue": 1778198400000,
-        "score": 40,
-        "context": "08/05/2026 View (732 KB)"
       },
       {
         "department": "Education Dept",
@@ -887,6 +851,42 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
+        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
+        "category": "other_notice",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "publishedLabel": "22 Apr 2026",
+        "sortValue": 1776816000000,
+        "score": 40,
+        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
+        "title": "Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII",
+        "category": "other_notice",
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 10,
+        "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools."
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17758414183450.pdf",
+        "title": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District",
+        "category": "other_notice",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 40,
+        "context": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District 01/04/2026 31/12/2026 View (579 KB)"
       }
     ]
   },
@@ -1705,7 +1705,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "West Garo Hills",
+      "url": "https://westgarohills.gov.in/documents/",
+      "reason": "HTTP 503"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
