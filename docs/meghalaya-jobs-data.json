@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T23:59:22.036Z",
-  "generatedAtLabel": "01 July 2026 at 05:29 am",
+  "generatedAt": "2026-07-01T04:10:35.326Z",
+  "generatedAtLabel": "01 July 2026 at 09:40 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
-    "result": 6,
+    "recruitment": 15,
+    "result": 3,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1071,30 +1071,6 @@
         "sortValue": 1781740800000,
         "score": 7,
         "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Recuitment%20to%20the%20post%20of%20Director%20at%20AIIMS,%20New%20Delhi.pdf",
-        "title": "Recuitment to the post of Director at AIIMS, New Delhi",
-        "category": "recruitment",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16-06-2026"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
-        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 12,
-        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] Notification on the Approved Rates"
       }
     ],
     "result": [
@@ -1133,42 +1109,6 @@
         "sortValue": 1782086400000,
         "score": 40,
         "context": "NOTICE: Rejection list for the post of Data Entry Operator under MGNREGA vide advertisement dated 21st April 2026 22/06/2026 31/07/2026 View (671 KB)"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/Result/Results%20of%20the%20interview%20for%20the%20ICMR%20funded%20project%20-%20Dept%20of%20Cardiology.pdf",
-        "title": "Results of the interview for the ICMR funded project - Dept of Cardiology",
-        "category": "result",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16.06.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51056",
-        "title": "Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya",
-        "category": "result",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-district-functional-special-farm-livelihoods-promotion",
-        "title": "Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion",
-        "category": "result",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 7,
-        "context": "Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region)"
       }
     ],
     "admit_card": []
