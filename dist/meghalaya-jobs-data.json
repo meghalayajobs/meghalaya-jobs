@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T08:44:16.381Z",
-  "generatedAtLabel": "01 July 2026 at 02:14 pm",
+  "generatedAt": "2026-07-01T11:52:15.085Z",
+  "generatedAtLabel": "01 July 2026 at 05:22 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 16,
-    "result": 3,
+    "recruitment": 17,
+    "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -34,6 +34,18 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51167",
+        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-29T00:00:00.000Z",
+        "publishedLabel": "29 Jun 2026",
+        "sortValue": 1782691200000,
+        "score": 7,
+        "context": "Office Wise Search Date: 29 Jun 2026 Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College <span class=\"v"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51156",
         "title": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College",
         "category": "recruitment",
@@ -41,7 +53,7 @@
         "publishedLabel": "29 Jun 2026",
         "sortValue": 1782691200000,
         "score": 7,
-        "context": "Office Wise Search Date: 29 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
+        "context": "s=\"views-field views-field-title\"> Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura Date: 29 Jun 2026 Date: 29 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
       },
       {
         "department": "MSRLS",
@@ -53,7 +65,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "ng-list-post-cluster-coordinator-general\">Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final re"
+        "context": "tion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluste"
       },
       {
         "department": "MSRLS",
@@ -65,7 +77,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "nt 26/06/2026 Notifica"
+        "context": "Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 26/06/2026 Notification: Final r"
       },
       {
         "department": "Information Tech.",
@@ -137,7 +149,7 @@
         "publishedLabel": "24 Jun 2026",
         "sortValue": 1782259200000,
         "score": 7,
-        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 24 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
+        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 24 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -161,7 +173,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
       },
       {
         "department": "NEIGRIHMS",
@@ -197,7 +209,7 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
+        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
       },
       {
         "department": "Meghalaya Govt",
@@ -209,7 +221,7 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
       },
       {
         "department": "NEIGRIHMS",
@@ -245,7 +257,7 @@
         "publishedLabel": "15 Jun 2026",
         "sortValue": 1781481600000,
         "score": 7,
-        "context": "\"/notification-final-result-post-district-functional-special-farm-livelihoods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator f"
+        "context": "=\"/notification-final-result-post-district-functional-special-farm-livelihoods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator"
       },
       {
         "department": "MPSC",
@@ -294,22 +306,46 @@
         "sortValue": 1780617600000,
         "score": 40,
         "context": "Notification regarding the current charge of the post of Director of Educational Research & Training(08.06.2026) (200kb)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Corrigendum%20to%20the%20provisional%20ineligibility%20list%20for%20the%20post%20of%20AI%20Trainer.pdf",
-        "title": "Corrigendum to the provisional ineligibility list for the post of AI Trainer",
-        "category": "recruitment",
-        "publishedAt": "2026-06-05T00:00:00.000Z",
-        "publishedLabel": "05 Jun 2026",
-        "sortValue": 1780617600000,
-        "score": 12,
-        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW] Jun 05 2026 [NEW] Notification on the Approved Rates of Computer Equipment for Government Departments etc. May 18 2026 [NEW] <a href=\"pdf/Notice of the provisional ineligibility list for the posts of AI Trainer and Lab Assistant.pdf \" target=\"_bl"
       }
     ],
     "admit_card": [],
     "result": [
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829034221226.pdf",
+        "title": "DSC: Gram Sevak – Results of the Written Exam",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 40,
+        "context": "01/07/2026 08/07/2026 View (805 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829035147250.pdf",
+        "title": "DSC: Gram Sevika – Results of the Written Exam",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 40,
+        "context": "01/07/2026 08/07/2026 View (436 KB)"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-result-personal-interview-post-project-executive-farm-livelihoods-promotion",
+        "title": "NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 7,
+        "context": "nt 01/07/2026 Notifica"
+      },
       {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
@@ -332,7 +368,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
       },
       {
         "department": "North Garo Hills",
@@ -368,7 +404,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant Date: 18 Jun 2026 Date: 16 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevak (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fie"
       },
       {
         "department": "MSRLS",
@@ -380,7 +416,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region)"
+        "context": "ng-list-post-cluster-coordinator-general\">Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) <"
       },
       {
         "department": "Meghalaya Govt",
@@ -431,18 +467,6 @@
         "context": "iews-field-title\"> Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Copyist (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-field-"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51046",
-        "title": "Shortlisted Candidates for the Personal Interview to the post of Male Supervisor (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai",
-        "category": "result",
-        "publishedAt": "2026-06-15T00:00:00.000Z",
-        "publishedLabel": "15 Jun 2026",
-        "sortValue": 1781481600000,
-        "score": 7,
-        "context": "d-title\"> Shortlisted Candidates for the Personal Interview to the post of Weaving Demonstrator (2024) under the District Selection Committee, West Jaiñtia Hills District, Jowai Date: 15 Jun 2026 Date: 15 Jun 2026 Shortlisted Candidates for the Personal Interview to the post of Gram Sevika (2025) under the District Selection Committee, West Jaiñtia Hills District, Jowai <div class=\"views-field views-fi"
-      },
-      {
         "department": "East Garo Hills",
         "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17812632963694.pdf",
@@ -476,7 +500,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "ost-block-mis-coordinator-various-block-mission\">Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm &a"
+        "context": "ation-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 26/05/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Projec"
       },
       {
         "department": "MSRLS",
@@ -488,7 +512,7 @@
         "publishedLabel": "26 May 2026",
         "sortValue": 1779753600000,
         "score": 7,
-        "context": "\"> Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region) 26/05/2026 26/05/2026 Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC)</a"
+        "context": "post-block-mis-coordinator-various-block-mission\">Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator for various Block Mission Management Units (BMMUs) 27/05/2026 26/05/2026 Notification - Final Result for the post of Cluster Coordinator - General (Khasi & Garo Region)"
       },
       {
         "department": "West Khasi Hills",
@@ -501,18 +525,6 @@
         "sortValue": 1779667200000,
         "score": 40,
         "context": "25/05/2026 31/07/2026 View (391 KB)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-project-manager-partnership-convergence-pm-fpc",
-        "title": "Notification - Final result for the post of Project Manager - Partnership & Convergence (PM-FPC)",
-        "category": "result",
-        "publishedAt": "2026-05-25T00:00:00.000Z",
-        "publishedLabel": "25 May 2026",
-        "sortValue": 1779667200000,
-        "score": 7,
-        "context": "ation-final-result-post-cluster-coordinator-livelihoods-promotion-farm-non-farm\">Notification - Final result for the post of Cluster Coordinator - Livelihoods Promotion Farm & Non-Farm 26/05/2026 25/05/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the post of Projec"
       },
       {
         "department": "MPSC notice",
@@ -579,18 +591,6 @@
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20for%20the%20post%20of%20SRD%20(Adhoc%20basis).pdf",
         "title": "Result of the interview for the post of Senior Resident Doctor (Adhoc basis)",
-        "category": "result",
-        "publishedAt": "2026-05-04T00:00:00.000Z",
-        "publishedLabel": "04 May 2026",
-        "sortValue": 1777852800000,
-        "score": 40,
-        "context": "04.05.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20for%20the%20post%20of%20SRD%20(Three%20years%20tenure)%20.pdf",
-        "title": "Result of the interview for the post of Senior Resident Doctor (Three years tenure)",
         "category": "result",
         "publishedAt": "2026-05-04T00:00:00.000Z",
         "publishedLabel": "04 May 2026",
@@ -707,18 +707,6 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01/06/2026 View (248 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://s34c27cea8526af8cfee3be5e183ac9605.s3waas.gov.in/notice/dsc-operator-submission-of-necessary-documents",
-        "title": "Click Here for Details",
-        "category": "other_notice",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "publishedLabel": "22 May 2026",
-        "sortValue": 1779408000000,
-        "score": 7,
-        "context": "DSC Operator Submission of Necessary Documents This is for general information to all candidates appearing for the DSC Written Examination for the post Operator held on the 16th May,2026, to submit the Cinema Operator License by 8th June,2026 as mentioned in the Advertisement No.MRG/DSC.13/2024/13, dt.27.02.2025 in email ID dscewkhd@gmail.com or send to the office of the Deputy Commissioner, Eastern West Khasi Hills District, Mairang by registered/speed Post. 22/05/2026 30/06/2026 View (178 KB)"
       },
       {
         "department": "Information Tech.",
@@ -887,6 +875,18 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17769430348911.pdf",
+        "title": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’",
+        "category": "other_notice",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "publishedLabel": "22 Apr 2026",
+        "sortValue": 1776816000000,
+        "score": 40,
+        "context": "NOTIFICATION: National Human Rights Commission (NHRC), India invites short films for its ‘Short File Competition-2026’ 22/04/2026 31/07/2026 View (4 MB)"
       }
     ]
   },
@@ -907,6 +907,18 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51167",
+        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-29T00:00:00.000Z",
+        "publishedLabel": "29 Jun 2026",
+        "sortValue": 1782691200000,
+        "score": 7,
+        "context": "Office Wise Search Date: 29 Jun 2026 Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College <span class=\"v"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51156",
         "title": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College",
         "category": "recruitment",
@@ -914,7 +926,7 @@
         "publishedLabel": "29 Jun 2026",
         "sortValue": 1782691200000,
         "score": 7,
-        "context": "Office Wise Search Date: 29 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
+        "context": "s=\"views-field views-field-title\"> Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura Date: 29 Jun 2026 Date: 29 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
       },
       {
         "department": "MSRLS",
@@ -926,7 +938,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "ng-list-post-cluster-coordinator-general\">Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final re"
+        "context": "tion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluste"
       },
       {
         "department": "MSRLS",
@@ -938,7 +950,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "nt 26/06/2026 Notifica"
+        "context": "Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 26/06/2026 Notification: Final r"
       },
       {
         "department": "Information Tech.",
@@ -1010,7 +1022,7 @@
         "publishedLabel": "24 Jun 2026",
         "sortValue": 1782259200000,
         "score": 7,
-        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 24 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
+        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 24 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       },
       {
         "department": "NEIGRIHMS",
@@ -1034,7 +1046,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
+        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
       },
       {
         "department": "NEIGRIHMS",
@@ -1070,7 +1082,7 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
+        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
       },
       {
         "department": "Meghalaya Govt",
@@ -1082,10 +1094,46 @@
         "publishedLabel": "18 Jun 2026",
         "sortValue": 1781740800000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared Date: 23 Jun 2026 Date: 18 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer <span class=\"view"
+        "context": "List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer Date: 18 Jun 2026 Date: 18 Jun 2026 Notice - List of Shortlisted Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya <"
       }
     ],
     "result": [
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829034221226.pdf",
+        "title": "DSC: Gram Sevak – Results of the Written Exam",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 40,
+        "context": "01/07/2026 08/07/2026 View (805 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829035147250.pdf",
+        "title": "DSC: Gram Sevika – Results of the Written Exam",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 40,
+        "context": "01/07/2026 08/07/2026 View (436 KB)"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-result-personal-interview-post-project-executive-farm-livelihoods-promotion",
+        "title": "NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion",
+        "category": "result",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 7,
+        "context": "nt 01/07/2026 Notifica"
+      },
       {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
@@ -1108,7 +1156,7 @@
         "publishedLabel": "23 Jun 2026",
         "sortValue": 1782172800000,
         "score": 7,
-        "context": "List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL Date: 23 Jun 2026 Date: 23 Jun 2026 List of eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant <span class=\"v"
+        "context": "> Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong Date: 24 Jun 2026 Date: 23 Jun 2026 List of qualified candidates for Personal Interview for the post of Cath Lab Technician under MMDSL <span class=\"views-label views-label-"
       },
       {
         "department": "North Garo Hills",
