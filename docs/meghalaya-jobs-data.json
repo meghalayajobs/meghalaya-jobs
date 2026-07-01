@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T21:18:49.328Z",
-  "generatedAtLabel": "02 July 2026 at 02:48 am",
+  "generatedAt": "2026-07-01T23:03:25.460Z",
+  "generatedAtLabel": "02 July 2026 at 04:33 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -503,6 +503,18 @@
         "context": "Notice: DSC Result 12/06/2026 31/07/2026 View (810 KB)"
       },
       {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17800623484469.pdf",
+        "title": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026.",
+        "category": "result",
+        "publishedAt": "2026-05-29T00:00:00.000Z",
+        "publishedLabel": "29 May 2026",
+        "sortValue": 1780012800000,
+        "score": 40,
+        "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-cluster-coordinator-general-khasi-garo-region",
@@ -585,18 +597,6 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "14.05.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20for%20the%20post%20of%20SRD%20(Adhoc%20basis).pdf",
-        "title": "Result of the interview for the post of Senior Resident Doctor (Adhoc basis)",
-        "category": "result",
-        "publishedAt": "2026-05-04T00:00:00.000Z",
-        "publishedLabel": "04 May 2026",
-        "sortValue": 1777852800000,
-        "score": 40,
-        "context": "04.05.2026"
       }
     ],
     "other_notice": [
@@ -1694,11 +1694,6 @@
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
-    },
     {
       "department": "West Garo Hills",
       "url": "https://westgarohills.gov.in/documents/",
