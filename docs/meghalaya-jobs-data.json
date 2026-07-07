@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T16:19:14.232Z",
-  "generatedAtLabel": "07 July 2026 at 09:49 pm",
+  "generatedAt": "2026-07-07T18:55:02.991Z",
+  "generatedAtLabel": "08 July 2026 at 12:25 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -8,11 +8,11 @@
     "recruitment": 24,
     "admit_card": 0,
     "result": 24,
-    "other_notice": 23
+    "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 19,
     "result": 11,
     "admit_card": 0
   },
@@ -164,6 +164,18 @@
         "context": "ngth=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
       },
       {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17822807971162.pdf",
+        "title": "Enrollment for the Post of Naik and Part-time Lance Naik (Volunteers)",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "Applications are invited for the post of Naik and Part-time Lance Naik (Volunteers) in Civil Defence & Home Guards 24/06/2026 10/07/2026 View (2 MB)"
+      },
+      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
@@ -294,18 +306,6 @@
         "sortValue": 1781481600000,
         "score": 7,
         "context": "=\"/notification-final-result-post-district-functional-special-farm-livelihoods-promotion\">Notification: Final result for the post of District Functional Special - Farm Livelihoods Promotion 16/06/2026 15/06/2026 Notification: Skill Test & Personal Interview for the post of Block MIS -Coordinator"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice09June2026a.pdf",
-        "title": "No.MPSC/D-11/3/2024-2025/107",
-        "category": "recruitment",
-        "publishedAt": "2026-06-09T00:00:00.000Z",
-        "publishedLabel": "09 Jun 2026",
-        "sortValue": 1780963200000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be read as under : 09-06-2026 -"
       }
     ],
     "admit_card": [],
@@ -479,6 +479,18 @@
         "context": "an class=\"field-content\"> Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) <"
       },
       {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17812632963694.pdf",
+        "title": "Notice: DSC Result",
+        "category": "result",
+        "publishedAt": "2026-06-12T00:00:00.000Z",
+        "publishedLabel": "12 Jun 2026",
+        "sortValue": 1781222400000,
+        "score": 40,
+        "context": "Notice: DSC Result 12/06/2026 31/07/2026 View (810 KB)"
+      },
+      {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2026/05/17800623484469.pdf",
@@ -585,18 +597,6 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "14.05.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20for%20the%20post%20of%20SRD%20(Adhoc%20basis).pdf",
-        "title": "Result of the interview for the post of Senior Resident Doctor (Adhoc basis)",
-        "category": "result",
-        "publishedAt": "2026-05-04T00:00:00.000Z",
-        "publishedLabel": "04 May 2026",
-        "sortValue": 1777852800000,
-        "score": 40,
-        "context": "04.05.2026"
       }
     ],
     "other_notice": [
@@ -841,6 +841,18 @@
         "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
       },
       {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
+        "title": "Previous Question Papers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
+      },
+      {
         "department": "East Khasi Hills",
         "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://eastkhasihills.gov.in/report-on-world-environment-day-2023/",
@@ -1023,6 +1035,18 @@
         "sortValue": 1782345600000,
         "score": 12,
         "context": "ngth=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/06/17822807971162.pdf",
+        "title": "Enrollment for the Post of Naik and Part-time Lance Naik (Volunteers)",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "Applications are invited for the post of Naik and Part-time Lance Naik (Volunteers) in Civil Defence & Home Guards 24/06/2026 10/07/2026 View (2 MB)"
       },
       {
         "department": "MPSC",
@@ -1736,11 +1760,6 @@
     {
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "East Garo Hills",
-      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
     }
   ],
