@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T08:19:11.966Z",
-  "generatedAtLabel": "09 July 2026 at 01:49 pm",
+  "generatedAt": "2026-07-09T11:46:04.400Z",
+  "generatedAtLabel": "09 July 2026 at 05:16 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 18,
-    "result": 11,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -383,30 +383,6 @@
         "context": "title\"> Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis Date: 03 Jul 2026 Date: 03 Jul 2026 Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project <div"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829034221226.pdf",
-        "title": "DSC: Gram Sevak – Results of the Written Exam",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "01/07/2026 08/07/2026 View (805 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829035147250.pdf",
-        "title": "DSC: Gram Sevika – Results of the Written Exam",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "01/07/2026 08/07/2026 View (436 KB)"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51186",
@@ -515,6 +491,18 @@
         "context": "Merit List for the Post of Sectional Assistant (2025) published on the 29th May, 2026. 29/05/2026 30/06/2026 View (910 KB)"
       },
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/05/17797996518190.pdf",
+        "title": "Results of the Personal Interview for the temporary Contractual Posts under DDMA, West Khasi Hills District",
+        "category": "result",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "publishedLabel": "25 May 2026",
+        "sortValue": 1779667200000,
+        "score": 40,
+        "context": "25/05/2026 31/07/2026 View (391 KB)"
+      },
+      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
         "url": "https://mpsc.meghalaya.gov.in/results/Result18June2026a.pdf",
@@ -589,6 +577,18 @@
       {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
+        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 12,
+        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
         "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
         "category": "result",
@@ -1181,30 +1181,6 @@
         "sortValue": 1783036800000,
         "score": 7,
         "context": "title\"> Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis Date: 03 Jul 2026 Date: 03 Jul 2026 Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project <div"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829034221226.pdf",
-        "title": "DSC: Gram Sevak – Results of the Written Exam",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "01/07/2026 08/07/2026 View (805 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829035147250.pdf",
-        "title": "DSC: Gram Sevika – Results of the Written Exam",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "01/07/2026 08/07/2026 View (436 KB)"
       },
       {
         "department": "Meghalaya Govt",
