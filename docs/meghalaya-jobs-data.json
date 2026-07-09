@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T22:02:59.223Z",
-  "generatedAtLabel": "09 July 2026 at 03:32 am",
+  "generatedAt": "2026-07-09T00:00:39.300Z",
+  "generatedAtLabel": "09 July 2026 at 05:30 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 21,
-    "result": 13,
+    "recruitment": 17,
+    "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1095,54 +1095,6 @@
         "sortValue": 1782345600000,
         "score": 7,
         "context": "s=\"views-field views-field-title\"> Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura Date: 29 Jun 2026 Date: 25 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
-        "title": "No.MPSC/ADVT/2025-2026/113",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
-        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 12,
-        "context": "stant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Syllabus%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
-        "title": "Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 12,
-        "context": "in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] </sm"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51119",
-        "title": "Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 7,
-        "context": "t/content/51229\">Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on contractual basis Date: 25 Jun 2026 Date: 24 Jun 2026 Results of the Interview for the post of Program Associate, at the Joint Directorate Quality Committee under DHS (MI) is hereby declared"
       }
     ],
     "result": [
@@ -1277,30 +1229,6 @@
         "sortValue": 1782691200000,
         "score": 40,
         "context": "29.06.2026"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829789736970.pdf",
-        "title": "District Level Committee HUB, Empowerment of Women : Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (228 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829785178251.pdf",
-        "title": "District Level Task Force OSC: Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (230 KB)"
       }
     ],
     "admit_card": []
