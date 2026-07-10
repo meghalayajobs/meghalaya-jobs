@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T23:02:48.959Z",
-  "generatedAtLabel": "10 July 2026 at 04:32 am",
+  "generatedAt": "2026-07-10T02:02:57.622Z",
+  "generatedAtLabel": "10 July 2026 at 07:32 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 18,
+    "recruitment": 16,
     "result": 9,
     "admit_card": 0
   },
@@ -1083,30 +1083,6 @@
         "sortValue": 1782432000000,
         "score": 7,
         "context": "oordinator-farm-livelihoods-promotion-non-farm-livelihoods\">Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 26/06/2026 Notification: Final result for the post of District Functional Special - Farm Livelihoods Promo"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
-        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura.",
-        "category": "recruitment",
-        "publishedAt": "2026-06-25T00:00:00.000Z",
-        "publishedLabel": "25 Jun 2026",
-        "sortValue": 1782345600000,
-        "score": 12,
-        "context": "er\"> News Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51229",
-        "title": "Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-06-25T00:00:00.000Z",
-        "publishedLabel": "25 Jun 2026",
-        "sortValue": 1782345600000,
-        "score": 7,
-        "context": "s=\"views-field views-field-title\"> Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura Date: 29 Jun 2026 Date: 25 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
       }
     ],
     "result": [
