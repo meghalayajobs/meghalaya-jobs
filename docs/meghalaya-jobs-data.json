@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T23:50:34.787Z",
-  "generatedAtLabel": "11 July 2026 at 05:20 am",
+  "generatedAt": "2026-07-11T01:49:59.241Z",
+  "generatedAtLabel": "11 July 2026 at 07:19 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 15,
     "result": 9,
     "admit_card": 0
   },
@@ -1071,30 +1071,6 @@
         "sortValue": 1782691200000,
         "score": 7,
         "context": "s-field views-field-title\"> Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong Date: 30 Jun 2026 Date: 29 Jun 2026 Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura <div class=\"views-field views-field-field-date1"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-waiting-list-post-cluster-coordinator-farm-livelihoods-promotion-non-farm-livelihoods",
-        "title": "Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion",
-        "category": "recruitment",
-        "publishedAt": "2026-06-26T00:00:00.000Z",
-        "publishedLabel": "26 Jun 2026",
-        "sortValue": 1782432000000,
-        "score": 7,
-        "context": "pan class=\"field-content\"> Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final result for the post of District Functional Special - Farm Livelihoods Promo"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-waiting-list-post-cluster-coordinator-general",
-        "title": "Notification: Waiting List for the Post of Cluster Coordinator - General",
-        "category": "recruitment",
-        "publishedAt": "2026-06-26T00:00:00.000Z",
-        "publishedLabel": "26 Jun 2026",
-        "sortValue": 1782432000000,
-        "score": 7,
-        "context": "on-result-personal-interview-post-project-executive-farm-livelihoods-promotion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods P"
       }
     ],
     "result": [
