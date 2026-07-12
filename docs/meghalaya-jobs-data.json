@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T20:01:48.894Z",
-  "generatedAtLabel": "13 July 2026 at 01:31 am",
+  "generatedAt": "2026-07-12T21:40:07.360Z",
+  "generatedAtLabel": "13 July 2026 at 03:10 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1689,6 +1689,11 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
+    },
+    {
+      "department": "Meghalaya Police",
+      "url": "https://megpolice.gov.in/recruitment",
+      "reason": "This operation was aborted"
     }
   ],
   "sources": [
