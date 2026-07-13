@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T11:52:39.554Z",
-  "generatedAtLabel": "13 July 2026 at 05:22 pm",
+  "generatedAt": "2026-07-13T14:08:34.064Z",
+  "generatedAtLabel": "13 July 2026 at 07:38 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1701,6 +1701,11 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
+    },
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
     }
   ],
   "sources": [
