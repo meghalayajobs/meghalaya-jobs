@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T23:43:50.290Z",
-  "generatedAtLabel": "14 July 2026 at 05:13 am",
+  "generatedAt": "2026-07-14T01:42:03.917Z",
+  "generatedAtLabel": "14 July 2026 at 07:12 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 16,
-    "result": 9,
+    "recruitment": 14,
+    "result": 8,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1059,30 +1059,6 @@
         "sortValue": 1782777600000,
         "score": 7,
         "context": "\"> Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya Date: 01 Jul 2026 Date: 30 Jun 2026 Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura <div class=\"views-field views-field-field-date1"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51167",
-        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong Date: 30 Jun 2026 Date: 29 Jun 2026 Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College <span class=\"v"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51156",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 7,
-        "context": "s=\"views-field views-field-title\"> Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura Date: 29 Jun 2026 Date: 29 Jun 2026 Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on c"
       }
     ],
     "result": [
@@ -1181,18 +1157,6 @@
         "sortValue": 1782864000000,
         "score": 7,
         "context": "N | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-singl"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Results%20of%20the%20Walk-in%20Interview%20for%20recruitment%20to%20contractual%20posts%20under%20State%20Organ%20&%20Tissue%20Transplant%20Organisation%20(SOTTO).pdf",
-        "title": "Results of the Walk-in Interview for recruitment to contractual posts under State Organ & Tissue Transplant Organisation (SOTTO)",
-        "category": "result",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 40,
-        "context": "29.06.2026"
       }
     ],
     "admit_card": []
@@ -1701,11 +1665,6 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "South Garo Hills",
-      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
     }
   ],
   "sources": [
