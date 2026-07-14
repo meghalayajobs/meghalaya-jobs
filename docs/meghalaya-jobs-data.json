@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T17:04:02.374Z",
-  "generatedAtLabel": "14 July 2026 at 10:34 pm",
+  "generatedAt": "2026-07-14T19:03:47.819Z",
+  "generatedAtLabel": "15 July 2026 at 12:33 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -601,6 +601,18 @@
     ],
     "other_notice": [
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17840543916730.pdf",
+        "title": "PRESS NOTE: Regarding Special Intensive Revision (Enumeration Phase)",
+        "category": "other_notice",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "PRESS NOTE: Regarding Special Intensive Revision (Enumeration Phase) 14/07/2026 31/12/2026 View (503 KB)"
+      },
+      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
@@ -779,18 +791,6 @@
         "sortValue": 1774483200000,
         "score": 40,
         "context": "NOTICE: Instructions issued by the Directorate of Food Civil Supplies & Consumer Affairs to all FPS Dealers regarding a range of citizen-centric service to Ration Cards which are now available through the SMART-PDS portal 26/03/2026 31/07/2026 View (618 KB) SMART-PDS-AddMember (2 MB) SMART-PDS-DeleteMember (2 MB) SMART-PDS-FreshRC (2 MB) SMART-PDS-SurrenderRC (2 MB) SMART-PDS-TransferRC (2 MB) SMART-PDS-RCModificationNew (4 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf",
-        "title": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
       },
       {
         "department": "Health Dept",
