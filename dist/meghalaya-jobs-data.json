@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T07:07:00.150Z",
-  "generatedAtLabel": "15 July 2026 at 12:37 pm",
+  "generatedAt": "2026-07-15T09:51:44.836Z",
+  "generatedAtLabel": "15 July 2026 at 03:21 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -8,12 +8,12 @@
     "recruitment": 24,
     "admit_card": 0,
     "result": 24,
-    "other_notice": 23
+    "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 15,
-    "result": 8,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -53,7 +53,7 @@
         "publishedLabel": "14 Jul 2026",
         "sortValue": 1783987200000,
         "score": 7,
-        "context": "nt 14/07/2026 ABSORPTI"
+        "context": "t of Block MIS Coordinator at various Block Mission Management Units (BMMUs) for the Garo & Khasi Hills Region 15/07/2026 14/07/2026 NOTIFICATI"
       },
       {
         "department": "NEIGRIHMS",
@@ -125,7 +125,7 @@
         "publishedLabel": "08 Jul 2026",
         "sortValue": 1783468800000,
         "score": 7,
-        "context": "-in-Villages India Pvt. Ltd. in partnership with MSRLS call for Various posts to implement DART in selected Blocks 14/07/2026 08/07/2026 NOTIFICATI"
+        "context": "isted candidates for the Written Examination for the post of District Office Assistant for Khasi & Garo Region 08/07/2026 08/07/2026 NOTIFICATION: Resul"
       },
       {
         "department": "North Garo Hills",
@@ -257,7 +257,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "an class=\"field-content\"> Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final result for the post of District Functional Special - Farm Livelihoods Promot"
+        "context": "pan class=\"field-content\"> Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final result for the post of District Functional Special - Farm Livelihoods Promo"
       },
       {
         "department": "MSRLS",
@@ -269,7 +269,7 @@
         "publishedLabel": "26 Jun 2026",
         "sortValue": 1782432000000,
         "score": 7,
-        "context": "ion-result-personal-interview-post-project-executive-farm-livelihoods-promotion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods"
+        "context": "on-result-personal-interview-post-project-executive-farm-livelihoods-promotion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods P"
       },
       {
         "department": "Information Tech.",
@@ -311,6 +311,18 @@
     "admit_card": [],
     "result": [
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-result-personal-interview-post-block-mis-coordinator-various-block-mission-management",
+        "title": "NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinator at various Block Mission Management Units (BMMUs) for the Garo & Khasi Hills Region",
+        "category": "result",
+        "publishedAt": "2026-07-15T00:00:00.000Z",
+        "publishedLabel": "15 Jul 2026",
+        "sortValue": 1784073600000,
+        "score": 7,
+        "context": "nt 15/07/2026 Advertisement"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -344,7 +356,7 @@
         "publishedLabel": "08 Jul 2026",
         "sortValue": 1783468800000,
         "score": 7,
-        "context": "N | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 08/07/2026 NOTIFICATION: Resu"
+        "context": "t-in-Villages India Pvt. Ltd. in partnership with MSRLS call for Various posts to implement DART in selected Blocks 14/07/2026 08/07/2026 ABSORPTI"
       },
       {
         "department": "West Khasi Hills",
@@ -404,7 +416,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "isted candidates for the Written Examination for the post of District Office Assistant for Khasi & Garo Region 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-single"
+        "context": "N | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-singl"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -476,7 +488,7 @@
         "publishedLabel": "16 Jun 2026",
         "sortValue": 1781568000000,
         "score": 7,
-        "context": "oordinator-farm-livelihoods-promotion-non-farm-livelihoods\">Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region)"
+        "context": "ordinator-farm-livelihoods-promotion-non-farm-livelihoods\">Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion 26/06/2026 16/06/2026 NOTIFICATION-Personal Interview for the Absorption of staff to the post of BPM (Garo Region) <"
       },
       {
         "department": "West Khasi Hills",
@@ -585,18 +597,6 @@
         "sortValue": 1777507200000,
         "score": 12,
         "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(Adhoc%20basis)%20in%20the%20interview%20held%20on%2021.04.2026.pdf",
-        "title": "Result to the post of Junior Resident Doctor (Adhoc basis) in the interview held on 21.04.2026",
-        "category": "result",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "publishedLabel": "21 Apr 2026",
-        "sortValue": 1776729600000,
-        "score": 40,
-        "context": "29.04.2026"
       }
     ],
     "other_notice": [
@@ -853,6 +853,30 @@
         "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
       },
       {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release More Menu"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers More Menu Close <mai"
+      },
+      {
         "department": "MBDA",
         "sourceUrl": "https://mbda.gov.in/recruitment",
         "url": "https://mbda.gov.in/document-video",
@@ -863,18 +887,6 @@
         "sortValue": 0,
         "score": 5,
         "context": "x-2 py-3 items-center hover:text-yellow-200 links\">KNOWLEDGE PORTAL Stories Guideline NOTICE BOARD<svg class=\"fill-current h-4 w-4 text-white transform transition-transform duration-500 ease-in-out rotate-180 group-hover:rotate-0\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 2"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/",
-        "title": "MEGHALAYA BASIN DEVELOPMENT AUTHORITY GOVERNMENT OF MEGHALAYA",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "7 369.1 48 48 0 1 0 369.1 437z\"> Loading Recruitment... WHO WE ARE About MBDA Grievance Redressal <a class=\"text-white hover:text-yellow-200 tracking"
       }
     ]
   },
@@ -914,7 +926,7 @@
         "publishedLabel": "14 Jul 2026",
         "sortValue": 1783987200000,
         "score": 7,
-        "context": "nt 14/07/2026 ABSORPTI"
+        "context": "t of Block MIS Coordinator at various Block Mission Management Units (BMMUs) for the Garo & Khasi Hills Region 15/07/2026 14/07/2026 NOTIFICATI"
       },
       {
         "department": "NEIGRIHMS",
@@ -986,7 +998,7 @@
         "publishedLabel": "08 Jul 2026",
         "sortValue": 1783468800000,
         "score": 7,
-        "context": "-in-Villages India Pvt. Ltd. in partnership with MSRLS call for Various posts to implement DART in selected Blocks 14/07/2026 08/07/2026 NOTIFICATI"
+        "context": "isted candidates for the Written Examination for the post of District Office Assistant for Khasi & Garo Region 08/07/2026 08/07/2026 NOTIFICATION: Resul"
       },
       {
         "department": "North Garo Hills",
@@ -1063,6 +1075,18 @@
     ],
     "result": [
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-result-personal-interview-post-block-mis-coordinator-various-block-mission-management",
+        "title": "NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinator at various Block Mission Management Units (BMMUs) for the Garo & Khasi Hills Region",
+        "category": "result",
+        "publishedAt": "2026-07-15T00:00:00.000Z",
+        "publishedLabel": "15 Jul 2026",
+        "sortValue": 1784073600000,
+        "score": 7,
+        "context": "nt 15/07/2026 Advertisement"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -1096,7 +1120,7 @@
         "publishedLabel": "08 Jul 2026",
         "sortValue": 1783468800000,
         "score": 7,
-        "context": "N | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 08/07/2026 NOTIFICATION: Resu"
+        "context": "t-in-Villages India Pvt. Ltd. in partnership with MSRLS call for Various posts to implement DART in selected Blocks 14/07/2026 08/07/2026 ABSORPTI"
       },
       {
         "department": "West Khasi Hills",
@@ -1156,7 +1180,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "isted candidates for the Written Examination for the post of District Office Assistant for Khasi & Garo Region 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-single"
+        "context": "N | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-singl"
       }
     ],
     "admit_card": []
@@ -1665,11 +1689,6 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 502"
     }
   ],
   "sources": [
