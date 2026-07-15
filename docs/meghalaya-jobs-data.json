@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T23:42:40.865Z",
-  "generatedAtLabel": "15 July 2026 at 05:12 am",
+  "generatedAt": "2026-07-15T01:27:58.394Z",
+  "generatedAtLabel": "15 July 2026 at 06:57 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 15,
     "result": 8,
     "admit_card": 0
   },
@@ -1071,30 +1071,6 @@
         "sortValue": 1782864000000,
         "score": 7,
         "context": "tle\"> Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong Date: 03 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advt%20-%20General%20Medicine.pdf",
-        "title": "Advertisement for selection of candidates for vaious post under ICMR - Dept. of General Medicine",
-        "category": "recruitment",
-        "publishedAt": "2026-06-30T00:00:00.000Z",
-        "publishedLabel": "30 Jun 2026",
-        "sortValue": 1782777600000,
-        "score": 40,
-        "context": "30-06-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51183",
-        "title": "Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-06-30T00:00:00.000Z",
-        "publishedLabel": "30 Jun 2026",
-        "sortValue": 1782777600000,
-        "score": 7,
-        "context": "\"> Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya Date: 01 Jul 2026 Date: 30 Jun 2026 Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura <div class=\"views-field views-field-field-date1"
       }
     ],
     "result": [
