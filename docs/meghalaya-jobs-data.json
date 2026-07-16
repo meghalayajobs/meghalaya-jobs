@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T23:51:15.245Z",
-  "generatedAtLabel": "16 July 2026 at 05:21 am",
+  "generatedAt": "2026-07-16T01:48:22.610Z",
+  "generatedAtLabel": "16 July 2026 at 07:18 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 15,
-    "result": 9,
+    "recruitment": 13,
+    "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1047,30 +1047,6 @@
         "sortValue": 1783036800000,
         "score": 7,
         "context": "recruitment/content/51222\">Walk-in Interview for the posts of Field Engineer, Programme Associate (Finance and Accounts), Programme Associate (Administration and Data Management) on contractual basis at MSWWDA, North Garo Hills under CACbWHP Date: 06 Jul 2026 Date: 03 Jul 2026 Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-f"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51191",
-        "title": "Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya",
-        "category": "recruitment",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "6 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-field views-field-field"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51211",
-        "title": "Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project",
-        "category": "recruitment",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "tle\"> Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong Date: 03 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
       }
     ],
     "result": [
@@ -1157,30 +1133,6 @@
         "sortValue": 1783036800000,
         "score": 7,
         "context": "title\"> Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis Date: 03 Jul 2026 Date: 03 Jul 2026 Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project <div"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51186",
-        "title": "List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "s=\"field-content\"> Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya </"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-result-personal-interview-post-project-executive-farm-livelihoods-promotion",
-        "title": "NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "application-regarding-absorption-existing-staff-higher-position\">ABSORPTION | NOTIFICATION- Invitation for Application regarding Absorption of existing staff for higher position of DFS-IBCB 08/07/2026 01/07/2026 Notification: Waiting List for the Post of Cluster Coordinator - General <span class=\"date-display-singl"
       }
     ],
     "admit_card": []
