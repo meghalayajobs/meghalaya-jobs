@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T23:51:14.009Z",
-  "generatedAtLabel": "17 July 2026 at 05:21 am",
+  "generatedAt": "2026-07-17T01:51:41.829Z",
+  "generatedAtLabel": "17 July 2026 at 07:21 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
+    "recruitment": 13,
     "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
+        "title": "Advertisement for the post of Specialist – Obstetrics & Gynaecology",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Obstetrics & Gynaecology on Contractual Basis under National Health Mission, South Garo Hills. Baghmara. 14/07/2026 31/07/2026 View (680 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840349483650.pdf",
+        "title": "Advertisement for the post of Specialist – Paediatrics",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Paediatrics on a Contractual Basis under the National Health Mission (NHM), South Garo Hills, Baghmara. 14/07/2026 31/07/2026 View (721 KB)"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
@@ -282,30 +306,6 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
-        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 12,
-        "context": "stant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Syllabus%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
-        "title": "Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 12,
-        "context": "in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] </sm"
       }
     ],
     "admit_card": [],
@@ -892,6 +892,30 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
+        "title": "Advertisement for the post of Specialist – Obstetrics & Gynaecology",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Obstetrics & Gynaecology on Contractual Basis under National Health Mission, South Garo Hills. Baghmara. 14/07/2026 31/07/2026 View (680 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840349483650.pdf",
+        "title": "Advertisement for the post of Specialist – Paediatrics",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Paediatrics on a Contractual Basis under the National Health Mission (NHM), South Garo Hills, Baghmara. 14/07/2026 31/07/2026 View (721 KB)"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
@@ -1617,11 +1641,6 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "South Garo Hills",
-      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
     }
   ],
   "sources": [
