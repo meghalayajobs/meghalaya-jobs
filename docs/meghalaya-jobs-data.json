@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T23:43:07.962Z",
-  "generatedAtLabel": "18 July 2026 at 05:13 am",
+  "generatedAt": "2026-07-18T01:42:13.977Z",
+  "generatedAtLabel": "18 July 2026 at 07:12 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
-    "result": 7,
+    "recruitment": 11,
+    "result": 5,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1023,30 +1023,6 @@
         "sortValue": 1783296000000,
         "score": 7,
         "context": "v class=\"item-list\"> Notice for Recruitment of Human Resources on Contract at the National Game Secretariat Date: 08 Jul 2026 Date: 06 Jul 2026 Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis <div class=\"views-fie"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/receipt%20with%20number%20131232_2026_Gen.%20Medicinepdf.pdf",
-        "title": "Corrigendum to the Advertisement for Selection to Various Posts under ICMR – Department of General Medicine",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 40,
-        "context": "03-07-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51204",
-        "title": "Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 7,
-        "context": "recruitment/content/51222\">Walk-in Interview for the posts of Field Engineer, Programme Associate (Finance and Accounts), Programme Associate (Administration and Data Management) on contractual basis at MSWWDA, North Garo Hills under CACbWHP Date: 06 Jul 2026 Date: 03 Jul 2026 Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-f"
       }
     ],
     "result": [
@@ -1109,30 +1085,6 @@
         "sortValue": 1783296000000,
         "score": 40,
         "context": "06/07/2026 30/07/2026 View (689 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/0307/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2023.06.2026.pdf",
-        "title": "Results for the Post of Junior Resident Doctor (Regular & Adhoc) ( One-Year Tenure / Adhoc Basis )",
-        "category": "result",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 40,
-        "context": "03-07-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51197",
-        "title": "Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
-        "category": "result",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 7,
-        "context": "title\"> Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis Date: 03 Jul 2026 Date: 03 Jul 2026 Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project <div"
       }
     ],
     "admit_card": []
