@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T06:06:53.110Z",
-  "generatedAtLabel": "20 July 2026 at 11:36 am",
+  "generatedAt": "2026-07-20T09:50:05.278Z",
+  "generatedAtLabel": "20 July 2026 at 03:20 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 11,
-    "result": 5,
+    "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -311,6 +311,18 @@
     "admit_card": [],
     "result": [
       {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Project%20Research%20Scientist%20-%201%20(Medical)%20under%20ICMR%20project%20%E2%80%93%20Dept.%20of%20General%20Medicine.pdf",
+        "title": "Result of the walk in interview for selection of candidates for contractual post under ICMR project – Dept. of General Medicine",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20.07.2026"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-result-personal-interview-post-block-mis-coordinator-various-block-mission-management",
@@ -577,18 +589,6 @@
       {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
-        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
         "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
         "category": "result",
@@ -1026,6 +1026,18 @@
       }
     ],
     "result": [
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Project%20Research%20Scientist%20-%201%20(Medical)%20under%20ICMR%20project%20%E2%80%93%20Dept.%20of%20General%20Medicine.pdf",
+        "title": "Result of the walk in interview for selection of candidates for contractual post under ICMR project – Dept. of General Medicine",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20.07.2026"
+      },
       {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
