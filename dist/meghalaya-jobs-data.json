@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T09:50:05.278Z",
-  "generatedAtLabel": "20 July 2026 at 03:20 pm",
+  "generatedAt": "2026-07-20T12:09:16.467Z",
+  "generatedAtLabel": "20 July 2026 at 05:39 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
+    "recruitment": 14,
     "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisment%20of%20the%20post%20of%20Tutor,%20College%20of%20Nursing%20-%202026.pdf",
+        "title": "Advertisement for filling up the post of Tutor, College of Nursing, NEIGRIHMS on Direct Recruitment // Proforma of application",
+        "category": "recruitment",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20-07-2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Selection%20of%20Candidate%20who%20attended%20the%20Walk-in%20Interview%20for%20the%20posts%20of%20Data%20Entry%20Operator.pdf",
+        "title": "Selection of Candidate for the posts of Data Entry Operator on contractual basis in the State Level VRDL",
+        "category": "recruitment",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20.07.2026"
+      },
       {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
@@ -66,6 +90,18 @@
         "sortValue": 1783641600000,
         "score": 40,
         "context": "10-07-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Application%20Proforma%20for%20the%20post%20of%20Tutor,%20College%20of%20Nursing%20-%202026.pdf",
+        "title": "Proforma of application 20-07-2026 Advertisement for the post of Data Entry Operator on Contractual basis under Central Scheme in the State VDRL funded by DHR, New Delhi",
+        "category": "recruitment",
+        "publishedAt": "2026-07-10T00:00:00.000Z",
+        "publishedLabel": "10 Jul 2026",
+        "sortValue": 1783641600000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Advertisement for filling up the post of Tutor, College of Nursing, NEIGRIHMS on Direct Recruitment // 10-07-2026 Notification - Walk in interview for engagement of Dental Consultant and MD Psychiatry 09-07-2026 Corrigendum to the Advertisement for Selection"
       },
       {
         "department": "NEIGRIHMS",
@@ -270,42 +306,6 @@
         "sortValue": 1782432000000,
         "score": 7,
         "context": "on-result-personal-interview-post-project-executive-farm-livelihoods-promotion\">NOTIFICATION: Result of the Personal Interview for the post of Project Executive -Farm Livelihoods Promotion 01/07/2026 26/06/2026 Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods P"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
-        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura.",
-        "category": "recruitment",
-        "publishedAt": "2026-06-25T00:00:00.000Z",
-        "publishedLabel": "25 Jun 2026",
-        "sortValue": 1782345600000,
-        "score": 12,
-        "context": "er\"> News Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51229",
-        "title": "Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-06-25T00:00:00.000Z",
-        "publishedLabel": "25 Jun 2026",
-        "sortValue": 1782345600000,
-        "score": 7,
-        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 25 Jun 2026 Advertisement Notice for the posts of Centre Manager, Counsellor cum Supervisor, Peer Educator cum Ward Attendant on Contractual Basis at the Centre for Evolution, under the R.P. Chest Hospital, Shillong <"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
-        "title": "No.MPSC/ADVT/2025-2026/113",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
       }
     ],
     "admit_card": [],
@@ -893,6 +893,30 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisment%20of%20the%20post%20of%20Tutor,%20College%20of%20Nursing%20-%202026.pdf",
+        "title": "Advertisement for filling up the post of Tutor, College of Nursing, NEIGRIHMS on Direct Recruitment // Proforma of application",
+        "category": "recruitment",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20-07-2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Selection%20of%20Candidate%20who%20attended%20the%20Walk-in%20Interview%20for%20the%20posts%20of%20Data%20Entry%20Operator.pdf",
+        "title": "Selection of Candidate for the posts of Data Entry Operator on contractual basis in the State Level VRDL",
+        "category": "recruitment",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20.07.2026"
+      },
+      {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
@@ -939,6 +963,18 @@
         "sortValue": 1783641600000,
         "score": 40,
         "context": "10-07-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Application%20Proforma%20for%20the%20post%20of%20Tutor,%20College%20of%20Nursing%20-%202026.pdf",
+        "title": "Proforma of application 20-07-2026 Advertisement for the post of Data Entry Operator on Contractual basis under Central Scheme in the State VDRL funded by DHR, New Delhi",
+        "category": "recruitment",
+        "publishedAt": "2026-07-10T00:00:00.000Z",
+        "publishedLabel": "10 Jul 2026",
+        "sortValue": 1783641600000,
+        "score": 12,
+        "context": "Notifications title Date of publishing Advertisement for filling up the post of Tutor, College of Nursing, NEIGRIHMS on Direct Recruitment // 10-07-2026 Notification - Walk in interview for engagement of Dental Consultant and MD Psychiatry 09-07-2026 Corrigendum to the Advertisement for Selection"
       },
       {
         "department": "NEIGRIHMS",
