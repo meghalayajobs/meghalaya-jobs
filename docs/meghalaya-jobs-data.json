@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T01:49:13.504Z",
-  "generatedAtLabel": "22 July 2026 at 07:19 am",
+  "generatedAt": "2026-07-22T05:11:07.141Z",
+  "generatedAtLabel": "22 July 2026 at 10:41 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
+    "recruitment": 15,
     "result": 6,
     "admit_card": 0
   },
@@ -66,6 +66,30 @@
         "sortValue": 1784160000000,
         "score": 7,
         "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
+        "title": "Advertisement for the post of Specialist – Obstetrics & Gynaecology",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Obstetrics & Gynaecology on Contractual Basis under National Health Mission, South Garo Hills. Baghmara. 14/07/2026 31/07/2026 View (680 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840349483650.pdf",
+        "title": "Advertisement for the post of Specialist – Paediatrics",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Paediatrics on a Contractual Basis under the National Health Mission (NHM), South Garo Hills, Baghmara. 14/07/2026 31/07/2026 View (721 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -282,30 +306,6 @@
         "sortValue": 1782691200000,
         "score": 7,
         "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 29 Jun 2026 Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on c"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51156",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong Date: 30 Jun 2026 Date: 29 Jun 2026 Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura <div class=\"views-field views-field-field-date1"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-waiting-list-post-cluster-coordinator-farm-livelihoods-promotion-non-farm-livelihoods",
-        "title": "Notification: Waiting List for the Post of Cluster Coordinator - Farm Livelihoods Promotion & Non -Farm Livelihoods Promotion",
-        "category": "recruitment",
-        "publishedAt": "2026-06-26T00:00:00.000Z",
-        "publishedLabel": "26 Jun 2026",
-        "sortValue": 1782432000000,
-        "score": 7,
-        "context": "pan class=\"field-content\"> Notification: Waiting List for the Post of Cluster Coordinator - General 26/06/2026 26/06/2026 Notification: Final result for the post of District Functional Special - Farm Livelihoods Promo"
       }
     ],
     "admit_card": [],
@@ -939,6 +939,30 @@
         "sortValue": 1784160000000,
         "score": 7,
         "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
+        "title": "Advertisement for the post of Specialist – Obstetrics & Gynaecology",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Obstetrics & Gynaecology on Contractual Basis under National Health Mission, South Garo Hills. Baghmara. 14/07/2026 31/07/2026 View (680 KB)"
+      },
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840349483650.pdf",
+        "title": "Advertisement for the post of Specialist – Paediatrics",
+        "category": "recruitment",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "publishedLabel": "14 Jul 2026",
+        "sortValue": 1783987200000,
+        "score": 40,
+        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Paediatrics on a Contractual Basis under the National Health Mission (NHM), South Garo Hills, Baghmara. 14/07/2026 31/07/2026 View (721 KB)"
       },
       {
         "department": "West Khasi Hills",
@@ -1629,11 +1653,6 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "South Garo Hills",
-      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
     }
   ],
   "sources": [
