@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T08:12:54.387Z",
-  "generatedAtLabel": "23 July 2026 at 01:42 pm",
+  "generatedAt": "2026-07-23T11:00:46.504Z",
+  "generatedAtLabel": "23 July 2026 at 04:30 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 8,
-    "result": 3,
+    "recruitment": 9,
+    "result": 5,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51312",
+        "title": "Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -185,7 +197,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "s=\"field-content\"> Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project Date: 01 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
+        "context": "6 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-field views-field-field"
       },
       {
         "department": "Meghalaya Govt",
@@ -197,7 +209,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "tle\"> Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong Date: 03 Jul 2026 Date: 01 Jul 2026 Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya </"
+        "context": "tle\"> Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong Date: 03 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
       },
       {
         "department": "NEIGRIHMS",
@@ -210,42 +222,6 @@
         "sortValue": 1782777600000,
         "score": 40,
         "context": "30-06-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51183",
-        "title": "Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-06-30T00:00:00.000Z",
-        "publishedLabel": "30 Jun 2026",
-        "sortValue": 1782777600000,
-        "score": 7,
-        "context": "6 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL Date: 01 Jul 2026 Date: 30 Jun 2026 Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College <span class=\"v"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51167",
-        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura",
-        "category": "recruitment",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 7,
-        "context": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College Date: 29 Jun 2026 Date: 29 Jun 2026 Advertisement - The Meghalaya Administrative Training Institute (MATI) invites applications for the posts of Lead Instructional Designer (Curriculum Design and Instructional Design) and Learning Designer on c"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51156",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor on a Contractual Basis at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-06-29T00:00:00.000Z",
-        "publishedLabel": "29 Jun 2026",
-        "sortValue": 1782691200000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong Date: 30 Jun 2026 Date: 29 Jun 2026 Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Shillong Polytechnic, ITI Shillong and ITI Tura <div class=\"views-field views-field-field-date1"
       },
       {
         "department": "MSRLS",
@@ -306,10 +282,58 @@
         "sortValue": 1782259200000,
         "score": 12,
         "context": "stant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Syllabus%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] </sm"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 12,
+        "context": "Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 16 2026 [NEW] Corrigendum to the provisional ineligibility list for the post of AI Trainer Jun 05 2026 [NEW] Notification on the Approved Rates"
       }
     ],
     "admit_card": [],
     "result": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51314",
+        "title": "List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing",
+        "category": "result",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51313",
+        "title": "Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026",
+        "category": "result",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+      },
       {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
@@ -332,7 +356,7 @@
         "publishedLabel": "20 Jul 2026",
         "sortValue": 1784505600000,
         "score": 7,
-        "context": "Office Wise Search Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
+        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
       },
       {
         "department": "MSRLS",
@@ -392,7 +416,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "\"> Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-field views-field-field"
+        "context": "s=\"field-content\"> Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya </"
       },
       {
         "department": "MSRLS",
@@ -573,30 +597,6 @@
         "sortValue": 1773792000000,
         "score": 7,
         "context": "4.03.2026 2026-03-24 2026-03-18 <a href=\"/recr"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-notice-final-extension-reporting-joining-selected-candidates",
-        "title": "Recruitment Notice: Final extension for reporting / joining of selected candidates",
-        "category": "result",
-        "publishedAt": "2026-03-09T00:00:00.000Z",
-        "publishedLabel": "09 Mar 2026",
-        "sortValue": 1773014400000,
-        "score": 7,
-        "context": "Meghalaya 2026-03-18 2026-03-09 <a href=\"/imp"
-      },
-      {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-posting-successful-candidates-district-unit-organization-post-ub-constable-abbn",
-        "title": "Recruitment Update: Posting of successful candidates to District / Unit / Organization for the post of UB Constable, AB/BN Constable, Driver Fireman, Fire Mechanic / Mechanic, MPRO Operator, Signal/BN Operator and Driver Constable",
-        "category": "result",
-        "publishedAt": "2026-03-01T00:00:00.000Z",
-        "publishedLabel": "01 Mar 2026",
-        "sortValue": 1772323200000,
-        "score": 7,
-        "context": "02.03.2026 2026-03-02 2026-03-01 <a href=\"/pr"
       }
     ],
     "other_notice": [
@@ -737,6 +737,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51312",
+        "title": "Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Walk-In%20Interview%20for%20appointment%20project%20staff%20Surveillance%20of%20Foodborne%20Disease%20Pathogens%20in%20North%20East-India.pdf",
@@ -835,6 +847,30 @@
     ],
     "result": [
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51314",
+        "title": "List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing",
+        "category": "result",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51313",
+        "title": "Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026",
+        "category": "result",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "publishedLabel": "22 Jul 2026",
+        "sortValue": 1784678400000,
+        "score": 7,
+        "context": "Office Wise Search Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Project%20Research%20Scientist%20-%201%20(Medical)%20under%20ICMR%20project%20%E2%80%93%20Dept.%20of%20General%20Medicine.pdf",
@@ -856,7 +892,7 @@
         "publishedLabel": "20 Jul 2026",
         "sortValue": 1784505600000,
         "score": 7,
-        "context": "Office Wise Search Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
+        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
       },
       {
         "department": "MSRLS",
