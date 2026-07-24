@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T05:12:35.754Z",
-  "generatedAtLabel": "24 July 2026 at 10:42 am",
+  "generatedAt": "2026-07-24T08:08:54.619Z",
+  "generatedAtLabel": "24 July 2026 at 01:38 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -8,17 +8,29 @@
     "recruitment": 24,
     "admit_card": 0,
     "result": 24,
-    "other_notice": 17
+    "other_notice": 18
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
+    "recruitment": 14,
     "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51318",
+        "title": "Army Agniveer Recruitment Rally",
+        "category": "recruitment",
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "publishedLabel": "23 Jul 2026",
+        "sortValue": 1784764800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+      },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
@@ -29,7 +41,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
       },
       {
         "department": "NEIGRIHMS",
@@ -293,19 +305,7 @@
         "publishedLabel": "01 Jul 2026",
         "sortValue": 1782864000000,
         "score": 7,
-        "context": "6 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement Notice for the posts of Radiology Technologist on a contractual basis for the Centre of Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-field views-field-field"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51211",
-        "title": "Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project",
-        "category": "recruitment",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "tle\"> Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong Date: 03 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
+        "context": "s=\"field-content\"> Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project Date: 01 Jul 2026 Date: 01 Jul 2026 List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL <span class=\"views-label views-label-f"
       }
     ],
     "admit_card": [],
@@ -332,7 +332,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
+        "context": "ent\"> Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
       },
       {
         "department": "Meghalaya Govt",
@@ -344,7 +344,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "Office Wise Search Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -467,18 +467,6 @@
         "context": "title\"> Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis Date: 03 Jul 2026 Date: 03 Jul 2026 Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project <div"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51186",
-        "title": "List of successful candidates for the post of Cath Lab Technician on contractual basis under MMDSL",
-        "category": "result",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 7,
-        "context": "s=\"field-content\"> Applications are invited from eligible and experienced professionals for the post of Project Manager, Field & Lab Assistant on contractual basis under the DILRMP & NAKSHA Project Date: 01 Jul 2026 Date: 01 Jul 2026 Advertisement for the post of Assistant Manager, (Technical) and Programme Associate (Administration & Data Management) on contractual basis at MSWWDA, Baghmara, South Garo Hills District, Meghalaya </"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-result-personal-interview-post-project-executive-farm-livelihoods-promotion",
@@ -597,9 +585,33 @@
         "sortValue": 1779062400000,
         "score": 40,
         "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Field%20data%20collector.pdf",
+        "title": "Result of the walk-in interview held for the three posts of NMHS-2 Survey Field Data Collector (FDC) under National Mental Health Survey in India-2 funded by Ministry of Health and Family Welfare, Government of India and co-ordinated by NIMHANS, Bengaluru",
+        "category": "result",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14.05.2026"
       }
     ],
     "other_notice": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/2407/Notice%20for%20SRD%20interview%20to%20be%20held%20on%2029.07.2026%20(Wednesday)%20alongwith%20lists%20of%20Eligible%20and%20In-Eligible%20candidates.pdf",
+        "title": "Notice for SRD interview to be held on 29.07.2026 (Wednesday) alongwith lists of Eligible and In-Eligibe candidates",
+        "category": "other_notice",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "publishedLabel": "29 Jul 2026",
+        "sortValue": 1785283200000,
+        "score": 40,
+        "context": "24-07-2026"
+      },
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
@@ -811,6 +823,18 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51318",
+        "title": "Army Agniveer Recruitment Rally",
+        "category": "recruitment",
+        "publishedAt": "2026-07-23T00:00:00.000Z",
+        "publishedLabel": "23 Jul 2026",
+        "sortValue": 1784764800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 23 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51312",
         "title": "Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya",
         "category": "recruitment",
@@ -818,7 +842,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
       },
       {
         "department": "NEIGRIHMS",
@@ -988,7 +1012,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
+        "context": "ent\"> Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
       },
       {
         "department": "Meghalaya Govt",
@@ -1000,7 +1024,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "Office Wise Search Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
       },
       {
         "department": "NEIGRIHMS Result",
