@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T05:24:09.248Z",
-  "generatedAtLabel": "26 July 2026 at 10:54 am",
+  "generatedAt": "2026-07-26T08:09:42.718Z",
+  "generatedAtLabel": "26 July 2026 at 01:39 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -8,7 +8,7 @@
     "recruitment": 24,
     "admit_card": 0,
     "result": 24,
-    "other_notice": 15
+    "other_notice": 17
   },
   "latestPostCount": 18,
   "displayCounts": {
@@ -755,6 +755,30 @@
         "sortValue": 0,
         "score": 5,
         "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release More Menu"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers More Menu Close <mai"
       },
       {
         "department": "MBDA",
@@ -1562,11 +1586,6 @@
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 503"
     }
   ],
   "sources": [
