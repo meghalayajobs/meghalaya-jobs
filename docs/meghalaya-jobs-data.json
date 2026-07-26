@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T13:01:18.649Z",
-  "generatedAtLabel": "26 July 2026 at 06:31 pm",
+  "generatedAt": "2026-07-26T14:56:14.344Z",
+  "generatedAtLabel": "26 July 2026 at 08:26 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1563,11 +1563,6 @@
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
     {
-      "department": "MPSC",
-      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
-      "reason": "fetch failed"
-    },
-    {
       "department": "DERT",
       "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
       "reason": "fetch failed"
@@ -1590,11 +1585,6 @@
     {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "Meghalaya Police",
-      "url": "https://megpolice.gov.in/recruitment",
       "reason": "fetch failed"
     }
   ],
