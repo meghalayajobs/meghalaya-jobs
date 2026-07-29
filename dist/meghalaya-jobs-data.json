@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T11:14:25.077Z",
-  "generatedAtLabel": "29 July 2026 at 04:44 pm",
+  "generatedAt": "2026-07-29T13:47:30.098Z",
+  "generatedAtLabel": "29 July 2026 at 07:17 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -551,18 +551,6 @@
         "context": "24/06/2026 30/09/2026 View (228 KB)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829785178251.pdf",
-        "title": "District Level Task Force OSC: Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (230 KB)"
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/06/17824079888990.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1779235200000,
         "score": 12,
         "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result18June2026a.pdf",
+        "title": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "publishedLabel": "20 May 2026",
+        "sortValue": 1779235200000,
+        "score": 12,
+        "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
       }
     ],
     "other_notice": [
@@ -611,6 +611,18 @@
         "sortValue": 1785283200000,
         "score": 40,
         "context": "24-07-2026"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
+        "title": "DSC: Public Notice – Corrigendum",
+        "category": "other_notice",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "publishedLabel": "29 Jul 2026",
+        "sortValue": 1785283200000,
+        "score": 40,
+        "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
         "department": "Information Tech.",
@@ -875,18 +887,6 @@
         "sortValue": 0,
         "score": 5,
         "context": "x-2 py-3 items-center hover:text-yellow-200 links\">KNOWLEDGE PORTAL Stories Guideline NOTICE BOARD<svg class=\"fill-current h-4 w-4 text-white transform transition-transform duration-500 ease-in-out rotate-180 group-hover:rotate-0\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 2"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/",
-        "title": "MEGHALAYA BASIN DEVELOPMENT AUTHORITY GOVERNMENT OF MEGHALAYA",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "7 369.1 48 48 0 1 0 369.1 437z\"> Loading Recruitment... WHO WE ARE About MBDA Grievance Redressal <a class=\"text-white hover:text-yellow-200 tracking"
       }
     ]
   },
