@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T23:51:49.968Z",
-  "generatedAtLabel": "29 July 2026 at 05:21 am",
+  "generatedAt": "2026-07-29T01:47:07.246Z",
+  "generatedAtLabel": "29 July 2026 at 07:17 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 14,
+    "recruitment": 8,
     "result": 12,
     "admit_card": 0
   },
@@ -963,78 +963,6 @@
         "sortValue": 1784160000000,
         "score": 7,
         "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17847213255499.pdf",
-        "title": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR, VB-GRAM/G",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR, VB-GRAM/G 14/07/2026 15/08/2026 View (496 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17847033585061.pdf",
-        "title": "NOTICE: Publication of the List of Eligible Candidates for the Written Examination for the post of Data Entry Operator VB-GRAM/G",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "NOTICE: Publication of the List of Eligible Candidates for the Written Examination for the post of Data Entry Operator VB-GRAM/G 14/07/2026 15/08/2026 View (2 MB)"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840352938629.pdf",
-        "title": "Advertisement for the post of Specialist – Obstetrics & Gynaecology",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Obstetrics & Gynaecology on Contractual Basis under National Health Mission, South Garo Hills. Baghmara. 14/07/2026 31/07/2026 View (680 KB)"
-      },
-      {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/07/17840349483650.pdf",
-        "title": "Advertisement for the post of Specialist – Paediatrics",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "Applications are invited from eligible Indian Citizens for engagement of Specialist – Paediatrics on a Contractual Basis under the National Health Mission (NHM), South Garo Hills, Baghmara. 14/07/2026 31/07/2026 View (721 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17846149486176.pdf",
-        "title": "NHM Advertisement: Nutritionist Cum Counsellor.",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "14/07/2026 31/07/2026 View (451 KB)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/advertisement-vest-villages-india-pvt-ltd-partnership-msrls-call-various-posts-implement-dart",
-        "title": "Advertisement - Vest-in-Villages India Pvt. Ltd. in partnership with MSRLS call for Various posts to implement DART in selected Blocks",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 7,
-        "context": "sion-management\">NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinator at various Block Mission Management Units (BMMUs) for the Garo & Khasi Hills Region 15/07/2026 14/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Dis"
       }
     ],
     "result": [
