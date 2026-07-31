@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T23:54:10.461Z",
-  "generatedAtLabel": "31 July 2026 at 05:24 am",
+  "generatedAt": "2026-07-31T01:57:30.606Z",
+  "generatedAtLabel": "31 July 2026 at 07:27 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 9,
+    "recruitment": 8,
     "result": 12,
     "admit_card": 0
   },
@@ -987,18 +987,6 @@
         "sortValue": 1784505600000,
         "score": 40,
         "context": "20.07.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51282",
-        "title": "Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry)",
-        "category": "recruitment",
-        "publishedAt": "2026-07-16T00:00:00.000Z",
-        "publishedLabel": "16 Jul 2026",
-        "sortValue": 1784160000000,
-        "score": 7,
-        "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
       }
     ],
     "result": [
