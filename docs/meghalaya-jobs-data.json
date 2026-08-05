@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T23:55:25.147Z",
-  "generatedAtLabel": "05 August 2026 at 05:25 am",
+  "generatedAt": "2026-08-05T01:48:23.169Z",
+  "generatedAtLabel": "05 August 2026 at 07:18 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 6,
+    "recruitment": 5,
     "result": 15,
     "admit_card": 0
   },
@@ -951,18 +951,6 @@
         "sortValue": 1784678400000,
         "score": 7,
         "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Walk-In%20Interview%20for%20appointment%20project%20staff%20Surveillance%20of%20Foodborne%20Disease%20Pathogens%20in%20North%20East-India.pdf",
-        "title": "Walk-In Interview for appointment of project staff \"Surveillance of Foodborne Disease Pathogens in North East-India",
-        "category": "recruitment",
-        "publishedAt": "2026-07-21T00:00:00.000Z",
-        "publishedLabel": "21 Jul 2026",
-        "sortValue": 1784592000000,
-        "score": 40,
-        "context": "21-07-2026"
       }
     ],
     "result": [
