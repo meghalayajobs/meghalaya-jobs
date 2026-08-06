@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T23:50:54.109Z",
-  "generatedAtLabel": "06 August 2026 at 05:20 am",
+  "generatedAt": "2026-08-06T01:45:19.622Z",
+  "generatedAtLabel": "06 August 2026 at 07:15 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
-    "result": 15,
+    "recruitment": 6,
+    "result": 12,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -963,18 +963,6 @@
         "sortValue": 1784764800000,
         "score": 7,
         "context": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) Date: 30 Jul 2026 Date: 23 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51312",
-        "title": "Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya",
-        "category": "recruitment",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "publishedLabel": "22 Jul 2026",
-        "sortValue": 1784678400000,
-        "score": 7,
-        "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
       }
     ],
     "result": [
@@ -1121,42 +1109,6 @@
         "sortValue": 1784764800000,
         "score": 40,
         "context": "23/07/2026 31/08/2026 View (755 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17847214377267.pdf",
-        "title": "DSC: LDA Results of the Written Examination (22-11-2025)",
-        "category": "result",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "publishedLabel": "22 Jul 2026",
-        "sortValue": 1784678400000,
-        "score": 40,
-        "context": "22/07/2026 07/08/2026 View (742 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51314",
-        "title": "List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing",
-        "category": "result",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "publishedLabel": "22 Jul 2026",
-        "sortValue": 1784678400000,
-        "score": 7,
-        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51313",
-        "title": "Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026",
-        "category": "result",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "publishedLabel": "22 Jul 2026",
-        "sortValue": 1784678400000,
-        "score": 7,
-        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
       }
     ],
     "admit_card": []
