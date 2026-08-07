@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T12:41:31.318Z",
-  "generatedAtLabel": "07 August 2026 at 06:11 pm",
+  "generatedAt": "2026-08-07T14:05:32.087Z",
+  "generatedAtLabel": "07 August 2026 at 07:35 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -601,6 +601,18 @@
     ],
     "other_notice": [
       {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/08/17861088236830.pdf",
+        "title": "DSC: Notice on Typing Speed Test",
+        "category": "other_notice",
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "publishedLabel": "07 Aug 2026",
+        "sortValue": 1786060800000,
+        "score": 40,
+        "context": "07/08/2026 17/08/2026 View (724 KB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/social-inclusion-development-newsletter",
@@ -610,7 +622,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Missi"
+        "context": "\"> 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -719,18 +731,6 @@
         "sortValue": 1782864000000,
         "score": 12,
         "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
-        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16/06/2026 30/09/2026 View (726 KB)"
       },
       {
         "department": "North Garo Hills",
