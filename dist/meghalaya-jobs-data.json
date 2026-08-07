@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T16:42:28.954Z",
-  "generatedAtLabel": "07 August 2026 at 10:12 pm",
+  "generatedAt": "2026-08-07T17:40:25.722Z",
+  "generatedAtLabel": "07 August 2026 at 11:10 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -865,28 +865,28 @@
         "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
       },
       {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
-        "title": "Previous Question Papers",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
         "category": "other_notice",
         "publishedAt": null,
         "publishedLabel": "Latest",
         "sortValue": 0,
         "score": 5,
-        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
       },
       {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/solid-waste-management-rules-2026/",
-        "title": "Solid Waste Management Rules, 2026",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
         "category": "other_notice",
         "publishedAt": null,
         "publishedLabel": "Latest",
         "sortValue": 0,
         "score": 5,
-        "context": "nu-item-type-taxonomy menu-item-object-notice_category current-menu-item menu-item-2469 active \"> Recruitment Tenders Citizen Services RTI <a href=\"https://eastgarohills.gov.in/media-g"
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
       }
     ]
   },
@@ -1665,6 +1665,11 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
+    },
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
     },
     {
       "department": "West Khasi Hills",
