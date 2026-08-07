@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T23:50:23.467Z",
-  "generatedAtLabel": "07 August 2026 at 05:20 am",
+  "generatedAt": "2026-08-07T02:10:00.879Z",
+  "generatedAtLabel": "07 August 2026 at 07:40 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
-    "result": 12,
+    "recruitment": 6,
+    "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -963,18 +963,6 @@
         "sortValue": 1785196800000,
         "score": 7,
         "context": "I.pdf\" target=\"_blank\">EWS CERTIFICATE FORMAT - Annexure II 06-08-2026 Notice alongwith lists of Eligible & In-Eligible candidates for the Group A posts of Deputy Medical Superintendent, Bio Medical Engineer and Medical Physicist 29-07-2026 28-07-2026 Advertisement for the post of Laboratory Technician (1 No) on contractual basis under the central scheme entitled, \" Setting up of National Network of Laboratories for Managing Epidemics and National Calamities\" in State Level VRDL funded by DHR, New Delhi 28-07-2026 <a href=\"Latest News/estt-2/2026/2nd Add"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51318",
-        "title": "Army Agniveer Recruitment Rally",
-        "category": "recruitment",
-        "publishedAt": "2026-07-23T00:00:00.000Z",
-        "publishedLabel": "23 Jul 2026",
-        "sortValue": 1784764800000,
-        "score": 7,
-        "context": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) Date: 30 Jul 2026 Date: 23 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
       }
     ],
     "result": [
@@ -1109,18 +1097,6 @@
         "sortValue": 1784851200000,
         "score": 7,
         "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proj"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17848842763012.pdf",
-        "title": "DRDA: Results of the Personal Interview for the Post of APO and Accounts Asst.",
-        "category": "result",
-        "publishedAt": "2026-07-23T00:00:00.000Z",
-        "publishedLabel": "23 Jul 2026",
-        "sortValue": 1784764800000,
-        "score": 40,
-        "context": "23/07/2026 31/08/2026 View (755 KB)"
       }
     ],
     "admit_card": []
