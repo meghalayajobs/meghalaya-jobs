@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T23:25:09.607Z",
-  "generatedAtLabel": "08 August 2026 at 04:55 am",
+  "generatedAt": "2026-08-08T00:57:37.441Z",
+  "generatedAtLabel": "08 August 2026 at 06:27 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 9,
-    "result": 11,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1013,30 +1013,6 @@
         "sortValue": 1785196800000,
         "score": 7,
         "context": "sistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proje"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-livestock-fisheries",
-        "title": "NOTIFICATION Shortlisted candidates for the Written Examination for the post of Project Manager -Livestock & Fisheries, Project Manager -SVEP & State Accountant.",
-        "category": "result",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 7,
-        "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of P"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-enterprise-development",
-        "title": "NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator.",
-        "category": "result",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 7,
-        "context": "vestock-fisheries\">NOTIFICATION Shortlisted candidates for the Written Examination for the post of Project Manager -Livestock & Fisheries, Project Manager -SVEP & State Accountant. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinato"
       }
     ],
     "admit_card": []
