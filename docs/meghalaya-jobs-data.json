@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T18:22:57.280Z",
-  "generatedAtLabel": "08 August 2026 at 11:52 pm",
+  "generatedAt": "2026-08-08T19:21:53.858Z",
+  "generatedAtLabel": "09 August 2026 at 12:51 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1641,11 +1641,6 @@
       "department": "MERB",
       "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
     },
     {
       "department": "West Khasi Hills",
