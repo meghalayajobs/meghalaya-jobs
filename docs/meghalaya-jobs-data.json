@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T11:46:32.112Z",
-  "generatedAtLabel": "10 August 2026 at 05:16 pm",
+  "generatedAt": "2026-08-10T12:46:11.343Z",
+  "generatedAtLabel": "10 August 2026 at 06:16 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 10,
-    "result": 10,
+    "recruitment": 11,
+    "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51444",
+        "title": "Army Agniveer Recruitment Rally for the State of Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "publishedLabel": "10 Aug 2026",
+        "sortValue": 1786320000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 10 Aug 2026 Dissemination of Notification: Indian Air Force (IAF) Open Recruitment Rally at Chumoukedima (Nagaland) – INTAKE 01/2027 <span class=\"vie"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -41,7 +53,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "rict-mission-management-units-dmmu\">ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) 07/08/2026 07/08/2026 Notification: Shortli"
+        "context": "ict-mission-management-units-dmmu\">ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) 07/08/2026 07/08/2026 Notification: Shortlis"
       },
       {
         "department": "MSRLS",
@@ -53,7 +65,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "FICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT f"
+        "context": "ates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT"
       },
       {
         "department": "NEIGRIHMS",
@@ -89,7 +101,7 @@
         "publishedLabel": "06 Aug 2026",
         "sortValue": 1785974400000,
         "score": 7,
-        "context": "Office Wise Search Date: 06 Aug 2026 Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <div class=\"views-field views-field-field"
+        "context": "ss=\"view-content\"> Army Agniveer Recruitment Rally for the State of Meghalaya Date: 10 Aug 2026 Date: 06 Aug 2026 Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <div class=\"views-field views-field-field"
       },
       {
         "department": "South Garo Hills",
@@ -149,7 +161,7 @@
         "publishedLabel": "23 Jul 2026",
         "sortValue": 1784764800000,
         "score": 7,
-        "context": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) Date: 30 Jul 2026 Date: 23 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
+        "context": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) Date: 30 Jul 2026 Date: 23 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "Meghalaya Govt",
@@ -161,7 +173,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -248,18 +260,6 @@
         "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51204",
-        "title": "Advertisement Notice: Application are invited for 1 (one) vacant post of Chief Technical Adviser (Distribution & Transmission), Power Department on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 7,
-        "context": "recruitment/content/51222\">Walk-in Interview for the posts of Field Engineer, Programme Associate (Finance and Accounts), Programme Associate (Administration and Data Management) on contractual basis at MSWWDA, North Garo Hills under CACbWHP Date: 06 Jul 2026 Date: 03 Jul 2026 Results of the interviews for the posts of Centre Manager, Peer Educator-cum-Ward Attendant and Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong <div class=\"views-f"
-      },
-      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
@@ -320,7 +320,19 @@
         "publishedLabel": "10 Aug 2026",
         "sortValue": 1786320000000,
         "score": 7,
-        "context": "nt 10/08/2026 ADVERTISEMENT for the various posts at D"
+        "context": "nt 10/08/2026 NOTIFICATION: Sh"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-skill-test-practical-and-personal-interview-post-state",
+        "title": "NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator",
+        "category": "result",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "publishedLabel": "10 Aug 2026",
+        "sortValue": 1786320000000,
+        "score": 7,
+        "context": "FICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 10/08/2026 ADVERTISEMENT for the various posts at Di"
       },
       {
         "department": "MSRLS",
@@ -332,7 +344,7 @@
         "publishedLabel": "03 Aug 2026",
         "sortValue": 1785715200000,
         "score": 7,
-        "context": "xecutive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 03/08/2026 ADDENDUM: Shortlisted Candidate for the post of Pro"
+        "context": "Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 03/08/2026 ADDENDUM: Shortlisted Candidate for the post of Pr"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -428,7 +440,7 @@
         "publishedLabel": "28 Jul 2026",
         "sortValue": 1785196800000,
         "score": 7,
-        "context": "ssistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proj"
+        "context": "sistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proje"
       },
       {
         "department": "MSRLS",
@@ -440,19 +452,7 @@
         "publishedLabel": "24 Jul 2026",
         "sortValue": 1784851200000,
         "score": 7,
-        "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Pr"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-enterprise-development",
-        "title": "NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator.",
-        "category": "result",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 7,
-        "context": "ivestock-fisheries\">NOTIFICATION Shortlisted candidates for the Written Examination for the post of Project Manager -Livestock & Fisheries, Project Manager -SVEP & State Accountant. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinat"
+        "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of P"
       },
       {
         "department": "West Khasi Hills",
@@ -467,18 +467,6 @@
         "context": "23/07/2026 31/08/2026 View (755 KB)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17847214377267.pdf",
-        "title": "DSC: LDA Results of the Written Examination (22-11-2025)",
-        "category": "result",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "publishedLabel": "22 Jul 2026",
-        "sortValue": 1784678400000,
-        "score": 40,
-        "context": "22/07/2026 07/08/2026 View (742 KB)"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51314",
@@ -488,7 +476,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
+        "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya <span class=\"views-label views-labe"
       },
       {
         "department": "Meghalaya Govt",
@@ -500,7 +488,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -597,6 +585,18 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (230 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Result/Results%20of%20the%20interview%20for%20the%20ICMR%20funded%20project%20-%20Dept%20of%20Cardiology.pdf",
+        "title": "Results of the interview for the ICMR funded project - Dept of Cardiology",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 40,
+        "context": "16.06.2026"
       }
     ],
     "other_notice": [
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 Notification: Shortlisted candidat"
+        "context": "isted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -743,6 +743,18 @@
         "sortValue": 1782864000000,
         "score": 12,
         "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
+        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates – Corrigendum",
+        "category": "other_notice",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 40,
+        "context": "16/06/2026 30/09/2026 View (726 KB)"
       },
       {
         "department": "North Garo Hills",
@@ -875,23 +887,23 @@
         "sortValue": 1758240000000,
         "score": 12,
         "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf",
-        "title": "List of Candidates",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 11,
-        "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51444",
+        "title": "Army Agniveer Recruitment Rally for the State of Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "publishedLabel": "10 Aug 2026",
+        "sortValue": 1786320000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 10 Aug 2026 Dissemination of Notification: Indian Air Force (IAF) Open Recruitment Rally at Chumoukedima (Nagaland) – INTAKE 01/2027 <span class=\"vie"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -914,7 +926,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "rict-mission-management-units-dmmu\">ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) 07/08/2026 07/08/2026 Notification: Shortli"
+        "context": "ict-mission-management-units-dmmu\">ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) 07/08/2026 07/08/2026 Notification: Shortlis"
       },
       {
         "department": "MSRLS",
@@ -926,7 +938,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "FICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT f"
+        "context": "ates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT"
       },
       {
         "department": "NEIGRIHMS",
@@ -962,7 +974,7 @@
         "publishedLabel": "06 Aug 2026",
         "sortValue": 1785974400000,
         "score": 7,
-        "context": "Office Wise Search Date: 06 Aug 2026 Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <div class=\"views-field views-field-field"
+        "context": "ss=\"view-content\"> Army Agniveer Recruitment Rally for the State of Meghalaya Date: 10 Aug 2026 Date: 06 Aug 2026 Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <div class=\"views-field views-field-field"
       },
       {
         "department": "South Garo Hills",
@@ -1024,7 +1036,19 @@
         "publishedLabel": "10 Aug 2026",
         "sortValue": 1786320000000,
         "score": 7,
-        "context": "nt 10/08/2026 ADVERTISEMENT for the various posts at D"
+        "context": "nt 10/08/2026 NOTIFICATION: Sh"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-skill-test-practical-and-personal-interview-post-state",
+        "title": "NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator",
+        "category": "result",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "publishedLabel": "10 Aug 2026",
+        "sortValue": 1786320000000,
+        "score": 7,
+        "context": "FICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 10/08/2026 ADVERTISEMENT for the various posts at Di"
       },
       {
         "department": "MSRLS",
@@ -1036,7 +1060,7 @@
         "publishedLabel": "03 Aug 2026",
         "sortValue": 1785715200000,
         "score": 7,
-        "context": "xecutive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 03/08/2026 ADDENDUM: Shortlisted Candidate for the post of Pro"
+        "context": "Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 03/08/2026 ADDENDUM: Shortlisted Candidate for the post of Pr"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1132,7 +1156,7 @@
         "publishedLabel": "28 Jul 2026",
         "sortValue": 1785196800000,
         "score": 7,
-        "context": "ssistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proj"
+        "context": "sistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proje"
       }
     ],
     "admit_card": []
