@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T10:41:44.859Z",
-  "generatedAtLabel": "11 August 2026 at 04:11 pm",
+  "generatedAt": "2026-08-11T11:36:53.637Z",
+  "generatedAtLabel": "11 August 2026 at 05:06 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -455,18 +455,6 @@
         "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of P"
       },
       {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-enterprise-development",
-        "title": "NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator.",
-        "category": "result",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 7,
-        "context": "vestock-fisheries\">NOTIFICATION Shortlisted candidates for the Written Examination for the post of Project Manager -Livestock & Fisheries, Project Manager -SVEP & State Accountant. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinato"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17848842763012.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (230 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Result/Results%20of%20the%20interview%20for%20the%20ICMR%20funded%20project%20-%20Dept%20of%20Cardiology.pdf",
+        "title": "Results of the interview for the ICMR funded project - Dept of Cardiology",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 40,
+        "context": "16.06.2026"
       }
     ],
     "other_notice": [
@@ -623,6 +623,18 @@
         "sortValue": 1786060800000,
         "score": 40,
         "context": "07/08/2026 17/08/2026 View (724 KB)"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/social-inclusion-development-newsletter",
+        "title": "Social Inclusion & Development Newsletter",
+        "category": "other_notice",
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "publishedLabel": "07 Aug 2026",
+        "sortValue": 1786060800000,
+        "score": 7,
+        "context": "ger-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -875,18 +887,6 @@
         "sortValue": 1758240000000,
         "score": 12,
         "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf",
-        "title": "List of Candidates",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 11,
-        "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
       }
     ]
   },
