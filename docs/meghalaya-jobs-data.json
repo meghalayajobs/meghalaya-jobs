@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T04:01:04.601Z",
-  "generatedAtLabel": "13 August 2026 at 09:31 am",
+  "generatedAt": "2026-08-13T06:09:30.231Z",
+  "generatedAtLabel": "13 August 2026 at 11:39 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -188,30 +188,6 @@
         "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17847213255499.pdf",
-        "title": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR, VB-GRAM/G",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR, VB-GRAM/G 14/07/2026 15/08/2026 View (496 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17847033585061.pdf",
-        "title": "NOTICE: Publication of the List of Eligible Candidates for the Written Examination for the post of Data Entry Operator VB-GRAM/G",
-        "category": "recruitment",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "NOTICE: Publication of the List of Eligible Candidates for the Written Examination for the post of Data Entry Operator VB-GRAM/G 14/07/2026 15/08/2026 View (2 MB)"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51246",
@@ -222,18 +198,6 @@
         "sortValue": 1783468800000,
         "score": 7,
         "context": "s=\"field-content\"> Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) Date: 16 Jul 2026 Date: 08 Jul 2026 Walk-in Interview for the posts of Field Engineer, Programme Associate (Finance and Accounts), Programme Associate (Administration and Data Management) on contractual basis at MSWWDA, North Garo Hills under C"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
-        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       },
       {
         "department": "Information Tech.",
@@ -306,6 +270,42 @@
         "sortValue": 1780963200000,
         "score": 40,
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be read as under : 09-06-2026 -"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+        "title": "No.MPSC/D-15/1/2025-2026/22",
+        "category": "recruitment",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "publishedLabel": "03 Jun 2026",
+        "sortValue": 1780444800000,
+        "score": 40,
+        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.03/2026, Dated the 25th May, 2026, and as per Departments L.No. MEG/PISC (E) 35/2024-25/73, Dated the 26th May, 2026 for the post of Fishery Officer in the Directorate of Fisheries, appearing at Post Code-01, Para 2 -\"Age & Age Relaxation\" may be read as \"18 years to 32 years\". Upper age limit is relaxable by 5 years for SC/ST who hold certificate issued by competent authority of the Government of Meghalaya. 03-06-2026 -"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/it-consultant-recruitment-cctns-project-list-candidates-merit-basis-eligible-appear-personal",
+        "title": "IT Consultant Recruitment - CCTNS Project: List of Candidates on merit basis eligible to appear for the Personal Interview",
+        "category": "recruitment",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "publishedLabel": "03 Jun 2026",
+        "sortValue": 1780444800000,
+        "score": 7,
+        "context": "; Fireman 2026-07-28 2026-06-03 <a href=\"/recr"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-notice-%E2%80%93-doctor-consultants-contractual-meghalaya-police-2026",
+        "title": "Recruitment Notice – Doctor Consultants (Contractual), Meghalaya Police, 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 7,
+        "context": "Interview 2026-06-03 2026-06-01 <a href=\"/rec"
       }
     ],
     "admit_card": [],
@@ -455,18 +455,6 @@
         "context": "ger-enterprise-development\">NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinato"
       },
       {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-enterprise-development",
-        "title": "NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator.",
-        "category": "result",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 7,
-        "context": "ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP 28/07/2026 24/07/2026 NOTIFICATION Shortlisted candidates for the Written Examination for the post of Proj"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17848842763012.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (230 KB)"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/Result/Results%20of%20the%20interview%20for%20the%20ICMR%20funded%20project%20-%20Dept%20of%20Cardiology.pdf",
+        "title": "Results of the interview for the ICMR funded project - Dept of Cardiology",
+        "category": "result",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "publishedLabel": "16 Jun 2026",
+        "sortValue": 1781568000000,
+        "score": 40,
+        "context": "16.06.2026"
       }
     ],
     "other_notice": [
@@ -623,6 +623,18 @@
         "sortValue": 1786060800000,
         "score": 40,
         "context": "07/08/2026 17/08/2026 View (724 KB)"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/social-inclusion-development-newsletter",
+        "title": "Social Inclusion & Development Newsletter",
+        "category": "other_notice",
+        "publishedAt": "2026-08-07T00:00:00.000Z",
+        "publishedLabel": "07 Aug 2026",
+        "sortValue": 1786060800000,
+        "score": 7,
+        "context": "ger-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -685,30 +697,6 @@
         "context": "abel=\"Enter your search terms\" /> News Aug 03 2026 [NEW] For Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards Note: Better viewed in Chrome Browser Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] <a h"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857524029824.pdf",
-        "title": "NOTIFICATION: Extension of admission date in Hospitality and Hotel Administration under Chief Minister Meghalaya Hospitality Scholarship Scheme.",
-        "category": "other_notice",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 40,
-        "context": "NOTIFICATION: Extension of admission date in Hospitality and Hotel Administration under Chief Minister Meghalaya Hospitality Scholarship Scheme. 24/07/2026 30/08/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/07/17846364437840.pdf",
-        "title": "ADMISSION NOTIFICATION: ITI Admissions are open for the session 2026-2027",
-        "category": "other_notice",
-        "publishedAt": "2026-07-14T00:00:00.000Z",
-        "publishedLabel": "14 Jul 2026",
-        "sortValue": 1783987200000,
-        "score": 40,
-        "context": "ADMISSION NOTIFICATION: ITI Admissions are open for the session 2026-2027 14/07/2026 15/08/2026 View (1 MB)"
-      },
-      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
@@ -743,18 +731,6 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16/06/2026 30/09/2026 View (726 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/06/17812551044192.pdf",
-        "title": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG",
-        "category": "other_notice",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "publishedLabel": "10 Jun 2026",
-        "sortValue": 1781049600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG 10/06/2026 31/08/2026 View (412 KB)"
       },
       {
         "department": "West Garo Hills",
@@ -829,30 +805,6 @@
         "context": "t 4.5.2026.pdf\" target=\"_blank\">Rolling Advertisement for Teaching Faculty Post on Contractual Basis for Proposed Tura Medical College Notice Inviting Request for Proposal (RFP) for selection of Architectural Consultant for Preparing DPR of new infrastructure at Shillong Medical College | Notice - Cancellation of the RFP for selection of Architectural Consultant for preparation of a detailed project report for development of new building infrastructure for Shillong Medical College List of Students for Stipend of MBBS Course Batches 2018-2019 to 2023-2024 <i"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
-        "title": "NOTICE: Traffic Violations Notice",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17758414183450.pdf",
-        "title": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District",
-        "category": "other_notice",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District 01/04/2026 31/12/2026 View (579 KB)"
-      },
-      {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
         "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8042.pdf",
@@ -887,6 +839,54 @@
         "sortValue": 1758240000000,
         "score": 11,
         "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/screening-eligible-candidates.pdf",
+        "title": "The screening of eligible candida1es for (I) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS and (6) BPT against state, quota seats for the academic session 2025-26 will be held on 16th September 2025 (Tuesday) from 9:00 AM onwards at Civil Hospital Shillong, and Tura Civil Hospital, Tura.",
+        "category": "other_notice",
+        "publishedAt": "2025-09-16T00:00:00.000Z",
+        "publishedLabel": "16 Sept 2025",
+        "sortValue": 1757980800000,
+        "score": 12,
+        "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/report-on-world-environment-day-2023/",
+        "title": "Report on World Environment Day 2023",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "Disaster Management Guidelines Others Press Release Notices <a href=\"https://eastkhasihill"
       }
     ]
   },
@@ -1586,6 +1586,16 @@
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
+    },
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
+    },
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "reason": "HTTP 504"
     }
   ],
   "sources": [
