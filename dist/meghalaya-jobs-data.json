@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T10:53:38.194Z",
-  "generatedAtLabel": "13 August 2026 at 04:23 pm",
+  "generatedAt": "2026-08-13T11:39:32.955Z",
+  "generatedAtLabel": "13 August 2026 at 05:09 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 8,
-    "result": 8,
+    "result": 9,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -29,7 +29,7 @@
         "publishedLabel": "11 Aug 2026",
         "sortValue": 1786406400000,
         "score": 7,
-        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 11 Aug 2026 Army Agniveer Recruitment Rally for the State of Meghalaya Date: <span class=\"fi"
+        "context": "Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 12 Aug 2026 Date: 11 Aug 2026 Army Agniveer Recruitment Rally for the State of Meghalaya Date: <span class=\"fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -161,7 +161,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
+        "context": "el-field-date1\">Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -174,18 +174,6 @@
         "sortValue": 1784505600000,
         "score": 40,
         "context": "20.07.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51282",
-        "title": "Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry)",
-        "category": "recruitment",
-        "publishedAt": "2026-07-16T00:00:00.000Z",
-        "publishedLabel": "16 Jul 2026",
-        "sortValue": 1784160000000,
-        "score": 7,
-        "context": "-field-title\"> Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared Date: 20 Jul 2026 Date: 16 Jul 2026 Notice for Recruitment of Human Resources on Contract at the National Game Secretariat"
       },
       {
         "department": "North Garo Hills",
@@ -306,6 +294,18 @@
         "sortValue": 1780444800000,
         "score": 40,
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.03/2026, Dated the 25th May, 2026, and as per Departments L.No. MEG/PISC (E) 35/2024-25/73, Dated the 26th May, 2026 for the post of Fishery Officer in the Directorate of Fisheries, appearing at Post Code-01, Para 2 -\"Age & Age Relaxation\" may be read as \"18 years to 32 years\". Upper age limit is relaxable by 5 years for SC/ST who hold certificate issued by competent authority of the Government of Meghalaya. 03-06-2026 -"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/it-consultant-recruitment-cctns-project-list-candidates-merit-basis-eligible-appear-personal",
+        "title": "IT Consultant Recruitment - CCTNS Project: List of Candidates on merit basis eligible to appear for the Personal Interview",
+        "category": "recruitment",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "publishedLabel": "03 Jun 2026",
+        "sortValue": 1780444800000,
+        "score": 7,
+        "context": "; Fireman 2026-07-28 2026-06-03 <a href=\"/recr"
       }
     ],
     "admit_card": [],
@@ -320,7 +320,19 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
+        "context": "Office Wise Search Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51485",
+        "title": "Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "publishedLabel": "12 Aug 2026",
+        "sortValue": 1786492800000,
+        "score": 7,
+        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "MSRLS",
@@ -488,7 +500,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 <div class=\"views-fiel"
+        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
       },
       {
         "department": "Meghalaya Govt",
@@ -500,7 +512,7 @@
         "publishedLabel": "22 Jul 2026",
         "sortValue": 1784678400000,
         "score": 7,
-        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 22 Jul 2026 Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared <div class=\"views-field view"
+        "context": "span> Advertisement for the post of OBB Accountant on a contractual basis under DHS (MCH&FW), Meghalaya Date: 22 Jul 2026 Date: 22 Jul 2026 List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -536,7 +548,7 @@
         "publishedLabel": "20 Jul 2026",
         "sortValue": 1784505600000,
         "score": 7,
-        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
+        "context": "lass=\"views-field views-field-title\"> List of Shortlisted Candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing Date: 22 Jul 2026 Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
       },
       {
         "department": "West Khasi Hills",
@@ -585,18 +597,6 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (228 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829785178251.pdf",
-        "title": "District Level Task Force OSC: Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (230 KB)"
       }
     ],
     "other_notice": [
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Missi"
+        "context": "isted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -902,7 +902,7 @@
         "publishedLabel": "11 Aug 2026",
         "sortValue": 1786406400000,
         "score": 7,
-        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 11 Aug 2026 Army Agniveer Recruitment Rally for the State of Meghalaya Date: <span class=\"fi"
+        "context": "Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 12 Aug 2026 Date: 11 Aug 2026 Army Agniveer Recruitment Rally for the State of Meghalaya Date: <span class=\"fi"
       },
       {
         "department": "Meghalaya Govt",
@@ -1000,7 +1000,19 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
+        "context": "Office Wise Search Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51485",
+        "title": "Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "publishedLabel": "12 Aug 2026",
+        "sortValue": 1786492800000,
+        "score": 7,
+        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "MSRLS",
