@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T23:31:47.986Z",
-  "generatedAtLabel": "14 August 2026 at 05:01 am",
+  "generatedAt": "2026-08-14T01:09:39.252Z",
+  "generatedAtLabel": "14 August 2026 at 06:39 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 8,
-    "result": 9,
+    "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1073,30 +1073,6 @@
         "sortValue": 1785456000000,
         "score": 7,
         "context": "Dissemination of Notification: Indian Air Force (IAF) Open Recruitment Rally at Chumoukedima (Nagaland) – INTAKE 01/2027 Date: 06 Aug 2026 Date: 31 Jul 2026 Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) <span class=\"views"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/Result%20for%20appointment%20of%20Consultant%20MD%20Psychiatry%20on%20contract%20basis.pdf",
-        "title": "Result for appointment of Consultant MD Psychiatry on contract basis",
-        "category": "result",
-        "publishedAt": "2026-07-30T00:00:00.000Z",
-        "publishedLabel": "30 Jul 2026",
-        "sortValue": 1785369600000,
-        "score": 40,
-        "context": "30.07.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51393",
-        "title": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry)",
-        "category": "result",
-        "publishedAt": "2026-07-30T00:00:00.000Z",
-        "publishedLabel": "30 Jul 2026",
-        "sortValue": 1785369600000,
-        "score": 7,
-        "context": "s-field views-field-title\"> Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 31 Jul 2026 Date: 30 Jul 2026 Army Agniveer Recruitment Rally Date: 23 Jul 2026</s"
       }
     ],
     "admit_card": []
