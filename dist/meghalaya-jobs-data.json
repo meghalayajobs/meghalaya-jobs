@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T14:09:03.728Z",
-  "generatedAtLabel": "14 August 2026 at 07:39 pm",
+  "generatedAt": "2026-08-14T15:41:57.447Z",
+  "generatedAtLabel": "14 August 2026 at 09:11 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -479,6 +479,18 @@
         "context": "fication-shortlisted-candidates-personal-interview-post-district-office-assistant\">Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant 03/08/2026 28/07/2026 NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Pr"
       },
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-post-project-manager-livestock-fisheries",
+        "title": "NOTIFICATION Shortlisted candidates for the Written Examination for the post of Project Manager -Livestock & Fisheries, Project Manager -SVEP & State Accountant.",
+        "category": "result",
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "publishedLabel": "24 Jul 2026",
+        "sortValue": 1784851200000,
+        "score": 7,
+        "context": "ger-enterprise-development\">NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinato"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17848842763012.pdf",
@@ -585,18 +597,6 @@
         "sortValue": 1782691200000,
         "score": 40,
         "context": "29.06.2026"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829789736970.pdf",
-        "title": "District Level Committee HUB, Empowerment of Women : Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (228 KB)"
       }
     ],
     "other_notice": [
@@ -611,18 +611,6 @@
         "sortValue": 1786320000000,
         "score": 40,
         "context": "10-08-2026"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/niq-vehicle-hiring",
-        "title": "NIQ for VEHICLE HIRING",
-        "category": "other_notice",
-        "publishedAt": "2026-08-10T00:00:00.000Z",
-        "publishedLabel": "10 Aug 2026",
-        "sortValue": 1786320000000,
-        "score": 7,
-        "context": "isted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 10/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "West Khasi Hills",
@@ -646,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "em\"> 07/08/2026 07/08/2026 Notification: Shortlisted candidates for the Pers"
+        "context": "isted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
       },
       {
         "department": "NEIGRIHMS",
@@ -887,6 +875,18 @@
         "sortValue": 1758240000000,
         "score": 12,
         "context": "t=\"21\" alt=\"download\"> List of Shortlisted Candidates to appear for the personal interview for 'The Meghalaya Mission Cancer Prevention and Early Detection' Project | Accountant | Office Assistant cum Typist | List of Candidates Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-32-2025-8025.pdf",
+        "title": "Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College",
+        "category": "other_notice",
+        "publishedAt": "2025-09-19T00:00:00.000Z",
+        "publishedLabel": "19 Sept 2025",
+        "sortValue": 1758240000000,
+        "score": 12,
+        "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
       }
     ]
   },
