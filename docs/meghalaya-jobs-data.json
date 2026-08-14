@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T03:56:40.429Z",
-  "generatedAtLabel": "14 August 2026 at 09:26 am",
+  "generatedAt": "2026-08-14T05:27:44.364Z",
+  "generatedAtLabel": "14 August 2026 at 10:57 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -527,6 +527,18 @@
         "context": "20.07.2026"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/07/17846982361703.pdf",
+        "title": "Result of Driving Practical Test",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20/07/2026 View (1 MB)"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51283",
@@ -585,18 +597,6 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (228 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829785178251.pdf",
-        "title": "District Level Task Force OSC: Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (230 KB)"
       }
     ],
     "other_notice": [
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "isted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Miss"
+        "context": "of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Missi"
       },
       {
         "department": "NEIGRIHMS",
@@ -769,6 +769,42 @@
         "context": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG 10/06/2026 31/08/2026 View (412 KB)"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
+        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
+        "category": "other_notice",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 40,
+        "context": "01/06/2026 View (248 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
+        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14/05/2026 View (154 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17785857886940.pdf",
+        "title": "Notice for candidates applied for the post for Dresser and Water Carrier",
+        "category": "other_notice",
+        "publishedAt": "2026-05-08T00:00:00.000Z",
+        "publishedLabel": "08 May 2026",
+        "sortValue": 1778198400000,
+        "score": 40,
+        "context": "08/05/2026 View (732 KB)"
+      },
+      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
@@ -851,42 +887,6 @@
         "sortValue": 1758240000000,
         "score": 12,
         "context": "height=\"21\" alt=\"download\"> Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | List of Candidates Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Auxiliary Nursing & Midwifes (ANM) | List of Selected Candidates - GNM | <a href=\"news/DHS-MER-Estt-GNM-2-2025-26-7953.pdf\" target=\"_b"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-SMC-MBBS-2025-8044.pdf",
-        "title": "List of Candidates",
-        "category": "other_notice",
-        "publishedAt": "2025-09-19T00:00:00.000Z",
-        "publishedLabel": "19 Sept 2025",
-        "sortValue": 1758240000000,
-        "score": 11,
-        "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/screening-eligible-candidates.pdf",
-        "title": "The screening of eligible candida1es for (I) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS and (6) BPT against state, quota seats for the academic session 2025-26 will be held on 16th September 2025 (Tuesday) from 9:00 AM onwards at Civil Hospital Shillong, and Tura Civil Hospital, Tura.",
-        "category": "other_notice",
-        "publishedAt": "2025-09-16T00:00:00.000Z",
-        "publishedLabel": "16 Sept 2025",
-        "sortValue": 1757980800000,
-        "score": 12,
-        "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
-        "title": "Previous Question Papers",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
       }
     ]
   },
@@ -1586,11 +1586,6 @@
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
-    },
-    {
-      "department": "West Garo Hills",
-      "url": "https://westgarohills.gov.in/documents/",
-      "reason": "HTTP 504"
     }
   ],
   "sources": [
