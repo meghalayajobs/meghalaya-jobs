@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T07:43:29.228Z",
-  "generatedAtLabel": "17 August 2026 at 01:13 pm",
+  "generatedAt": "2026-08-17T08:32:22.822Z",
+  "generatedAtLabel": "17 August 2026 at 02:02 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 8,
+    "recruitment": 9,
     "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51511",
+        "title": "Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years",
+        "category": "recruitment",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "publishedLabel": "17 Aug 2026",
+        "sortValue": 1786924800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+      },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
@@ -294,18 +306,6 @@
         "sortValue": 1780272000000,
         "score": 7,
         "context": "Interview 2026-06-03 2026-06-01 <a href=\"/rec"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice26May2026a.pdf",
-        "title": "No. MPSC/D-61/1/2020-2021/151",
-        "category": "recruitment",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "publishedLabel": "26 May 2026",
-        "sortValue": 1779753600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE This is for general information of all candidates and general public that as per Letter No.PER (AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by the Commission, the category wise Roster is as follows:- 26-05-2026 -"
       }
     ],
     "admit_card": [],
@@ -332,7 +332,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
@@ -344,7 +344,7 @@
         "publishedLabel": "12 Aug 2026",
         "sortValue": 1786492800000,
         "score": 7,
-        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
+        "context": "class=\"field-content\">17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "MSRLS",
@@ -551,18 +551,6 @@
         "context": "20/07/2026 View (1 MB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51283",
-        "title": "Notice - Results of the Written Examination for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong are hereby declared",
-        "category": "result",
-        "publishedAt": "2026-07-20T00:00:00.000Z",
-        "publishedLabel": "20 Jul 2026",
-        "sortValue": 1784505600000,
-        "score": 7,
-        "context": "-title\"> Notice - Walk-In Interview Schedule for the shortlisted candidates for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing on 24th July, 2026 Date: 22 Jul 2026 Date: 20 Jul 2026 Advertisement from eligible in-service nursing cadre under H&FW Deptt., Govt. of Meghalaya for the post of Teaching Faculty in the 2 (two) Upgraded College of Nursing (Lateral Entry) <div"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1782691200000,
         "score": 40,
         "context": "29.06.2026"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829789736970.pdf",
+        "title": "District Level Committee HUB, Empowerment of Women : Results of Personal Interview",
+        "category": "result",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "24/06/2026 30/09/2026 View (228 KB)"
       }
     ],
     "other_notice": [
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "ivelihoods-promotion-pe-nflp-block-functional\">ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-sin"
+        "context": "ger-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-si"
       },
       {
         "department": "NEIGRIHMS",
@@ -895,6 +895,18 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51511",
+        "title": "Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years",
+        "category": "recruitment",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "publishedLabel": "17 Aug 2026",
+        "sortValue": 1786924800000,
+        "score": 7,
+        "context": "Office Wise Search Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51467",
         "title": "Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong",
         "category": "recruitment",
@@ -1012,7 +1024,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
@@ -1024,7 +1036,7 @@
         "publishedLabel": "12 Aug 2026",
         "sortValue": 1786492800000,
         "score": 7,
-        "context": "-content\"> Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
+        "context": "class=\"field-content\">17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: 13 Aug 2026 Date: 12 Aug 2026 Advertisement for the post of Hospital Manager in various District Hospitals, Meghalaya under Directorate of Health Services (MI), Shillong <div class=\"views-field views-field-field-date1 sf-"
       },
       {
         "department": "MSRLS",
