@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T07:29:53.955Z",
-  "generatedAtLabel": "18 August 2026 at 12:59 pm",
+  "generatedAt": "2026-08-18T08:24:15.520Z",
+  "generatedAtLabel": "18 August 2026 at 01:54 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 18,
-    "result": 5,
+    "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -77,7 +77,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
+        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
       },
       {
         "department": "Meghalaya Govt",
@@ -89,7 +89,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -101,7 +101,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
+        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
       },
       {
         "department": "Meghalaya Govt",
@@ -113,7 +113,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Office Wise Search Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
+        "context": "Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
       },
       {
         "department": "Meghalaya Govt",
@@ -125,7 +125,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+        "context": "Office Wise Search Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
       },
       {
         "department": "Meghalaya Govt",
@@ -137,7 +137,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -311,6 +311,18 @@
     "admit_card": [],
     "result": [
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51526",
+        "title": "Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "publishedLabel": "17 Aug 2026",
+        "sortValue": 1786924800000,
+        "score": 7,
+        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20interview%20held%20on%2013.8.2026%20for%20the%20post%20of%20Laboratory%20Technician%20(on%20contractual%20basis)%20-%20Dept.%20of%20Microbiology.pdf",
@@ -332,7 +344,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
@@ -393,18 +405,6 @@
         "sortValue": 1785456000000,
         "score": 40,
         "context": "31.07.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51394",
-        "title": "Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
-        "category": "result",
-        "publishedAt": "2026-07-31T00:00:00.000Z",
-        "publishedLabel": "31 Jul 2026",
-        "sortValue": 1785456000000,
-        "score": 7,
-        "context": "Dissemination of Notification: Indian Air Force (IAF) Open Recruitment Rally at Chumoukedima (Nagaland) – INTAKE 01/2027 Date: 06 Aug 2026 Date: 31 Jul 2026 Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry) <span class=\"views"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -479,18 +479,6 @@
         "context": "ger-enterprise-development\">NOTIFICATION-Shortlisted candidates for the Written Examination for the post of Project Manager -Enterprise Development & Finance and State MIS-Coordinator. 24/07/2026 24/07/2026 NOTIFICATION: Result of the Personal Interview for the post of Block MIS Coordinato"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17848842763012.pdf",
-        "title": "DRDA: Results of the Personal Interview for the Post of APO and Accounts Asst.",
-        "category": "result",
-        "publishedAt": "2026-07-23T00:00:00.000Z",
-        "publishedLabel": "23 Jul 2026",
-        "sortValue": 1784764800000,
-        "score": 40,
-        "context": "23/07/2026 31/08/2026 View (755 KB)"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Project%20Research%20Scientist%20-%201%20(Medical)%20under%20ICMR%20project%20%E2%80%93%20Dept.%20of%20General%20Medicine.pdf",
@@ -515,30 +503,6 @@
         "context": "20/07/2026 View (1 MB)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
-        "title": "DSC: Results of the personal interview for the post of Gram Sevak",
-        "category": "result",
-        "publishedAt": "2026-07-08T00:00:00.000Z",
-        "publishedLabel": "08 Jul 2026",
-        "sortValue": 1783468800000,
-        "score": 40,
-        "context": "08/07/2026 30/09/2026 View (407 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835117991171.pdf",
-        "title": "DSC: Results of the personal interview for the post of Gram Sevika",
-        "category": "result",
-        "publishedAt": "2026-07-08T00:00:00.000Z",
-        "publishedLabel": "08 Jul 2026",
-        "sortValue": 1783468800000,
-        "score": 40,
-        "context": "08/07/2026 30/09/2026 View (347 KB)"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Results%20of%20the%20Walk-in%20Interview%20for%20recruitment%20to%20contractual%20posts%20under%20State%20Organ%20&%20Tissue%20Transplant%20Organisation%20(SOTTO).pdf",
@@ -549,30 +513,6 @@
         "sortValue": 1782691200000,
         "score": 40,
         "context": "29.06.2026"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829789736970.pdf",
-        "title": "District Level Committee HUB, Empowerment of Women : Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (228 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17829785178251.pdf",
-        "title": "District Level Task Force OSC: Results of Personal Interview",
-        "category": "result",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
-        "score": 40,
-        "context": "24/06/2026 30/09/2026 View (230 KB)"
       },
       {
         "department": "MPSC notice",
@@ -597,6 +537,66 @@
         "sortValue": 1779235200000,
         "score": 12,
         "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791887543084.pdf",
+        "title": "Rejection list on the ground of overage for the post of LDA",
+        "category": "result",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
+        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 12,
+        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
+        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 12,
+        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-armed-branch-constable",
+        "title": "Recruitment Update: Second Merit List - Shortlisted Candidates for Appointment to the post of Armed Branch Constable",
+        "category": "result",
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "publishedLabel": "02 Apr 2026",
+        "sortValue": 1775088000000,
+        "score": 7,
+        "context": "ice, 2026 2026-06-01 2026-04-02 <a href=\"/recr"
+      },
+      {
+        "department": "Meghalaya Police",
+        "sourceUrl": "https://megpolice.gov.in/recruitment",
+        "url": "https://megpolice.gov.in/recruitment-update-second-merit-list-shortlisted-candidates-appointment-post-un-armed-branch",
+        "title": "Recruitment update: Second Merit List - Shortlisted Candidates for Appointment to the post of Un-armed Branch Constable, MPRO Operator, Fireman, Driver Fireman, Signal/ BN. Operator, Fireman Mechanic/Mechanic & Driver Constable",
+        "category": "result",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "publishedLabel": "01 Apr 2026",
+        "sortValue": 1775001600000,
+        "score": 7,
+        "context": "Constable 2026-04-02 2026-04-01 <a href=\"/not"
       }
     ],
     "other_notice": [
@@ -622,7 +622,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "ivelihoods-promotion-pe-nflp-block-functional\">ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-sin"
+        "context": "ill-test-practical-and-personal-interview-post-state\">NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-si"
       },
       {
         "department": "NEIGRIHMS",
@@ -635,18 +635,6 @@
         "sortValue": 1785974400000,
         "score": 12,
         "context": "nk\">Advertisement for various posts on contractual basis under the project Ayurveda TB 07-08-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (5th Cut-Off date) // JRD- Application form - Annexure- I // 06-08-2026 Notice alongwith lists of Eligible & In-Eligible candidates for the Group A posts of Deputy Medical Superintendent, Bio Medical Engineer and Medical Physicist 29-07-2026 Advert"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
-        "title": "DSC: Public Notice – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "publishedLabel": "29 Jul 2026",
-        "sortValue": 1785283200000,
-        "score": 40,
-        "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
         "department": "Information Tech.",
@@ -707,18 +695,6 @@
         "sortValue": 1782864000000,
         "score": 12,
         "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
-        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16/06/2026 30/09/2026 View (726 KB)"
       },
       {
         "department": "North Garo Hills",
@@ -887,6 +863,30 @@
         "sortValue": 1758240000000,
         "score": 11,
         "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/screening-eligible-candidates.pdf",
+        "title": "The screening of eligible candida1es for (I) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS and (6) BPT against state, quota seats for the academic session 2025-26 will be held on 16th September 2025 (Tuesday) from 9:00 AM onwards at Civil Hospital Shillong, and Tura Civil Hospital, Tura.",
+        "category": "other_notice",
+        "publishedAt": "2025-09-16T00:00:00.000Z",
+        "publishedLabel": "16 Sept 2025",
+        "sortValue": 1757980800000,
+        "score": 12,
+        "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
+      },
+      {
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
+        "title": "Previous Question Papers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
       }
     ]
   },
@@ -950,7 +950,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
+        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
       },
       {
         "department": "Meghalaya Govt",
@@ -962,7 +962,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -974,7 +974,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
+        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
       },
       {
         "department": "Meghalaya Govt",
@@ -986,7 +986,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Office Wise Search Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
+        "context": "Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
       },
       {
         "department": "Meghalaya Govt",
@@ -998,7 +998,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+        "context": "Office Wise Search Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
       },
       {
         "department": "Meghalaya Govt",
@@ -1010,7 +1010,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -1111,6 +1111,18 @@
     ],
     "result": [
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51526",
+        "title": "Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-08-17T00:00:00.000Z",
+        "publishedLabel": "17 Aug 2026",
+        "sortValue": 1786924800000,
+        "score": 7,
+        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20interview%20held%20on%2013.8.2026%20for%20the%20post%20of%20Laboratory%20Technician%20(on%20contractual%20basis)%20-%20Dept.%20of%20Microbiology.pdf",
@@ -1132,7 +1144,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
@@ -1682,6 +1694,11 @@
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
+    },
+    {
+      "department": "West Khasi Hills",
+      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 504"
     }
   ],
   "sources": [
