@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T23:13:42.879Z",
-  "generatedAtLabel": "18 August 2026 at 04:43 am",
+  "generatedAt": "2026-08-18T00:41:54.090Z",
+  "generatedAtLabel": "18 August 2026 at 06:11 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 12,
-    "result": 6,
+    "result": 5,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "ication-result-personal-interview-absorption-staff-post-block-project-manager-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-si"
+        "context": "ill-test-practical-and-personal-interview-post-state\">NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-si"
       },
       {
         "department": "NEIGRIHMS",
@@ -1097,18 +1097,6 @@
         "sortValue": 1786320000000,
         "score": 7,
         "context": "t-personal-interview-absorption-staff-post-block-project-manager-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 10/08/2026 ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-personal-interview-post-district-office-assistant",
-        "title": "Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant",
-        "category": "result",
-        "publishedAt": "2026-08-03T00:00:00.000Z",
-        "publishedLabel": "03 Aug 2026",
-        "sortValue": 1785715200000,
-        "score": 7,
-        "context": "d-content\"> ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) 07/08/2026 03/08/2026 ADDENDUM: Shortlisted Candidate for the post of Project Manager -SVEP <span class=\"date-display-single\" pr"
       }
     ],
     "admit_card": []
