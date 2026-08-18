@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T09:22:49.617Z",
-  "generatedAtLabel": "18 August 2026 at 02:52 pm",
+  "generatedAt": "2026-08-18T10:18:09.465Z",
+  "generatedAtLabel": "18 August 2026 at 03:48 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -503,6 +503,18 @@
         "context": "20.07.2026"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/07/17846982361703.pdf",
+        "title": "Result of Driving Practical Test",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20/07/2026 View (1 MB)"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -585,18 +597,6 @@
         "sortValue": 1779235200000,
         "score": 12,
         "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
-        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-04-30T00:00:00.000Z",
-        "publishedLabel": "30 Apr 2026",
-        "sortValue": 1777507200000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
       }
     ],
     "other_notice": [
@@ -733,6 +733,42 @@
         "context": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG 10/06/2026 31/08/2026 View (412 KB)"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
+        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
+        "category": "other_notice",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 40,
+        "context": "01/06/2026 View (248 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
+        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14/05/2026 View (154 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17785857886940.pdf",
+        "title": "Notice for candidates applied for the post for Dresser and Water Carrier",
+        "category": "other_notice",
+        "publishedAt": "2026-05-08T00:00:00.000Z",
+        "publishedLabel": "08 May 2026",
+        "sortValue": 1778198400000,
+        "score": 40,
+        "context": "08/05/2026 View (732 KB)"
+      },
+      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
@@ -851,42 +887,6 @@
         "sortValue": 1758240000000,
         "score": 11,
         "context": "\" height=\"21\" alt=\"download\"> | Office Assistant cum Typist Notification - List of Candidates for Counselling for Admission into 1st Year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College | Notification for Eligible Candidates for Counselling scheduled for 19th September 2025 for Admission into 1st year MBBS Course for Central Pool Seats (State Quota) and Shillong Medical College Notice for Selected Candidates for General Nursing & Midwifery (GNM) & Au"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/screening-eligible-candidates.pdf",
-        "title": "The screening of eligible candida1es for (I) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS and (6) BPT against state, quota seats for the academic session 2025-26 will be held on 16th September 2025 (Tuesday) from 9:00 AM onwards at Civil Hospital Shillong, and Tura Civil Hospital, Tura.",
-        "category": "other_notice",
-        "publishedAt": "2025-09-16T00:00:00.000Z",
-        "publishedLabel": "16 Sept 2025",
-        "sortValue": 1757980800000,
-        "score": 12,
-        "context": "MC-MBBS-23-2025-26-7908.pdf\" target=\"_blank\">Merit List Notification - Extension of Application Period of the Online Portal for Admission into 1st year MBBS Course of Shillong Medical College | Apply Here List of Candidates forAdmissaon into MBBS, BDS, BHMS, BAMS, BUMS and BPT against State Quota Seats for Academic Session 2025-26 Advertisement for Admission for 1st Year MBBS Course to thre Shillong Medical College"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
-        "title": "Previous Question Papers",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/solid-waste-management-rules-2026/",
-        "title": "Solid Waste Management Rules, 2026",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "nu-item-type-taxonomy menu-item-object-notice_category current-menu-item menu-item-2469 active \"> Recruitment Tenders Citizen Services RTI <a href=\"https://eastgarohills.gov.in/media-g"
       }
     ]
   },
@@ -1706,11 +1706,6 @@
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
-    },
-    {
-      "department": "West Garo Hills",
-      "url": "https://westgarohills.gov.in/documents/",
-      "reason": "HTTP 504"
     }
   ],
   "sources": [
