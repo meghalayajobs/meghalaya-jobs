@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T07:34:51.993Z",
-  "generatedAtLabel": "21 August 2026 at 01:04 pm",
+  "generatedAt": "2026-08-21T08:28:01.290Z",
+  "generatedAtLabel": "21 August 2026 at 01:58 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 17,
+    "recruitment": 18,
     "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51561",
+        "title": "Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist on contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "publishedLabel": "19 Aug 2026",
+        "sortValue": 1787097600000,
+        "score": 7,
+        "context": "Office Wise Search Date: 19 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -89,7 +101,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+        "context": "ws-field-title\"> Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist on contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 19 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
       },
       {
         "department": "Meghalaya Govt",
@@ -101,7 +113,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -113,7 +125,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
+        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -125,7 +137,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
+        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
       },
       {
         "department": "Meghalaya Govt",
@@ -137,7 +149,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
+        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
       },
       {
         "department": "Meghalaya Govt",
@@ -149,7 +161,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Office Wise Search Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
       },
       {
         "department": "West Khasi Hills",
@@ -248,18 +260,6 @@
         "context": "Advertisement for various posts on contractual basis under the project Ayurveda TB 07-08-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (5th Cut-Off date) // // EWS CERTIFICATE FORMAT - Annexure II 06-08-2026 Notice alongwith lists of Eligible & In-Eligible candidates for the Group A posts of Deputy Medical Superintendent, Bio Medical Engineer and Medical Physicist<"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51415",
-        "title": "Dissemination of Notification: Indian Air Force (IAF) Open Recruitment Rally at Chumoukedima (Nagaland) – INTAKE 01/2027",
-        "category": "recruitment",
-        "publishedAt": "2026-08-06T00:00:00.000Z",
-        "publishedLabel": "06 Aug 2026",
-        "sortValue": 1785974400000,
-        "score": 7,
-        "context": "n> 11 Aug 2026 Army Agniveer Recruitment Rally for the State of Meghalaya Date: 10 Aug 2026 Date: 06 Aug 2026 Notice - List of selected candidates to appear for the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <div class=\"views-field views-field-field"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Selection%20of%20Candidate%20who%20attended%20the%20Walk-in%20Interview%20for%20the%20posts%20of%20Data%20Entry%20Operator.pdf",
@@ -332,7 +332,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -356,7 +356,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
@@ -893,6 +893,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51561",
+        "title": "Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist on contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya",
+        "category": "recruitment",
+        "publishedAt": "2026-08-19T00:00:00.000Z",
+        "publishedLabel": "19 Aug 2026",
+        "sortValue": 1787097600000,
+        "score": 7,
+        "context": "Office Wise Search Date: 19 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Scientist-B%20(Non-Medical)%20on%20contractual%20basis.pdf",
@@ -962,7 +974,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
+        "context": "ws-field-title\"> Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist on contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 19 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
       },
       {
         "department": "Meghalaya Govt",
@@ -974,7 +986,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
+        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
       },
       {
         "department": "Meghalaya Govt",
@@ -986,7 +998,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
+        "context": "\">Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Peon Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
       },
       {
         "department": "Meghalaya Govt",
@@ -998,7 +1010,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
+        "context": "div> Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: <span class=\"field-content"
       },
       {
         "department": "Meghalaya Govt",
@@ -1010,7 +1022,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
+        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
       },
       {
         "department": "Meghalaya Govt",
@@ -1022,7 +1034,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Office Wise Search Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
+        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
       },
       {
         "department": "West Khasi Hills",
@@ -1120,7 +1132,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years"
+        "context": "e: 17 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: 17 Aug 2026 Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: <span class=\"field-conte"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1144,7 +1156,7 @@
         "publishedLabel": "13 Aug 2026",
         "sortValue": 1786579200000,
         "score": 7,
-        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
+        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 13 Aug 2026 Notice - Results of the Written Examination for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views"
       },
       {
         "department": "Meghalaya Govt",
