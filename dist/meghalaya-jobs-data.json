@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T02:36:03.996Z",
-  "generatedAtLabel": "30 August 2026 at 08:06 am",
+  "generatedAt": "2026-08-30T08:43:08.444Z",
+  "generatedAtLabel": "30 August 2026 at 02:13 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -8,11 +8,11 @@
     "recruitment": 24,
     "admit_card": 0,
     "result": 24,
-    "other_notice": 24
+    "other_notice": 16
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 19,
+    "recruitment": 17,
     "result": 4,
     "admit_card": 0
   },
@@ -65,7 +65,7 @@
         "publishedLabel": "26 Aug 2026",
         "sortValue": 1787702400000,
         "score": 7,
-        "context": "Office Wise Search Date: 26 Aug 2026 List of eligible candidates to appear for the Interview for the contractual posts of AI Trainer in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura <div class=\"views-field views-field-"
+        "context": "cruitment/search\" data-drupal-link-system-path=\"recruitment/search\">Search Date: 26 Aug 2026 List of eligible candidates to appear for the Interview for the contractual posts of AI Trainer in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura <div class=\"views-field views-field-"
       },
       {
         "department": "NEIGRIHMS",
@@ -138,30 +138,6 @@
         "sortValue": 1787011200000,
         "score": 40,
         "context": "18-08-2026"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869593686823.pdf",
-        "title": "Notice: Indian Air Force (IAF) Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Indian Air Force (IAF) Recruitment 17/08/2026 31/08/2026 View ()"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869590705232.pdf",
-        "title": "Notice: Indian Army Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Army Recruitment. 17/08/2026 31/08/2026 View ()"
       },
       {
         "department": "NEIGRIHMS",
@@ -306,6 +282,30 @@
         "sortValue": 1784505600000,
         "score": 40,
         "context": "20.07.2026"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura.",
+        "category": "recruitment",
+        "publishedAt": "2026-06-25T00:00:00.000Z",
+        "publishedLabel": "25 Jun 2026",
+        "sortValue": 1782345600000,
+        "score": 12,
+        "context": "s Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
+      },
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+        "title": "No.MPSC/ADVT/2025-2026/113",
+        "category": "recruitment",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 40,
+        "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
       }
     ],
     "admit_card": [],
@@ -527,18 +527,6 @@
         "context": "20.07.2026"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/07/17846982361703.pdf",
-        "title": "Result of Driving Practical Test",
-        "category": "result",
-        "publishedAt": "2026-07-20T00:00:00.000Z",
-        "publishedLabel": "20 Jul 2026",
-        "sortValue": 1784505600000,
-        "score": 40,
-        "context": "20/07/2026 View (1 MB)"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -597,6 +585,18 @@
         "sortValue": 1779235200000,
         "score": 12,
         "context": "t=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared. </li"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result26May2026a.pdf",
+        "title": "The result of Personal Interview to the post of Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries (Sept-2024) conducted on the 5th, 6th, 7th, 12th, 13th, 14th, 15th, 19th & 20th May 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "publishedLabel": "30 Apr 2026",
+        "sortValue": 1777507200000,
+        "score": 12,
+        "context": "The result of Screening Test to the post of Librarian in the Directorate of Information and Public Relations [April 2025] is hereby declared. The result of Personal Interview to the post of Junior Engineer Grade - I (Civil) under Various Departments [April 2025] conducted on the 14th, 15th, 16th, 17th, 21st, 22nd, 23rd, 24th, 27th, 28th, 29th, 30th April 2026 is hereby declared."
       }
     ],
     "other_notice": [
@@ -634,7 +634,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "cation-result-personal-interview-absorption-staff-post-block-project-manager-bpm\">NOTIFICATION - Result of the Personal Interview for the Absorption of staff to the post of Block Project Manager (BPM) 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-sin"
+        "context": "sp; 07/08/2026 07/08/2026 Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant"
       },
       {
         "department": "West Khasi Hills",
@@ -673,18 +673,6 @@
         "context": "ates to appear for the Interview Test for the 3 (three) contractual posts of Lab Assistant.pdf \" target=\"_blank\">eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] For Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards Note: Better viewed in Chrome Browser Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] <a h"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857524029824.pdf",
-        "title": "NOTIFICATION: Extension of admission date in Hospitality and Hotel Administration under Chief Minister Meghalaya Hospitality Scholarship Scheme.",
-        "category": "other_notice",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "publishedLabel": "24 Jul 2026",
-        "sortValue": 1784851200000,
-        "score": 40,
-        "context": "NOTIFICATION: Extension of admission date in Hospitality and Hotel Administration under Chief Minister Meghalaya Hospitality Scholarship Scheme. 24/07/2026 30/08/2026 View (2 MB)"
-      },
-      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
@@ -707,54 +695,6 @@
         "sortValue": 1782864000000,
         "score": 12,
         "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/06/17812551044192.pdf",
-        "title": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG",
-        "category": "other_notice",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "publishedLabel": "10 Jun 2026",
-        "sortValue": 1781049600000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: Directions to all Petrol Pumps/Outlet and LPG Distributors regarding availability and price of petroleum products and LPG 10/06/2026 31/08/2026 View (412 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
-        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
-        "category": "other_notice",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "publishedLabel": "01 Jun 2026",
-        "sortValue": 1780272000000,
-        "score": 40,
-        "context": "01/06/2026 View (248 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
-        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
-        "category": "other_notice",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14/05/2026 View (154 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17785857886940.pdf",
-        "title": "Notice for candidates applied for the post for Dresser and Water Carrier",
-        "category": "other_notice",
-        "publishedAt": "2026-05-08T00:00:00.000Z",
-        "publishedLabel": "08 May 2026",
-        "sortValue": 1778198400000,
-        "score": 40,
-        "context": "08/05/2026 View (732 KB)"
       },
       {
         "department": "MPSC notice",
@@ -781,76 +721,52 @@
         "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
-        "title": "NOTICE: Traffic Violations Notice",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17758414183450.pdf",
-        "title": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District",
-        "category": "other_notice",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District 01/04/2026 31/12/2026 View (579 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf",
-        "title": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
-        "title": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC",
-        "category": "other_notice",
-        "publishedAt": "2026-03-13T00:00:00.000Z",
-        "publishedLabel": "13 Mar 2026",
-        "sortValue": 1773360000000,
-        "score": 40,
-        "context": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC 13/03/2026 31/10/2026 View (873 KB)"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
-        "title": "Previous Question Papers",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
         "category": "other_notice",
         "publishedAt": null,
         "publishedLabel": "Latest",
         "sortValue": 0,
         "score": 5,
-        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
       },
       {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/solid-waste-management-rules-2026/",
-        "title": "Solid Waste Management Rules, 2026",
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
         "category": "other_notice",
         "publishedAt": null,
         "publishedLabel": "Latest",
         "sortValue": 0,
         "score": 5,
-        "context": "nu-item-type-taxonomy menu-item-object-notice_category current-menu-item menu-item-2469 active \"> Recruitment Tenders Citizen Services RTI <a href=\"https://eastgarohills.gov.in/media-g"
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/report-on-world-environment-day-2023/",
+        "title": "Report on World Environment Day 2023",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "Disaster Management Guidelines Others Press Release Notices <a href=\"https://eastkhasihill"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/solid-waste-management/",
+        "title": "Solid Waste Management",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "/\">Tenders Events Recruitment Advertisements Notification DSC Recruitment <li id=\"menu-item-34553\" class=\"menu-item menu-item-type-post_type men"
       },
       {
         "department": "MBDA",
@@ -875,18 +791,6 @@
         "sortValue": 0,
         "score": 5,
         "context": "7 369.1 48 48 0 1 0 369.1 437z\"> Loading Recruitment... WHO WE ARE About MBDA Grievance Redressal <a class=\"text-white hover:text-yellow-200 tracking"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://northgarohills.gov.in/notice_category/covid-19/",
-        "title": "COVID-19 related Orders/Notifications",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "/a> District Selection Committee Tenders Citizen Services Schemes Media Gallery<"
       }
     ]
   },
@@ -938,7 +842,7 @@
         "publishedLabel": "26 Aug 2026",
         "sortValue": 1787702400000,
         "score": 7,
-        "context": "Office Wise Search Date: 26 Aug 2026 List of eligible candidates to appear for the Interview for the contractual posts of AI Trainer in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura <div class=\"views-field views-field-"
+        "context": "cruitment/search\" data-drupal-link-system-path=\"recruitment/search\">Search Date: 26 Aug 2026 List of eligible candidates to appear for the Interview for the contractual posts of AI Trainer in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura <div class=\"views-field views-field-"
       },
       {
         "department": "NEIGRIHMS",
@@ -1011,30 +915,6 @@
         "sortValue": 1787011200000,
         "score": 40,
         "context": "18-08-2026"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869593686823.pdf",
-        "title": "Notice: Indian Air Force (IAF) Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Indian Air Force (IAF) Recruitment 17/08/2026 31/08/2026 View ()"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869590705232.pdf",
-        "title": "Notice: Indian Army Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Army Recruitment. 17/08/2026 31/08/2026 View ()"
       },
       {
         "department": "NEIGRIHMS",
@@ -1684,9 +1564,19 @@
       "reason": "fetch failed"
     },
     {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "HTTP 504"
+      "department": "West Garo Hills",
+      "url": "https://westgarohills.gov.in/documents/",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "reason": "fetch failed"
     }
   ],
   "sources": [
