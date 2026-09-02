@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T22:12:36.321Z",
-  "generatedAtLabel": "02 September 2026 at 03:42 am",
+  "generatedAt": "2026-09-02T00:41:18.915Z",
+  "generatedAtLabel": "02 September 2026 at 06:11 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
-    "result": 4,
+    "recruitment": 9,
+    "result": 3,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -646,7 +646,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "ill-test-practical-and-personal-interview-post-state\">NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for the Post of State Accountant & State MIS-Coordinator 10/08/2026 07/08/2026 <div class=\"newit"
+        "context": "utive-non-farm-livelihoods-promotion-pe-nflp-block-functional\">ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 Notification: Shortlisted candidates for the Personal Interview for the Post of District Office Assistant"
       },
       {
         "department": "West Khasi Hills",
@@ -999,30 +999,6 @@
         "sortValue": 1787097600000,
         "score": 7,
         "context": "views-field-title\"> List of eligible candidates to appear for the Interview for the contractual posts of Lab Assistant in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura Date: 26 Aug 2026 Date: 19 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Scientist-B%20(Non-Medical)%20on%20contractual%20basis.pdf",
-        "title": "Advertisement for the post of Scientist-B (Non-Medical) on contractual basis under the scheme entitled, Setting up of Nationwide Network of Laboratories for Managing Epidemics and National Calamities State Level VRDL",
-        "category": "recruitment",
-        "publishedAt": "2026-08-18T00:00:00.000Z",
-        "publishedLabel": "18 Aug 2026",
-        "sortValue": 1787011200000,
-        "score": 40,
-        "context": "18-08-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Vacancy%20Circular%20for%20the%20post%20of%20Professor-cum-Principal%20and%20Professor-cum-Vice%20Principal%20in%20Rajkumari%20Amrit%20Kaur%20College%20of%20Nursing,%20Lajpat%20Nagar,%20New%20Delhi.pdf",
-        "title": "Vacancy Circular for the post of Professor-cum-Principal and Professor-cum-Vice Principal in Rajkumari Amrit Kaur College of Nursing, Lajpat Nagar, New Delhi",
-        "category": "recruitment",
-        "publishedAt": "2026-08-18T00:00:00.000Z",
-        "publishedLabel": "18 Aug 2026",
-        "sortValue": 1787011200000,
-        "score": 40,
-        "context": "18-08-2026"
       }
     ],
     "result": [
@@ -1061,18 +1037,6 @@
         "sortValue": 1787702400000,
         "score": 40,
         "context": "26/08/2026 30/09/2026 View (326 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/08/17870538037929.pdf",
-        "title": "DSC: Results of the Typing Speed Test for the post of LDA",
-        "category": "result",
-        "publishedAt": "2026-08-18T00:00:00.000Z",
-        "publishedLabel": "18 Aug 2026",
-        "sortValue": 1787011200000,
-        "score": 40,
-        "context": "18/08/2026 31/08/2026 View (496 KB)"
       }
     ],
     "admit_card": []
