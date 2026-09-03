@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T23:41:52.780Z",
-  "generatedAtLabel": "03 September 2026 at 05:11 am",
+  "generatedAt": "2026-09-03T02:11:06.087Z",
+  "generatedAtLabel": "03 September 2026 at 07:41 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 10,
+    "recruitment": 8,
     "result": 5,
     "admit_card": 0
   },
@@ -987,30 +987,6 @@
         "sortValue": 1787616000000,
         "score": 12,
         "context": "target=\"_blank\">List of eligible candidates for the contractual posts of PTS-III (MSW) & Project Nurse- III in the Department of Microbiology 25-08-2026 Recruitment Notice - Rolling Advertisement for recruitment of SRD vide Advt.No.EST-II-RSRD0APSR/1/2024-Estt.II dated 19.05.2026 (2nd Cut Off Date) // // EWS CERTIFICATE FORMAT - Annexure II 25-08-2026 Advertisement for the post of Scientist-B (Non-Medical) on contractual basis under the scheme entitled, Setting up of Nationwide Network of Laboratories for Managing Epidemi"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/08/17873038222370.pdf",
-        "title": "DSEO: Advertisement continue",
-        "category": "recruitment",
-        "publishedAt": "2026-08-19T00:00:00.000Z",
-        "publishedLabel": "19 Aug 2026",
-        "sortValue": 1787097600000,
-        "score": 40,
-        "context": "19/08/2026 31/08/2026 View (405 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51561",
-        "title": "Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist on contractual basis under Meghalayan Medical Drugs & Services Ltd, Meghalaya",
-        "category": "recruitment",
-        "publishedAt": "2026-08-19T00:00:00.000Z",
-        "publishedLabel": "19 Aug 2026",
-        "sortValue": 1787097600000,
-        "score": 7,
-        "context": "views-field-title\"> List of eligible candidates to appear for the Interview for the contractual posts of Lab Assistant in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura Date: 26 Aug 2026 Date: 19 Aug 2026 Recruitment under MSPSDC for the post of Chowkidar Date: <span class=\"field-cont"
       }
     ],
     "result": [
