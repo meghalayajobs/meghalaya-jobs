@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T22:01:44.137Z",
-  "generatedAtLabel": "04 September 2026 at 03:31 am",
+  "generatedAt": "2026-09-04T00:32:44.005Z",
+  "generatedAtLabel": "04 September 2026 at 06:02 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1601,6 +1601,11 @@
     {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "South Garo Hills",
+      "url": "https://southgarohills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
     }
   ],
