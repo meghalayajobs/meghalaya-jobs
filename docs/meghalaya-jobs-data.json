@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T17:54:38.826Z",
-  "generatedAtLabel": "04 September 2026 at 11:24 pm",
+  "generatedAt": "2026-09-04T20:03:43.936Z",
+  "generatedAtLabel": "05 September 2026 at 01:33 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -200,30 +200,6 @@
         "context": "18-08-2026"
       },
       {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869593686823.pdf",
-        "title": "Notice: Indian Air Force (IAF) Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Indian Air Force (IAF) Recruitment 17/08/2026 31/08/2026 View ()"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s349c9adb18e44be0711a94e827042f630/uploads/2026/08/17869590705232.pdf",
-        "title": "Notice: Indian Army Recruitment",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 40,
-        "context": "Army Recruitment. 17/08/2026 31/08/2026 View ()"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/51511",
@@ -306,6 +282,30 @@
         "sortValue": 1786060800000,
         "score": 7,
         "context": "romotion-pe-nflp-block-functional\">ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 Notification: Shortlisted candidates for the Personal Interview for the Post of District Office"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "publishedLabel": "03 Aug 2026",
+        "sortValue": 1785715200000,
+        "score": 12,
+        "context": "ss=\"news\"> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] For Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards Click Here Note: Better viewed in Chrome Browser Jul 29"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
+        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
+        "category": "recruitment",
+        "publishedAt": "2026-07-03T00:00:00.000Z",
+        "publishedLabel": "03 Jul 2026",
+        "sortValue": 1783036800000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       }
     ],
     "admit_card": [],
