@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T13:06:58.656Z",
-  "generatedAtLabel": "05 September 2026 at 06:36 pm",
+  "generatedAt": "2026-09-05T16:23:47.983Z",
+  "generatedAtLabel": "05 September 2026 at 09:53 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -1606,11 +1606,6 @@
     {
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
       "reason": "fetch failed"
     }
   ],
