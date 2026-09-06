@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T18:44:35.690Z",
-  "generatedAtLabel": "07 September 2026 at 12:14 am",
+  "generatedAt": "2026-09-06T20:56:58.690Z",
+  "generatedAtLabel": "07 September 2026 at 02:26 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -658,7 +658,7 @@
         "publishedLabel": "07 Aug 2026",
         "sortValue": 1786060800000,
         "score": 7,
-        "context": "utive-non-farm-livelihoods-promotion-pe-nflp-block-functional\">ADVERTISEMENT for the Post of Project Executive- Non-Farm Livelihoods Promotion (PE-NFLP) & Block Functional Specialist -Financial Inclusion (BFS-FI) 07/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-single\" property=\"d"
+        "context": "sp; 10/08/2026 07/08/2026 ADVERTISEMENT for the various posts at District Mission Management Units (DMMU) <span class=\"date-display-single\" property=\""
       },
       {
         "department": "West Khasi Hills",
@@ -853,18 +853,6 @@
         "context": "14/05/2026 View (154 KB)"
       },
       {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]",
-        "category": "other_notice",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "publishedLabel": "06 May 2026",
-        "sortValue": 1778025600000,
-        "score": 12,
-        "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
-      },
-      {
         "department": "MPSC result",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
@@ -887,6 +875,18 @@
         "sortValue": 1776902400000,
         "score": 40,
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
+        "title": "Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII",
+        "category": "other_notice",
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 10,
+        "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools. <"
       }
     ]
   },
@@ -1599,6 +1599,11 @@
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
   "failedSources": [
     {
+      "department": "MPSC",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "reason": "fetch failed"
+    },
+    {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
       "reason": "fetch failed"
@@ -1606,6 +1611,11 @@
     {
       "department": "South Garo Hills",
       "url": "https://southgarohills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MPSC notice",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm",
       "reason": "fetch failed"
     }
   ],
