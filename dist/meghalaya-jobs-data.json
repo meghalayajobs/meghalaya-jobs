@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T22:06:18.281Z",
-  "generatedAtLabel": "11 September 2026 at 03:36 am",
+  "generatedAt": "2026-09-11T00:41:34.427Z",
+  "generatedAtLabel": "11 September 2026 at 06:11 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 8,
-    "result": 11,
+    "recruitment": 7,
+    "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -975,18 +975,6 @@
         "sortValue": 1788134400000,
         "score": 40,
         "context": "31/08/2026 View (375 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://upsconline.nic.in/ora/",
-        "title": "UPSC Recruitment for information to Faculty members, Students and Professionals",
-        "category": "recruitment",
-        "publishedAt": "2026-08-27T00:00:00.000Z",
-        "publishedLabel": "27 Aug 2026",
-        "sortValue": 1787788800000,
-        "score": 7,
-        "context": "ptember 2026 02-09-2026 Notification with list of Eligible & Not Eligible candidates for interview of Junior Resident Doctors on the 9th & 10th September 2026 (5th Cut Off Date) 31-08-2026 27-08-2026 List of eligible candidates for the contractual posts of PTS-III (MSW) & Project Nurse- III in the Department of Microbiology 25-08-2026 <a href=\"Latest News/estt-2/2026/250826/2nd cut"
       }
     ],
     "result": [
@@ -1109,18 +1097,6 @@
         "sortValue": 1788134400000,
         "score": 7,
         "context": "> Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA Date: 01 Sep 2026 Date: 31 Aug 2026 List of eligible candidates to appear for the Interview for the contractual posts of AI Trainer in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura <div class=\"views-field views-field-"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-personal-interview-post-project-managers-livestock-fisheries-lp",
-        "title": "NOTIFICATION - Shortlisted Candidates for the Personal Interview for the Post of Project Managers - Livestock & Fisheries (LP), Start-up Village Entrepreneurship Programme (SVEP) & Enterprise Development & Finance (EDF) on the 3rd Sept 2026 & 8th Sept 202",
-        "category": "result",
-        "publishedAt": "2026-08-27T00:00:00.000Z",
-        "publishedLabel": "27 Aug 2026",
-        "sortValue": 1787788800000,
-        "score": 7,
-        "context": "ountant\">NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of Block Accountant for both Khasi & Garo regions on 14th Sept, 2026 02/09/2026 27/08/2026 NOTIFICATION: Shortlisted Candidates for Skill Test (Practical) and Personal Interview for"
       }
     ],
     "admit_card": []
