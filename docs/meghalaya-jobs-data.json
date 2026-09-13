@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T12:57:48.183Z",
-  "generatedAtLabel": "13 September 2026 at 06:27 pm",
+  "generatedAt": "2026-09-13T16:49:36.890Z",
+  "generatedAtLabel": "13 September 2026 at 10:19 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
+    "recruitment": 8,
     "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17891140151172.pdf",
+        "title": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "publishedLabel": "10 Sept 2026",
+        "sortValue": 1788998400000,
+        "score": 40,
+        "context": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis 10/09/2026 31/10/2026 View (622 KB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -284,28 +296,16 @@
         "context": "ss=\"news\"> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] For Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards Click Here Note: Better viewed in Chrome Browser Jul 29"
       },
       {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
-        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura.",
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
+        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
         "category": "recruitment",
-        "publishedAt": "2026-06-25T00:00:00.000Z",
-        "publishedLabel": "25 Jun 2026",
-        "sortValue": 1782345600000,
-        "score": 12,
-        "context": "s Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
-        "title": "No.MPSC/ADVT/2025-2026/113",
-        "category": "recruitment",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "publishedLabel": "24 Jun 2026",
-        "sortValue": 1782259200000,
+        "publishedAt": "2026-07-03T00:00:00.000Z",
+        "publishedLabel": "03 Jul 2026",
+        "sortValue": 1783036800000,
         "score": 40,
-        "context": "Addendum Cum Public Notice In continuation to this Office Advertisement No. 03/2026, Dated 25th May, 2026 and consequent upon receipt of Letter No. SYA.40/2026/15, Dated 19.06.2026 from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of Junior Football Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - \"Educational Qualifications\" of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as 24-06-2026 -"
+        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       }
     ],
     "admit_card": [],
@@ -877,21 +877,33 @@
         "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
       },
       {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
-        "title": "Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII",
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
+        "title": "NOTICE: Traffic Violations Notice",
         "category": "other_notice",
-        "publishedAt": "2026-04-06T00:00:00.000Z",
-        "publishedLabel": "06 Apr 2026",
-        "sortValue": 1775433600000,
-        "score": 10,
-        "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools. <"
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17891140151172.pdf",
+        "title": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis",
+        "category": "recruitment",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "publishedLabel": "10 Sept 2026",
+        "sortValue": 1788998400000,
+        "score": 40,
+        "context": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis 10/09/2026 31/10/2026 View (622 KB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -1602,11 +1614,6 @@
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
       "reason": "fetch failed"
-    },
-    {
-      "department": "North Garo Hills",
-      "url": "https://northgarohills.gov.in/notice_category/announcements/",
-      "reason": "HTTP 502"
     }
   ],
   "sources": [
