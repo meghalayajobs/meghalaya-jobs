@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T02:35:16.581Z",
-  "generatedAtLabel": "15 September 2026 at 08:05 am",
+  "generatedAt": "2026-09-15T08:12:10.845Z",
+  "generatedAtLabel": "15 September 2026 at 01:42 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,37 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 7,
-    "result": 10,
+    "recruitment": 9,
+    "result": 11,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Notice15Sep2026b.pdf",
+        "title": "No.MPSC/NAZ-37/2017-2018/47",
+        "category": "recruitment",
+        "publishedAt": "2026-09-15T00:00:00.000Z",
+        "publishedLabel": "15 Sept 2026",
+        "sortValue": 1789430400000,
+        "score": 40,
+        "context": "In-Eligibility Notice This is for general information to all the candidates who have applied for the post of STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018) that the In-Eligibility List has been published. 15-09-2026 -"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51784",
+        "title": "Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd",
+        "category": "recruitment",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "publishedLabel": "14 Sept 2026",
+        "sortValue": 1789344000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 14 Sep 2026 Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong <div class=\"views-field views-field-field-date1 s"
+      },
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
@@ -65,7 +89,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
+        "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
       },
       {
         "department": "Meghalaya Govt",
@@ -77,7 +101,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "ws-field-title\"> Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong Date: 07 Sep 2026 Date: 02 Sep 2026 Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis <span class=\"v"
+        "context": "Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis Date: 02 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM) <div class=\"views-field views-fie"
       },
       {
         "department": "Meghalaya Govt",
@@ -89,7 +113,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM) <div class=\"views-field views-fie"
+        "context": "ws-field-title\"> Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong Date: 07 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse"
       },
       {
         "department": "Meghalaya Govt",
@@ -221,7 +245,7 @@
         "publishedLabel": "19 Aug 2026",
         "sortValue": 1787097600000,
         "score": 7,
-        "context": "views-field-title\"> List of eligible candidates to appear for the Interview for the contractual posts of Lab Assistant in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura Date: 26 Aug 2026 Date: 19 Aug 2026 Recruitment under MSPSDC for the post of Peon Date:"
+        "context": "views-field-title\"> List of eligible candidates to appear for the Interview for the contractual posts of Lab Assistant in Shillong Polytechnic, ITI Rynjah, Shillong and ITI Tura Date: 26 Aug 2026 Date: 19 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
       },
       {
         "department": "NEIGRIHMS",
@@ -245,19 +269,7 @@
         "publishedLabel": "17 Aug 2026",
         "sortValue": 1786924800000,
         "score": 7,
-        "context": "Date: 17 Aug 2026 Recruitment under MSPSDC for the post of Driver Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51522",
-        "title": "Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat",
-        "category": "recruitment",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 7,
-        "context": "ntent\"> Advertisement - MIDFC Ltd. invites applications from young and dynamic Indian Nationals for filling up the post of Chief Finance Officer (CFO) on Fixed Term Contract Basis for the period of 2 years Date: 17 Aug 2026 Date: 17 Aug 2026 Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong <span class=\"views-label vie"
+        "context": "te: 17 Aug 2026 Recruitment under MSPSDC for the post of Cleaner Date: 17 Aug 2026 Date: 17 Aug 2026 Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat <span class=\"views-l"
       },
       {
         "department": "MSRLS",
@@ -294,18 +306,6 @@
         "sortValue": 1785715200000,
         "score": 12,
         "context": "ss=\"news\"> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] For Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards Click Here Note: Better viewed in Chrome Browser Jul 29"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
-        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       }
     ],
     "admit_card": [],
@@ -321,6 +321,18 @@
         "sortValue": 1789084800000,
         "score": 40,
         "context": "11.09.2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51783",
+        "title": "Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "publishedLabel": "11 Sept 2026",
+        "sortValue": 1789084800000,
+        "score": 7,
+        "context": "ews-field views-field-title\"> Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd Date: 14 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
       },
       {
         "department": "MPSC notice",
@@ -392,7 +404,7 @@
         "publishedLabel": "07 Sept 2026",
         "sortValue": 1788739200000,
         "score": 7,
-        "context": "Office Wise Search Date: 07 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse"
+        "context": "ss=\"views-field views-field-title\"> Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong Date: 11 Sep 2026 Date: 07 Sep 2026 Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis <span class=\"v"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -465,18 +477,6 @@
         "sortValue": 1787702400000,
         "score": 40,
         "context": "26/08/2026 30/09/2026 View (326 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51526",
-        "title": "Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Meghalaya, Shillong",
-        "category": "result",
-        "publishedAt": "2026-08-17T00:00:00.000Z",
-        "publishedLabel": "17 Aug 2026",
-        "sortValue": 1786924800000,
-        "score": 7,
-        "context": "> Advertisement for Grade IV posts in the Secretariat Administration Department (Nazarat), Meghalaya Civil Secretariat Date: 17 Aug 2026 Date: 17 Aug 2026 Army Agniveer Rally Scheduled for Shortlisted Meghalaya Candidates Date: <span c"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -893,6 +893,30 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/advt/Notice15Sep2026b.pdf",
+        "title": "No.MPSC/NAZ-37/2017-2018/47",
+        "category": "recruitment",
+        "publishedAt": "2026-09-15T00:00:00.000Z",
+        "publishedLabel": "15 Sept 2026",
+        "sortValue": 1789430400000,
+        "score": 40,
+        "context": "In-Eligibility Notice This is for general information to all the candidates who have applied for the post of STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018) that the In-Eligibility List has been published. 15-09-2026 -"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51784",
+        "title": "Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd",
+        "category": "recruitment",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "publishedLabel": "14 Sept 2026",
+        "sortValue": 1789344000000,
+        "score": 7,
+        "context": "Office Wise Search Date: 14 Sep 2026 Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong <div class=\"views-field views-field-field-date1 s"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17891140151172.pdf",
@@ -938,7 +962,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
+        "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
       },
       {
         "department": "Meghalaya Govt",
@@ -950,7 +974,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "ws-field-title\"> Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong Date: 07 Sep 2026 Date: 02 Sep 2026 Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis <span class=\"v"
+        "context": "Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis Date: 02 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM) <div class=\"views-field views-fie"
       },
       {
         "department": "Meghalaya Govt",
@@ -962,7 +986,7 @@
         "publishedLabel": "02 Sept 2026",
         "sortValue": 1788307200000,
         "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM) <div class=\"views-field views-fie"
+        "context": "ws-field-title\"> Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong Date: 07 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse"
       },
       {
         "department": "Meghalaya Govt",
@@ -989,6 +1013,18 @@
         "sortValue": 1789084800000,
         "score": 40,
         "context": "11.09.2026"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51783",
+        "title": "Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong",
+        "category": "result",
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "publishedLabel": "11 Sept 2026",
+        "sortValue": 1789084800000,
+        "score": 7,
+        "context": "ews-field views-field-title\"> Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd Date: 14 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
       },
       {
         "department": "MPSC notice",
@@ -1060,7 +1096,7 @@
         "publishedLabel": "07 Sept 2026",
         "sortValue": 1788739200000,
         "score": 7,
-        "context": "Office Wise Search Date: 07 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse"
+        "context": "ss=\"views-field views-field-title\"> Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong Date: 11 Sep 2026 Date: 07 Sep 2026 Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis <span class=\"v"
       },
       {
         "department": "NEIGRIHMS Result",
