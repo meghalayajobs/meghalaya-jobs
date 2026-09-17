@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T08:11:59.387Z",
-  "generatedAtLabel": "17 September 2026 at 01:41 pm",
+  "generatedAt": "2026-09-17T13:57:52.479Z",
+  "generatedAtLabel": "17 September 2026 at 07:27 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -613,6 +613,18 @@
         "context": "Language Proficiency Test (DSC) 14/09/2026 03/10/2026 View (554 KB)"
       },
       {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/National%20Foundation%20for%20Teachers%20Welfare.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "publishedLabel": "14 Sept 2026",
+        "sortValue": 1789344000000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN. Dated 14-09-2026 NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (200kb)"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17895427003297.pdf",
@@ -736,13 +748,13 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2023.pdf",
-        "title": "Notification Number/Date",
+        "title": "No. EDN. Dated 28-07-2026",
         "category": "other_notice",
         "publishedAt": "2026-07-28T00:00:00.000Z",
         "publishedLabel": "28 Jul 2026",
         "sortValue": 1785196800000,
         "score": 40,
-        "context": "Content Summary Format No. EDN. Dated 28-07-2026 Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
+        "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
       },
       {
         "department": "Education Dept",
@@ -851,18 +863,6 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16/06/2026 30/09/2026 View (726 KB)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/SNO%20for%20Scholarship.pdf",
-        "title": "No. EDN.107/2021/19 Dated 05-06-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-06-05T00:00:00.000Z",
-        "publishedLabel": "05 Jun 2026",
-        "sortValue": 1780617600000,
-        "score": 40,
-        "context": "Notification regarding SNO for Scholarship scheme implemented by DHTE(05.06.2026) (200kb)"
       },
       {
         "department": "West Garo Hills",
