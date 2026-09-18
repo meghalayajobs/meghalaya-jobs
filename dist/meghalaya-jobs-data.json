@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-18T02:19:30.187Z",
-  "generatedAtLabel": "18 September 2026 at 07:49 am",
+  "generatedAt": "2026-09-18T07:46:31.408Z",
+  "generatedAtLabel": "18 September 2026 at 01:16 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
-    "recruitment": 10,
+    "recruitment": 24,
     "admit_card": 0,
-    "result": 13,
-    "other_notice": 18
+    "result": 24,
+    "other_notice": 24
   },
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 4,
-    "result": 1,
+    "result": 2,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -68,6 +68,18 @@
         "context": "08-09-2026"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/09/17883410683670.pdf",
+        "title": "Notice for written examination on Language Proficiency test for the post of Driver",
+        "category": "recruitment",
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "publishedLabel": "31 Aug 2026",
+        "sortValue": 1788134400000,
+        "score": 40,
+        "context": "31/08/2026 View (375 KB)"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://upsconline.nic.in/ora/",
@@ -78,6 +90,42 @@
         "sortValue": 1787788800000,
         "score": 7,
         "context": "ptember 2026 02-09-2026 Notification with list of Eligible & Not Eligible candidates for interview of Junior Resident Doctors on the 9th & 10th September 2026 (5th Cut Off Date) 31-08-2026 27-08-2026 List of eligible candidates for the contractual posts of PTS-III (MSW) & Project Nurse- III in the Department of Microbiology 25-08-2026 <a href=\"Latest News/estt-2/2026/250826/2nd cut"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Interview%20Assistant%20Professor%20Civil%20&%20Electrical%20and%20Foreman.pdf",
+        "title": "26th August 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "publishedLabel": "26 Aug 2026",
+        "sortValue": 1787702400000,
+        "score": 40,
+        "context": "Notice regarding the interview for the post of Assistant Professor Civil & Electrical and Foreman (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Reservation%20Roster%20Assistant%20Professor%20Civil%20&%20Electrical%20and%20Foreman.pdf",
+        "title": "26th August 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "publishedLabel": "26 Aug 2026",
+        "sortValue": 1787702400000,
+        "score": 40,
+        "context": "Reservation Roster for the post of Assistant Professor Civil & Electrical and Foreman. (117 MB)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
+        "title": "eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "publishedLabel": "26 Aug 2026",
+        "sortValue": 1787702400000,
+        "score": 12,
+        "context": "length=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Aug 26 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] -->"
       },
       {
         "department": "NEIGRIHMS",
@@ -104,6 +152,18 @@
         "context": "target=\"_blank\">List of eligible candidates for the contractual posts of PTS-III (MSW) & Project Nurse- III in the Department of Microbiology 25-08-2026 Recruitment Notice - Rolling Advertisement for recruitment of SRD vide Advt.No.EST-II-RSRD0APSR/1/2024-Estt.II dated 19.05.2026 (2nd Cut Off Date) // // EWS CERTIFICATE FORMAT - Annexure II 25-08-2026 Advertisement for the post of Scientist-B (Non-Medical) on contractual basis under the scheme entitled, Setting up of Nationwide Network of Laboratories for Managing Epidemi"
       },
       {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "publishedLabel": "03 Aug 2026",
+        "sortValue": 1785715200000,
+        "score": 12,
+        "context": "ss=\"news\"> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> </li"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
@@ -116,28 +176,136 @@
         "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       },
       {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2024/12/2024120652.pdf",
-        "title": "Application Form Cleanest Tourist Spot Award East Khasi Hills",
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Examination%20Notice%20for%20AI%20Trainer%20and%20Lab%20Assistant.pdf",
+        "title": "Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura.",
         "category": "recruitment",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 10,
-        "context": "tration Officers Press Note and Press Release Tourism How to Reach Places of Interest <a href=\"https://eastkhasihil"
+        "publishedAt": "2026-06-25T00:00:00.000Z",
+        "publishedLabel": "25 Jun 2026",
+        "sortValue": 1782345600000,
+        "score": 12,
+        "context": "s Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] <a href=\"pdf/eligible candidates to appear for the Online Rec"
       },
       {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://eastkhasihills.gov.in/recruitment-advertisements/",
-        "title": "Recruitment Advertisements",
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Online%20Recruitment%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
+        "title": "eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
         "category": "recruitment",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "in/notice_category/permissions/\">Permissions Tenders Events Solid Waste Management Notification <li id=\"menu-item-34637\" class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-"
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "publishedLabel": "24 Jun 2026",
+        "sortValue": 1782259200000,
+        "score": 12,
+        "context": "stant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllabus for the Online Recruitment Test for the 3 (three) contractual posts each of AI Trainer & Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 24 2026 [NEW] Jun 24 2026 [NEW] eligible candidates to appear for the Online Recruitment Test for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Jun 16 2026 [NEW]"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791883407970.pdf",
+        "title": "Notice for personal interview for the post of LDA",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (628 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788459865613.pdf",
+        "title": "Notice for Personal interview for the post of Semen Carrier and Tracer",
+        "category": "recruitment",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "publishedLabel": "15 May 2026",
+        "sortValue": 1778803200000,
+        "score": 40,
+        "context": "15/05/2026 View (731 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
+        "title": "Eligible and Ineligible candidate list for Personal Interview for the post of LDA",
+        "category": "recruitment",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "publishedLabel": "12 May 2026",
+        "sortValue": 1778544000000,
+        "score": 40,
+        "context": "12/05/2026 View (736 KB)"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/notice%20april%2026.pdf",
+        "title": "Extension for the the online application for Meghalaya Teacher Eligibility Test (MTET), 2026",
+        "category": "recruitment",
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 12,
+        "context": "\"New Icon\" width=\"35\" height=\"17\" /> NOTICE FOR ANSWER KEYS Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms <i class=\"fa-solid fa-sq"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/mtet%20notice%202026.pdf",
+        "title": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms",
+        "category": "recruitment",
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 12,
+        "context": "Extension for the the online application for Meghalaya Teacher Eligibility Test (MTET), 2026 Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII <i class=\"fa-solid fa-squa"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/Notice.pdf",
+        "title": "Online Applications are invited from persons who are citizens of India and who are permanent residents of the State of Meghalaya to apply for the Meghalaya Teacher Eligibility Test (MTET), 2026.",
+        "category": "recruitment",
+        "publishedAt": "2026-02-18T00:00:00.000Z",
+        "publishedLabel": "18 Feb 2026",
+        "sortValue": 1771372800000,
+        "score": 12,
+        "context": "> Meghalaya Teacher Eligibility Test (MTET) Handbook 2026. Final SCFFS (18.02.2026) <a href=\"../notices_and_circulars/20"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/MERB%20Notification%20feb%2026.pdf",
+        "title": "Notification regarding eligibility of applicants with Concern/Relevant/Allied Subjects for recruitment to the Post of Assistant Professor/Lecturer for various subjects in Government Colleges in Meghalaya vide MERB advertisement No. CE/GC/MERB/5/2024/7, Dated Shillong, the 18th February 2025",
+        "category": "recruitment",
+        "publishedAt": "2025-12-10T00:00:00.000Z",
+        "publishedLabel": "10 Dec 2025",
+        "sortValue": 1765324800000,
+        "score": 12,
+        "context": "Notification regarding Fresh short listing of candidates for the posts of Assistant Professor in Bio-Chemistry RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Stipend%20Notice.pdf",
+        "title": "Online Application are invited from Tribal students of Meghalaya who are pursuing studies in Post Graduate/DegreelDiploma Courses (inside and outside the State) and also Certificate Courses (outside the State) in recognized Engineering Colleges/Institutes for awards of Stipend for the session 2025-2026",
+        "category": "recruitment",
+        "publishedAt": "2025-11-21T00:00:00.000Z",
+        "publishedLabel": "21 Nov 2025",
+        "sortValue": 1763683200000,
+        "score": 10,
+        "context": "t-right\"> RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025 Advertisement for nomination of Architect to Council of Architecture (COA) </"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Advt%20State%20schemes%202526.pdf",
+        "title": "Advertisement for Fresh and Renewal applications for State Schemes of scholarships for the Academic year 2025-2026",
+        "category": "recruitment",
+        "publishedAt": "2025-09-15T00:00:00.000Z",
+        "publishedLabel": "15 Sept 2025",
+        "sortValue": 1757894400000,
+        "score": 12,
+        "context": "target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\"> MERB Notification regarding the date for the interview to the 5 (five) posts of Lecturer in History, advertised by the Meghalaya Public Service Commission (MPSC) under Advertisement No. MPSC/ADVT-39/1/2018-2019/80 dated 2nd November 2018 Central Agricultural University, Imphal has fixed 15th September 2025 for reporting of the nominated candidates for admission to 4 years Degree Course in B.Tech in Agricultural Engineering, B.Tech in Food Technology"
       }
     ],
     "admit_card": [],
@@ -153,6 +321,18 @@
         "sortValue": 1789084800000,
         "score": 40,
         "context": "11.09.2026"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/result%20of%20skill%20test%20for%20the%20post%20of%20foreman.pdf",
+        "title": "7th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "publishedLabel": "07 Sept 2026",
+        "sortValue": 1788739200000,
+        "score": 40,
+        "context": "Result of skill test for the post of Foreman, Tura Polytechnic conducted on 8th July 2026 (117 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -251,6 +431,78 @@
         "context": "3.08.2026"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/07/17846982361703.pdf",
+        "title": "Result of Driving Practical Test",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20/07/2026 View (1 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20English%20july%202026.pdf",
+        "title": "8th July 2026",
+        "category": "result",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 40,
+        "context": "Result of the interview to the posts of Assistant Professor / Lecturer in English in Government Colleges. (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/2.%20Zoology%20%20july%202026.pdf",
+        "title": "8th July 2026",
+        "category": "result",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 40,
+        "context": "Result of the interview to the posts of Assistant Professor / Lecturer in Zoology in Government Colleges. (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/3.%20Political%20Science%20%20july%202026.pdf",
+        "title": "8th July 2026",
+        "category": "result",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 40,
+        "context": "Result of the interview to the posts of Assistant Professor / Lecturer in Political Science in Government Colleges. (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/4.%20Physics%20%20july%202026.pdf",
+        "title": "8th July 2026",
+        "category": "result",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 40,
+        "context": "Result of the interview to the posts of Assistant Professor / Lecturer in Physics in Government Colleges. (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/5.%20Botany%20%20july%202026.pdf",
+        "title": "8th July 2026",
+        "category": "result",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 40,
+        "context": "Result of the interview to the posts of Assistant Professor / Lecturer in Botany in Government Colleges. (117 MB)"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17835115253115.pdf",
@@ -297,6 +549,54 @@
         "sortValue": 1782259200000,
         "score": 40,
         "context": "24/06/2026 30/09/2026 View (230 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791887543084.pdf",
+        "title": "Rejection list on the ground of overage for the post of LDA",
+        "category": "result",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CE.pdf",
+        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025",
+        "category": "result",
+        "publishedAt": "2025-12-15T00:00:00.000Z",
+        "publishedLabel": "15 Dec 2025",
+        "sortValue": 1765756800000,
+        "score": 12,
+        "context": "that opens in a new window\">Notification regarding eligibility of applicants with Concern/Relevant/Allied Subjects for recruitment to the Post of Assistant Professor/Lecturer for various subjects in Government Colleges in Meghalaya vide MERB advertisement No. CE/GC/MERB/5/2024/7, Dated Shillong, the 18th February 2025 RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025 </"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Result%20for%20the%20recruitment%20to%20the%20post%20of%20CSE.pdf",
+        "title": "RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025",
+        "category": "result",
+        "publishedAt": "2025-11-21T00:00:00.000Z",
+        "publishedLabel": "21 Nov 2025",
+        "sortValue": 1763683200000,
+        "score": 12,
+        "context": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN CIVIL ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 9th & 10th DECEMBER 2025 RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025 <li"
+      },
+      {
+        "department": "DHET",
+        "sourceUrl": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+        "url": "https://megeducation.gov.in/dhte/notices_and_circulars/2025/Notification%20result%20in%20History.pdf",
+        "title": "RESULT OF THE INTERVIEW TO THE POSTS OF LECTURER IN HISTORY IN GOVERNMENT COLLEGES CONDUCTED BY MERB FROM 14TH TO 21ST NOVEMBER 2025",
+        "category": "result",
+        "publishedAt": "2025-11-21T00:00:00.000Z",
+        "publishedLabel": "21 Nov 2025",
+        "sortValue": 1763683200000,
+        "score": 12,
+        "context": "href=\"../notices_and_circulars/2025/Result for the recruitment to the post of CSE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Pdf that opens in a new window\">RESULT OF THE INTERVIEW TO THE POST OF LECTURER IN COMPUTER SCIENCE & ENGINEERING IN SHILLONG POLYTECHNIC CONDUCTED BY MERB ON 10th & 15th DECEMBER 2025 Online Application are invited from Tribal students of Meghalaya who are pursuing studies in Post Graduate/DegreelDiploma Courses (inside and outside the State) and also Certificate Courses (outside the State) in recognized Engineering Colleges/Institutes for a"
       }
     ],
     "other_notice": [
@@ -311,6 +611,18 @@
         "sortValue": 1789344000000,
         "score": 40,
         "context": "Language Proficiency Test (DSC) 14/09/2026 03/10/2026 View (554 KB)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/National%20Foundation%20for%20Teachers%20Welfare.pdf",
+        "title": "Notification Number/Date",
+        "category": "other_notice",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "publishedLabel": "14 Sept 2026",
+        "sortValue": 1789344000000,
+        "score": 40,
+        "context": "Content Summary Format No. EDN. Dated 14-09-2026 NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -385,6 +697,138 @@
         "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Public%20Notice%20for%20online%20Registration%20of%20Meritorious%20students%20for%20IT%20Awards%20Academic%20Year%202026.pdf",
+        "title": "Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "publishedLabel": "29 Jul 2026",
+        "sortValue": 1785283200000,
+        "score": 12,
+        "context": "l> --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] <a href=\"pdf/NIQ for Data AI Lab Branding itc website"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://megedistrict.gov.in/directApply.do?serviceId=1296",
+        "title": "Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "publishedLabel": "29 Jul 2026",
+        "sortValue": 1785283200000,
+        "score": 6,
+        "context": "nterview Test for the 3 (three) contractual posts of Lab Assistant.pdf \" target=\"_blank\">eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed <!-- Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] <"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2023.pdf",
+        "title": "No. EDN. Dated 28-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-28T00:00:00.000Z",
+        "publishedLabel": "28 Jul 2026",
+        "sortValue": 1785196800000,
+        "score": 40,
+        "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
+        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "publishedLabel": "27 Jul 2026",
+        "sortValue": 1785110400000,
+        "score": 40,
+        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/MTTA.pdf",
+        "title": "No. EDN.209/2025/12 Dated 21-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-21T00:00:00.000Z",
+        "publishedLabel": "21 Jul 2026",
+        "sortValue": 1784592000000,
+        "score": 40,
+        "context": "Notification regarding placement of Officers / Staffs for Meghalaya Teacher Training Academy (MTTA) (21.07.2026) (200kb)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
+        "title": "Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "publishedLabel": "08 Jul 2026",
+        "sortValue": 1783468800000,
+        "score": 12,
+        "context": "> Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] <a href=\"pdf/Examination Notice for AI Tra"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Superannuation%20non%20academic%20employees.pdf",
+        "title": "No. EDN.178/2023/Part/107 Dated 06-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-06T00:00:00.000Z",
+        "publishedLabel": "06 Jul 2026",
+        "sortValue": 1783296000000,
+        "score": 40,
+        "context": "Notification regarding the age of superannuation for \"non-academic employees\" engaged under Samagra Shiksha in the State, District & Block Level Offices (06.07.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/strengthen%20Departmental%20co-ordination.pdf",
+        "title": "No. EDN.158/2024/154 Dated 01-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 40,
+        "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (200kb)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
+        "title": "Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs",
+        "category": "other_notice",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 12,
+        "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Selection%20Committee%20for%20CM-LEAD.pdf",
+        "title": "No. EDN.158/2024/154 Dated 19-06-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-06-19T00:00:00.000Z",
+        "publishedLabel": "19 Jun 2026",
+        "sortValue": 1781827200000,
+        "score": 40,
+        "context": "Notification regarding constitutes of the Selection Committee for CM-LEAD (19.06.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/DocScanner%2023%20Jun%202026%205-21%20pm.pdf",
+        "title": "No. EDN.107/2021/19 Dated 18-06-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-06-18T00:00:00.000Z",
+        "publishedLabel": "18 Jun 2026",
+        "sortValue": 1781740800000,
+        "score": 40,
+        "context": "Notification regarding constitutes of the Meghalaya Education Connect Team (MECON)(18.06.2026) (200kb)"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
@@ -395,6 +839,30 @@
         "sortValue": 1781568000000,
         "score": 40,
         "context": "16/06/2026 30/09/2026 View (726 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
+        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
+        "category": "other_notice",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 40,
+        "context": "01/06/2026 View (248 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
+        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14/05/2026 View (154 KB)"
       },
       {
         "department": "North Garo Hills",
@@ -409,112 +877,16 @@
         "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17758414183450.pdf",
-        "title": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District",
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://megeducation.gov.in/dert/notices_and_circulars/2026/DERT%20Order%20wrt%20textbooks.pdf",
+        "title": "Order relating to the use the Textbooks prescribed by the Competent Authority for Classes I to XII",
         "category": "other_notice",
-        "publishedAt": "2026-04-01T00:00:00.000Z",
-        "publishedLabel": "01 Apr 2026",
-        "sortValue": 1775001600000,
-        "score": 40,
-        "context": "Constituting the members of the Governing Council of the District Mineral Foundation (DMF), North Garo Hills District 01/04/2026 31/12/2026 View (579 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17738379464351.pdf",
-        "title": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-03-18T00:00:00.000Z",
-        "publishedLabel": "18 Mar 2026",
-        "sortValue": 1773792000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: For information of all Domestic LPG Consumers and beneficiaries of Pradhan Mantri Ujjwala Yojana (PMUY) that completion of e-KYC is mandatory with effect from 17th March, 2026 18/03/2026 31/12/2026 View (377 KB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/03/17734251114559.pdf",
-        "title": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC",
-        "category": "other_notice",
-        "publishedAt": "2026-03-13T00:00:00.000Z",
-        "publishedLabel": "13 Mar 2026",
-        "sortValue": 1773360000000,
-        "score": 40,
-        "context": "PUBLIC INFORMATION: NO CYLINDER WITHOUT DAC AND eKYC 13/03/2026 31/10/2026 View (873 KB)"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
-        "title": "Previous Question Papers",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
-      },
-      {
-        "department": "East Garo Hills",
-        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://eastgarohills.gov.in/solid-waste-management-rules-2026/",
-        "title": "Solid Waste Management Rules, 2026",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "nu-item-type-taxonomy menu-item-object-notice_category current-menu-item menu-item-2469 active \"> Recruitment Tenders Citizen Services RTI <a href=\"https://eastgarohills.gov.in/media-g"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
-        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
-        "title": "Press Note and Press Release",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://eastkhasihills.gov.in/report-on-world-environment-day-2023/",
-        "title": "Report on World Environment Day 2023",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "Disaster Management Guidelines Others Press Release Notices <a href=\"https://eastkhasihill"
-      },
-      {
-        "department": "East Khasi Hills",
-        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://eastkhasihills.gov.in/solid-waste-management/",
-        "title": "Solid Waste Management",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "/\">Tenders Events Recruitment Advertisements Notification DSC Recruitment <li id=\"menu-item-34553\" class=\"menu-item menu-item-type-post_type men"
+        "publishedAt": "2026-04-06T00:00:00.000Z",
+        "publishedLabel": "06 Apr 2026",
+        "sortValue": 1775433600000,
+        "score": 10,
+        "context": "Opening of a window period w.e.f 06.04.2026 till Spm of 14.04.2026 for submission of MTET application Forms Notification regarding the implementation of the CM IMPACT Meghalaya Learning Enhancement Programme (MLEP) in all schools. <"
       }
     ]
   },
@@ -581,6 +953,18 @@
         "sortValue": 1789084800000,
         "score": 40,
         "context": "11.09.2026"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/result%20of%20skill%20test%20for%20the%20post%20of%20foreman.pdf",
+        "title": "7th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "publishedLabel": "07 Sept 2026",
+        "sortValue": 1788739200000,
+        "score": 40,
+        "context": "Result of skill test for the post of Foreman, Tura Polytechnic conducted on 8th July 2026 (117 MB)"
       }
     ],
     "admit_card": []
@@ -1081,36 +1465,6 @@
       "reason": "fetch failed"
     },
     {
-      "department": "MBDA",
-      "url": "https://mbda.gov.in/recruitment",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "Information Tech.",
-      "url": "https://ditmeghalaya.gov.in/index.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "DERT",
-      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "DHET",
-      "url": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "Education Dept",
-      "url": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "MERB",
-      "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-      "reason": "fetch failed"
-    },
-    {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
       "reason": "fetch failed"
@@ -1128,11 +1482,6 @@
     {
       "department": "MeGSRES",
       "url": "https://megsres.nic.in/recruitment",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "West Garo Hills",
-      "url": "https://westgarohills.gov.in/documents/",
       "reason": "fetch failed"
     },
     {
