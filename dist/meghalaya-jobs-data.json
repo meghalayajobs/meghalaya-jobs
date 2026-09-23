@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T01:04:35.373Z",
-  "generatedAtLabel": "23 September 2026 at 06:34 am",
+  "generatedAt": "2026-09-23T07:00:45.214Z",
+  "generatedAtLabel": "23 September 2026 at 12:30 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -313,6 +313,18 @@
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Corrigendum%20for%20Economics.pdf",
+        "title": "22nd September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "publishedLabel": "22 Sept 2026",
+        "sortValue": 1790035200000,
+        "score": 40,
+        "context": "Corrigendum regarding the result of the interview to the post of Assistant Professor/Lecturer in Economics in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20History.pdf",
         "title": "21st September 2026",
         "category": "result",
@@ -393,18 +405,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Chemistry in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Sociology.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Sociology in Government Colleges (117 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -635,18 +635,6 @@
         "sortValue": 1789344000000,
         "score": 40,
         "context": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills 14/09/2026 31/12/2026 View (341 KB)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/09/17894695059904.pdf",
-        "title": "DM&HO: Written Examination Notice",
-        "category": "other_notice",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 40,
-        "context": "11/09/2026 21/09/2026 View (469 KB)"
       },
       {
         "department": "MSRLS",
@@ -887,6 +875,18 @@
         "sortValue": 1778716800000,
         "score": 40,
         "context": "14/05/2026 View (154 KB)"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]",
+        "category": "other_notice",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 12,
+        "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
       }
     ]
   },
@@ -1005,6 +1005,18 @@
       {
         "department": "MERB",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Corrigendum%20for%20Economics.pdf",
+        "title": "22nd September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "publishedLabel": "22 Sept 2026",
+        "sortValue": 1790035200000,
+        "score": 40,
+        "context": "Corrigendum regarding the result of the interview to the post of Assistant Professor/Lecturer in Economics in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
         "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20History.pdf",
         "title": "21st September 2026",
         "category": "result",
@@ -1085,18 +1097,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Chemistry in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Sociology.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Sociology in Government Colleges (117 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
