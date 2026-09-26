@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T23:42:16.739Z",
-  "generatedAtLabel": "26 September 2026 at 05:12 am",
+  "generatedAt": "2026-09-26T02:40:19.139Z",
+  "generatedAtLabel": "26 September 2026 at 08:10 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 8,
-    "result": 12,
+    "recruitment": 7,
+    "result": 10,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -975,18 +975,6 @@
         "sortValue": 1789344000000,
         "score": 7,
         "context": "span class=\"views-field views-field-title\"> Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 17 Sep 2026 Date: 14 Sep 2026 Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 <div class=\"views-fi"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51797",
-        "title": "Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026",
-        "category": "recruitment",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 7,
-        "context": "ews-field views-field-title\"> Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd Date: 14 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong <div class=\"views-field views-field-field-date1 s"
       }
     ],
     "result": [
@@ -1109,30 +1097,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "21.09.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/48154_2026_Psychiatry%20-%20eOffice.pdf",
-        "title": "Result of the Walk-In-Interview held on 9th of September, 2026 in NEIGRIHMS, Shillong for Recruitment of 1 (one) post of Project Technical Support-III / Project Technical Assistant on Contractual basis for period of 6 (months)...",
-        "category": "result",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 40,
-        "context": "11.09.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51783",
-        "title": "Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong",
-        "category": "result",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 7,
-        "context": "itle\"> Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 Date: 11 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
       }
     ],
     "admit_card": []
