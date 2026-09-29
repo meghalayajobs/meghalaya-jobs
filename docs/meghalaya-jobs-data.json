@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T06:25:03.161Z",
-  "generatedAtLabel": "29 September 2026 at 11:55 am",
+  "generatedAt": "2026-09-29T13:34:07.344Z",
+  "generatedAtLabel": "29 September 2026 at 07:04 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -311,6 +311,30 @@
     "admit_card": [],
     "result": [
       {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Lecturer).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT LECTURER (ARTS & SCIENCE STREAMS) HELD ON 28TH FEBRUARY, 2026 (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Teacher).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT TEACHER (ARTS) AND ASSISTANT TEACHER (SCIENCE WITH MATHEMATICS/LIFE SCIENCE) (117 MB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-district-office-assistant-khasi-garo-regions",
@@ -417,30 +441,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Mathematics in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/6.%20Geography.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Geography in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/7.%20Chemistry.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Chemistry in Government Colleges (117 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -979,6 +979,30 @@
     ],
     "result": [
       {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Lecturer).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT LECTURER (ARTS & SCIENCE STREAMS) HELD ON 28TH FEBRUARY, 2026 (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Teacher).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT TEACHER (ARTS) AND ASSISTANT TEACHER (SCIENCE WITH MATHEMATICS/LIFE SCIENCE) (117 MB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-district-office-assistant-khasi-garo-regions",
@@ -1085,30 +1109,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Mathematics in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/6.%20Geography.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Geography in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/7.%20Chemistry.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Chemistry in Government Colleges (117 MB)"
       },
       {
         "department": "NEIGRIHMS Result",
