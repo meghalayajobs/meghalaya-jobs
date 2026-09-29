@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T20:56:05.314Z",
-  "generatedAtLabel": "29 September 2026 at 02:26 am",
+  "generatedAt": "2026-09-29T00:46:11.822Z",
+  "generatedAtLabel": "29 September 2026 at 06:16 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 9,
+    "recruitment": 7,
     "result": 12,
     "admit_card": 0
   },
@@ -975,30 +975,6 @@
         "sortValue": 1789430400000,
         "score": 40,
         "context": "In-Eligibility Notice This is for general information to all the candidates who have applied for the post of STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018) that the In-Eligibility List has been published. 15-09-2026 -"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17895428878581.pdf",
-        "title": "ADVERTISEMENT: Applications are invited from Government Nominees/Agent in PDS for the year 2027 and 2028 (Two years) in the approved Wholesale Centres",
-        "category": "recruitment",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Applications are invited from Government Nominees/Agent in PDS for the year 2027 and 2028 (Two years) in the approved Wholesale Centres 14/09/2026 30/09/2026 View (590 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51784",
-        "title": "Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd",
-        "category": "recruitment",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 7,
-        "context": "span class=\"views-field views-field-title\"> Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 17 Sep 2026 Date: 14 Sep 2026 Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 <div class=\"views-fi"
       }
     ],
     "result": [
