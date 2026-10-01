@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T10:35:06.763Z",
-  "generatedAtLabel": "01 October 2026 at 04:05 pm",
+  "generatedAt": "2026-10-01T17:11:41.148Z",
+  "generatedAtLabel": "01 October 2026 at 10:41 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 5,
+    "recruitment": 6,
     "result": 12,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Laboratory%20Technician%201%20(One)%20post%20under%20the%20project%20RePORT%20India%20Phase%20II%20in%20the%20Department%20of%20Microbiology.pdf",
+        "title": "Advertisement for the post of Laboratory Technician 1 (One) post under the project RePORT India Phase II in the Department of Microbiology",
+        "category": "recruitment",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "publishedLabel": "01 Oct 2026",
+        "sortValue": 1790812800000,
+        "score": 40,
+        "context": "01-10-2026"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -282,18 +294,6 @@
         "sortValue": 1787702400000,
         "score": 12,
         "context": "length=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Aug 26 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] -->"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/List%20of%20Eligibility%20for%20the%20candidates%20who%20applied%20for%20the%20contractual%20posts%20of%20%20PTS-III%20(MSW)%20&%20Project%20Nurse-%20III%20in%20the%20Department%20of%20Microbiology.pdf",
-        "title": "List of eligible candidates for the contractual posts of PTS-III (MSW) & Project Nurse- III in the Department of Microbiology",
-        "category": "recruitment",
-        "publishedAt": "2026-08-25T00:00:00.000Z",
-        "publishedLabel": "25 Aug 2026",
-        "sortValue": 1787616000000,
-        "score": 40,
-        "context": "25-08-2026"
       },
       {
         "department": "Information Tech.",
@@ -658,7 +658,7 @@
         "publishedLabel": "08 Sept 2026",
         "sortValue": 1788825600000,
         "score": 7,
-        "context": "assistant-khasi-garo-regions\">Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
+        "context": "Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
       },
       {
         "department": "NEIGRIHMS",
@@ -892,6 +892,18 @@
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Laboratory%20Technician%201%20(One)%20post%20under%20the%20project%20RePORT%20India%20Phase%20II%20in%20the%20Department%20of%20Microbiology.pdf",
+        "title": "Advertisement for the post of Laboratory Technician 1 (One) post under the project RePORT India Phase II in the Department of Microbiology",
+        "category": "recruitment",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "publishedLabel": "01 Oct 2026",
+        "sortValue": 1790812800000,
+        "score": 40,
+        "context": "01-10-2026"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
