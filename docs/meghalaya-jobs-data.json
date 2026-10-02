@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:08:59.397Z",
-  "generatedAtLabel": "02 October 2026 at 03:38 am",
+  "generatedAt": "2026-10-02T01:53:24.473Z",
+  "generatedAtLabel": "02 October 2026 at 07:23 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 6,
+    "recruitment": 4,
     "result": 12,
     "admit_card": 0
   },
@@ -658,7 +658,7 @@
         "publishedLabel": "08 Sept 2026",
         "sortValue": 1788825600000,
         "score": 7,
-        "context": "Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
+        "context": "assistant-khasi-garo-regions\">Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
       },
       {
         "department": "NEIGRIHMS",
@@ -939,30 +939,6 @@
         "sortValue": 1790553600000,
         "score": 40,
         "context": "28-09-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51904",
-        "title": "Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 7,
-        "context": "Office Wise Search Date: 17 Sep 2026 Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <sp"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51848",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 7,
-        "context": "l> Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong Date: 17 Sep 2026 Date: 17 Sep 2026 Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd <div class=\"views-field views-field-field-d"
       }
     ],
     "result": [
