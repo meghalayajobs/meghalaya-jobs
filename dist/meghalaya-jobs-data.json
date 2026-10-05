@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T03:09:48.969Z",
-  "generatedAtLabel": "05 October 2026 at 08:39 am",
+  "generatedAt": "2026-10-05T10:59:57.550Z",
+  "generatedAtLabel": "05 October 2026 at 04:29 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -281,7 +281,7 @@
         "publishedLabel": "26 Aug 2026",
         "sortValue": 1787702400000,
         "score": 12,
-        "context": "length=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Aug 26 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] -->"
+        "context": "search\"/> News Oct 05 2026 [NEW] Addendum to the Provisional list of eligible candidates for IT Awards 2026 Aug 26 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] -->"
       },
       {
         "department": "Information Tech.",
@@ -293,7 +293,7 @@
         "publishedLabel": "03 Aug 2026",
         "sortValue": 1785715200000,
         "score": 12,
-        "context": "ss=\"news\"> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> </li"
+        "context": "> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> </li"
       },
       {
         "department": "North Garo Hills",
@@ -670,7 +670,7 @@
         "publishedLabel": "08 Sept 2026",
         "sortValue": 1788825600000,
         "score": 7,
-        "context": "assistant-khasi-garo-regions\">Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
+        "context": "Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical)"
       },
       {
         "department": "NEIGRIHMS",
@@ -707,6 +707,18 @@
         "sortValue": 1787961600000,
         "score": 40,
         "context": "02-09-2026"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/Addendum%20to%20the%20Provisional%20list%20of%20eligible%20candidates%20for%20IT%20Awards%202026.pdf",
+        "title": "Addendum to the Provisional list of eligible candidates for IT Awards 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "publishedLabel": "26 Aug 2026",
+        "sortValue": 1787702400000,
+        "score": 12,
+        "context": "=\"q\" size=\"14\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Oct 05 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] <"
       },
       {
         "department": "Education Dept",
@@ -851,18 +863,6 @@
         "sortValue": 1781827200000,
         "score": 40,
         "context": "Notification regarding constitutes of the Selection Committee for CM-LEAD (19.06.2026) (200kb)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17823901573101.pdf",
-        "title": "DRDA: District Implementing Division SRES: PMAY-G Eligibility List of Candidates – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-06-16T00:00:00.000Z",
-        "publishedLabel": "16 Jun 2026",
-        "sortValue": 1781568000000,
-        "score": 40,
-        "context": "16/06/2026 30/09/2026 View (726 KB)"
       },
       {
         "department": "West Garo Hills",
