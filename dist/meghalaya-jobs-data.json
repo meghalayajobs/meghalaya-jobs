@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T20:40:04.399Z",
-  "generatedAtLabel": "07 October 2026 at 02:10 am",
+  "generatedAt": "2026-10-07T00:14:32.704Z",
+  "generatedAtLabel": "07 October 2026 at 05:44 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 5,
-    "result": 6,
+    "result": 5,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1013,18 +1013,6 @@
         "sortValue": 1790121600000,
         "score": 7,
         "context": "dex=\"0\"> 23/09/2026 Written test for the post of Programme Officer i/c IEC under MGNREGA <span class=\"date-display-single\" p"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Corrigendum%20for%20Economics.pdf",
-        "title": "22nd September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "publishedLabel": "22 Sept 2026",
-        "sortValue": 1790035200000,
-        "score": 40,
-        "context": "Corrigendum regarding the result of the interview to the post of Assistant Professor/Lecturer in Economics in Government Colleges (117 MB)"
       }
     ],
     "admit_card": []
