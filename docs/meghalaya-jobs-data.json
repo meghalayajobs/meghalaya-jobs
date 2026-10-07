@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T06:42:29.239Z",
-  "generatedAtLabel": "07 October 2026 at 12:12 pm",
+  "generatedAt": "2026-10-07T14:04:22.965Z",
+  "generatedAtLabel": "07 October 2026 at 07:34 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 5,
+    "recruitment": 6,
     "result": 5,
     "admit_card": 0
   },
@@ -30,6 +30,18 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "06-10-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Corrigendum%20for%20Advertisement%20for%20posts%20on%20contractual%20basis%20published%20on%206.10.2026%20from%20Dept%20of%20Anaesthesiology%20&%20Critical%20care.pdf",
+        "title": "Corrigendum for Advertisement for posts on contractual basis published on 6.10.2026 from Dept of Anaesthesiology & Critical care",
+        "category": "recruitment",
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "publishedLabel": "06 Oct 2026",
+        "sortValue": 1791244800000,
+        "score": 40,
+        "context": "07-10-2026"
       },
       {
         "department": "NEIGRIHMS",
@@ -258,18 +270,6 @@
         "sortValue": 1788220800000,
         "score": 7,
         "context": "li> Advertisement - Application are invited for the post of Cleaner in the Office of Inspectorate of Electricity, Meghalaya, Shillong Date: 01 Sep 2026 Date: 01 Sep 2026 Notice - List of candidates who have been shortlisted to take the written test for the position of Hospital Manager post in various District Hospitals under the DHS (MI), Meghalaya, Shillong"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/09/17883410683670.pdf",
-        "title": "Notice for written examination on Language Proficiency test for the post of Driver",
-        "category": "recruitment",
-        "publishedAt": "2026-08-31T00:00:00.000Z",
-        "publishedLabel": "31 Aug 2026",
-        "sortValue": 1788134400000,
-        "score": 40,
-        "context": "31/08/2026 View (375 KB)"
       },
       {
         "department": "Information Tech.",
@@ -603,6 +603,18 @@
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17913746468878.pdf",
+        "title": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers",
+        "category": "other_notice",
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "publishedLabel": "07 Oct 2026",
+        "sortValue": 1791331200000,
+        "score": 40,
+        "context": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers 07/10/2026 31/12/2026 View (426 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17909529944921.pdf",
         "title": "PUBLIC NOTICE REGARDING SIR FOR KHARKUTTA DATED 01/10/2026",
         "category": "other_notice",
@@ -683,18 +695,6 @@
         "sortValue": 1788134400000,
         "score": 7,
         "context": "ost-block-accountant\">NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of Block Accountant for both Khasi & Garo regions on 14th Sept, 2026 02/09/2026 31/08/2026 <div class=\"newit"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/0209/Partial%20Modification%20to%20Institute's%20Notification%20dated%2029.08.2026%20for%20the%20interviews%20of%20Junior%20Resident%20Doctors%20to%20be%20held%20on%209th%20&%2010th%20September%202026.pdf",
-        "title": "Partial Modification to Institute's Notification dated 29.08.2026 for the interviews of Junior Resident Doctors to be held on 9th & 10th September 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-08-29T00:00:00.000Z",
-        "publishedLabel": "29 Aug 2026",
-        "sortValue": 1787961600000,
-        "score": 40,
-        "context": "02-09-2026"
       },
       {
         "department": "Information Tech.",
@@ -853,30 +853,6 @@
         "context": "Notification regarding constitutes of the Selection Committee for CM-LEAD (19.06.2026) (200kb)"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
-        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
-        "category": "other_notice",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "publishedLabel": "01 Jun 2026",
-        "sortValue": 1780272000000,
-        "score": 40,
-        "context": "01/06/2026 View (248 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
-        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
-        "category": "other_notice",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14/05/2026 View (154 KB)"
-      },
-      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
@@ -887,6 +863,30 @@
         "sortValue": 1778025600000,
         "score": 12,
         "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
+        "title": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]",
+        "category": "other_notice",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "publishedLabel": "06 May 2026",
+        "sortValue": 1778025600000,
+        "score": 12,
+        "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
+        "title": "NOTICE: Traffic Violations Notice",
+        "category": "other_notice",
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
+        "score": 40,
+        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
       }
     ]
   },
@@ -903,6 +903,18 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "06-10-2026"
+      },
+      {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Corrigendum%20for%20Advertisement%20for%20posts%20on%20contractual%20basis%20published%20on%206.10.2026%20from%20Dept%20of%20Anaesthesiology%20&%20Critical%20care.pdf",
+        "title": "Corrigendum for Advertisement for posts on contractual basis published on 6.10.2026 from Dept of Anaesthesiology & Critical care",
+        "category": "recruitment",
+        "publishedAt": "2026-10-06T00:00:00.000Z",
+        "publishedLabel": "06 Oct 2026",
+        "sortValue": 1791244800000,
+        "score": 40,
+        "context": "07-10-2026"
       },
       {
         "department": "NEIGRIHMS",
@@ -1505,6 +1517,11 @@
     {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "West Garo Hills",
+      "url": "https://westgarohills.gov.in/documents/",
       "reason": "fetch failed"
     }
   ],
