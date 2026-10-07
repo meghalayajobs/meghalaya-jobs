@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T14:04:22.965Z",
-  "generatedAtLabel": "07 October 2026 at 07:34 pm",
+  "generatedAt": "2026-10-07T20:20:08.581Z",
+  "generatedAtLabel": "08 October 2026 at 01:50 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -272,6 +272,18 @@
         "context": "li> Advertisement - Application are invited for the post of Cleaner in the Office of Inspectorate of Electricity, Meghalaya, Shillong Date: 01 Sep 2026 Date: 01 Sep 2026 Notice - List of candidates who have been shortlisted to take the written test for the position of Hospital Manager post in various District Hospitals under the DHS (MI), Meghalaya, Shillong"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/09/17883410683670.pdf",
+        "title": "Notice for written examination on Language Proficiency test for the post of Driver",
+        "category": "recruitment",
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "publishedLabel": "31 Aug 2026",
+        "sortValue": 1788134400000,
+        "score": 40,
+        "context": "31/08/2026 View (375 KB)"
+      },
+      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
@@ -294,18 +306,6 @@
         "sortValue": 1785715200000,
         "score": 12,
         "context": "> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> </li"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
-        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
-        "category": "recruitment",
-        "publishedAt": "2026-07-03T00:00:00.000Z",
-        "publishedLabel": "03 Jul 2026",
-        "sortValue": 1783036800000,
-        "score": 40,
-        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
       }
     ],
     "admit_card": [],
@@ -853,6 +853,30 @@
         "context": "Notification regarding constitutes of the Selection Committee for CM-LEAD (19.06.2026) (200kb)"
       },
       {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
+        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
+        "category": "other_notice",
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
+        "score": 40,
+        "context": "01/06/2026 View (248 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
+        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
+        "category": "other_notice",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
+        "score": 40,
+        "context": "14/05/2026 View (154 KB)"
+      },
+      {
         "department": "MPSC notice",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
         "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
@@ -863,30 +887,6 @@
         "sortValue": 1778025600000,
         "score": 12,
         "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]",
-        "category": "other_notice",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "publishedLabel": "06 May 2026",
-        "sortValue": 1778025600000,
-        "score": 12,
-        "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
-        "title": "NOTICE: Traffic Violations Notice",
-        "category": "other_notice",
-        "publishedAt": "2026-04-23T00:00:00.000Z",
-        "publishedLabel": "23 Apr 2026",
-        "sortValue": 1776902400000,
-        "score": 40,
-        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
       }
     ]
   },
@@ -1517,11 +1517,6 @@
     {
       "department": "Health Dept",
       "url": "https://meghealth.gov.in/index.html",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "West Garo Hills",
-      "url": "https://westgarohills.gov.in/documents/",
       "reason": "fetch failed"
     }
   ],
