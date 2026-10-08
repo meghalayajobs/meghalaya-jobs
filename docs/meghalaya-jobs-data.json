@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T06:51:13.712Z",
-  "generatedAtLabel": "08 October 2026 at 12:21 pm",
+  "generatedAt": "2026-10-08T14:13:50.547Z",
+  "generatedAtLabel": "08 October 2026 at 07:43 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -20,6 +20,18 @@
   "grouped": {
     "recruitment": [
       {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/10/17914437656060.pdf",
+        "title": "Advertisement: Recruitment to the post of Assistant Teacher (Mathematics)",
+        "category": "recruitment",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "publishedLabel": "08 Oct 2026",
+        "sortValue": 1791417600000,
+        "score": 40,
+        "context": "08/10/2026 25/10/2026 View (27 KB)"
+      },
+      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20Recruitment%20To%20Project%20Posts%20-%20(%20on%20Contract)%20Dept%20of%20Anaesthesiology.modified.pdf",
@@ -30,18 +42,6 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "06-10-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Corrigendum%20for%20Advertisement%20for%20posts%20on%20contractual%20basis%20published%20on%206.10.2026%20from%20Dept%20of%20Anaesthesiology%20&%20Critical%20care.pdf",
-        "title": "Corrigendum for Advertisement for posts on contractual basis published on 6.10.2026 from Dept of Anaesthesiology & Critical care",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 40,
-        "context": "07-10-2026"
       },
       {
         "department": "NEIGRIHMS",
@@ -320,7 +320,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "nt 08/10/2026 Notificat"
+        "context": "nt 08/10/2026 Notification: Final Result for"
       },
       {
         "department": "MERB",
@@ -356,7 +356,7 @@
         "publishedLabel": "28 Sept 2026",
         "sortValue": 1790553600000,
         "score": 7,
-        "context": "-fisheries-enterprise-development-finance\">Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
+        "context": "rtlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheri"
       },
       {
         "department": "MSRLS",
@@ -368,7 +368,7 @@
         "publishedLabel": "28 Sept 2026",
         "sortValue": 1790553600000,
         "score": 7,
-        "context": "rtlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions &nbs"
+        "context": "tem\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
       },
       {
         "department": "MeGSRES",
@@ -601,6 +601,30 @@
     ],
     "other_notice": [
       {
+        "department": "NEIGRIHMS",
+        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/081026/Notice%20&%20List%20of%20Eligible%20&%20Non-eligible%20candidates%20for%20the%20posts%20of%20SRD.pdf",
+        "title": "Notification with list of Eligible & Not Eligible candidates for interview of Senior Resident Doctors on the 14th October,2026 (2nd Cut Off Date)",
+        "category": "other_notice",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "publishedLabel": "08 Oct 2026",
+        "sortValue": 1791417600000,
+        "score": 40,
+        "context": "08-10-2026"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/september-social-inclusion-social-development-newsletter",
+        "title": "September Social Inclusion & Social Development Newsletter",
+        "category": "other_notice",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "publishedLabel": "08 Oct 2026",
+        "sortValue": 1791417600000,
+        "score": 7,
+        "context": "ICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Notification: Final Result for the post of D"
+      },
+      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17913746468878.pdf",
@@ -670,7 +694,7 @@
         "publishedLabel": "08 Sept 2026",
         "sortValue": 1788825600000,
         "score": 7,
-        "context": "class=\"newitem\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) f"
+        "context": "er-livestock-fisheries-enterprise-development-finance\">Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 08/09/2026 <div class=\"newit"
       },
       {
         "department": "NEIGRIHMS",
@@ -694,7 +718,7 @@
         "publishedLabel": "31 Aug 2026",
         "sortValue": 1788134400000,
         "score": 7,
-        "context": "sp; 02/09/2026 31/08/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the Post of Project Managers - Livestock"
+        "context": "est-practical-post-block-accountant\">NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of Block Accountant for both Khasi & Garo regions on 14th Sept, 2026 02/09/2026 31/08/2026 NOTIFICATION - Shortlisted Candidates for the Personal Interview for the Post of Project Managers - Livestock"
       },
       {
         "department": "Information Tech.",
@@ -863,35 +887,23 @@
         "sortValue": 1780272000000,
         "score": 40,
         "context": "01/06/2026 View (248 KB)"
-      },
-      {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
-        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
-        "category": "other_notice",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "publishedLabel": "14 May 2026",
-        "sortValue": 1778716800000,
-        "score": 40,
-        "context": "14/05/2026 View (154 KB)"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice17June2026a.pdf",
-        "title": "NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]",
-        "category": "other_notice",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "publishedLabel": "06 May 2026",
-        "sortValue": 1778025600000,
-        "score": 12,
-        "context": "ank\"> NOTICE This is for general information to all the concerned candidates that the Personal Interview for the Post(s) of Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025] Librarian in the Directorate of Information and Public Relations [April 2025] CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
+      {
+        "department": "South Garo Hills",
+        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/10/17914437656060.pdf",
+        "title": "Advertisement: Recruitment to the post of Assistant Teacher (Mathematics)",
+        "category": "recruitment",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "publishedLabel": "08 Oct 2026",
+        "sortValue": 1791417600000,
+        "score": 40,
+        "context": "08/10/2026 25/10/2026 View (27 KB)"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -903,18 +915,6 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "06-10-2026"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Corrigendum%20for%20Advertisement%20for%20posts%20on%20contractual%20basis%20published%20on%206.10.2026%20from%20Dept%20of%20Anaesthesiology%20&%20Critical%20care.pdf",
-        "title": "Corrigendum for Advertisement for posts on contractual basis published on 6.10.2026 from Dept of Anaesthesiology & Critical care",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 40,
-        "context": "07-10-2026"
       },
       {
         "department": "NEIGRIHMS",
@@ -976,7 +976,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "nt 08/10/2026 Notificat"
+        "context": "nt 08/10/2026 Notification: Final Result for"
       },
       {
         "department": "MERB",
@@ -1012,7 +1012,7 @@
         "publishedLabel": "28 Sept 2026",
         "sortValue": 1790553600000,
         "score": 7,
-        "context": "-fisheries-enterprise-development-finance\">Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
+        "context": "rtlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheri"
       },
       {
         "department": "MSRLS",
@@ -1024,7 +1024,7 @@
         "publishedLabel": "28 Sept 2026",
         "sortValue": 1790553600000,
         "score": 7,
-        "context": "rtlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions &nbs"
+        "context": "tem\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
       }
     ],
     "admit_card": []
