@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T20:20:08.581Z",
-  "generatedAtLabel": "08 October 2026 at 01:50 am",
+  "generatedAt": "2026-10-08T00:35:56.831Z",
+  "generatedAtLabel": "08 October 2026 at 06:05 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 6,
-    "result": 5,
+    "result": 4,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -1013,18 +1013,6 @@
         "sortValue": 1790553600000,
         "score": 7,
         "context": "em\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test ("
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/result-appointment-post-accounts-assistant-under-pmay-g-programme",
-        "title": "Result- Appointment for the post of Accounts Assistant under PMAY-G programme",
-        "category": "result",
-        "publishedAt": "2026-09-23T00:00:00.000Z",
-        "publishedLabel": "23 Sept 2026",
-        "sortValue": 1790121600000,
-        "score": 7,
-        "context": "dex=\"0\"> 23/09/2026 Written test for the post of Programme Officer i/c IEC under MGNREGA <span class=\"date-display-single\" p"
       }
     ],
     "admit_card": []
