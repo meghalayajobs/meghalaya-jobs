@@ -1,36 +1,24 @@
 {
-  "generatedAt": "2026-10-14T02:49:05.052Z",
-  "generatedAtLabel": "14 October 2026 at 08:19 am",
+  "generatedAt": "2026-10-14T08:13:12.028Z",
+  "generatedAtLabel": "14 October 2026 at 01:43 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
   "counts": {
-    "recruitment": 24,
+    "recruitment": 17,
     "admit_card": 0,
-    "result": 24,
-    "other_notice": 24
+    "result": 12,
+    "other_notice": 17
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
-    "result": 10,
+    "recruitment": 5,
+    "result": 2,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-08-DHSMER-215-USTM-BAMS-2026-6916-Advertisement%20for%20the%20admission%20of%20BAMS.pdf",
-        "title": "Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27",
-        "category": "recruitment",
-        "publishedAt": "2026-10-12T00:00:00.000Z",
-        "publishedLabel": "12 Oct 2026",
-        "sortValue": 1791763200000,
-        "score": 10,
-        "context": "f=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Ch"
-      },
       {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
@@ -42,42 +30,6 @@
         "sortValue": 1791417600000,
         "score": 40,
         "context": "08/10/2026 25/10/2026 View (27 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52035",
-        "title": "Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist, 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis",
-        "category": "recruitment",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": "Office Wise Search Date: 08 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52034",
-        "title": "Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": "/content/52035\">Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist, 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis Date: 08 Oct 2026 Date: 08 Oct 2026 Notice - Rejection List for the Recruitment for the post of Nutritionist & Young Professional under Khelo India State Centre of Excellence (KISCE), Shillong, Meghalaya <div class=\"views-f"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-08-%20SMC-97-2026-Estt-HR-11-MSW-%20recruitment.pdf",
-        "title": "Rolling Advertisement for Medical Social Worker on Contractual Basis",
-        "category": "recruitment",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 12,
-        "context": "Meghalaya Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27 | Apply here Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist and 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis <a href=\"news/2026-10-07-DHSMER-GNM-ANM-Admission-2026-10-6861-Notice- ANM GNM (p"
       },
       {
         "department": "NEIGRIHMS",
@@ -104,18 +56,6 @@
         "context": "07-10-2026"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-HSM-MMSRB-NURSING-10-26-238-NOTIFICATION%20FOR%20REJECTED%20APPLICATIONS.pdf",
-        "title": "Notification - List of Rejected Applications for the post of Staff nurse & ANM",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 12,
-        "context": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota | 2nd List of Candidates for Screening | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM <a href=\"news/2026-10-06-DHSMER-152-USTM-MBBS-202"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Laboratory%20Technician%201%20(One)%20post%20under%20the%20project%20RePORT%20India%20Phase%20II%20in%20the%20Department%20of%20Microbiology.pdf",
@@ -140,30 +80,6 @@
         "context": "01-10-2026"
       },
       {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice30Sep2026a.pdf",
-        "title": "MPSC/D-48/3/2024-2025/128",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.MPSC/Advt No.16/Pt-1/2025, Dated Shillong, the 15th July, 2025, for the post of Typist in various Heads of Department appearing at Post Code 01, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:­ 30-09-2026 -"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://pasimch.megdhsdme.in/",
-        "title": "Apply Here",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 6,
-        "context": "First Year MBBS Course AY 2026-27 to PA Sangma International Medical College, Meghalaya Advertisement for Admission for 1st Year MBBS Course to the PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi, Meghalaya | Notice - List of Selected Candidates for admission to B.Sc Nursing Course at Meghalaya Government College of Nursing, Civil Hospital, Shillong and Shillong Government College of Nursing, Ganesh Das Govt. M&CH Hospital, Shillong for the session 2026-27 | <a href=\"news/2026-09-30-DHSMER-CON-Admission-BSc-2026-9-"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement_Project_Research_Nurse_CARHDP_Sept_2026.pdf",
@@ -176,30 +92,6 @@
         "context": "28-09-2026"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51904",
-        "title": "Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 7,
-        "context": "tle\"> Notice - Rejection List for the Recruitment for the post of Nutritionist & Young Professional under Khelo India State Centre of Excellence (KISCE), Shillong, Meghalaya Date: 07 Oct 2026 Date: 17 Sep 2026 Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong <sp"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51848",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 7,
-        "context": "li> Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong Date: 17 Sep 2026 Date: 17 Sep 2026 Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd <div class=\"views-field views-field-field-d"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/GAD/2026/Notification%20regarding%20Compassionate%20Appointment%20to%20the%20Post%20of%20Multi-Tasking%20Staff%20(MTS)-%202026.pdf",
@@ -210,54 +102,6 @@
         "sortValue": 1789516800000,
         "score": 40,
         "context": "16-09-2026"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Sep2026b.pdf",
-        "title": "No.MPSC/D-8/1/2023-2024/61",
-        "category": "recruitment",
-        "publishedAt": "2026-09-15T00:00:00.000Z",
-        "publishedLabel": "15 Sept 2026",
-        "sortValue": 1789430400000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. MPSC/ADVT-54/1/2023-2024/138, Dated Shillong, the 16th January 2024, for the post of Industrial Promotion Officer/Assistant Industries Officer/Assistant Manager, CFSW/Superintendent of Industries in Commerce and Industries Department appearing at Post Code 02, Column No.3 and 4, and as per Department's Corrigendum vide L.No IND.50/2001/Pt/55 dated 08th September, 2026, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:- 15-09-2026 -"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Notice15Sep2026b.pdf",
-        "title": "No.MPSC/NAZ-37/2017-2018/47",
-        "category": "recruitment",
-        "publishedAt": "2026-09-15T00:00:00.000Z",
-        "publishedLabel": "15 Sept 2026",
-        "sortValue": 1789430400000,
-        "score": 40,
-        "context": "In-Eligibility Notice This is for general information to all the candidates who have applied for the post of STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018) that the In-Eligibility List has been published. 15-09-2026 -"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51784",
-        "title": "Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd",
-        "category": "recruitment",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 7,
-        "context": "span class=\"views-field views-field-title\"> Rolling Advertisement for the post of Professor and Associate Professor on a contractual basis at Shillong Medical College, Shillong Date: 17 Sep 2026 Date: 14 Sep 2026 Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 <div class=\"views-fi"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51797",
-        "title": "Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026",
-        "category": "recruitment",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 7,
-        "context": "ews-field views-field-title\"> Corrigendum to the Advertisement for the post of Ayurvedic Pharmacist and Homoeopathic Pharmacist under Meghalayan Medical Drugs & Services Ltd Date: 14 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong <div class=\"views-field views-field-field-date1 s"
       },
       {
         "department": "North Garo Hills",
@@ -284,28 +128,100 @@
         "context": "08-09-2026"
       },
       {
-        "department": "Meghalaya Police",
-        "sourceUrl": "https://megpolice.gov.in/recruitment",
-        "url": "https://megpolice.gov.in/recruitment-update-successful-candidate-recommended-post-it-consultant-contractual-basis",
-        "title": "Recruitment Update: Successful Candidate recommended for the Post of IT Consultant on Contractual Basis",
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/09/17883410683670.pdf",
+        "title": "Notice for written examination on Language Proficiency test for the post of Driver",
         "category": "recruitment",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "publishedLabel": "03 Sept 2026",
-        "sortValue": 1788393600000,
-        "score": 7,
-        "context": "2026-09-03 <a href=\"/rec"
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "publishedLabel": "31 Aug 2026",
+        "sortValue": 1788134400000,
+        "score": 40,
+        "context": "31/08/2026 View (375 KB)"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51722",
-        "title": "Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM)",
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/08/17857464904343.pdf",
+        "title": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship",
         "category": "recruitment",
-        "publishedAt": "2026-09-02T00:00:00.000Z",
-        "publishedLabel": "02 Sept 2026",
-        "sortValue": 1788307200000,
-        "score": 7,
-        "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
+        "publishedAt": "2026-07-03T00:00:00.000Z",
+        "publishedLabel": "03 Jul 2026",
+        "sortValue": 1783036800000,
+        "score": 40,
+        "context": "ADVERTISEMENT: Fresh and Renewal applications for Umbrella Scheme of Scholarship 03/07/2026 30/11/2026 View (795 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/06/17809158321845.pdf",
+        "title": "RGSA: Notice for the post of Programme Assistant (PA) and Accountant Cum Data Entry Operator",
+        "category": "recruitment",
+        "publishedAt": "2026-06-08T00:00:00.000Z",
+        "publishedLabel": "08 Jun 2026",
+        "sortValue": 1780876800000,
+        "score": 40,
+        "context": "08/06/2026 31/10/2026 View (1 MB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791883407970.pdf",
+        "title": "Notice for personal interview for the post of LDA",
+        "category": "recruitment",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (628 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788459865613.pdf",
+        "title": "Notice for Personal interview for the post of Semen Carrier and Tracer",
+        "category": "recruitment",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "publishedLabel": "15 May 2026",
+        "sortValue": 1778803200000,
+        "score": 40,
+        "context": "15/05/2026 View (731 KB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17788463457015.pdf",
+        "title": "Eligible and Ineligible candidate list for Personal Interview for the post of LDA",
+        "category": "recruitment",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "publishedLabel": "12 May 2026",
+        "sortValue": 1778544000000,
+        "score": 40,
+        "context": "12/05/2026 View (736 KB)"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s31efa39bcaec6f3900149160693694536/uploads/2024/12/2024120652.pdf",
+        "title": "Application Form Cleanest Tourist Spot Award East Khasi Hills",
+        "category": "recruitment",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 10,
+        "context": "tration Officers Press Note and Press Release Tourism How to Reach Places of Interest <a href=\"https://eastkhasihil"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/recruitment-advertisements/",
+        "title": "Recruitment Advertisements",
+        "category": "recruitment",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "in/notice_category/permissions/\">Permissions Tenders Events Notification DSC Recruitment <li id=\"menu-item-37778\" class=\"menu-item menu-item-type-p"
       }
     ],
     "admit_card": [],
@@ -335,234 +251,6 @@
         "context": "13.10.2026"
       },
       {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-post-state-mission-manager-knowledge-management-communication",
-        "title": "NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC)",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 7,
-        "context": "nt 13/10/2026 NOTIFICATIO"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "ab\"> More about Advertisements The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "ab\"> More about Advertisements The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result08Oct2026e.pdf",
-        "title": "The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 10,
-        "context": "lt12Oct2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for Excise Officers held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result08Oct2026e.pdf",
-        "title": "The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 10,
-        "context": "lt12Oct2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for Excise Officers held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-project-manager-start-village-entrepreneurship-programme-pm-svep",
-        "title": "NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP)",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 7,
-        "context": "Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC) 13/10/2026 09/10/2026 NOTIFIC"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts",
-        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant",
-        "category": "result",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": ">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 Notification: Final Result for"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52036",
-        "title": "Notice - Rejection List for the Recruitment for the post of Nutritionist & Young Professional under Khelo India State Centre of Excellence (KISCE), Shillong, Meghalaya",
-        "category": "result",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 7,
-        "context": "Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College Date: 08 Oct 2026 Date: 07 Oct 2026 Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong <span class=\"views-lab"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Lecturer).pdf",
-        "title": "29th September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-29T00:00:00.000Z",
-        "publishedLabel": "29 Sept 2026",
-        "sortValue": 1790640000000,
-        "score": 40,
-        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT LECTURER (ARTS & SCIENCE STREAMS) HELD ON 28TH FEBRUARY, 2026 (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Teacher).pdf",
-        "title": "29th September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-29T00:00:00.000Z",
-        "publishedLabel": "29 Sept 2026",
-        "sortValue": 1790640000000,
-        "score": 40,
-        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT TEACHER (ARTS) AND ASSISTANT TEACHER (SCIENCE WITH MATHEMATICS/LIFE SCIENCE) (117 MB)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-district-office-assistant-khasi-garo-regions",
-        "title": "Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions",
-        "category": "result",
-        "publishedAt": "2026-09-28T00:00:00.000Z",
-        "publishedLabel": "28 Sept 2026",
-        "sortValue": 1790553600000,
-        "score": 7,
-        "context": "rtlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheri"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-project-manager-livestock-fisheries-enterprise-development-finance",
-        "title": "Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant",
-        "category": "result",
-        "publishedAt": "2026-09-28T00:00:00.000Z",
-        "publishedLabel": "28 Sept 2026",
-        "sortValue": 1790553600000,
-        "score": 7,
-        "context": "tem\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
-      },
-      {
-        "department": "MeGSRES",
-        "sourceUrl": "https://megsres.nic.in/recruitment",
-        "url": "https://megsres.nic.in/result-appointment-post-accounts-assistant-under-pmay-g-programme",
-        "title": "Result- Appointment for the post of Accounts Assistant under PMAY-G programme",
-        "category": "result",
-        "publishedAt": "2026-09-23T00:00:00.000Z",
-        "publishedLabel": "23 Sept 2026",
-        "sortValue": 1790121600000,
-        "score": 7,
-        "context": "dex=\"0\"> 23/09/2026 Written test for the post of Programme Officer i/c IEC under MGNREGA <span class=\"date-display-single\" p"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Corrigendum%20for%20Economics.pdf",
-        "title": "22nd September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "publishedLabel": "22 Sept 2026",
-        "sortValue": 1790035200000,
-        "score": 40,
-        "context": "Corrigendum regarding the result of the interview to the post of Assistant Professor/Lecturer in Economics in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20History.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in History in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/2.%20Economics.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Economics in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/3.%20Commerce.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Commerce in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/4.%20Philosophy.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Philosophy in Government Colleges (117 MB)"
-      },
-      {
-        "department": "MERB",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
-        "url": "https://megeducation.gov.in/edu_dept/publications/2026/5.%20Mathematics.pdf",
-        "title": "21st September 2026",
-        "category": "result",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "publishedLabel": "21 Sept 2026",
-        "sortValue": 1789948800000,
-        "score": 40,
-        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Mathematics in Government Colleges (117 MB)"
-      },
-      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2009th%20&%2010th%20September%202026.pdf",
@@ -587,16 +275,100 @@
         "context": "11.09.2026"
       },
       {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51783",
-        "title": "Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong",
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result_Selected%20Candidates_2026_Microbiology.pdf",
+        "title": "Result of Selected Candidates for the Interview of the various Project Staff on contractual basis for the Project entitled \"Efficacy, Safety and Tolerability of Ayurveda regimen as an adjunct to anti-tuberculosis treatment (ATT)...\" in the Department of Microbiology",
         "category": "result",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 7,
-        "context": "itle\"> Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 Date: 11 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "publishedLabel": "03 Sept 2026",
+        "sortValue": 1788393600000,
+        "score": 40,
+        "context": "03.09.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result_Scientist%20B%20non%20medical_microbiology%20dept%20.pdf",
+        "title": "Result of the Interview held on 1st September, 2026 for the post of Scientist B (Non-Medical) under the Central Scheme entitled, \"Setting up of Nationwide Network of Laboratories for Managing Epidemics and National Calamities\" in the Department of Microbiology",
+        "category": "result",
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "publishedLabel": "02 Sept 2026",
+        "sortValue": 1788307200000,
+        "score": 40,
+        "context": "02.09.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20interview%20held%20on%2013.8.2026%20for%20the%20post%20of%20Laboratory%20Technician%20(on%20contractual%20basis)%20-%20Dept.%20of%20Microbiology.pdf",
+        "title": "Result of the interview held on 13.8.2026 for the post of Laboratory Technician (on contractual basis) - Dept. of Microbiology",
+        "category": "result",
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "publishedLabel": "13 Aug 2026",
+        "sortValue": 1786579200000,
+        "score": 40,
+        "context": "14.08.2026"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20interview%20for%20selection%20of%20Project%20Staff%20on%20contractual%20basis%20-%20Department%20of%20Microbiology.pdf",
+        "title": "Result of interview for selection of Project Staff on contractual basis - Department of Microbiology",
+        "category": "result",
+        "publishedAt": "2026-07-31T00:00:00.000Z",
+        "publishedLabel": "31 Jul 2026",
+        "sortValue": 1785456000000,
+        "score": 40,
+        "context": "31.07.2026"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/07/17846982361703.pdf",
+        "title": "Result of Driving Practical Test",
+        "category": "result",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "publishedLabel": "20 Jul 2026",
+        "sortValue": 1784505600000,
+        "score": 40,
+        "context": "20/07/2026 View (1 MB)"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791887543084.pdf",
+        "title": "Rejection list on the ground of overage for the post of LDA",
+        "category": "result",
+        "publishedAt": "2026-05-18T00:00:00.000Z",
+        "publishedLabel": "18 May 2026",
+        "sortValue": 1779062400000,
+        "score": 40,
+        "context": "18/05/2026 View (593 KB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17757500533347.pdf",
+        "title": "DSC: EWKH Results of Personal Interview for Mechanic and Mechanic Gr. II",
+        "category": "result",
+        "publishedAt": "2026-04-08T00:00:00.000Z",
+        "publishedLabel": "08 Apr 2026",
+        "sortValue": 1775606400000,
+        "score": 40,
+        "context": "08/04/2026 31/12/2026 View (1 MB)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/04/17757499229144.pdf",
+        "title": "DSC: EWKH Results of Personal Interview for Grade IV [2024]",
+        "category": "result",
+        "publishedAt": "2026-04-07T00:00:00.000Z",
+        "publishedLabel": "07 Apr 2026",
+        "sortValue": 1775520000000,
+        "score": 40,
+        "context": "07/04/2026 31/12/2026 View (216 KB)"
       }
     ],
     "other_notice": [
@@ -625,30 +397,6 @@
         "context": "08-10-2026"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DDFS%20Approved_Notice%20for%20Pre-Bid%20Meeting.pdf",
-        "title": "NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 12,
-        "context": "ight=\"16\" /> Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27 | Apply here <a href=\"news/2026-10-08- SMC-97-2026-Estt-HR-11-MSW- recruitment.pdf\" target=\"_b"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/september-social-inclusion-social-development-newsletter",
-        "title": "September Social Inclusion & Social Development Newsletter",
-        "category": "other_notice",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": "ICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAI"
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17913746468878.pdf",
@@ -659,30 +407,6 @@
         "sortValue": 1791331200000,
         "score": 40,
         "context": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers 07/10/2026 31/12/2026 View (426 KB)"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-DHSMER-BScNursing-2025-09-6865-Notice-%20Second%20List%20for%20Screening%20(PDF).pdf",
-        "title": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota",
-        "category": "other_notice",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 12,
-        "context": "lected Candidates to undergo Auxiliary Nurses & Midwives (ANM) Training Course for the academic session 2026-27 | List of the Selected Candidates to undergo General Nursing & Midwifery (GNM) Training Course for the academic session 2026-27 | 2nd List of Candidates for Screening Notification - List of Rejected Applications for the post of Staff nurse & ANM | <a href=\"news/2026-10-07-HSM-MMSRB-"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Special%20Educators.pdf",
-        "title": "Notification Number/Date",
-        "category": "other_notice",
-        "publishedAt": "2026-10-05T00:00:00.000Z",
-        "publishedLabel": "05 Oct 2026",
-        "sortValue": 1791158400000,
-        "score": 40,
-        "context": "Content Summary Format No. EDN.CC/12/2022/742 Dated 05-10-2026 Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -697,18 +421,6 @@
         "context": "PUBLIC NOTICE REGARDING SIR FOR KHARKUTTA DATED 01/10/2026 01/10/2026 31/10/2026 View (1 MB)"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-06-DHSMER-152-USTM-MBBS-2026-%206829-List-Candidates-3rdRoundCounselling.pdf",
-        "title": "List of Candidates for Third Round Counselling for Admission of First Year MBBS Course AY 2026-27 to PA Sangma International Medical College, Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 12,
-        "context": "gif\" alt=\"Pdf icon\" width=\"16\" height=\"16\" /> | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM Advertisement for Admission for 1st Year MBBS Course to the PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi, Meghalaya | Apply Here <a href=\"news/2026-09-30-DHSMER-CON-Admission-BSc-2026-9-6642-Notice"
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17905962573924.pdf",
@@ -719,30 +431,6 @@
         "sortValue": 1790553600000,
         "score": 40,
         "context": "PUBLIC NOTICE ON SIR 28/09/2026 28/09/2026 31/10/2026 View (901 KB)"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-150-MBBS-Admission-2026-27-6101-EligibleCandidates-Recounselling-MBBS-BDS-courses.pdf",
-        "title": "Notification - List of eligible candidates and their allocation after Re-Counselling for MBBS and BDS Seats under State Quota and Central Pool Scats for the Academic Year 2026-2027",
-        "category": "other_notice",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 12,
-        "context": "1-NIC-ListBAMS-BHMS.pdf\" target=\"_blank\">Short-listed Candidates for BAMS & BHMS Counselling Rolling Advertisement for the post of Professor and Associate Professor at Shillong Medical College Result of the 2nd Round of Counselling for Admission to !st year MBBS Course at PA Sangma International Medical College for the AY 2026-27 | Office Order | <a href=\"news/2026-09-17-Pr"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/National%20Foundation%20for%20Teachers%20Welfare.pdf",
-        "title": "No. EDN. Dated 14-09-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 40,
-        "context": "NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -757,42 +445,6 @@
         "context": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills 14/09/2026 31/12/2026 View (341 KB)"
       },
       {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/august-social-inclusion-social-development-newsletter",
-        "title": "August Social Inclusion & Social Development Newsletter",
-        "category": "other_notice",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 7,
-        "context": "Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Addendum%20to%20the%20Provisional%20list%20of%20eligible%20candidates%20for%20IT%20Awards%202026.pdf",
-        "title": "Addendum to the Provisional list of eligible candidates for IT Awards 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-08-26T00:00:00.000Z",
-        "publishedLabel": "26 Aug 2026",
-        "sortValue": 1787702400000,
-        "score": 12,
-        "context": "=\"q\" size=\"14\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Oct 05 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] <"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Order%20Techno%20Global%20University%20dissolution.pdf",
-        "title": "No. EDN.136/2008/770 Dated 12-08-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-08-12T00:00:00.000Z",
-        "publishedLabel": "12 Aug 2026",
-        "sortValue": 1786492800000,
-        "score": 40,
-        "context": "PUBLICITY REGARDING DISSOLUTION OF TECHNO GLOBAL UNIVERSITY, SHILLONG (09.09.2026) (200kb)"
-      },
-      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
@@ -805,105 +457,129 @@
         "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Public%20Notice%20for%20online%20Registration%20of%20Meritorious%20students%20for%20IT%20Awards%20Academic%20Year%202026.pdf",
-        "title": "Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026",
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/06/17804641669335.pdf",
+        "title": "Notice regarding contract agreement between NHIDCL and Ms ABCI Kamakhaya Highway Pvt Ltd",
         "category": "other_notice",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "publishedLabel": "29 Jul 2026",
-        "sortValue": 1785283200000,
-        "score": 12,
-        "context": "l> --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] <a href=\"pdf/NIQ for Data AI Lab Branding itc website"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://megedistrict.gov.in/directApply.do?serviceId=1296",
-        "title": "Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "publishedLabel": "29 Jul 2026",
-        "sortValue": 1785283200000,
-        "score": 6,
-        "context": "nterview Test for the 3 (three) contractual posts of Lab Assistant.pdf \" target=\"_blank\">eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed <!-- Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] <"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2023.pdf",
-        "title": "No. EDN. Dated 28-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-28T00:00:00.000Z",
-        "publishedLabel": "28 Jul 2026",
-        "sortValue": 1785196800000,
+        "publishedAt": "2026-06-01T00:00:00.000Z",
+        "publishedLabel": "01 Jun 2026",
+        "sortValue": 1780272000000,
         "score": 40,
-        "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
+        "context": "01/06/2026 View (248 KB)"
       },
       {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
-        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/05/17791899179916.pdf",
+        "title": "Corrigendum on posts advertised earlier by District Selection Committee Tura as per State Reservation Policy",
         "category": "other_notice",
-        "publishedAt": "2026-07-27T00:00:00.000Z",
-        "publishedLabel": "27 Jul 2026",
-        "sortValue": 1785110400000,
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "publishedLabel": "14 May 2026",
+        "sortValue": 1778716800000,
         "score": 40,
-        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (200kb)"
+        "context": "14/05/2026 View (154 KB)"
       },
       {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/MTTA.pdf",
-        "title": "No. EDN.209/2025/12 Dated 21-07-2026",
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/04/17770160015744.pdf",
+        "title": "NOTICE: Traffic Violations Notice",
         "category": "other_notice",
-        "publishedAt": "2026-07-21T00:00:00.000Z",
-        "publishedLabel": "21 Jul 2026",
-        "sortValue": 1784592000000,
+        "publishedAt": "2026-04-23T00:00:00.000Z",
+        "publishedLabel": "23 Apr 2026",
+        "sortValue": 1776902400000,
         "score": 40,
-        "context": "Notification regarding placement of Officers / Staffs for Meghalaya Teacher Training Academy (MTTA) (21.07.2026) (200kb)"
+        "context": "NOTICE: Traffic Violations Notice 23/04/2026 31/12/2026 View (845 KB)"
       },
       {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
-        "title": "Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026",
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://eastgarohills.gov.in/document-category/previous-question-papers-dsc/",
+        "title": "Previous Question Papers",
         "category": "other_notice",
-        "publishedAt": "2026-07-08T00:00:00.000Z",
-        "publishedLabel": "08 Jul 2026",
-        "sortValue": 1783468800000,
-        "score": 12,
-        "context": "> Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] <a href=\"pdf/Examination Notice for AI Tra"
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "menu-item-type-taxonomy menu-item-object-document-category menu-item-29700\"> Notices and Orders Advertisements Answer Keys Results <li id=\"menu-item-2804\" class=\"menu-item menu-item-type-post_type menu-item-object-pag"
       },
       {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Superannuation%20non%20academic%20employees.pdf",
-        "title": "No. EDN.178/2023/Part/107 Dated 06-07-2026",
+        "department": "East Garo Hills",
+        "sourceUrl": "https://eastgarohills.gov.in/notice_category/recruitment/",
+        "url": "https://eastgarohills.gov.in/solid-waste-management-rules-2026/",
+        "title": "Solid Waste Management Rules, 2026",
         "category": "other_notice",
-        "publishedAt": "2026-07-06T00:00:00.000Z",
-        "publishedLabel": "06 Jul 2026",
-        "sortValue": 1783296000000,
-        "score": 40,
-        "context": "Notification regarding the age of superannuation for \"non-academic employees\" engaged under Samagra Shiksha in the State, District & Block Level Offices (06.07.2026) (200kb)"
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "nu-item-type-taxonomy menu-item-object-notice_category current-menu-item menu-item-2469 active \"> Recruitment Tenders Citizen Services RTI <a href=\"https://eastgarohills.gov.in/media-g"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/report-on-world-environment-day-2023/",
+        "title": "Report on World Environment Day 2023",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "Disaster Management Guidelines Others Press Release Notices <a href=\"https://eastkhasihill"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/solid-waste-management/",
+        "title": "Solid Waste Management",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-34615\"> Notification DSC Recruitment Forms RTI Services <li id=\""
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://westkhasihills.gov.in/events/",
+        "title": "Special Intensive Revision – Phase III",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "0\" class=\"menu-item menu-item-type-taxonomy menu-item-object-document-category menu-item-2850\"> Notification Notices Upcoming Events Announcements <li id=\"menu-item-2469\" class=\"menu-item menu-item-type-taxonomy menu-item-object-notice_category current-menu-item m"
       }
     ]
   },
   "displayGrouped": {
     "recruitment": [
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-08-DHSMER-215-USTM-BAMS-2026-6916-Advertisement%20for%20the%20admission%20of%20BAMS.pdf",
-        "title": "Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27",
-        "category": "recruitment",
-        "publishedAt": "2026-10-12T00:00:00.000Z",
-        "publishedLabel": "12 Oct 2026",
-        "sortValue": 1791763200000,
-        "score": 10,
-        "context": "f=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Ch"
-      },
       {
         "department": "South Garo Hills",
         "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
@@ -915,42 +591,6 @@
         "sortValue": 1791417600000,
         "score": 40,
         "context": "08/10/2026 25/10/2026 View (27 KB)"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52035",
-        "title": "Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist, 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis",
-        "category": "recruitment",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": "Office Wise Search Date: 08 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52034",
-        "title": "Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College",
-        "category": "recruitment",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": "/content/52035\">Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist, 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis Date: 08 Oct 2026 Date: 08 Oct 2026 Notice - Rejection List for the Recruitment for the post of Nutritionist & Young Professional under Khelo India State Centre of Excellence (KISCE), Shillong, Meghalaya <div class=\"views-f"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-08-%20SMC-97-2026-Estt-HR-11-MSW-%20recruitment.pdf",
-        "title": "Rolling Advertisement for Medical Social Worker on Contractual Basis",
-        "category": "recruitment",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 12,
-        "context": "Meghalaya Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27 | Apply here Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist and 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis <a href=\"news/2026-10-07-DHSMER-GNM-ANM-Admission-2026-10-6861-Notice- ANM GNM (p"
       },
       {
         "department": "NEIGRIHMS",
@@ -977,18 +617,6 @@
         "context": "07-10-2026"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-HSM-MMSRB-NURSING-10-26-238-NOTIFICATION%20FOR%20REJECTED%20APPLICATIONS.pdf",
-        "title": "Notification - List of Rejected Applications for the post of Staff nurse & ANM",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 12,
-        "context": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota | 2nd List of Candidates for Screening | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM <a href=\"news/2026-10-06-DHSMER-152-USTM-MBBS-202"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20the%20post%20of%20Laboratory%20Technician%201%20(One)%20post%20under%20the%20project%20RePORT%20India%20Phase%20II%20in%20the%20Department%20of%20Microbiology.pdf",
@@ -1011,30 +639,6 @@
         "sortValue": 1790812800000,
         "score": 40,
         "context": "01-10-2026"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice30Sep2026a.pdf",
-        "title": "MPSC/D-48/3/2024-2025/128",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.MPSC/Advt No.16/Pt-1/2025, Dated Shillong, the 15th July, 2025, for the post of Typist in various Heads of Department appearing at Post Code 01, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:­ 30-09-2026 -"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://pasimch.megdhsdme.in/",
-        "title": "Apply Here",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 6,
-        "context": "First Year MBBS Course AY 2026-27 to PA Sangma International Medical College, Meghalaya Advertisement for Admission for 1st Year MBBS Course to the PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi, Meghalaya | Notice - List of Selected Candidates for admission to B.Sc Nursing Course at Meghalaya Government College of Nursing, Civil Hospital, Shillong and Shillong Government College of Nursing, Ganesh Das Govt. M&CH Hospital, Shillong for the session 2026-27 | <a href=\"news/2026-09-30-DHSMER-CON-Admission-BSc-2026-9-"
       }
     ],
     "result": [
@@ -1061,102 +665,6 @@
         "sortValue": 1791849600000,
         "score": 40,
         "context": "13.10.2026"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-post-state-mission-manager-knowledge-management-communication",
-        "title": "NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC)",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 7,
-        "context": "nt 13/10/2026 NOTIFICATIO"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "ab\"> More about Advertisements The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "ab\"> More about Advertisements The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result08Oct2026e.pdf",
-        "title": "The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 10,
-        "context": "lt12Oct2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for Excise Officers held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result08Oct2026e.pdf",
-        "title": "The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 10,
-        "context": "lt12Oct2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for Excise Officers held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-project-manager-start-village-entrepreneurship-programme-pm-svep",
-        "title": "NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP)",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 7,
-        "context": "Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC) 13/10/2026 09/10/2026 NOTIFIC"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts",
-        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant",
-        "category": "result",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 7,
-        "context": ">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 Notification: Final Result for"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52036",
-        "title": "Notice - Rejection List for the Recruitment for the post of Nutritionist & Young Professional under Khelo India State Centre of Excellence (KISCE), Shillong, Meghalaya",
-        "category": "result",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 7,
-        "context": "Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College Date: 08 Oct 2026 Date: 07 Oct 2026 Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong <span class=\"views-lab"
       }
     ],
     "admit_card": []
@@ -1645,7 +1153,78 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "MPSC",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "Meghalaya Govt",
+      "url": "https://www.meghalaya.gov.in/recruitment",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MBDA",
+      "url": "https://mbda.gov.in/recruitment",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "Information Tech.",
+      "url": "https://ditmeghalaya.gov.in/index.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "DERT",
+      "url": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "DHET",
+      "url": "https://megeducation.gov.in/dhte/pages/dhte_notice_board.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "Education Dept",
+      "url": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MERB",
+      "url": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "Health Dept",
+      "url": "https://meghealth.gov.in/index.html",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "Meghalaya Police",
+      "url": "https://megpolice.gov.in/recruitment",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MSRLS",
+      "url": "https://msrls.nic.in/recruitments",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MeGSRES",
+      "url": "https://megsres.nic.in/recruitment",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MPSC notice",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm",
+      "reason": "fetch failed"
+    },
+    {
+      "department": "MPSC result",
+      "url": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
