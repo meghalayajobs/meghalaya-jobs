@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T06:44:57.230Z",
-  "generatedAtLabel": "15 October 2026 at 12:14 pm",
+  "generatedAt": "2026-10-15T12:18:45.963Z",
+  "generatedAtLabel": "15 October 2026 at 05:48 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -164,18 +164,6 @@
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.MPSC/Advt No.16/Pt-1/2025, Dated Shillong, the 15th July, 2025, for the post of Typist in various Heads of Department appearing at Post Code 01, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:­ 30-09-2026 -"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://pasimch.megdhsdme.in/",
-        "title": "Apply Here",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 6,
-        "context": "First Year MBBS Course AY 2026-27 to PA Sangma International Medical College, Meghalaya Advertisement for Admission for 1st Year MBBS Course to the PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi, Meghalaya | Notice - List of Selected Candidates for admission to B.Sc Nursing Course at Meghalaya Government College of Nursing, Civil Hospital, Shillong and Shillong Government College of Nursing, Ganesh Das Govt. M&CH Hospital, Shillong for the session 2026-27 | <a href=\"news/2026-09-30-DHSMER-CON-Admission-BSc-2026-9-"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement_Project_Research_Nurse_CARHDP_Sept_2026.pdf",
@@ -306,6 +294,18 @@
         "sortValue": 1788393600000,
         "score": 7,
         "context": "2026-09-03 <a href=\"/rec"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51722",
+        "title": "Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM)",
+        "category": "recruitment",
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "publishedLabel": "02 Sept 2026",
+        "sortValue": 1788307200000,
+        "score": 7,
+        "context": "ws-field-title\"> Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong Date: 07 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse"
       }
     ],
     "admit_card": [],
@@ -603,6 +603,42 @@
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17920626913764.pdf",
+        "title": "SIR PRESS NOTE 14/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "publishedLabel": "14 Oct 2026",
+        "sortValue": 1791936000000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 14/10/2026 14/10/2026 31/10/2026 View (148 KB)"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-10-14-DHSMER-199-BAMS-BHMS%20-Adm-2026-7076-NOTIFICATION%20(CORRIGENDUM)%20List%20of%20eligible%20candidate%20BAMS%20&%20BHMS%2014.10.2026.pdf",
+        "title": "Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27",
+        "category": "other_notice",
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "publishedLabel": "14 Oct 2026",
+        "sortValue": 1791936000000,
+        "score": 12,
+        "context": "l-lg-3 col-md-3 col-sm-6\"> What's New Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-10-13-DHSMER-199-BAMS-BHMS-%20Adm-2026-7036-NOTIFICATION%20List%20of%20Eligible%20candidates%20for%20BAMS%20and%20BHMS.pdf",
+        "title": "Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27",
+        "category": "other_notice",
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "publishedLabel": "14 Oct 2026",
+        "sortValue": 1791936000000,
+        "score": 10,
+        "context": "MS and BHMS courses for the Academic Year 2026-27 Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates <a href=\"news/DD"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17919752101904.pdf",
         "title": "SIR PRESS NOTE 13/10/2026",
         "category": "other_notice",
@@ -611,6 +647,18 @@
         "sortValue": 1791849600000,
         "score": 40,
         "context": "SIR PRESS NOTE 13/10/2026 13/10/2026 31/10/2026 View (148 KB)"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-10-15-DHSMER-199-BAMS-BHMS-%20Adm-2026-7151-NOTIFICATION%20(CORRIGENDUM).pdf",
+        "title": "Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27",
+        "category": "other_notice",
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "publishedLabel": "13 Oct 2026",
+        "sortValue": 1791849600000,
+        "score": 12,
+        "context": "What's New Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pd"
       },
       {
         "department": "North Garo Hills",
@@ -697,18 +745,6 @@
         "context": "PUBLIC NOTICE REGARDING SIR FOR KHARKUTTA DATED 01/10/2026 01/10/2026 31/10/2026 View (1 MB)"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-06-DHSMER-152-USTM-MBBS-2026-%206829-List-Candidates-3rdRoundCounselling.pdf",
-        "title": "List of Candidates for Third Round Counselling for Admission of First Year MBBS Course AY 2026-27 to PA Sangma International Medical College, Meghalaya",
-        "category": "other_notice",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 12,
-        "context": "gif\" alt=\"Pdf icon\" width=\"16\" height=\"16\" /> | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM Advertisement for Admission for 1st Year MBBS Course to the PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi, Meghalaya | Apply Here <a href=\"news/2026-09-30-DHSMER-CON-Admission-BSc-2026-9-6642-Notice"
-      },
-      {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17905962573924.pdf",
@@ -719,18 +755,6 @@
         "sortValue": 1790553600000,
         "score": 40,
         "context": "PUBLIC NOTICE ON SIR 28/09/2026 28/09/2026 31/10/2026 View (901 KB)"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/DHSMER-150-MBBS-Admission-2026-27-6101-EligibleCandidates-Recounselling-MBBS-BDS-courses.pdf",
-        "title": "Notification - List of eligible candidates and their allocation after Re-Counselling for MBBS and BDS Seats under State Quota and Central Pool Scats for the Academic Year 2026-2027",
-        "category": "other_notice",
-        "publishedAt": "2026-09-17T00:00:00.000Z",
-        "publishedLabel": "17 Sept 2026",
-        "sortValue": 1789603200000,
-        "score": 12,
-        "context": "1-NIC-ListBAMS-BHMS.pdf\" target=\"_blank\">Short-listed Candidates for BAMS & BHMS Counselling Rolling Advertisement for the post of Professor and Associate Professor at Shillong Medical College Result of the 2nd Round of Counselling for Admission to !st year MBBS Course at PA Sangma International Medical College for the AY 2026-27 | Office Order | <a href=\"news/2026-09-17-Pr"
       },
       {
         "department": "North Garo Hills",
@@ -863,30 +887,6 @@
         "sortValue": 1783296000000,
         "score": 40,
         "context": "Notification regarding the age of superannuation for \"non-academic employees\" engaged under Samagra Shiksha in the State, District & Block Level Offices (06.07.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/strengthen%20Departmental%20co-ordination.pdf",
-        "title": "No. EDN.158/2024/154 Dated 01-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (200kb)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
-        "title": "Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs",
-        "category": "other_notice",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 12,
-        "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
       }
     ]
   },
