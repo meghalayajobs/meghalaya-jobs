@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T02:22:20.437Z",
-  "generatedAtLabel": "16 October 2026 at 07:52 am",
+  "generatedAt": "2026-10-16T07:42:15.548Z",
+  "generatedAtLabel": "16 October 2026 at 01:12 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -455,6 +455,30 @@
         "context": "Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College Date: 08 Oct 2026 Date: 07 Oct 2026 Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong <span class=\"views-lab"
       },
       {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Lecturer).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT LECTURER (ARTS & SCIENCE STREAMS) HELD ON 28TH FEBRUARY, 2026 (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/Written%20Exam%20(Asstt.%20Teacher).pdf",
+        "title": "29th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-29T00:00:00.000Z",
+        "publishedLabel": "29 Sept 2026",
+        "sortValue": 1790640000000,
+        "score": 40,
+        "context": "RESULT OF THE COMBINED WRITTEN EXAMINATION FOR THE POSTS OF ASSISTANT TEACHER (ARTS) AND ASSISTANT TEACHER (SCIENCE WITH MATHEMATICS/LIFE SCIENCE) (117 MB)"
+      },
+      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/notification-final-result-post-district-office-assistant-khasi-garo-regions",
@@ -491,6 +515,78 @@
         "context": "dex=\"0\"> 23/09/2026 Written test for the post of Programme Officer i/c IEC under MGNREGA <span class=\"date-display-single\" p"
       },
       {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/8.%20Corrigendum%20for%20Economics.pdf",
+        "title": "22nd September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "publishedLabel": "22 Sept 2026",
+        "sortValue": 1790035200000,
+        "score": 40,
+        "context": "Corrigendum regarding the result of the interview to the post of Assistant Professor/Lecturer in Economics in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/1.%20History.pdf",
+        "title": "21st September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in History in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/2.%20Economics.pdf",
+        "title": "21st September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Economics in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/3.%20Commerce.pdf",
+        "title": "21st September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Commerce in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/4.%20Philosophy.pdf",
+        "title": "21st September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Philosophy in Government Colleges (117 MB)"
+      },
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2026/5.%20Mathematics.pdf",
+        "title": "21st September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "Notification regarding the result of the interview to the post of Assistant Professor/lecturer in Mathematics in Government Colleges (117 MB)"
+      },
+      {
         "department": "NEIGRIHMS Result",
         "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
         "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2009th%20&%2010th%20September%202026.pdf",
@@ -501,102 +597,6 @@
         "sortValue": 1789948800000,
         "score": 40,
         "context": "21.09.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/48154_2026_Psychiatry%20-%20eOffice.pdf",
-        "title": "Result of the Walk-In-Interview held on 9th of September, 2026 in NEIGRIHMS, Shillong for Recruitment of 1 (one) post of Project Technical Support-III / Project Technical Assistant on Contractual basis for period of 6 (months)...",
-        "category": "result",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 40,
-        "context": "11.09.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/51783",
-        "title": "Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong",
-        "category": "result",
-        "publishedAt": "2026-09-11T00:00:00.000Z",
-        "publishedLabel": "11 Sept 2026",
-        "sortValue": 1789084800000,
-        "score": 7,
-        "context": "itle\"> Notice - Written Examination for the post of Staff Nurse on Contractual Basis at the Maternal and Child Health Hospital, Nongstoin to be conducted on 21st September, 2026 Date: 11 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result10Sep2026a.pdf",
-        "title": "The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] is hereby declared. The result of Interview to the post of Electrician Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Develoment [June 2025] is hereby declared."
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result25Sep2026a.pdf",
-        "title": "The result of Screening Test to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Research Assistant under P.H.E. Department (July 2019) is hereby declared. The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared. </li"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result10Sep2026a.pdf",
-        "title": "The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] is hereby declared. The result of Interview to the post of Electrician Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Develoment [June 2025] is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result25Sep2026a.pdf",
-        "title": "The result of Screening Test to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Research Assistant under P.H.E. Department (July 2019) is hereby declared. The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared. </li"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result03Sep2026a.pdf",
-        "title": "The result of Interview to the post of Electrician Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Develoment [June 2025] is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 10,
-        "context": "ults/Result10Sep2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared. The result of Screening Test to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] is"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result03Sep2026a.pdf",
-        "title": "The result of Interview to the post of Electrician Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Develoment [June 2025] is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-09-08T00:00:00.000Z",
-        "publishedLabel": "08 Sept 2026",
-        "sortValue": 1788825600000,
-        "score": 10,
-        "context": "ults/Result10Sep2026a.pdf\" target=\"_blank\"> The result of Personal Interview to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] conducted on the 08th September 2026 is hereby declared. The result of Screening Test to the post of Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025] is"
       }
     ],
     "other_notice": [
@@ -706,7 +706,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "mme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB,"
+        "context": "es-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026 <span class=\"date-display-single\" property"
       },
       {
         "department": "North Garo Hills",
@@ -733,16 +733,16 @@
         "context": "lected Candidates to undergo Auxiliary Nurses & Midwives (ANM) Training Course for the academic session 2026-27 | List of the Selected Candidates to undergo General Nursing & Midwifery (GNM) Training Course for the academic session 2026-27 | 2nd List of Candidates for Screening Notification - List of Rejected Applications for the post of Staff nurse & ANM | <a href=\"news/2026-10-07-HSM-MMSRB-"
       },
       {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/request-quotation-7th-meghalaya-saras-aajeevika-fair-msaf-2026",
-        "title": "Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026",
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Notification%20Special%20Educators.pdf",
+        "title": "Notification Number/Date",
         "category": "other_notice",
         "publishedAt": "2026-10-05T00:00:00.000Z",
         "publishedLabel": "05 Oct 2026",
         "sortValue": 1791158400000,
-        "score": 7,
-        "context": "tes-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 05/10/2026 <div class=\"newit"
+        "score": 40,
+        "context": "Content Summary Format No. EDN.CC/12/2022/742 Dated 05-10-2026 Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -767,6 +767,18 @@
         "sortValue": 1790553600000,
         "score": 40,
         "context": "PUBLIC NOTICE ON SIR 28/09/2026 28/09/2026 31/10/2026 View (901 KB)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/National%20Foundation%20for%20Teachers%20Welfare.pdf",
+        "title": "No. EDN. Dated 14-09-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "publishedLabel": "14 Sept 2026",
+        "sortValue": 1789344000000,
+        "score": 40,
+        "context": "NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (200kb)"
       },
       {
         "department": "North Garo Hills",
@@ -803,6 +815,18 @@
         "sortValue": 1787702400000,
         "score": 12,
         "context": "=\"q\" size=\"14\" maxlength=200 onFocus=\"if(this.value==this.defaultValue)this.value='';\" onBlur=\"if(this.value=='')this.value=this.defaultValue; \" aria-label=\"Enter your search terms\" /> News Oct 05 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] <"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Order%20Techno%20Global%20University%20dissolution.pdf",
+        "title": "No. EDN.136/2008/770 Dated 12-08-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "publishedLabel": "12 Aug 2026",
+        "sortValue": 1786492800000,
+        "score": 40,
+        "context": "PUBLICITY REGARDING DISSOLUTION OF TECHNO GLOBAL UNIVERSITY, SHILLONG (09.09.2026) (200kb)"
       },
       {
         "department": "West Khasi Hills",
@@ -844,13 +868,13 @@
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2023.pdf",
-        "title": "Notification Number/Date",
+        "title": "No. EDN. Dated 28-07-2026",
         "category": "other_notice",
         "publishedAt": "2026-07-28T00:00:00.000Z",
         "publishedLabel": "28 Jul 2026",
         "sortValue": 1785196800000,
         "score": 40,
-        "context": "Content Summary Format No. EDN. Dated 28-07-2026 Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
+        "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
       },
       {
         "department": "Education Dept",
@@ -863,30 +887,6 @@
         "sortValue": 1785110400000,
         "score": 40,
         "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/MTTA.pdf",
-        "title": "No. EDN.209/2025/12 Dated 21-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-21T00:00:00.000Z",
-        "publishedLabel": "21 Jul 2026",
-        "sortValue": 1784592000000,
-        "score": 40,
-        "context": "Notification regarding placement of Officers / Staffs for Meghalaya Teacher Training Academy (MTTA) (21.07.2026) (200kb)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
-        "title": "Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-08T00:00:00.000Z",
-        "publishedLabel": "08 Jul 2026",
-        "sortValue": 1783468800000,
-        "score": 12,
-        "context": "> Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] <a href=\"pdf/Examination Notice for AI Tra"
       }
     ]
   },
