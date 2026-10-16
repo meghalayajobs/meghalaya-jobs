@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T07:42:15.548Z",
-  "generatedAtLabel": "16 October 2026 at 01:12 pm",
+  "generatedAt": "2026-10-16T12:52:18.967Z",
+  "generatedAtLabel": "16 October 2026 at 06:22 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -19,6 +19,18 @@
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/MMDSL-HR-1-HIRING-2025-26(50).pdf",
+        "title": "Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL)",
+        "category": "recruitment",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "publishedLabel": "15 Oct 2026",
+        "sortValue": 1792022400000,
+        "score": 12,
+        "context": "What's New Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum"
+      },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
@@ -114,18 +126,6 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "07-10-2026"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-HSM-MMSRB-NURSING-10-26-238-NOTIFICATION%20FOR%20REJECTED%20APPLICATIONS.pdf",
-        "title": "Notification - List of Rejected Applications for the post of Staff nurse & ANM",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 12,
-        "context": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota | 2nd List of Candidates for Screening | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM <a href=\"news/2026-10-06-DHSMER-152-USTM-MBBS-202"
       },
       {
         "department": "NEIGRIHMS",
@@ -622,7 +622,7 @@
         "publishedLabel": "14 Oct 2026",
         "sortValue": 1791936000000,
         "score": 12,
-        "context": "l-lg-3 col-md-3 col-sm-6\"> What's New Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
+        "context": "s in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
       },
       {
         "department": "Health Dept",
@@ -658,7 +658,7 @@
         "publishedLabel": "13 Oct 2026",
         "sortValue": 1791849600000,
         "score": 12,
-        "context": "What's New Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pd"
+        "context": "What's New Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pd"
       },
       {
         "department": "North Garo Hills",
@@ -893,6 +893,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/MMDSL-HR-1-HIRING-2025-26(50).pdf",
+        "title": "Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL)",
+        "category": "recruitment",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "publishedLabel": "15 Oct 2026",
+        "sortValue": 1792022400000,
+        "score": 12,
+        "context": "What's New Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum"
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/52069",
@@ -987,18 +999,6 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "07-10-2026"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-HSM-MMSRB-NURSING-10-26-238-NOTIFICATION%20FOR%20REJECTED%20APPLICATIONS.pdf",
-        "title": "Notification - List of Rejected Applications for the post of Staff nurse & ANM",
-        "category": "recruitment",
-        "publishedAt": "2026-10-06T00:00:00.000Z",
-        "publishedLabel": "06 Oct 2026",
-        "sortValue": 1791244800000,
-        "score": 12,
-        "context": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota | 2nd List of Candidates for Screening | List of Rejected Applications for the post of Staff Nurse | List of Rejected Applications for the post of ANM <a href=\"news/2026-10-06-DHSMER-152-USTM-MBBS-202"
       }
     ],
     "result": [
