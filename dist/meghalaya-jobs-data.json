@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T07:20:15.877Z",
-  "generatedAtLabel": "17 October 2026 at 12:50 pm",
+  "generatedAt": "2026-10-17T11:51:59.596Z",
+  "generatedAtLabel": "17 October 2026 at 05:21 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -41,7 +41,7 @@
         "publishedLabel": "13 Oct 2026",
         "sortValue": 1791849600000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
+        "context": "e Search Date: 13 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
       },
       {
         "department": "Health Dept",
@@ -260,18 +260,6 @@
         "context": "ss=\"views-field views-field-title\"> Notice - Declaration of the Results of the Counselling in order of merit for the post of Hospital Manager, under DHS (MI) Meghalaya, Shillong Date: 11 Sep 2026 Date: 11 Sep 2026 Notice - Declaration of the Result of the Written Examination for the post of Hospital Manager in various District Hospitals under DHS (MI), Meghalaya, Shillong <div class=\"views-field views-"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17891140151172.pdf",
-        "title": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis",
-        "category": "recruitment",
-        "publishedAt": "2026-09-10T00:00:00.000Z",
-        "publishedLabel": "10 Sept 2026",
-        "sortValue": 1788998400000,
-        "score": 40,
-        "context": "Advertisement for the post of Technical Assistant VB-GRAM-G, Technical Assistant PMAY-G and Data Entry Operator VB-GRAMG on contractual basis 10/09/2026 31/10/2026 View (622 KB)"
-      },
-      {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
         "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Legal%20-%20eOffice.pdf",
@@ -306,6 +294,18 @@
         "sortValue": 1788307200000,
         "score": 7,
         "context": "n class=\"views-field views-field-title\"> Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse Date: 02 Sep 2026 Date: 02 Sep 2026 Engagement of Retired Head Constable/ASI of Central Police Organization and State Police as Naib Court on contract basis in the NIA <span"
+      },
+      {
+        "department": "Meghalaya Govt",
+        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
+        "url": "https://www.meghalaya.gov.in/recruitment/content/51721",
+        "title": "Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts of Staff Nurse",
+        "category": "recruitment",
+        "publishedAt": "2026-09-02T00:00:00.000Z",
+        "publishedLabel": "02 Sept 2026",
+        "sortValue": 1788307200000,
+        "score": 7,
+        "context": "Recruitment for the post of Staff Nurse in Civil Hospital, Jowai, Ialong, West Jaintia Hills District on Contractual Basis Date: 02 Sep 2026 Date: 02 Sep 2026 Advertisement - online applications are invited from individuals who are domicile in the State of Meghalaya for the posts Auxiliary Nurse & Midwife (ANM) <div class=\"views-field views-fie"
       }
     ],
     "admit_card": [],
@@ -603,6 +603,30 @@
       {
         "department": "North Garo Hills",
         "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17922303766196.pdf",
+        "title": "SIR PRESS NOTE 16/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "publishedLabel": "16 Oct 2026",
+        "sortValue": 1792108800000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 16/10/2026 16/10/2026 31/10/2026 View (149 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17922301434121.pdf",
+        "title": "SIR PRESS NOTE 15/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "publishedLabel": "15 Oct 2026",
+        "sortValue": 1792022400000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 15/10/2026 15/10/2026 31/10/2026 View (150 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
         "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17920626913764.pdf",
         "title": "SIR PRESS NOTE 14/10/2026",
         "category": "other_notice",
@@ -781,18 +805,6 @@
         "context": "NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (200kb)"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17895427003297.pdf",
-        "title": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills",
-        "category": "other_notice",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills 14/09/2026 31/12/2026 View (341 KB)"
-      },
-      {
         "department": "MSRLS",
         "sourceUrl": "https://msrls.nic.in/recruitments",
         "url": "https://msrls.nic.in/august-social-inclusion-social-development-newsletter",
@@ -875,18 +887,6 @@
         "sortValue": 1785196800000,
         "score": 40,
         "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
-        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-27T00:00:00.000Z",
-        "publishedLabel": "27 Jul 2026",
-        "sortValue": 1785110400000,
-        "score": 40,
-        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (200kb)"
       }
     ]
   },
@@ -914,7 +914,7 @@
         "publishedLabel": "13 Oct 2026",
         "sortValue": 1791849600000,
         "score": 7,
-        "context": "Office Wise Search Date: 13 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
+        "context": "e Search Date: 13 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
       },
       {
         "department": "Health Dept",
