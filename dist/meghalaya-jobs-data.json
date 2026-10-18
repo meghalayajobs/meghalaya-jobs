@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T07:34:23.202Z",
-  "generatedAtLabel": "18 October 2026 at 01:04 pm",
+  "generatedAt": "2026-10-18T12:17:56.170Z",
+  "generatedAtLabel": "18 October 2026 at 05:47 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -841,18 +841,6 @@
         "context": "PUBLICITY REGARDING DISSOLUTION OF TECHNO GLOBAL UNIVERSITY, SHILLONG (09.09.2026) (200kb)"
       },
       {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
-        "title": "DSC: Public Notice – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "publishedLabel": "29 Jul 2026",
-        "sortValue": 1785283200000,
-        "score": 40,
-        "context": "29/07/2026 30/12/2026 View (437 KB)"
-      },
-      {
         "department": "Information Tech.",
         "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
         "url": "https://ditmeghalaya.gov.in/pdf/Public%20Notice%20for%20online%20Registration%20of%20Meritorious%20students%20for%20IT%20Awards%20Academic%20Year%202026.pdf",
@@ -887,6 +875,18 @@
         "sortValue": 1785196800000,
         "score": 40,
         "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
+        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "publishedLabel": "27 Jul 2026",
+        "sortValue": 1785110400000,
+        "score": 40,
+        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (200kb)"
       }
     ]
   },
@@ -1633,7 +1633,13 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "West Khasi Hills",
+      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
+      "reason": "fetch failed"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
