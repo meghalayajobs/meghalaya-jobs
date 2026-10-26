@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T00:56:21.132Z",
-  "generatedAtLabel": "26 October 2026 at 06:26 am",
+  "generatedAt": "2026-10-26T05:41:50.472Z",
+  "generatedAtLabel": "26 October 2026 at 11:11 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -670,7 +670,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "es-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026 <span class=\"date-display-single\" property"
+        "context": "on-final-result-post-project-manager-start-village-entrepreneurship-programme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB,"
       },
       {
         "department": "Health Dept",
@@ -695,6 +695,18 @@
         "sortValue": 1791158400000,
         "score": 40,
         "context": "Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (PDF, opens in a new window) (200kb)"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/request-quotation-7th-meghalaya-saras-aajeevika-fair-msaf-2026",
+        "title": "Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "publishedLabel": "05 Oct 2026",
+        "sortValue": 1791158400000,
+        "score": 7,
+        "context": "tes-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 05/10/2026 <div class=\"newit"
       },
       {
         "department": "Education Dept",
@@ -875,18 +887,6 @@
         "sortValue": 0,
         "score": 5,
         "context": "x-2 py-3 items-center hover:text-yellow-200 links\">KNOWLEDGE PORTAL Stories Gallery Policy NOTICE BOARD<svg class=\"fill-current h-4 w-4 text-white transform transition-transform duration-500 ease-in-out rotate"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/",
-        "title": "MEGHALAYA BASIN DEVELOPMENT AUTHORITY GOVERNMENT OF MEGHALAYA",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "7 369.1 48 48 0 1 0 369.1 437z\"> Loading Recruitment... WHO WE ARE About MBDA Grievance Redressal <a class=\"text-white hover:text-yellow-200 tracking"
       }
     ]
   },
