@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T11:55:07.589Z",
-  "generatedAtLabel": "26 October 2026 at 05:25 pm",
+  "generatedAt": "2026-10-26T17:58:13.116Z",
+  "generatedAtLabel": "26 October 2026 at 11:28 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -116,18 +116,6 @@
         "context": "f=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Ch"
       },
       {
-        "department": "South Garo Hills",
-        "sourceUrl": "https://southgarohills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/10/17914437656060.pdf",
-        "title": "Advertisement: Recruitment to the post of Assistant Teacher (Mathematics)",
-        "category": "recruitment",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "publishedLabel": "08 Oct 2026",
-        "sortValue": 1791417600000,
-        "score": 40,
-        "context": "08/10/2026 25/10/2026 View (27 KB)"
-      },
-      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/52035",
@@ -186,6 +174,18 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "07-10-2026"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17924299466324.pdf",
+        "title": "Fresh and Renewal applications under the CM Scholarship (CMSS) for the Academic Year 2026-27",
+        "category": "recruitment",
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "publishedLabel": "05 Oct 2026",
+        "sortValue": 1791158400000,
+        "score": 40,
+        "context": "Fresh and Renewal applications under the CM Scholarship (CMSS) for the Academic Year 2026-27 05/10/2026 31/12/2026 View (1 MB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -601,6 +601,42 @@
     ],
     "other_notice": [
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17922303766196.pdf",
+        "title": "SIR PRESS NOTE 16/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "publishedLabel": "16 Oct 2026",
+        "sortValue": 1792108800000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 16/10/2026 16/10/2026 31/10/2026 View (149 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17922301434121.pdf",
+        "title": "SIR PRESS NOTE 15/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "publishedLabel": "15 Oct 2026",
+        "sortValue": 1792022400000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 15/10/2026 15/10/2026 31/10/2026 View (150 KB)"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17920626913764.pdf",
+        "title": "SIR PRESS NOTE 14/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "publishedLabel": "14 Oct 2026",
+        "sortValue": 1791936000000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 14/10/2026 14/10/2026 31/10/2026 View (148 KB)"
+      },
+      {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
         "url": "https://meghealth.gov.in/news/2026-10-14-DHSMER-199-BAMS-BHMS%20-Adm-2026-7076-NOTIFICATION%20(CORRIGENDUM)%20List%20of%20eligible%20candidate%20BAMS%20&%20BHMS%2014.10.2026.pdf",
@@ -625,6 +661,18 @@
         "context": "MS and BHMS courses for the Academic Year 2026-27 Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates <a href=\"news/DD"
       },
       {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17919752101904.pdf",
+        "title": "SIR PRESS NOTE 13/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-13T00:00:00.000Z",
+        "publishedLabel": "13 Oct 2026",
+        "sortValue": 1791849600000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 13/10/2026 13/10/2026 31/10/2026 View (148 KB)"
+      },
+      {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
         "url": "https://meghealth.gov.in/news/2026-10-15-DHSMER-199-BAMS-BHMS-%20Adm-2026-7151-NOTIFICATION%20(CORRIGENDUM).pdf",
@@ -635,6 +683,18 @@
         "sortValue": 1791849600000,
         "score": 12,
         "context": "Letter.pdf\" target=\"_blank\">Provisional Seat Allotment Letter Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pd"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17918689821802.pdf",
+        "title": "SIR PRESS NOTE 12/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-12T00:00:00.000Z",
+        "publishedLabel": "12 Oct 2026",
+        "sortValue": 1791763200000,
+        "score": 40,
+        "context": "SIR PRESS NOTE 12/10/2026 12/10/2026 31/10/2026 View (148 KB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -670,7 +730,19 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "es-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026 <span class=\"date-display-single\" property"
+        "context": "on-final-result-post-project-manager-start-village-entrepreneurship-programme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB,"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17913746468878.pdf",
+        "title": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers",
+        "category": "other_notice",
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "publishedLabel": "07 Oct 2026",
+        "sortValue": 1791331200000,
+        "score": 40,
+        "context": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers 07/10/2026 31/12/2026 View (426 KB)"
       },
       {
         "department": "Health Dept",
@@ -697,6 +769,30 @@
         "context": "Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (PDF, opens in a new window) (200kb)"
       },
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/request-quotation-7th-meghalaya-saras-aajeevika-fair-msaf-2026",
+        "title": "Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-05T00:00:00.000Z",
+        "publishedLabel": "05 Oct 2026",
+        "sortValue": 1791158400000,
+        "score": 7,
+        "context": "tes-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 05/10/2026 <div class=\"newit"
+      },
+      {
+        "department": "North Garo Hills",
+        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
+        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17909529944921.pdf",
+        "title": "PUBLIC NOTICE REGARDING SIR FOR KHARKUTTA DATED 01/10/2026",
+        "category": "other_notice",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "publishedLabel": "01 Oct 2026",
+        "sortValue": 1790812800000,
+        "score": 40,
+        "context": "PUBLIC NOTICE REGARDING SIR FOR KHARKUTTA DATED 01/10/2026 01/10/2026 31/10/2026 View (1 MB)"
+      },
+      {
         "department": "Education Dept",
         "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
         "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/National%20Foundation%20for%20Teachers%20Welfare.pdf",
@@ -718,7 +814,7 @@
         "publishedLabel": "08 Sept 2026",
         "sortValue": 1788825600000,
         "score": 7,
-        "context": "st-project-manager-livestock-fisheries-enterprise-development-finance\">Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of"
+        "context": "Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 08/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test (Practical) for the post of"
       },
       {
         "department": "Information Tech.",
@@ -743,6 +839,18 @@
         "sortValue": 1786492800000,
         "score": 40,
         "context": "PUBLICITY REGARDING DISSOLUTION OF TECHNO GLOBAL UNIVERSITY, SHILLONG (09.09.2026) (PDF, opens in a new window) (200kb)"
+      },
+      {
+        "department": "West Khasi Hills",
+        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
+        "title": "DSC: Public Notice – Corrigendum",
+        "category": "other_notice",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "publishedLabel": "29 Jul 2026",
+        "sortValue": 1785283200000,
+        "score": 40,
+        "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
         "department": "Information Tech.",
@@ -779,114 +887,6 @@
         "sortValue": 1785196800000,
         "score": 40,
         "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
-        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-27T00:00:00.000Z",
-        "publishedLabel": "27 Jul 2026",
-        "sortValue": 1785110400000,
-        "score": 40,
-        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/MTTA.pdf",
-        "title": "No. EDN.209/2025/12 Dated 21-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-21T00:00:00.000Z",
-        "publishedLabel": "21 Jul 2026",
-        "sortValue": 1784592000000,
-        "score": 40,
-        "context": "Notification regarding placement of Officers / Staffs for Meghalaya Teacher Training Academy (MTTA) (21.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/Provisional%20List%20Of%20Meritorious%20Students%20Eligible%20For%20Awards%20Of%20Laptops%20During%20Academic%20Year%202026.pdf",
-        "title": "Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-08T00:00:00.000Z",
-        "publishedLabel": "08 Jul 2026",
-        "sortValue": 1783468800000,
-        "score": 12,
-        "context": "> Note: Better viewed in Chrome Browser --> Jul 29 2026 [NEW] Public Notice for online Registration of Meritorious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Jul 08 2026 [NEW] Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs Jul 01 2026 [NEW] <a href=\"pdf/Examination Notice for AI Tra"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/Superannuation%20non%20academic%20employees.pdf",
-        "title": "No. EDN.178/2023/Part/107 Dated 06-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-06T00:00:00.000Z",
-        "publishedLabel": "06 Jul 2026",
-        "sortValue": 1783296000000,
-        "score": 40,
-        "context": "Notification regarding the age of superannuation for \"non-academic employees\" engaged under Samagra Shiksha in the State, District & Block Level Offices (06.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/strengthen%20Departmental%20co-ordination.pdf",
-        "title": "No. EDN.158/2024/154 Dated 01-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Information Tech.",
-        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
-        "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
-        "title": "Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs",
-        "category": "other_notice",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 12,
-        "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
-      },
-      {
-        "department": "DERT",
-        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
-        "url": "https://diet.megeducation.gov.in/",
-        "title": "DIET Meghalaya Website",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "Important Links DIET Website DERT Notice Board</h1"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/document-video",
-        "title": "Documentaries & Videos",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "x-2 py-3 items-center hover:text-yellow-200 links\">KNOWLEDGE PORTAL Stories Gallery Policy NOTICE BOARD<svg class=\"fill-current h-4 w-4 text-white transform transition-transform duration-500 ease-in-out rotate"
-      },
-      {
-        "department": "MBDA",
-        "sourceUrl": "https://mbda.gov.in/recruitment",
-        "url": "https://mbda.gov.in/",
-        "title": "MEGHALAYA BASIN DEVELOPMENT AUTHORITY GOVERNMENT OF MEGHALAYA",
-        "category": "other_notice",
-        "publishedAt": null,
-        "publishedLabel": "Latest",
-        "sortValue": 0,
-        "score": 5,
-        "context": "7 369.1 48 48 0 1 0 369.1 437z\"> Loading Recruitment... WHO WE ARE About MBDA Grievance Redressal <a class=\"text-white hover:text-yellow-200 tracking"
       }
     ]
   },
@@ -1537,33 +1537,7 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [
-    {
-      "department": "East Khasi Hills",
-      "url": "https://eastkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "West Garo Hills",
-      "url": "https://westgarohills.gov.in/documents/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "East Garo Hills",
-      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "North Garo Hills",
-      "url": "https://northgarohills.gov.in/notice_category/announcements/",
-      "reason": "fetch failed"
-    },
-    {
-      "department": "West Khasi Hills",
-      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
-      "reason": "fetch failed"
-    }
-  ],
+  "failedSources": [],
   "sources": [
     {
       "department": "MPSC",
