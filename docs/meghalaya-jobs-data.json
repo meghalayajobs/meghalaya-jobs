@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T22:20:03.283Z",
-  "generatedAtLabel": "27 October 2026 at 03:50 am",
+  "generatedAt": "2026-10-27T01:44:08.139Z",
+  "generatedAtLabel": "27 October 2026 at 07:14 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 8,
+    "recruitment": 7,
     "result": 5,
     "admit_card": 0
   },
@@ -730,7 +730,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "on-final-result-post-project-manager-start-village-entrepreneurship-programme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB,"
+        "context": "es-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 08/10/2026 Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026 <span class=\"date-display-single\" property"
       },
       {
         "department": "North Garo Hills",
@@ -767,18 +767,6 @@
         "sortValue": 1791158400000,
         "score": 40,
         "context": "Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/request-quotation-7th-meghalaya-saras-aajeevika-fair-msaf-2026",
-        "title": "Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-10-05T00:00:00.000Z",
-        "publishedLabel": "05 Oct 2026",
-        "sortValue": 1791158400000,
-        "score": 7,
-        "context": "tes-written-examination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 05/10/2026 <div class=\"newit"
       },
       {
         "department": "North Garo Hills",
@@ -887,6 +875,18 @@
         "sortValue": 1785196800000,
         "score": 40,
         "context": "Modification of Department Notification No EDN.79/2025/22 dated 27th July 2026 (28.07.2026) (PDF, opens in a new window) (200kb)"
+      },
+      {
+        "department": "Education Dept",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
+        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/orders%20of%20the%20the%20governor%20EDN.%2022.pdf",
+        "title": "No. EDN.178/2023/Part/107 Dated 27-07-2026",
+        "category": "other_notice",
+        "publishedAt": "2026-07-27T00:00:00.000Z",
+        "publishedLabel": "27 Jul 2026",
+        "sortValue": 1785110400000,
+        "score": 40,
+        "context": "Notification regarding the School Management Committees (SMCs) of Grant-in-Aid Schools(27.07.2026) (PDF, opens in a new window) (200kb)"
       }
     ]
   },
@@ -975,18 +975,6 @@
         "sortValue": 1791849600000,
         "score": 7,
         "context": "tent\">16 Oct 2026 Central Silk Board Announces Five Sericulture Assistant Vacancies, One in Shillong Date: 16 Oct 2026 Date: 13 Oct 2026 Corrigendum - Rolling Advertisement for Engagement of Medical Social Worker on Contractual Basis at Shillong Medical College <span class="
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-08-DHSMER-215-USTM-BAMS-2026-6916-Advertisement%20for%20the%20admission%20of%20BAMS.pdf",
-        "title": "Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27",
-        "category": "recruitment",
-        "publishedAt": "2026-10-12T00:00:00.000Z",
-        "publishedLabel": "12 Oct 2026",
-        "sortValue": 1791763200000,
-        "score": 10,
-        "context": "f=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Ch"
       }
     ],
     "result": [
