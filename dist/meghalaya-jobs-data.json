@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T21:15:20.899Z",
-  "generatedAtLabel": "31 October 2026 at 02:45 am",
+  "generatedAt": "2026-10-31T01:15:43.728Z",
+  "generatedAtLabel": "31 October 2026 at 06:45 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 6,
+    "recruitment": 4,
     "result": 3,
     "admit_card": 0
   },
@@ -802,7 +802,7 @@
         "publishedLabel": "05 Oct 2026",
         "sortValue": 1791158400000,
         "score": 7,
-        "context": "sp; 08/10/2026 05/10/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions <span class=\"date"
+        "context": "sp; 08/10/2026 05/10/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development"
       },
       {
         "department": "Education Dept",
@@ -939,30 +939,6 @@
         "sortValue": 1792627200000,
         "score": 40,
         "context": "22-10-2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52109",
-        "title": "Central Silk Board Announces Five Sericulture Assistant Vacancies, One in Shillong",
-        "category": "recruitment",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "publishedLabel": "16 Oct 2026",
-        "sortValue": 1792108800000,
-        "score": 7,
-        "context": "eld-content\"> Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under MMDSL to be held on 26th Oct, 2026 Date: 16 Oct 2026 Date: 16 Oct 2026 Advertisement - Application are invited for the post of Ayush MO, Yoga Professional and Pharmacist on Contractual Basis <span class=\"view"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52112",
-        "title": "Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under MMDSL to be held on 26th Oct, 2026",
-        "category": "recruitment",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "publishedLabel": "16 Oct 2026",
-        "sortValue": 1792108800000,
-        "score": 7,
-        "context": "eld-content\"> List of successful candidates for the post of Ayurvedic Pharmacist (1 post) and Homoeopathic Pharmacist (1 post) on contractual basis under Meghalayan Medical Drugs & Services Ltd (MMDSL) Date: 26 Oct 2026 Date: 16 Oct 2026 Central Silk Board Announces Five Sericulture Assistant Vacancies, One in Shillong Date"
       }
     ],
     "result": [
