@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T04:00:43.869Z",
-  "generatedAtLabel": "04 November 2026 at 09:30 am",
+  "generatedAt": "2026-11-04T12:40:31.912Z",
+  "generatedAtLabel": "04 November 2026 at 06:10 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 5,
-    "result": 5,
+    "result": 4,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -113,7 +113,7 @@
         "publishedLabel": "15 Oct 2026",
         "sortValue": 1792022400000,
         "score": 12,
-        "context": "\" width=\"16\" height=\"16\" /> | Result of the Third Round of Counselling for Admission to 1st Year MBBS Course to PA Sangma International Medical College | Provisional Seat Allotment Letter Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum"
+        "context": "n\" width=\"16\" height=\"16\" /> | Result of the Third Round of Counselling for Admission to 1st Year MBBS Course to PA Sangma International Medical College | Provisional Seat Allotment Letter Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum (d"
       },
       {
         "department": "Meghalaya Govt",
@@ -137,7 +137,7 @@
         "publishedLabel": "12 Oct 2026",
         "sortValue": 1791763200000,
         "score": 10,
-        "context": "f=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Ch"
+        "context": "ref=\"news/2026-10-12-USTM_BAMS-2ndRoundList of Candidates.pdf\" target=\"_blank\">List of Eligible Candidates NOTICE REGARDING PRE - BID MEETING FOR Empanelment / Framework Agreement with Healthcare Institutions for Improving access to Specialist Care in Meghalaya | Apply here Rolling Advertisement for Medical Social Worker on Contractual Basis Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chai"
       },
       {
         "department": "Meghalaya Govt",
@@ -186,18 +186,6 @@
         "sortValue": 1791244800000,
         "score": 40,
         "context": "07-10-2026"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17924299466324.pdf",
-        "title": "Fresh and Renewal applications under the CM Scholarship (CMSS) for the Academic Year 2026-27",
-        "category": "recruitment",
-        "publishedAt": "2026-10-05T00:00:00.000Z",
-        "publishedLabel": "05 Oct 2026",
-        "sortValue": 1791158400000,
-        "score": 40,
-        "context": "Fresh and Renewal applications under the CM Scholarship (CMSS) for the Academic Year 2026-27 05/10/2026 31/12/2026 View (1 MB)"
       },
       {
         "department": "NEIGRIHMS",
@@ -296,16 +284,28 @@
         "context": "2026-09-03 <a href=\"/rec"
       },
       {
-        "department": "West Garo Hills",
-        "sourceUrl": "https://westgarohills.gov.in/documents/",
-        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/09/17883410683670.pdf",
-        "title": "Notice for written examination on Language Proficiency test for the post of Driver",
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20AI%20Trainer.pdf",
+        "title": "eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
         "category": "recruitment",
-        "publishedAt": "2026-08-31T00:00:00.000Z",
-        "publishedLabel": "31 Aug 2026",
-        "sortValue": 1788134400000,
-        "score": 40,
-        "context": "31/08/2026 View (375 KB)"
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "publishedLabel": "26 Aug 2026",
+        "sortValue": 1787702400000,
+        "score": 12,
+        "context": "search\"/> News Oct 05 2026 [NEW] Addendum to the Provisional list of eligible candidates for IT Awards 2026 Aug 26 2026 [NEW] Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 03 2026 [NEW] -->"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/eligible%20candidates%20to%20appear%20for%20the%20Interview%20Test%20for%20the%203%20(three)%20contractual%20posts%20of%20Lab%20Assistant.pdf",
+        "title": "eligible candidates to appear for the Interview for the 3 (three) contractual posts of Lab Assistant in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura",
+        "category": "recruitment",
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "publishedLabel": "03 Aug 2026",
+        "sortValue": 1785715200000,
+        "score": 12,
+        "context": "> Aug 26 2026 [NEW] eligible candidates to appear for the Interview for the 3 (three) contractual posts of AI Trainer in ITI Rynjah, Shillong, Shillong Polytechnic and ITI Tura Aug 26 2026 [NEW] Aug 03 2026 [NEW] --> The Online IT Awards 2025 Registration for Meritorious Students of MBOSE Class X, XII,ICSE,ISC, CBSE Class X, Class XII Boards is now closed Click Here Note: Better viewed in Chrome Browser --> </li"
       }
     ],
     "admit_card": [],
@@ -321,18 +321,6 @@
         "sortValue": 1793664000000,
         "score": 7,
         "context": "nt 03/11/2026 NOTIFICATION: Shortlisted cand"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17936198344355.pdf",
-        "title": "RESULT: Result of written examination for the post of Data Entry Operator under VB-RAMG vide Advertisement dated 21/04/2026.",
-        "category": "result",
-        "publishedAt": "2026-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2026",
-        "sortValue": 1793232000000,
-        "score": 40,
-        "context": "RESULT: Result of written examination for the post of Data Entry Operator under VB-RAMG vide Adverstisement dated 21/04/2026. 29/10/2026 30/11/2026 View (573 KB)"
       },
       {
         "department": "MSRLS",
@@ -597,6 +585,18 @@
         "sortValue": 1790121600000,
         "score": 7,
         "context": "dex=\"0\"> 23/09/2026 Written test for the post of Programme Officer i/c IEC under MGNREGA <span class=\"date-display-single\" p"
+      },
+      {
+        "department": "NEIGRIHMS Result",
+        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
+        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20to%20the%20post%20of%20Junior%20Resident%20Doctor%20(One%20year%20tenure)%20in%20the%20Interview%20held%20on%2009th%20&%2010th%20September%202026.pdf",
+        "title": "Result to the post of Junior Resident Doctor (One year tenure) in the Interview held on 09th & 10th September 2026",
+        "category": "result",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "publishedLabel": "21 Sept 2026",
+        "sortValue": 1789948800000,
+        "score": 40,
+        "context": "21.09.2026"
       }
     ],
     "other_notice": [
@@ -610,19 +610,19 @@
         "publishedLabel": "29 Oct 2026",
         "sortValue": 1793232000000,
         "score": 10,
-        "context": "ews/2026-10-29-SeatAllotment.pdf\" target=\"_blank\">Provisional Seat Allotment Letter Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya on contractual basis | Download Application Form Notification - Constitution of the Productive Task Force Human Resources for Health Notification -"
+        "context": "\"news/2026-10-29-SeatAllotment.pdf\" target=\"_blank\">Provisional Seat Allotment Letter Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya on contractual basis | Download Application Form Notification - Constitution of the Productive Task Force Human Resources for Health Notification - Li"
       },
       {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17930810203690.pdf",
-        "title": "PRESS NOTE: Publication of Final Electoral Roll under Special Intensive Revision (SIR) 2026 Dated 26/10/2026",
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-10-23-Provisional%20Seat%20Alltoment%20Letter.pdf",
+        "title": "Provisional Seat Allotment Letter",
         "category": "other_notice",
-        "publishedAt": "2026-10-26T00:00:00.000Z",
-        "publishedLabel": "26 Oct 2026",
-        "sortValue": 1792972800000,
-        "score": 40,
-        "context": "PRESS NOTE: Publication of Final Electoral Roll under Special Intensive Revision (SIR) 2026 Dated 26/10/2026 26/10/2026 31/12/2026 View (154 KB)"
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "publishedLabel": "15 Oct 2026",
+        "sortValue": 1792022400000,
+        "score": 12,
+        "context": "r regarding Allotment of seats for Third Round Counselling for Admission to 1st year MBBS to PA Sangma International Medical College during the Academic Year 2026-27 | Result of the Third Round of Counselling for Admission to 1st Year MBBS Course to PA Sangma International Medical College | Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026"
       },
       {
         "department": "Health Dept",
@@ -634,7 +634,7 @@
         "publishedLabel": "14 Oct 2026",
         "sortValue": 1791936000000,
         "score": 12,
-        "context": "s in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
+        "context": "sts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayu"
       },
       {
         "department": "Health Dept",
@@ -646,7 +646,7 @@
         "publishedLabel": "14 Oct 2026",
         "sortValue": 1791936000000,
         "score": 10,
-        "context": "MS and BHMS courses for the Academic Year 2026-27 Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates <a href=\"news/DD"
+        "context": "BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates <a href=\"news/DDFS"
       },
       {
         "department": "Health Dept",
@@ -658,7 +658,7 @@
         "publishedLabel": "13 Oct 2026",
         "sortValue": 1791849600000,
         "score": 12,
-        "context": "Letter.pdf\" target=\"_blank\">Provisional Seat Allotment Letter Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pd"
+        "context": "t Letter.pdf\" target=\"_blank\">Provisional Seat Allotment Letter Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 <a href=\"news/2026-10-13-DHSMER-199-BAMS-BHMS- Adm-2026-7036-NOTIFICATION List of Eligible candidates for BAMS and BHMS.pdf\""
       },
       {
         "department": "NEIGRIHMS",
@@ -682,31 +682,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 12,
-        "context": "ight=\"16\" /> Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27 | Apply here <a href=\"news/2026-10-08- SMC-97-2026-Estt-HR-11-MSW- recruitment.pdf\" target=\"_b"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/10/17913746468878.pdf",
-        "title": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers",
-        "category": "other_notice",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: Mandatory Biometric Aadhaar Authentication(BAA) of Domestic LPG Consumers 07/10/2026 31/12/2026 View (426 KB)"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-07-DHSMER-BScNursing-2025-09-6865-Notice-%20Second%20List%20for%20Screening%20(PDF).pdf",
-        "title": "Notice - 2nd List of Candidates eligible for screening for admission to B.Sc Nursing against State Quota",
-        "category": "other_notice",
-        "publishedAt": "2026-10-07T00:00:00.000Z",
-        "publishedLabel": "07 Oct 2026",
-        "sortValue": 1791331200000,
-        "score": 12,
-        "context": "lected Candidates to undergo Auxiliary Nurses & Midwives (ANM) Training Course for the academic session 2026-27 | List of the Selected Candidates to undergo General Nursing & Midwifery (GNM) Training Course for the academic session 2026-27 | 2nd List of Candidates for Screening Notification - List of Rejected Applications for the post of Staff nurse & ANM | <a href=\"news/2026-10-07-HSM-MMSRB-"
+        "context": "height=\"16\" /> Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates Advertisement for Admission for 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for the session 2026-27 | Apply here <a href=\"news/2026-10-08- SMC-97-2026-Estt-HR-11-MSW- recruitment.pdf\" target=\"_bla"
       },
       {
         "department": "Education Dept",
@@ -730,7 +706,7 @@
         "publishedLabel": "05 Oct 2026",
         "sortValue": 1791158400000,
         "score": 7,
-        "context": "-row views-row-0 views-row-odd item-list-slider\"> September Social Inclusion & Social Development Newsletter 08/10/2026 05/10/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development &"
+        "context": "-row views-row-0 views-row-odd item-list-slider\"> September Social Inclusion & Social Development Newsletter 08/10/2026 05/10/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions <span class=\"date-"
       },
       {
         "department": "Education Dept",
@@ -743,18 +719,6 @@
         "sortValue": 1789344000000,
         "score": 40,
         "context": "NOTIFICATION FOR RE-CONSTITUTION OF THE STATE WORKING COMMITTEE OF THE NATIONAL FOUNDATION FOR TEACHERS WELFARE (14.09.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/09/17895427003297.pdf",
-        "title": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills",
-        "category": "other_notice",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "publishedLabel": "14 Sept 2026",
-        "sortValue": 1789344000000,
-        "score": 40,
-        "context": "PUBLIC NOTICE: Rationalization of Booking Period for Domestic LPG Refills 14/09/2026 31/12/2026 View (341 KB)"
       },
       {
         "department": "Information Tech.",
@@ -779,18 +743,6 @@
         "sortValue": 1786492800000,
         "score": 40,
         "context": "PUBLICITY REGARDING DISSOLUTION OF TECHNO GLOBAL UNIVERSITY, SHILLONG (09.09.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "West Khasi Hills",
-        "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
-        "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/07/17853251853839.pdf",
-        "title": "DSC: Public Notice – Corrigendum",
-        "category": "other_notice",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "publishedLabel": "29 Jul 2026",
-        "sortValue": 1785283200000,
-        "score": 40,
-        "context": "29/07/2026 30/12/2026 View (437 KB)"
       },
       {
         "department": "Information Tech.",
@@ -887,6 +839,54 @@
         "sortValue": 1782864000000,
         "score": 40,
         "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (PDF, opens in a new window) (200kb)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
+        "title": "Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs",
+        "category": "other_notice",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 12,
+        "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
+      },
+      {
+        "department": "DERT",
+        "sourceUrl": "https://megeducation.gov.in/dert/pages/dert_notice_board.html",
+        "url": "https://diet.megeducation.gov.in/",
+        "title": "DIET Meghalaya Website",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "Important Links DIET Website DERT Notice Board</h1"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/electoral-registration-officers-and-assistant-electoral-registration-officers/",
+        "title": "Electoral Registration Officers and Assistant Electoral Registration Officers",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "lery Covid-19 Orders and Updates SMART PDS Press Note and Press Release Tourism <a href=\"https://cdn"
+      },
+      {
+        "department": "East Khasi Hills",
+        "sourceUrl": "https://eastkhasihills.gov.in/notice_category/recruitment/",
+        "url": "https://eastkhasihills.gov.in/press-note-and-press-release/",
+        "title": "Press Note and Press Release",
+        "category": "other_notice",
+        "publishedAt": null,
+        "publishedLabel": "Latest",
+        "sortValue": 0,
+        "score": 5,
+        "context": "em-object-page menu-item-37081\"> SMART PDS Electoral Registration Officers and Assistant Electoral Registration Officers Tourism Application Form Cleanest Tourist Spot Award East Khasi Hills <li id=\"menu-item-34599\" class=\"menu-item menu-item-type-pos"
       }
     ]
   },
@@ -965,18 +965,6 @@
         "sortValue": 1793664000000,
         "score": 7,
         "context": "nt 03/11/2026 NOTIFICATION: Shortlisted cand"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17936198344355.pdf",
-        "title": "RESULT: Result of written examination for the post of Data Entry Operator under VB-RAMG vide Advertisement dated 21/04/2026.",
-        "category": "result",
-        "publishedAt": "2026-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2026",
-        "sortValue": 1793232000000,
-        "score": 40,
-        "context": "RESULT: Result of written examination for the post of Data Entry Operator under VB-RAMG vide Adverstisement dated 21/04/2026. 29/10/2026 30/11/2026 View (573 KB)"
       },
       {
         "department": "MSRLS",
@@ -1501,7 +1489,28 @@
   ],
   "latestPostsError": null,
   "latestPostsFeedUrl": "https://www.meghalayajobs.in/feeds/posts/default?alt=json&orderby=published&max-results=40",
-  "failedSources": [],
+  "failedSources": [
+    {
+      "department": "West Garo Hills",
+      "url": "https://westgarohills.gov.in/documents/",
+      "reason": "HTTP 503"
+    },
+    {
+      "department": "East Garo Hills",
+      "url": "https://eastgarohills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 503"
+    },
+    {
+      "department": "North Garo Hills",
+      "url": "https://northgarohills.gov.in/notice_category/announcements/",
+      "reason": "HTTP 503"
+    },
+    {
+      "department": "West Khasi Hills",
+      "url": "https://westkhasihills.gov.in/notice_category/recruitment/",
+      "reason": "HTTP 503"
+    }
+  ],
   "sources": [
     {
       "department": "MPSC",
