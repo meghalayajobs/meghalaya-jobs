@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T17:59:58.260Z",
-  "generatedAtLabel": "09 November 2026 at 11:29 pm",
+  "generatedAt": "2026-11-10T01:19:58.447Z",
+  "generatedAtLabel": "10 November 2026 at 06:49 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
-    "result": 6,
+    "recruitment": 12,
+    "result": 7,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -30,6 +30,18 @@
         "sortValue": 1794182400000,
         "score": 12,
         "context": "Date of publishing Recruitment Notice - Rolling Advertisement for recruitment of SRD vide Advt.No.EST-II-RSRD0APSR/1/2024-Estt.II dated 19.05.2026 (3rd Cut Off Date) || || EWS CERTIFICATE FORMAT (SRD) - Annexure II 09-11-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (6th Cut off Date) || <a href=\"Latest News/estt-2/2026/061126/JRD- APPLICATION FORM"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-personal-interview-absorption-staff-post-accounts-officer-smmu",
+        "title": "NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU",
+        "category": "recruitment",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT) 09/11/2026 09/11/2026 NOTIFICA"
       },
       {
         "department": "NEIGRIHMS",
@@ -294,22 +306,34 @@
         "sortValue": 1789430400000,
         "score": 40,
         "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. MPSC/ADVT-54/1/2023-2024/138, Dated Shillong, the 16th January 2024, for the post of Industrial Promotion Officer/Assistant Industries Officer/Assistant Manager, CFSW/Superintendent of Industries in Commerce and Industries Department appearing at Post Code 02, Column No.3 and 4, and as per Department's Corrigendum vide L.No IND.50/2001/Pt/55 dated 08th September, 2026, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:- 15-09-2026 -"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/advt/Notice15Sep2026b.pdf",
-        "title": "No.MPSC/NAZ-37/2017-2018/47",
-        "category": "recruitment",
-        "publishedAt": "2026-09-15T00:00:00.000Z",
-        "publishedLabel": "15 Sept 2026",
-        "sortValue": 1789430400000,
-        "score": 40,
-        "context": "In-Eligibility Notice This is for general information to all the candidates who have applied for the post of STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018) that the In-Eligibility List has been published. 15-09-2026 -"
       }
     ],
     "admit_card": [],
     "result": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-skill-test-practical-and-personal-0",
+        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT)",
+        "category": "result",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "nt 09/11/2026 NOTIFICATION: Personal Intervie"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-skill-test-practical-and-personal-interview",
+        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District MIS Coordinator -Livelihoods Promotion (DMIS-LP)",
+        "category": "result",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "unts-officer-smmu\">NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU 09/11/2026 09/11/2026 NOTIFICATION"
+      },
       {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
@@ -332,7 +356,7 @@
         "publishedLabel": "03 Nov 2026",
         "sortValue": 1793664000000,
         "score": 7,
-        "context": "nt 03/11/2026 NOTIFICATION: Shortlisted cand"
+        "context": "Test (Practical) and Personal Interview for the Post of District MIS Coordinator -Livelihoods Promotion (DMIS-LP) 09/11/2026 03/11/2026 NOTIFICATION: Shortlisted candi"
       },
       {
         "department": "North Garo Hills",
@@ -356,7 +380,7 @@
         "publishedLabel": "29 Oct 2026",
         "sortValue": 1793232000000,
         "score": 7,
-        "context": "sonal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowled"
+        "context": "rsonal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowle"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -464,7 +488,7 @@
         "publishedLabel": "13 Oct 2026",
         "sortValue": 1791849600000,
         "score": 7,
-        "context": "tem\"> NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant 29/10/2026 13/10/2026 NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepr"
+        "context": "em\"> NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant 29/10/2026 13/10/2026 NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepre"
       },
       {
         "department": "MPSC notice",
@@ -548,7 +572,7 @@
         "publishedLabel": "09 Oct 2026",
         "sortValue": 1791504000000,
         "score": 7,
-        "context": "st-state-mission-manager-knowledge-management-communication\">NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC) 13/10/2026 09/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of"
+        "context": "ost-state-mission-manager-knowledge-management-communication\">NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communication (SMM-KMC) 13/10/2026 09/10/2026 NOTIFICATION: Shortlisted candidates for the Written Examination for the posts o"
       },
       {
         "department": "MSRLS",
@@ -560,7 +584,7 @@
         "publishedLabel": "08 Oct 2026",
         "sortValue": 1791417600000,
         "score": 7,
-        "context": "ult-post-project-manager-start-village-entrepreneurship-programme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions &nb"
+        "context": "lt-post-project-manager-start-village-entrepreneurship-programme-pm-svep\">NOTIFICATION: Final Result for the Post of Project Manager - Start-Up Village Entrepreneurship Programme (PM-SVEP) 09/10/2026 08/10/2026 Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions &nbs"
       },
       {
         "department": "Meghalaya Govt",
@@ -573,30 +597,6 @@
         "sortValue": 1791331200000,
         "score": 7,
         "context": "/content/52035\">Advertisement for the posts of 1) Software Engineer, 2) Co-ordinator (Supply Chain Management), 3) Pharmacist, 4) Laboratory Technician under Meghalayan Medical Drugs & Services Ltd, Meghalaya (MMDSL) on Contractual Basis Date: 08 Oct 2026 Date: 07 Oct 2026 Advertisement - Recruitment for the post of Nutritionist & Young Professional under KISCE, Meghalaya, Shillong <span class=\"views-lab"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-district-office-assistant-khasi-garo-regions",
-        "title": "Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions",
-        "category": "result",
-        "publishedAt": "2026-09-28T00:00:00.000Z",
-        "publishedLabel": "28 Sept 2026",
-        "sortValue": 1790553600000,
-        "score": 7,
-        "context": "xamination-posts-dfs-ibcb-yp-fnhw-and-district-accounts\">NOTIFICATION: Shortlisted candidates for the Written Examination for the posts of DFS-IBCB, YP-FNHW and District Accounts Assistant 08/10/2026 28/09/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheri"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-final-result-post-project-manager-livestock-fisheries-enterprise-development-finance",
-        "title": "Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development & Finance, and State Accountant",
-        "category": "result",
-        "publishedAt": "2026-09-28T00:00:00.000Z",
-        "publishedLabel": "28 Sept 2026",
-        "sortValue": 1790553600000,
-        "score": 7,
-        "context": "tem\"> Notification: Final Result for the post of District Office Assistant for Khasi & Garo Regions 28/09/2026 28/09/2026 NOTIFICATION: Shortlisted candidates for the Written Examination & Skill Test"
       }
     ],
     "other_notice": [
@@ -719,18 +719,6 @@
         "sortValue": 1791158400000,
         "score": 40,
         "context": "Notification in pursuance of the directions contained in the Judgments/Orders dated 28.10.2021,21.07.2022, 12.03.2024,07.03.2025 and 15.07.2025 passed by the Hon'ble Supreme Court of India in W.P. (C) No. 132 of 2016 (05.10.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/request-quotation-7th-meghalaya-saras-aajeevika-fair-msaf-2026",
-        "title": "Request for Quotation - 7th MEGHALAYA SARAS AAJEEVIKA FAIR (MSAF) 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-10-05T00:00:00.000Z",
-        "publishedLabel": "05 Oct 2026",
-        "sortValue": 1791158400000,
-        "score": 7,
-        "context": "-row views-row-0 views-row-odd item-list-slider\"> September Social Inclusion & Social Development Newsletter 08/10/2026 05/10/2026 Notification: Final Result for the Post of Project Manager - Livestock & Fisheries, Enterprise Development &"
       },
       {
         "department": "Education Dept",
@@ -887,6 +875,18 @@
         "sortValue": 1782864000000,
         "score": 40,
         "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (PDF, opens in a new window) (200kb)"
+      },
+      {
+        "department": "Information Tech.",
+        "sourceUrl": "https://ditmeghalaya.gov.in/index.html",
+        "url": "https://ditmeghalaya.gov.in/pdf/NIQ%20for%20Data%20AI%20Lab%20Branding%20itc%20website.pdf",
+        "title": "Quotations for fabrication, printing, supply, and installation of approved branding creatives and graphics in ITI Shillong, Polytechnic Shillong and ITI Tura for the Data and AI Labs",
+        "category": "other_notice",
+        "publishedAt": "2026-07-01T00:00:00.000Z",
+        "publishedLabel": "01 Jul 2026",
+        "sortValue": 1782864000000,
+        "score": 12,
+        "context": "torious students for IT Awards Academic Year 2026 Jul 29 2026 [NEW] Provisional List Of Meritorious Students Eligible For Awards Of Laptops During Academic Year 2026 Jul 08 2026 [NEW] Jul 01 2026 [NEW] Examination Notice for recruitment to the contractual posts of AI Trainer and Lab Assistant in Polytechnic Shillong, ITI Shillong and ITI Tura. Jun 25 2026 [NEW] Syllab"
       }
     ]
   },
@@ -903,6 +903,18 @@
         "sortValue": 1794182400000,
         "score": 12,
         "context": "Date of publishing Recruitment Notice - Rolling Advertisement for recruitment of SRD vide Advt.No.EST-II-RSRD0APSR/1/2024-Estt.II dated 19.05.2026 (3rd Cut Off Date) || || EWS CERTIFICATE FORMAT (SRD) - Annexure II 09-11-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (6th Cut off Date) || <a href=\"Latest News/estt-2/2026/061126/JRD- APPLICATION FORM"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-personal-interview-absorption-staff-post-accounts-officer-smmu",
+        "title": "NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU",
+        "category": "recruitment",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT) 09/11/2026 09/11/2026 NOTIFICA"
       },
       {
         "department": "NEIGRIHMS",
@@ -1027,6 +1039,30 @@
     ],
     "result": [
       {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-skill-test-practical-and-personal-0",
+        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT)",
+        "category": "result",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "nt 09/11/2026 NOTIFICATION: Personal Intervie"
+      },
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-skill-test-practical-and-personal-interview",
+        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District MIS Coordinator -Livelihoods Promotion (DMIS-LP)",
+        "category": "result",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "publishedLabel": "09 Nov 2026",
+        "sortValue": 1794182400000,
+        "score": 7,
+        "context": "unts-officer-smmu\">NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU 09/11/2026 09/11/2026 NOTIFICATION"
+      },
+      {
         "department": "West Khasi Hills",
         "sourceUrl": "https://westkhasihills.gov.in/notice_category/recruitment/",
         "url": "https://cdn.s3waas.gov.in/s33d8e28caf901313a554cebc7d32e67e5/uploads/2026/11/17939592863744.pdf",
@@ -1048,7 +1084,7 @@
         "publishedLabel": "03 Nov 2026",
         "sortValue": 1793664000000,
         "score": 7,
-        "context": "nt 03/11/2026 NOTIFICATION: Shortlisted cand"
+        "context": "Test (Practical) and Personal Interview for the Post of District MIS Coordinator -Livelihoods Promotion (DMIS-LP) 09/11/2026 03/11/2026 NOTIFICATION: Shortlisted candi"
       },
       {
         "department": "North Garo Hills",
@@ -1072,7 +1108,7 @@
         "publishedLabel": "29 Oct 2026",
         "sortValue": 1793232000000,
         "score": 7,
-        "context": "sonal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowled"
+        "context": "rsonal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowle"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1085,18 +1121,6 @@
         "sortValue": 1793059200000,
         "score": 40,
         "context": "27.10.2026"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52247",
-        "title": "List of successful candidates for the post of Ayurvedic Pharmacist (1 post) and Homoeopathic Pharmacist (1 post) on contractual basis under Meghalayan Medical Drugs & Services Ltd (MMDSL)",
-        "category": "result",
-        "publishedAt": "2026-10-26T00:00:00.000Z",
-        "publishedLabel": "26 Oct 2026",
-        "sortValue": 1792972800000,
-        "score": 7,
-        "context": "Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician on contractual basis (renewable) under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 29 Oct 2026 Date: 26 Oct 2026 Central Silk Board Announces Five Sericulture Assistant Vacancies, One in Shillong Date"
       }
     ],
     "admit_card": []
