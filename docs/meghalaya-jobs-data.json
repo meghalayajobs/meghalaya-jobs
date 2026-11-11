@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T22:03:48.195Z",
-  "generatedAtLabel": "11 November 2026 at 03:33 am",
+  "generatedAt": "2026-11-11T02:24:41.835Z",
+  "generatedAtLabel": "11 November 2026 at 07:54 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 12,
-    "result": 7,
+    "result": 6,
     "admit_card": 0
   },
   "sourceCount": 22,
@@ -634,7 +634,7 @@
         "publishedLabel": "10 Nov 2026",
         "sortValue": 1794268800000,
         "score": 7,
-        "context": "\"> 10/11/2026 NOTIFICATION: Personal Interview for absorp"
+        "context": "\"> 10/11/2026 NOTIFICATION: Short"
       },
       {
         "department": "NEIGRIHMS",
@@ -1109,18 +1109,6 @@
         "sortValue": 1793232000000,
         "score": 7,
         "context": "ctional\">NOTIFICATION : Shortlisted candidates for the Presentation and Personal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowle"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20Interview%20for%20the%20post%20of%20Technical%20Support-I%20two%20(2)%20post%20on%20contractual%20basis%20in%20the%20Dept%20of%20Anaesthesiology%20&%20critical%20care.pdf",
-        "title": "Result of the Interview for the post of Technical Support-I two (2) post on contractual basis in the Dept of Anaesthesiology & critical care",
-        "category": "result",
-        "publishedAt": "2026-10-27T00:00:00.000Z",
-        "publishedLabel": "27 Oct 2026",
-        "sortValue": 1793059200000,
-        "score": 40,
-        "context": "27.10.2026"
       }
     ],
     "admit_card": []
