@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T09:27:22.984Z",
-  "generatedAtLabel": "20 November 2026 at 02:57 pm",
+  "generatedAt": "2026-11-20T18:09:41.015Z",
+  "generatedAtLabel": "20 November 2026 at 11:39 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -13,7 +13,7 @@
   "latestPostCount": 18,
   "displayCounts": {
     "recruitment": 18,
-    "result": 8,
+    "result": 18,
     "admit_card": 1
   },
   "sourceCount": 22,
@@ -296,16 +296,16 @@
         "context": "eld-content\"> List of successful candidates for the post of Ayurvedic Pharmacist (1 post) and Homoeopathic Pharmacist (1 post) on contractual basis under Meghalayan Medical Drugs & Services Ltd (MMDSL) Date: 26 Oct 2026 Date: 16 Oct 2026 Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under MMDSL to be held on 26th Oct, 2026 </span"
       },
       {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/MMDSL-HR-1-HIRING-2025-26(50).pdf",
-        "title": "Notice - List of qualified candidates for the personal interview for the post of Biomedical Associate (2 posts in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL)",
+        "department": "MPSC",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
+        "url": "https://mpsc.meghalaya.gov.in/notify/Notice30Sep2026a.pdf",
+        "title": "MPSC/D-48/3/2024-2025/128",
         "category": "recruitment",
-        "publishedAt": "2026-10-15T00:00:00.000Z",
-        "publishedLabel": "15 Oct 2026",
-        "sortValue": 1792022400000,
-        "score": 12,
-        "context": "\" width=\"16\" height=\"16\" /> | Result of the Third Round of Counselling for Admission to 1st Year MBBS Course to PA Sangma International Medical College | Provisional Seat Allotment Letter Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Corrigendum"
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "publishedLabel": "30 Sept 2026",
+        "sortValue": 1790726400000,
+        "score": 40,
+        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.MPSC/Advt No.16/Pt-1/2025, Dated Shillong, the 15th July, 2025, for the post of Typist in various Heads of Department appearing at Post Code 01, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:­ 30-09-2026 -"
       }
     ],
     "admit_card": [
@@ -336,6 +336,54 @@
         "context": "18.11.2026"
       },
       {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026d.pdf",
+        "title": "The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026c.pdf",
+        "title": "The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026d.pdf",
+        "title": "The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026c.pdf",
+        "title": "The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-fourth-merit-list-candidates-shortlisted-appointment-post-un-armed-branch",
@@ -346,6 +394,78 @@
         "sortValue": 1794960000000,
         "score": 7,
         "context": "2026-11-18 <div class=\"vi"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026b.pdf",
+        "title": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "reby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026a.pdf",
+        "title": "The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared. <img src=\"img/new.gif\" alt=\"New icon"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026b.pdf",
+        "title": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "reby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026a.pdf",
+        "title": "The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared. <img src=\"img/new.gif\" alt=\"New icon"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026d.pdf",
+        "title": "The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 10,
+        "context": "> The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared. The result of Screening Test to the post of Wireman Instructor under the Directorate of Employment & Craftmen Training, Departmentof Labour Emplyment and Skill Development (March 2026) is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026d.pdf",
+        "title": "The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 10,
+        "context": "> The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared. The result of Screening Test to the post of Wireman Instructor under the Directorate of Employment & Craftmen Training, Departmentof Labour Emplyment and Skill Development (March 2026) is hereby declared."
       },
       {
         "department": "MSRLS",
@@ -490,129 +610,33 @@
         "sortValue": 1792972800000,
         "score": 7,
         "context": "Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician on contractual basis (renewable) under Meghalayan Medical Drugs & Services Ltd, Meghalaya Date: 29 Oct 2026 Date: 26 Oct 2026 Central Silk Board Announces Five Sericulture Assistant Vacancies, One in Shillong Date"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20held%20on%2014.10.2026%20for%20the%20post%20of%20Senior%20Resident%20Doctor%20(Three%20years%20tenure).pdf",
-        "title": "Result of the interview held on 14.10.2026 for the post of Senior Resident Doctor (Three years tenure)",
-        "category": "result",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
-        "publishedLabel": "14 Oct 2026",
-        "sortValue": 1791936000000,
-        "score": 40,
-        "context": "23.10.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Result%20of%20the%20interview%20held%20on%2014.10.2026%20for%20the%20post%20of%20Senior%20Resident%20Doctor%20on%20adhoc%20basis.pdf",
-        "title": "Result of the interview held on 14.10.2026 for the post of Senior Resident Doctor on adhoc basis",
-        "category": "result",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
-        "publishedLabel": "14 Oct 2026",
-        "sortValue": 1791936000000,
-        "score": 40,
-        "context": "23.10.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20walk%20in%20interview%20for%20the%20post%20of%20Research%20Scientist%20(Medical)%20on%20contractual%20basis%20in%20the%20Dept.of%20Microbiology.pdf",
-        "title": "Result of the walk in interview for the post of Research Scientist (Medical) on contractual basis in the Dept.of Microbiology",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 40,
-        "context": "13.10.2026"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20walk%20in%20interview%20for%20the%20post%20of%20Technical%20Suppor%20-%20I%20on%20contractual%20basis%20in%20the%20Dept.of%20Microbiology.pdf",
-        "title": "Result of the walk in interview for the post of Technical SupporT - I on contractual basis in the Dept.of Microbiology",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 40,
-        "context": "13.10.2026"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026a.pdf",
-        "title": "The result of Screening Test to the post of Librarian in the Directorate of Soil and Water Conservation Department (December 2025) is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Publicity Assistant cum Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles (March 2026) is hereby declared. The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026a.pdf",
-        "title": "The result of Screening Test to the post of Librarian in the Directorate of Soil and Water Conservation Department (December 2025) is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-13T00:00:00.000Z",
-        "publishedLabel": "13 Oct 2026",
-        "sortValue": 1791849600000,
-        "score": 12,
-        "context": "The result of Screening Test to the post of Publicity Assistant cum Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles (March 2026) is hereby declared. The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result14Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "img/new.gif\" alt=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Librarian in the Directorate of Soil and Water Conservation Department (December 2025) is hereby declared. The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. </"
-      },
-      {
-        "department": "MPSC notice",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "\" height=\"12\"> The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result14Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "img/new.gif\" alt=\"New icon\" width=\"30\" height=\"12\"> The result of Screening Test to the post of Librarian in the Directorate of Soil and Water Conservation Department (December 2025) is hereby declared. The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared. </"
-      },
-      {
-        "department": "MPSC result",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
-        "url": "https://mpsc.meghalaya.gov.in/results/Result12Oct2026a.pdf",
-        "title": "The result of Personal Interview to the post of Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025] conducted on the 08th and 9th October 2026 is hereby declared.",
-        "category": "result",
-        "publishedAt": "2026-10-09T00:00:00.000Z",
-        "publishedLabel": "09 Oct 2026",
-        "sortValue": 1791504000000,
-        "score": 12,
-        "context": "\" height=\"12\"> The result of Personal Interview to the post of RESEARCH ASSISTANT UNDER P.H.E. DEPARTMENT (JULY, 2019) conducted on the 13th October 2026 is hereby declared. The result of the Written Examination for the Half Yearly Department Examination for JCO held from the 29th June,2026 to 03rd July, 2026 is hereby declared."
       }
     ],
     "other_notice": [
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-11-20-LIST%20FOR%20DOCUMENT%20VERIFICATION%20-%20STAFF%20NURSE.pdf",
+        "title": "List of Candidates for Staff Nurse",
+        "category": "other_notice",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "publishedLabel": "20 Nov 2026",
+        "sortValue": 1795132800000,
+        "score": 12,
+        "context": "What's New Notification - Document Verification for the Recruitment to the posts of Staff Nurse and Auxiliary Nurse Midwife (ANM) | | Marks Obtained for Staff Nurse | List of Candidates for Auxiliary Nurse Midwife (ANM) | <a href=\"news/2026-11-20-MARKS OBTAINED BY ALL CANDIDATES IN ORDER OF ROLL"
+      },
+      {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-11-20-MARKS%20OBTAINED%20BY%20ALL%20CANDIDATES%20IN%20ORDER%20OF%20ROLL%20NUMBER-%20STAFF%20NURSE.pdf",
+        "title": "Marks Obtained for Staff Nurse",
+        "category": "other_notice",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "publishedLabel": "20 Nov 2026",
+        "sortValue": 1795132800000,
+        "score": 12,
+        "context": "Notification - Document Verification for the Recruitment to the posts of Staff Nurse and Auxiliary Nurse Midwife (ANM) | List of Candidates for Staff Nurse | | List of Candidates for Auxiliary Nurse Midwife (ANM) | Marks Obtained for Auxiliary Nurse Midwife (ANM) <a href=\"news/2026-11-20-HSM-EST-GZT- Appt-DAE-"
+      },
       {
         "department": "NEIGRIHMS",
         "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
@@ -635,7 +659,7 @@
         "publishedLabel": "16 Nov 2026",
         "sortValue": 1794787200000,
         "score": 12,
-        "context": "What's New Advertisement for Admission to 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for A.Y 2026-27 | Online Application <a href=\"news/2026-11-16-DHSMER-189-SMC-HR-IV-291-2026-8073Advertisement pdf."
+        "context": "target=\"_blank\">Marks Obtained for Auxiliary Nurse Midwife (ANM) Notice - Selected List for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong Advertisement for Admission to 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for A.Y 2026-27 | Online Application <a href=\"news/2026-11-16-DHSMER-189-SMC-HR-IV-291-2026-8073Advertisement pdf."
       },
       {
         "department": "Meghalaya Govt",
@@ -744,18 +768,6 @@
         "sortValue": 1792713600000,
         "score": 7,
         "context": "NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant 29/10/2026 23/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communi"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-14-DHSMER-199-BAMS-BHMS%20-Adm-2026-7076-NOTIFICATION%20(CORRIGENDUM)%20List%20of%20eligible%20candidate%20BAMS%20&%20BHMS%2014.10.2026.pdf",
-        "title": "Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27",
-        "category": "other_notice",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
-        "publishedLabel": "14 Oct 2026",
-        "sortValue": 1791936000000,
-        "score": 12,
-        "context": "s in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
       },
       {
         "department": "Education Dept",
@@ -888,18 +900,6 @@
         "sortValue": 1783296000000,
         "score": 40,
         "context": "Notification regarding the age of superannuation for \"non-academic employees\" engaged under Samagra Shiksha in the State, District & Block Level Offices (06.07.2026) (PDF, opens in a new window) (200kb)"
-      },
-      {
-        "department": "Education Dept",
-        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/notification.html",
-        "url": "https://megeducation.gov.in/edu_dept/notices_and_circulars/2026/strengthen%20Departmental%20co-ordination.pdf",
-        "title": "No. EDN.158/2024/154 Dated 01-07-2026",
-        "category": "other_notice",
-        "publishedAt": "2026-07-01T00:00:00.000Z",
-        "publishedLabel": "01 Jul 2026",
-        "sortValue": 1782864000000,
-        "score": 40,
-        "context": "Notification to strengthen Departmental co-ordination and facilitate effective implementation of project activities under Education Department (01.07.2026) (PDF, opens in a new window) (200kb)"
       }
     ]
   },
@@ -1136,6 +1136,54 @@
         "context": "18.11.2026"
       },
       {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026d.pdf",
+        "title": "The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026c.pdf",
+        "title": "The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026d.pdf",
+        "title": "The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026c.pdf",
+        "title": "The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "publishedLabel": "18 Nov 2026",
+        "sortValue": 1794960000000,
+        "score": 12,
+        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+      },
+      {
         "department": "Meghalaya Police",
         "sourceUrl": "https://megpolice.gov.in/recruitment",
         "url": "https://megpolice.gov.in/recruitment-update-fourth-merit-list-candidates-shortlisted-appointment-post-un-armed-branch",
@@ -1146,6 +1194,78 @@
         "sortValue": 1794960000000,
         "score": 7,
         "context": "2026-11-18 <div class=\"vi"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026b.pdf",
+        "title": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "reby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026a.pdf",
+        "title": "The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared. <img src=\"img/new.gif\" alt=\"New icon"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026b.pdf",
+        "title": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "reby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result20Nov2026a.pdf",
+        "title": "The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 12,
+        "context": "The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared. <img src=\"img/new.gif\" alt=\"New icon"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026d.pdf",
+        "title": "The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 10,
+        "context": "> The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared. The result of Screening Test to the post of Wireman Instructor under the Directorate of Employment & Craftmen Training, Departmentof Labour Emplyment and Skill Development (March 2026) is hereby declared."
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result29Oct2026d.pdf",
+        "title": "The result of Screening Test to the post of Junior Engineer (Electrical) under P. W.D. (December 2021) is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "publishedLabel": "17 Nov 2026",
+        "sortValue": 1794873600000,
+        "score": 10,
+        "context": "> The result of Personal Interview to the post of Wireman Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment and Skill Development [March 2026] conducted on the 17th November 2026 is hereby declared. The result of Screening Test to the post of Wireman Instructor under the Directorate of Employment & Craftmen Training, Departmentof Labour Emplyment and Skill Development (March 2026) is hereby declared."
       },
       {
         "department": "MSRLS",
