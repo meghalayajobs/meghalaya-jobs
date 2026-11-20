@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T01:32:59.959Z",
-  "generatedAtLabel": "20 November 2026 at 07:02 am",
+  "generatedAt": "2026-11-20T09:27:22.984Z",
+  "generatedAtLabel": "20 November 2026 at 02:57 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -626,6 +626,18 @@
         "context": "17-11-2026"
       },
       {
+        "department": "Health Dept",
+        "sourceUrl": "https://meghealth.gov.in/index.html",
+        "url": "https://meghealth.gov.in/news/2026-11-17-PublicAdvisory.pdf",
+        "title": "Public Advisory - Caution Against Unauthorised Medical Colleges and Fraudulent admission Offers",
+        "category": "other_notice",
+        "publishedAt": "2026-11-16T00:00:00.000Z",
+        "publishedLabel": "16 Nov 2026",
+        "sortValue": 1794787200000,
+        "score": 12,
+        "context": "What's New Advertisement for Admission to 1st year BAMS Course to IA Ayurvedic Medical College (IAMC), USTM, Meghalaya for A.Y 2026-27 | Online Application <a href=\"news/2026-11-16-DHSMER-189-SMC-HR-IV-291-2026-8073Advertisement pdf."
+      },
+      {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
         "url": "https://www.meghalaya.gov.in/recruitment/content/52312",
@@ -683,7 +695,7 @@
         "publishedLabel": "10 Nov 2026",
         "sortValue": 1794268800000,
         "score": 7,
-        "context": "le-main-frame-row-item views-row views-row-1 views-row-even views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal"
+        "context": "le-main-frame-row-item views-row views-row-1 views-row-even views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU <s"
       },
       {
         "department": "NEIGRIHMS",
@@ -744,18 +756,6 @@
         "sortValue": 1791936000000,
         "score": 12,
         "context": "s in Khasi Region; 1 post in Garo Region) under Meghalayan Medical Drugs & Services Ltd (MMDSL) Corrigendum (dt 15-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA A"
-      },
-      {
-        "department": "Health Dept",
-        "sourceUrl": "https://meghealth.gov.in/index.html",
-        "url": "https://meghealth.gov.in/news/2026-10-13-DHSMER-199-BAMS-BHMS-%20Adm-2026-7036-NOTIFICATION%20List%20of%20Eligible%20candidates%20for%20BAMS%20and%20BHMS.pdf",
-        "title": "Notification - List of eligible candidates for BAMS and BHMS study as per State Quota for the academic session 2026-27",
-        "category": "other_notice",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
-        "publishedLabel": "14 Oct 2026",
-        "sortValue": 1791936000000,
-        "score": 10,
-        "context": "MS and BHMS courses for the Academic Year 2026-27 Corrigendum (dt 14-10-2026) regarding the list of eligible candidates for BAMS and BHMS courses for the Academic Year 2026-27 Notice - 2nd Round of Counselling for BAMS Course to IA Ayurvedic Medical College (IAMC), USTM for the A.Y. 2026-27 | List of Eligible Candidates <a href=\"news/DD"
       },
       {
         "department": "Education Dept",
