@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T13:52:52.663Z",
-  "generatedAtLabel": "23 November 2026 at 07:22 pm",
+  "generatedAt": "2026-11-24T01:24:33.678Z",
+  "generatedAtLabel": "24 November 2026 at 06:54 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 13,
-    "result": 18,
+    "recruitment": 11,
+    "result": 16,
     "admit_card": 1
   },
   "sourceCount": 22,
@@ -719,7 +719,7 @@
         "publishedLabel": "10 Nov 2026",
         "sortValue": 1794268800000,
         "score": 7,
-        "context": "le-main-frame-row-item views-row views-row-1 views-row-even views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU <s"
+        "context": "le-main-frame-row-item views-row views-row-1 views-row-even views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal"
       },
       {
         "department": "NEIGRIHMS",
@@ -1036,30 +1036,6 @@
         "sortValue": 1794268800000,
         "score": 40,
         "context": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR and TECHNICAL ASSISTANT under (VB­GRAM/G) and TECHNICAL ASSISTANT under (PMAY-G) 10/11/2026 30/11/2026 View (364 KB)"
-      },
-      {
-        "department": "NEIGRIHMS",
-        "sourceUrl": "https://neigrihms.gov.in/adsnotification.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/091126/APPLICATION%20FORM%20(SRD)%20-%20ANNEXURE-%20I.pdf",
-        "title": "SRD-Application form-Annexure-I",
-        "category": "recruitment",
-        "publishedAt": "2026-11-09T00:00:00.000Z",
-        "publishedLabel": "09 Nov 2026",
-        "sortValue": 1794182400000,
-        "score": 12,
-        "context": "VRDL.pdf\" target=\"_blank\">Advertisement for various posts under the project of VRDL 17-11-2026 Recruitment Notice - Rolling Advertisement for recruitment of SRD vide Advt.No.EST-II-RSRD0APSR/1/2024-Estt.II dated 19.05.2026 (3rd Cut Off Date) || || EWS CERTIFICATE FORMAT (SRD) - Annexure II 09-11-2026 Rolling Advertisement for recruitment of Junior Resident Doctor (6th Cut off Date) || <a href=\"Latest News/estt-2/2026/061126/JRD- APPLICATION FORM"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-personal-interview-absorption-staff-post-accounts-officer-smmu",
-        "title": "NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU",
-        "category": "recruitment",
-        "publishedAt": "2026-11-09T00:00:00.000Z",
-        "publishedLabel": "09 Nov 2026",
-        "sortValue": 1794182400000,
-        "score": 7,
-        "context": "FICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT) 09/11/2026 09/11/2026 NOTIFICATION : Shortlisted candidates for the Presentation and Personal Interview for th"
       }
     ],
     "result": [
@@ -1254,30 +1230,6 @@
         "sortValue": 1794268800000,
         "score": 40,
         "context": "NOTICE: List of shortlisted applicants for the post of Technical Assistant (VB-RAM-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026 10/11/2026 31/12/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17943891699092.pdf",
-        "title": "RESULT: Result of Typing Test for the post of Data Entry Operator under (VB-RAMG) vide Advertisement 21/04/2026",
-        "category": "result",
-        "publishedAt": "2026-11-09T00:00:00.000Z",
-        "publishedLabel": "09 Nov 2026",
-        "sortValue": 1794182400000,
-        "score": 40,
-        "context": "RESULT: Result of Typing Test for the post of Data Entry Operator under (VB-RAMG) vide Advertisement 21/04/2026 09/11/2026 31/12/2026 View (674 KB)"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-written-examination-skill-test-practical-and-personal-0",
-        "title": "NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) and Personal Interview for the Post of District Functional Specialist - Information Technology (DFS-IT)",
-        "category": "result",
-        "publishedAt": "2026-11-09T00:00:00.000Z",
-        "publishedLabel": "09 Nov 2026",
-        "sortValue": 1794182400000,
-        "score": 7,
-        "context": "views-row-even\"> Advertisement for various posts 11/11/2026 09/11/2026 NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU &nbs"
       }
     ],
     "admit_card": [
