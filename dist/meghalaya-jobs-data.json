@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T21:45:04.905Z",
-  "generatedAtLabel": "25 November 2026 at 03:15 am",
+  "generatedAt": "2026-11-25T04:42:15.466Z",
+  "generatedAtLabel": "25 November 2026 at 10:12 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,8 +12,8 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 12,
-    "result": 17,
+    "recruitment": 11,
+    "result": 14,
     "admit_card": 1
   },
   "sourceCount": 22,
@@ -1036,18 +1036,6 @@
         "sortValue": 1794355200000,
         "score": 7,
         "context": "ication-final-result-post-state-mis-coordinator-state-mission-management-unit-smmu\">NOTIFICATION: Final Result for the Post of State MIS Coordinator at State Mission Management Unit (SMMU) 17/11/2026 11/11/2026 NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) a"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17948223099225.pdf",
-        "title": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR and TECHNICAL ASSISTANT under (VB­GRAM/G) and TECHNICAL ASSISTANT under (PMAY-G)",
-        "category": "recruitment",
-        "publishedAt": "2026-11-10T00:00:00.000Z",
-        "publishedLabel": "10 Nov 2026",
-        "sortValue": 1794268800000,
-        "score": 40,
-        "context": "IMPORTANT NOTIFICATION AND INSTRUCTIONS FOR RECRUITMENT OF DATA ENTRY OPERATOR and TECHNICAL ASSISTANT under (VB­GRAM/G) and TECHNICAL ASSISTANT under (PMAY-G) 10/11/2026 30/11/2026 View (364 KB)"
       }
     ],
     "result": [
@@ -1218,42 +1206,6 @@
         "sortValue": 1794873600000,
         "score": 7,
         "context": "nt 17/11/2026 Advertisement for various posts <span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2026-11-11T00:00:"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17943896757424.pdf",
-        "title": "NOTICE: List of shortlisted applicants for the post of Data Entry Operator (VB-RAM-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026",
-        "category": "result",
-        "publishedAt": "2026-11-10T00:00:00.000Z",
-        "publishedLabel": "10 Nov 2026",
-        "sortValue": 1794268800000,
-        "score": 40,
-        "context": "NOTICE: List of shortlisted applicants for the post of Data Entry Operator (VB-RAM-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026 10/11/2026 31/12/2026 View (2 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17943901847627.pdf",
-        "title": "NOTICE: List of shortlisted applicants for the post of Technical Assistant (PMAY-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026",
-        "category": "result",
-        "publishedAt": "2026-11-10T00:00:00.000Z",
-        "publishedLabel": "10 Nov 2026",
-        "sortValue": 1794268800000,
-        "score": 40,
-        "context": "NOTICE: List of shortlisted applicants for the post of Technical Assistant (PMAY-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026 10/11/2026 31/12/2026 View (1 MB)"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17943904934475.pdf",
-        "title": "NOTICE: List of shortlisted applicants for the post of Technical Assistant (VB-RAM-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026",
-        "category": "result",
-        "publishedAt": "2026-11-10T00:00:00.000Z",
-        "publishedLabel": "10 Nov 2026",
-        "sortValue": 1794268800000,
-        "score": 40,
-        "context": "NOTICE: List of shortlisted applicants for the post of Technical Assistant (VB-RAM-G) vide Advertisement dated 10/09/2026. Written exam will be on the 28/11/2026 10/11/2026 31/12/2026 View (2 MB)"
       }
     ],
     "admit_card": [
