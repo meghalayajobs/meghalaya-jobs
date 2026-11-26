@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T23:54:35.082Z",
-  "generatedAtLabel": "26 November 2026 at 05:24 am",
+  "generatedAt": "2026-11-26T06:03:10.694Z",
+  "generatedAtLabel": "26 November 2026 at 11:33 am",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,7 +12,7 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 11,
+    "recruitment": 9,
     "result": 15,
     "admit_card": 1
   },
@@ -1012,30 +1012,6 @@
         "sortValue": 1794441600000,
         "score": 7,
         "context": "-field views-field-title\"> Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks Date: 12 Nov 2026 Date: 12 Nov 2026 Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board <div class=\"views-field view"
-      },
-      {
-        "department": "Meghalaya Govt",
-        "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52309",
-        "title": "Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board",
-        "category": "recruitment",
-        "publishedAt": "2026-11-11T00:00:00.000Z",
-        "publishedLabel": "11 Nov 2026",
-        "sortValue": 1794355200000,
-        "score": 7,
-        "context": "s=\"field-content\">12 Nov 2026 Public Notice regarding Refund of Application Fees for Counsellor Post Date: 12 Nov 2026 Date: 11 Nov 2026 Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura <span class="
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/advertisement-various-posts",
-        "title": "Advertisement for various posts",
-        "category": "recruitment",
-        "publishedAt": "2026-11-11T00:00:00.000Z",
-        "publishedLabel": "11 Nov 2026",
-        "sortValue": 1794355200000,
-        "score": 7,
-        "context": "ication-final-result-post-state-mis-coordinator-state-mission-management-unit-smmu\">NOTIFICATION: Final Result for the Post of State MIS Coordinator at State Mission Management Unit (SMMU) 17/11/2026 11/11/2026 NOTIFICATION: Shortlisted candidates for the Written Examination, Skill Test (Practical) a"
       }
     ],
     "result": [
