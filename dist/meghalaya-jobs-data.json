@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T01:18:36.726Z",
-  "generatedAtLabel": "27 November 2026 at 06:48 am",
+  "generatedAt": "2026-11-27T10:19:12.861Z",
+  "generatedAtLabel": "27 November 2026 at 03:49 pm",
   "siteName": "Meghalaya Jobs 2026",
   "latestJobsUrl": "https://www.meghalayajobs.in",
   "publicBaseUrl": "https://meghalayajobs.github.io/meghalaya-jobs",
@@ -12,13 +12,25 @@
   },
   "latestPostCount": 18,
   "displayCounts": {
-    "recruitment": 9,
-    "result": 15,
+    "recruitment": 10,
+    "result": 18,
     "admit_card": 0
   },
   "sourceCount": 22,
   "grouped": {
     "recruitment": [
+      {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2025/updated%20info.pdf",
+        "title": "Notification and the list of provisionally eligible / not eligible candidates who have applied for the post of Assistant Professors/Lecturers in English, Khasi, Political Science, Education, Garo, History, Economics, Philosophy, Geography, and Sociology in Government Colleges (PDF, 1.6 MB) (opens in a new window)",
+        "category": "recruitment",
+        "publishedAt": "2026-11-30T00:00:00.000Z",
+        "publishedLabel": "30 Nov 2026",
+        "sortValue": 1795996800000,
+        "score": 12,
+        "context": "re eligible to appear for the interview to the Post of Assistant Professor in Physics, Chemistry, Mathematics, Botany, Zoology, Biochemistry and Commerce in Government Colleges (PDF, 2.4 MB) (opens in a new window) Advertisements & Others (25) <li data-type=\"PDF\" data-year=\"2026\" data-date=\"30-11-2026\" data-time=\"1795996800000\" da"
+      },
       {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
@@ -34,14 +46,14 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52393",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52393",
         "title": "Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong",
         "category": "recruitment",
         "publishedAt": "2026-11-24T00:00:00.000Z",
         "publishedLabel": "24 Nov 2026",
         "sortValue": 1795478400000,
         "score": 7,
-        "context": "Office Wise Search Date: 24 Nov 2026 Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong </"
+        "context": "e Search Date: 24 Nov 2026 Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shil"
       },
       {
         "department": "South Garo Hills",
@@ -118,14 +130,14 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52365",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52365",
         "title": "Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College",
         "category": "recruitment",
         "publishedAt": "2026-11-16T00:00:00.000Z",
         "publishedLabel": "16 Nov 2026",
         "sortValue": 1794787200000,
         "score": 7,
-        "context": "\"> Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong Date: 20 Nov 2026 Date: 16 Nov 2026 Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"views-field views-field-fiel"
+        "context": "\"/index.php/recruitment/content/52366\">Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong Date: 20 Nov 2026 Date: 16 Nov 2026 Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"views-field views-"
       },
       {
         "department": "MPSC",
@@ -142,26 +154,26 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52314",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52314",
         "title": "Public Notice regarding Refund of Application Fees for Counsellor Post",
         "category": "recruitment",
         "publishedAt": "2026-11-12T00:00:00.000Z",
         "publishedLabel": "12 Nov 2026",
         "sortValue": 1794441600000,
         "score": 7,
-        "context": "eld-title\"> Notice to candidates regarding Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks Date: 12 Nov 2026 Date: 12 Nov 2026 Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board <div class=\"views-field view"
+        "context": "> Notice to candidates regarding Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks Date: 12 Nov 2026 Date: 12 Nov 2026 Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board <div class=\"views-"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52309",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52309",
         "title": "Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board",
         "category": "recruitment",
         "publishedAt": "2026-11-11T00:00:00.000Z",
         "publishedLabel": "11 Nov 2026",
         "sortValue": 1794355200000,
         "score": 7,
-        "context": "s=\"field-content\">12 Nov 2026 Public Notice regarding Refund of Application Fees for Counsellor Post Date: 12 Nov 2026 Date: 11 Nov 2026 Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura <span class="
+        "context": "ontent\">12 Nov 2026 Public Notice regarding Refund of Application Fees for Counsellor Post Date: 12 Nov 2026 Date: 11 Nov 2026 Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura <s"
       },
       {
         "department": "MSRLS",
@@ -238,91 +250,91 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52301",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52301",
         "title": "Advertisement for the posts of Radiotheraphy Technicians on contractual basis at Shillong Medical College, Civil Hospital, Radiation Oncology Department",
         "category": "recruitment",
         "publishedAt": "2026-11-06T00:00:00.000Z",
         "publishedLabel": "06 Nov 2026",
         "sortValue": 1793923200000,
         "score": 7,
-        "context": "Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura Date: 10 Nov 2026 Date: 06 Nov 2026 Walk-In Interview for the posts of Medical Physicist cum Radiation Safety Officer and Medical Physicist on contractual basis under Phase-II Radiotherapy Services DAE Cancer Wing, Radiation Oncology Department"
+        "context": "pan class=\"views-field views-field-title\"> Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura Date: 10 Nov 2026 Date: 06 Nov 2026 Walk-In Interview for the posts of Medical Physicist cum Radiation Safety Officer and Medical Physicist on contractual basis under Phase-II Radiotherapy Services DAE Cancer Wing, Radiation Oncology"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52302",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52302",
         "title": "Walk-In Interview for the posts of Medical Physicist cum Radiation Safety Officer and Medical Physicist on contractual basis under Phase-II Radiotherapy Services DAE Cancer Wing, Radiation Oncology Department, Civil Hospital, Shillong",
         "category": "recruitment",
         "publishedAt": "2026-11-06T00:00:00.000Z",
         "publishedLabel": "06 Nov 2026",
         "sortValue": 1793923200000,
         "score": 7,
-        "context": "ield views-field-title\"> Advertisement for the posts of Radiotheraphy Technicians on contractual basis at Shillong Medical College, Civil Hospital, Radiation Oncology Department Date: 06 Nov 2026 Date: 06 Nov 2026 Meghalaya Prisons Recruitment 2026: Running Test Distance, Time Limits and Marks Distribution for Male and Female Candidates <span class="
+        "context": "-field-title\"> Advertisement for the posts of Radiotheraphy Technicians on contractual basis at Shillong Medical College, Civil Hospital, Radiation Oncology Department Date: 06 Nov 2026 Date: 06 Nov 2026 Meghalaya Prisons Recruitment 2026: Running Test Distance, Time Limits and Marks Distribution for Male and Female Candidates <s"
+      },
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/11/17948101726001.pdf",
+        "title": "Notice for written exam on Local Language for the post of Asst. Divisional Mechanic, Store Keeper, Clerk-cum-DEO, Stenographer and Fishery Demonstrator",
+        "category": "recruitment",
+        "publishedAt": "2026-11-05T00:00:00.000Z",
+        "publishedLabel": "05 Nov 2026",
+        "sortValue": 1793836800000,
+        "score": 40,
+        "context": "05/11/2026 View (560 KB)"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52338",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52338",
         "title": "Meghalaya Prisons Recruitment 2026: Running Test Distance, Time Limits and Marks Distribution for Male and Female Candidates",
         "category": "recruitment",
         "publishedAt": "2026-11-05T00:00:00.000Z",
         "publishedLabel": "05 Nov 2026",
         "sortValue": 1793836800000,
         "score": 7,
-        "context": "52302\">Walk-In Interview for the posts of Medical Physicist cum Radiation Safety Officer and Medical Physicist on contractual basis under Phase-II Radiotherapy Services DAE Cancer Wing, Radiation Oncology Department, Civil Hospital, Shillong Date: 06 Nov 2026 Date: 05 Nov 2026 Rolling Advertisement for the post of Professor and Associate Professor on contractual basis under Shillong Medical College <span class=\""
+        "context": "52302\">Walk-In Interview for the posts of Medical Physicist cum Radiation Safety Officer and Medical Physicist on contractual basis under Phase-II Radiotherapy Services DAE Cancer Wing, Radiation Oncology Department, Civil Hospital, Shillong Date: 06 Nov 2026 Date: 05 Nov 2026 Rolling Advertisement for the post of Professor and Associate Professor on contractual basis under Shillong Medical College <sp"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52300",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52300",
         "title": "Rolling Advertisement for the post of Professor and Associate Professor on contractual basis under Shillong Medical College",
         "category": "recruitment",
         "publishedAt": "2026-11-03T00:00:00.000Z",
         "publishedLabel": "03 Nov 2026",
         "sortValue": 1793664000000,
         "score": 7,
-        "context": "Meghalaya Prisons Recruitment 2026: Running Test Distance, Time Limits and Marks Distribution for Male and Female Candidates Date: 05 Nov 2026 Date: 03 Nov 2026 Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician on contractual basis (renewable) under Meghalayan Medical Drugs & Services Ltd, Meghalaya"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice30Sep2026a.pdf",
-        "title": "MPSC/D-48/3/2024-2025/128",
-        "category": "recruitment",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "publishedLabel": "30 Sept 2026",
-        "sortValue": 1790726400000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No.MPSC/Advt No.16/Pt-1/2025, Dated Shillong, the 15th July, 2025, for the post of Typist in various Heads of Department appearing at Post Code 01, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:­ 30-09-2026 -"
-      },
-      {
-        "department": "MPSC",
-        "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
-        "url": "https://mpsc.meghalaya.gov.in/notify/Notice15Sep2026b.pdf",
-        "title": "No.MPSC/D-8/1/2023-2024/61",
-        "category": "recruitment",
-        "publishedAt": "2026-09-15T00:00:00.000Z",
-        "publishedLabel": "15 Sept 2026",
-        "sortValue": 1789430400000,
-        "score": 40,
-        "context": "CORRIGENDUM PUBLIC NOTICE In continuation to this Office Advertisement No. MPSC/ADVT-54/1/2023-2024/138, Dated Shillong, the 16th January 2024, for the post of Industrial Promotion Officer/Assistant Industries Officer/Assistant Manager, CFSW/Superintendent of Industries in Commerce and Industries Department appearing at Post Code 02, Column No.3 and 4, and as per Department's Corrigendum vide L.No IND.50/2001/Pt/55 dated 08th September, 2026, total no. of vacancies and Category-wise No. of Posts now stands and may be read as:- 15-09-2026 -"
+        "context": "pan class=\"views-field views-field-title\"> Meghalaya Prisons Recruitment 2026: Running Test Distance, Time Limits and Marks Distribution for Male and Female Candidates Date: 05 Nov 2026 Date: 03 Nov 2026 Advertisement for the posts of 1) Manager Equipment Maintenance, 2) Regional Coordinator and 3) ICU Technician on contractual basis (renewable) under Meghalayan Medical Drugs & Services Ltd, Meg"
       }
     ],
     "admit_card": [
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52313",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52313",
         "title": "Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks",
         "category": "admit_card",
         "publishedAt": "2026-11-12T00:00:00.000Z",
         "publishedLabel": "12 Nov 2026",
         "sortValue": 1794441600000,
         "score": 7,
-        "context": "field views-field-title\"> Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College Date: 16 Nov 2026 Date: 12 Nov 2026 Notice to candidates regarding Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"views-field v"
+        "context": "s-field-title\"> Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College Date: 16 Nov 2026 Date: 12 Nov 2026 Notice to candidates regarding Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"vie"
       }
     ],
     "result": [
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/11/17955166887266.pdf",
+        "title": "Result of Written Test on Local Language",
+        "category": "result",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "publishedLabel": "20 Nov 2026",
+        "sortValue": 1795132800000,
+        "score": 40,
+        "context": "20/11/2026 View (278 KB)"
+      },
       {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
@@ -333,19 +345,43 @@
         "publishedLabel": "20 Nov 2026",
         "sortValue": 1795132800000,
         "score": 12,
-        "context": "What's New Notification for Stray Round 2 Counselling for 1st Year BAMS Course to IA Ayurvedic Medical College, USTM for the AY 2026-27 | Short-listed Candidates <a href=\"news/2026-11-20-N"
+        "context": "List of qualified candidates for a personal interview (Round 1) for the post of Regional Coordinator (Garo Region) List of qualified candidates for a personal interview for the post of ICU Technician Notification for Stray Round 2 Counselling for 1st Year BAMS Course to IA Ayurvedic Medical College, USTM for the AY 2026-27 | Short-listed Candidates <a href=\"news/2026-11-20-N"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52366",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52366",
         "title": "Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong",
         "category": "result",
         "publishedAt": "2026-11-20T00:00:00.000Z",
         "publishedLabel": "20 Nov 2026",
         "sortValue": 1795132800000,
         "score": 7,
-        "context": "ield views-field-title\"> Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong Date: 24 Nov 2026 Date: 20 Nov 2026 Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College <div class=\"views-field views-field-fie"
+        "context": "-field-title\"> Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong Date: 24 Nov 2026 Date: 20 Nov 2026 Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College <div class=\"views-field views"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result27Nov2026a.pdf",
+        "title": "The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-19T00:00:00.000Z",
+        "publishedLabel": "19 Nov 2026",
+        "sortValue": 1795046400000,
+        "score": 12,
+        "context": "w-footer-tab\"> More about Advertisements The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. <a href=\"results/Result20Nov2026c.pdf"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result27Nov2026a.pdf",
+        "title": "The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-19T00:00:00.000Z",
+        "publishedLabel": "19 Nov 2026",
+        "sortValue": 1795046400000,
+        "score": 12,
+        "context": "w-footer-tab\"> More about Advertisements The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. <a href=\"results/Result20Nov2026c.pdf"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -369,7 +405,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+        "context": "ight=\"12\"> The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
       },
       {
         "department": "MPSC notice",
@@ -381,7 +417,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+        "context": "clared. The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
       },
       {
         "department": "MPSC result",
@@ -393,7 +429,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+        "context": "ight=\"12\"> The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
       },
       {
         "department": "MPSC result",
@@ -405,7 +441,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+        "context": "clared. The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
       },
       {
         "department": "Meghalaya Police",
@@ -574,45 +610,21 @@
         "sortValue": 1793664000000,
         "score": 7,
         "context": "item\"> NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU 09/11/2026 03/11/2026 NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant &nb"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/notification-shortlisted-candidates-personal-interview-post-block-accountant",
-        "title": "NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant",
-        "category": "result",
-        "publishedAt": "2026-10-29T00:00:00.000Z",
-        "publishedLabel": "29 Oct 2026",
-        "sortValue": 1793232000000,
-        "score": 7,
-        "context": "tional\">NOTIFICATION : Shortlisted candidates for the Presentation and Personal Interview for the Post of Block Functional Specialist - Social Inclusion & Social Development (BFS-SISD) 03/11/2026 29/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowled"
-      },
-      {
-        "department": "NEIGRIHMS Result",
-        "sourceUrl": "https://neigrihms.gov.in/adsresults.html",
-        "url": "https://neigrihms.gov.in/Latest%20News/Other/2026/Result%20of%20the%20Interview%20for%20the%20post%20of%20Technical%20Support-I%20two%20(2)%20post%20on%20contractual%20basis%20in%20the%20Dept%20of%20Anaesthesiology%20&%20critical%20care.pdf",
-        "title": "Result of the Interview for the post of Technical Support-I two (2) post on contractual basis in the Dept of Anaesthesiology & critical care",
-        "category": "result",
-        "publishedAt": "2026-10-27T00:00:00.000Z",
-        "publishedLabel": "27 Oct 2026",
-        "sortValue": 1793059200000,
-        "score": 40,
-        "context": "27.10.2026"
-      },
-      {
-        "department": "North Garo Hills",
-        "sourceUrl": "https://northgarohills.gov.in/notice_category/announcements/",
-        "url": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17943883941628.pdf",
-        "title": "NOTICE-Rejection list for the post of Data Entry Operator (VB-G/RAM/G) vide Advertisement dated 10th September 2026",
-        "category": "result",
-        "publishedAt": "2026-10-26T00:00:00.000Z",
-        "publishedLabel": "26 Oct 2026",
-        "sortValue": 1792972800000,
-        "score": 40,
-        "context": "NOTICE-Rejection list for the post of Data Entry Operator (VB-G/RAM/G) vide Advertisement dated 10th September 2026 26/10/2026 30/11/2026 View (534 KB)"
       }
     ],
     "other_notice": [
+      {
+        "department": "MSRLS",
+        "sourceUrl": "https://msrls.nic.in/recruitments",
+        "url": "https://msrls.nic.in/request-proposal-rfp-self-help-group-institutional-health-monitoring-activation-system",
+        "title": "Request for Proposal (RFP) for Self Help Group Institutional Health Monitoring & Activation System",
+        "category": "other_notice",
+        "publishedAt": "2026-11-27T00:00:00.000Z",
+        "publishedLabel": "27 Nov 2026",
+        "sortValue": 1795737600000,
+        "score": 7,
+        "context": "\"> 27/11/2026 NOTIFICATION: Final Result for"
+      },
       {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
@@ -647,7 +659,7 @@
         "publishedLabel": "20 Nov 2026",
         "sortValue": 1795132800000,
         "score": 12,
-        "context": "line\"> What's New Further Shortlisting For Document Verification- Staff Nurse | Short-listed Candidates Notification - Document Verification for the Recruitment to the posts of Staff Nurse and Auxiliary Nurse Midwife (ANM) | <a href=\"news/2026-11-20-LIST FOR DOCUMENT VERIFICATION"
+        "context": "t=\"16\" /> List of qualified candidates for a personal interview for the post of ICU Technician Further Shortlisting For Document Verification- Staff Nurse | Short-listed Candidates Notification - Document Verification for the Recruitment to the posts of Staff Nurse and Auxiliary Nurse Midwife (ANM) | <a href=\"news/2026-11-20-LIST FOR DOCUMENT VERIFICATION"
       },
       {
         "department": "Health Dept",
@@ -688,14 +700,14 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52312",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52312",
         "title": "Notice to candidates regarding Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks",
         "category": "other_notice",
         "publishedAt": "2026-11-12T00:00:00.000Z",
         "publishedLabel": "12 Nov 2026",
         "sortValue": 1794441600000,
         "score": 7,
-        "context": "-field views-field-title\"> Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks Date: 12 Nov 2026 Date: 12 Nov 2026 Public Notice regarding Refund of Application Fees for Counsellor Post Date: <sp"
+        "context": "ws-field-title\"> Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks Date: 12 Nov 2026 Date: 12 Nov 2026 Public Notice regarding Refund of Application Fees for Counsellor Post Date:"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -724,14 +736,14 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52310",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52310",
         "title": "Clarification Regarding Cancellation of Draft Notice and Rescheduling of Physical Efficiency Test (PET) in Shillong and Tura",
         "category": "other_notice",
         "publishedAt": "2026-11-10T00:00:00.000Z",
         "publishedLabel": "10 Nov 2026",
         "sortValue": 1794268800000,
         "score": 7,
-        "context": "-field-title\"> Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board Date: 11 Nov 2026 Date: 10 Nov 2026 Advertisement for the posts of Radiotheraphy Technicians on contractual basis at Shillong Medical College, Civil Hospital, Radiation Oncology Department <div class=\"views-field views-field-fi"
+        "context": "le\"> Notification regarding Category-Wise Reservation Roster for the post of Asstt. Superintendent, Warder Male, Warder Female and Naiks under Prison Recruitment Board Date: 11 Nov 2026 Date: 10 Nov 2026 Advertisement for the posts of Radiotheraphy Technicians on contractual basis at Shillong Medical College, Civil Hospital, Radiation Oncology Department <div class=\"views-field view"
       },
       {
         "department": "MSRLS",
@@ -743,7 +755,7 @@
         "publishedLabel": "10 Nov 2026",
         "sortValue": 1794268800000,
         "score": 7,
-        "context": "le-main-frame-row-item views-row views-row-1 views-row-even views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU <s"
+        "context": "le-main-frame-row-item views-row views-row-2 views-row-odd views-row-first item-list-slider\"> Advertisement for various posts 11/11/2026 10/11/2026 NOTIFICATION: Personal Interview for absorption of staff to the post of Accounts Officer at SMMU <sp"
       },
       {
         "department": "NEIGRIHMS",
@@ -768,18 +780,6 @@
         "sortValue": 1793923200000,
         "score": 12,
         "context": "- Answer Keys for the written examination to the post of Staff Nurse and Auxiliary Nurse Midwife (ANM) | Answer Key (Staff Nurse) - | Answer Key (ANM) Advertisement for the posts of Radiotheraphy Technicians on contractual basis for Shillong Medical College | Apply Here <a href=\"news/2026-11-06-HSM-EST-GZT-Appt-DAE-61-2026-41872-Advertisement - Medi"
-      },
-      {
-        "department": "MSRLS",
-        "sourceUrl": "https://msrls.nic.in/recruitments",
-        "url": "https://msrls.nic.in/rfq-7th-meghalaya-saras-aajeevika-msaf-2026",
-        "title": "RFQ for the 7th Meghalaya Saras Aajeevika (MSAF) 2026",
-        "category": "other_notice",
-        "publishedAt": "2026-10-23T00:00:00.000Z",
-        "publishedLabel": "23 Oct 2026",
-        "sortValue": 1792713600000,
-        "score": 7,
-        "context": "NOTIFICATION: Shortlisted candidates for the Personal Interview for the Post of Block Accountant 29/10/2026 23/10/2026 NOTIFICATION: Shortlisted candidates for the post of State Mission Manager - Knowledge Management & Communi"
       },
       {
         "department": "Education Dept",
@@ -906,6 +906,18 @@
   "displayGrouped": {
     "recruitment": [
       {
+        "department": "MERB",
+        "sourceUrl": "https://megeducation.gov.in/edu_dept/pages/merb.html",
+        "url": "https://megeducation.gov.in/edu_dept/publications/2025/updated%20info.pdf",
+        "title": "Notification and the list of provisionally eligible / not eligible candidates who have applied for the post of Assistant Professors/Lecturers in English, Khasi, Political Science, Education, Garo, History, Economics, Philosophy, Geography, and Sociology in Government Colleges (PDF, 1.6 MB) (opens in a new window)",
+        "category": "recruitment",
+        "publishedAt": "2026-11-30T00:00:00.000Z",
+        "publishedLabel": "30 Nov 2026",
+        "sortValue": 1795996800000,
+        "score": 12,
+        "context": "re eligible to appear for the interview to the Post of Assistant Professor in Physics, Chemistry, Mathematics, Botany, Zoology, Biochemistry and Commerce in Government Colleges (PDF, 2.4 MB) (opens in a new window) Advertisements & Others (25) <li data-type=\"PDF\" data-year=\"2026\" data-date=\"30-11-2026\" data-time=\"1795996800000\" da"
+      },
+      {
         "department": "MPSC",
         "sourceUrl": "https://mpsc.meghalaya.gov.in/advertisements.html",
         "url": "https://mpsc.meghalaya.gov.in/advt/Advt26Nov2026.pdf",
@@ -920,14 +932,14 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52393",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52393",
         "title": "Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong",
         "category": "recruitment",
         "publishedAt": "2026-11-24T00:00:00.000Z",
         "publishedLabel": "24 Nov 2026",
         "sortValue": 1795478400000,
         "score": 7,
-        "context": "Office Wise Search Date: 24 Nov 2026 Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong </"
+        "context": "e Search Date: 24 Nov 2026 Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shil"
       },
       {
         "department": "South Garo Hills",
@@ -1004,17 +1016,29 @@
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52365",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52365",
         "title": "Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College",
         "category": "recruitment",
         "publishedAt": "2026-11-16T00:00:00.000Z",
         "publishedLabel": "16 Nov 2026",
         "sortValue": 1794787200000,
         "score": 7,
-        "context": "\"> Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong Date: 20 Nov 2026 Date: 16 Nov 2026 Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"views-field views-field-fiel"
+        "context": "\"/index.php/recruitment/content/52366\">Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong Date: 20 Nov 2026 Date: 16 Nov 2026 Admit Cards for Physical Efficiency Test (PET) to be conducted in Tura and Shillong for Assistant Superintendent, Male Warder, Female Warder and Naiks <div class=\"views-field views-"
       }
     ],
     "result": [
+      {
+        "department": "West Garo Hills",
+        "sourceUrl": "https://westgarohills.gov.in/documents/",
+        "url": "https://cdn.s3waas.gov.in/s3f9a40a4780f5e1306c46f1c8daecee3b/uploads/2026/11/17955166887266.pdf",
+        "title": "Result of Written Test on Local Language",
+        "category": "result",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "publishedLabel": "20 Nov 2026",
+        "sortValue": 1795132800000,
+        "score": 40,
+        "context": "20/11/2026 View (278 KB)"
+      },
       {
         "department": "Health Dept",
         "sourceUrl": "https://meghealth.gov.in/index.html",
@@ -1025,19 +1049,43 @@
         "publishedLabel": "20 Nov 2026",
         "sortValue": 1795132800000,
         "score": 12,
-        "context": "What's New Notification for Stray Round 2 Counselling for 1st Year BAMS Course to IA Ayurvedic Medical College, USTM for the AY 2026-27 | Short-listed Candidates <a href=\"news/2026-11-20-N"
+        "context": "List of qualified candidates for a personal interview (Round 1) for the post of Regional Coordinator (Garo Region) List of qualified candidates for a personal interview for the post of ICU Technician Notification for Stray Round 2 Counselling for 1st Year BAMS Course to IA Ayurvedic Medical College, USTM for the AY 2026-27 | Short-listed Candidates <a href=\"news/2026-11-20-N"
       },
       {
         "department": "Meghalaya Govt",
         "sourceUrl": "https://www.meghalaya.gov.in/recruitment",
-        "url": "https://www.meghalaya.gov.in/recruitment/content/52366",
+        "url": "https://www.meghalaya.gov.in/index.php/recruitment/content/52366",
         "title": "Notice - List of Selected Candidates for the Walk-in-Interview to the post of Radiotherapy Technician on contractual basis under DAE Cancer Wing (Radiotherapy Services Phase-II) Civil Hospital, Shillong",
         "category": "result",
         "publishedAt": "2026-11-20T00:00:00.000Z",
         "publishedLabel": "20 Nov 2026",
         "sortValue": 1795132800000,
         "score": 7,
-        "context": "ield views-field-title\"> Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong Date: 24 Nov 2026 Date: 20 Nov 2026 Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College <div class=\"views-field views-field-fie"
+        "context": "-field-title\"> Advertisement for Grade IV Posts (Peon, Cleaner, Sweeper & Chowkidar) at Meghalaya Administrative Training Institute (MATI), Mawdiangdiang, Shillong Date: 24 Nov 2026 Date: 20 Nov 2026 Rolling Advertisement for the posts of Assistant Professor, Senior Resident, Tutor/Demonstrator in various disciplines for the Shillong Medical College <div class=\"views-field views"
+      },
+      {
+        "department": "MPSC notice",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result27Nov2026a.pdf",
+        "title": "The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-19T00:00:00.000Z",
+        "publishedLabel": "19 Nov 2026",
+        "sortValue": 1795046400000,
+        "score": 12,
+        "context": "w-footer-tab\"> More about Advertisements The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. <a href=\"results/Result20Nov2026c.pdf"
+      },
+      {
+        "department": "MPSC result",
+        "sourceUrl": "https://mpsc.meghalaya.gov.in/index.htm#parentHorizontalTab3",
+        "url": "https://mpsc.meghalaya.gov.in/results/Result27Nov2026a.pdf",
+        "title": "The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared.",
+        "category": "result",
+        "publishedAt": "2026-11-19T00:00:00.000Z",
+        "publishedLabel": "19 Nov 2026",
+        "sortValue": 1795046400000,
+        "score": 12,
+        "context": "w-footer-tab\"> More about Advertisements The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. <a href=\"results/Result20Nov2026c.pdf"
       },
       {
         "department": "NEIGRIHMS Result",
@@ -1061,7 +1109,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+        "context": "ight=\"12\"> The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
       },
       {
         "department": "MPSC notice",
@@ -1073,7 +1121,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+        "context": "clared. The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
       },
       {
         "department": "MPSC result",
@@ -1085,7 +1133,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "More about Advertisements The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
+        "context": "ight=\"12\"> The result of the Written Examination for the Half Yearly Department Examination for IAS Officers held from the 09th November,2026 to 12th November, 2026 is hereby declared. The result of Personal Interview to the post of Librarian in the Directorate of Soil and Water Conservation Deptt [Dec 2025] conducted on the 18th November 2026 is hereby declared. <a href=\"results/Result2"
       },
       {
         "department": "MPSC result",
@@ -1097,7 +1145,7 @@
         "publishedLabel": "18 Nov 2026",
         "sortValue": 1794960000000,
         "score": 12,
-        "context": "ass=\"marquee-wrapper\"> The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
+        "context": "clared. The result of Personal Interview to the post of JUNIOR ENGINEER (ELECTRICAL) UNDER P.W.D (DEC 2021) conducted on the 19th November 2026 is hereby declared. The result of Personal Interview to the post of Publicity Assistant-cum-Khasi Translator under the Directorate of Sericulture & Weaving Department of Textiles [March 2026] conducted on the 18th November 2026 is hereby declared. <img src=\"img/new.gif\" alt=\"New icon\""
       },
       {
         "department": "Meghalaya Police",
